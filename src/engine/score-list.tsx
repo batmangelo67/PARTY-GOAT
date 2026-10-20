@@ -12,8 +12,12 @@ export interface ScoreRow {
 export function ScoreList({ rows }: { rows: readonly ScoreRow[] }) {
   return (
     <ol className="flex flex-col gap-1">
-      {rows.map((row) => (
-        <li key={row.id} className={`flex min-h-12 items-center gap-3 rounded-xl bg-panel px-4 ${row.dimmed ? "opacity-50" : ""}`}>
+      {rows.map((row, index) => (
+        <li
+          key={row.id}
+          style={{ animationDelay: `${index * 40}ms` }}
+          className={`slide-in flex min-h-12 items-center gap-3 rounded-xl bg-panel px-4 ${row.dimmed ? "opacity-50" : ""}`}
+        >
           <span className="w-5 text-sm font-bold tabular-nums text-muted">{row.rank}</span>
           <span className="flex-1 truncate font-bold">{row.name}</span>
           {row.gained && <span className="pop-in font-black text-accent">{row.gained}</span>}

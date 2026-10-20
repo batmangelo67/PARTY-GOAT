@@ -11,12 +11,16 @@ import { PlayersScreen } from "./players-screen";
 import { SettingsScreen } from "./settings-screen";
 import { useSettingsStore } from "./settings-store";
 import { StatusBanner } from "./status-banner";
+import { applyAppearance } from "./themes";
 
 export function App() {
   const language = useSettingsStore((state) => state.language);
+  const theme = useSettingsStore((state) => state.theme);
+  const animations = useSettingsStore((state) => state.animations);
   useEffect(() => {
     document.documentElement.lang = language;
   }, [language]);
+  useEffect(() => applyAppearance(theme, animations), [theme, animations]);
 
   return (
     <ErrorBoundary>

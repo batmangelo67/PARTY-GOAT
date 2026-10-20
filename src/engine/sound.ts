@@ -1,6 +1,7 @@
+import { useSettingsStore } from "../app/settings-store";
 import { logError } from "./logger";
 
-type Cue = "reveal" | "tick" | "end" | "tie" | "win" | "boom";
+type Cue = "reveal" | "tap" | "tick" | "end" | "tie" | "win" | "boom";
 
 interface Note {
   frequency: number;
@@ -13,6 +14,7 @@ interface Note {
 
 const CUES: Record<Cue, Note[]> = {
   reveal: [{ frequency: 660, start: 0, duration: 0.08 }],
+  tap: [{ frequency: 880, start: 0, duration: 0.05, gain: 0.2 }],
   tick: [{ frequency: 1200, start: 0, duration: 0.04, type: "square", gain: 0.18 }],
   end: [
     { frequency: 523, start: 0, duration: 0.18 },
@@ -108,6 +110,7 @@ function createVoice(audio: AudioContext, note: Note): Voice {
 }
 
 export function playCue(cue: Cue): void {
+  if (!useSettingsStore.getState().sound) return;
   if (!context || context.state !== "running") return;
   const now = context.currentTime;
   for (const note of CUES[cue]) {

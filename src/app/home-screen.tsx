@@ -15,9 +15,10 @@ export function HomeScreen() {
         <p className="mt-2 text-lg text-muted">{t("home.tagline")}</p>
       </div>
       <nav className="mt-8 grid grid-cols-2 gap-3">
-        {GAMES.map((game) => (
+        {GAMES.map((game, index) => (
           <Link
             key={game.id}
+            style={{ animationDelay: `${index * 50}ms` }}
             to={`/play/${game.id}/setup`}
             className="pop-in flex min-h-44 flex-col justify-between rounded-card bg-panel p-4 active:scale-[0.98] active:bg-raised"
           >

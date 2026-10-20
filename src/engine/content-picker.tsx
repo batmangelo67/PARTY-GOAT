@@ -1,37 +1,18 @@
 import { useEffect, useMemo, useState } from "react";
 import { useLocation, useNavigate } from "react-router";
-import { DEFAULT_MAX_SPICE } from "../app/constants";
 import { useSettingsStore } from "../app/settings-store";
 import { useContentStore } from "../content/content-store";
-import type { Pack, PackKind } from "../content/schema";
+import { filterPickerPacks } from "../content/pack-filter";
+import type { PackKind } from "../content/schema";
 import { useT } from "../i18n/use-t";
-import type { Language } from "../i18n/languages";
-import { spiceKey } from "../i18n/labels";
-import { Notice } from "./ui";
+import { SPICE_LEVELS, spiceKey } from "../i18n/labels";
+import { Notice, Segmented } from "./ui";
 
 interface ContentPickerProps {
   gameId: string;
   kinds: readonly PackKind[];
   selectedIds: string[] | null;
   onChange: (ids: string[]) => void;
-}
-
-interface PackFilters {
-  gameId: string;
-  kinds: readonly PackKind[];
-  language: Language;
-  allLanguages: boolean;
-  showSpicy: boolean;
-}
-
-function filterPacks(packs: Pack[], filters: PackFilters): Pack[] {
-  return packs.filter(
-    (pack) =>
-      filters.kinds.includes(pack.kind) &&
-      pack.games.includes(filters.gameId) &&
-      (filters.allLanguages || pack.language === filters.language) &&
-      (filters.showSpicy || pack.spice <= DEFAULT_MAX_SPICE),
-  );
 }
 
 function FilterChip({ label, active, onClick }: { label: string; active: boolean; onClick: () => void }) {
@@ -52,10 +33,11 @@ export function ContentPicker({ gameId, kinds, selectedIds, onChange }: ContentP
   const packs = useContentStore((state) => state.packs);
   const language = useSettingsStore((state) => state.language);
   const [allLanguages, setAllLanguages] = useState(false);
-  const [showSpicy, setShowSpicy] = useState(false);
+  const maxSpice = useSettingsStore((state) => state.maxSpice);
+  const updateSettings = useSettingsStore((state) => state.update);
   const visible = useMemo(
-    () => filterPacks(packs, { gameId, kinds, language, allLanguages, showSpicy }),
-    [packs, gameId, kinds, language, allLanguages, showSpicy],
+    () => filterPickerPacks(packs, { gameId, kinds, language, allLanguages, maxSpice }),
+    [packs, gameId, kinds, language, allLanguages, maxSpice],
   );
 
   const location = useLocation();
@@ -68,7 +50,7 @@ export function ContentPicker({ gameId, kinds, selectedIds, onChange }: ContentP
     const created = packs.find((p) => p.id === createdPackId);
     if (created && kinds.includes(created.kind) && created.games.includes(gameId)) {
       if (created.language !== language) setAllLanguages(true);
-      if (created.spice > DEFAULT_MAX_SPICE) setShowSpicy(true);
+      if (created.spice > maxSpice) updateSettings({ maxSpice: created.spice });
       onChange([...new Set([...(selectedIds ?? visible.map((p) => p.id)), created.id])]);
     }
     navigate(location.pathname + location.search, { replace: true, state: null });
@@ -88,8 +70,13 @@ export function ContentPicker({ gameId, kinds, selectedIds, onChange }: ContentP
     <div className="flex flex-col gap-2">
       <div className="flex flex-wrap gap-2">
         <FilterChip label={t("picker.allLanguages")} active={allLanguages} onClick={() => setAllLanguages(!allLanguages)} />
-        <FilterChip label={t("picker.showSpicy")} active={showSpicy} onClick={() => setShowSpicy(!showSpicy)} />
       </div>
+      <Segmented
+        ariaLabel={t("picker.spiceLimit")}
+        options={SPICE_LEVELS.map((level) => ({ value: level, label: t(spiceKey(level)) }))}
+        value={maxSpice as (typeof SPICE_LEVELS)[number]}
+        onChange={(level) => updateSettings({ maxSpice: level })}
+      />
       {visible.length === 0 && <Notice>{t("picker.empty")}</Notice>}
       <button
         type="button"

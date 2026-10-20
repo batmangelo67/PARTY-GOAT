@@ -14,7 +14,7 @@ Update the Status column at the end of every stage.
 | 5 | Truth or dare, Most likely to, 10/10 but... | done |
 | 6 | Forbidden words, Mind match | todo |
 | 7 | Circa + Circa Impostor | todo |
-| 8 | Polish: animations, sounds, themes, spice filters | todo |
+| 8 | Polish: animations, sounds, themes, spice filters | done (settings: accent colour, sound, animations, global spice limit) |
 
 ## Decisions already made
 - Single-phone, pass-the-phone play only. No realtime backend.
@@ -50,4 +50,4 @@ Update the Status column at the end of every stage.
 Every game exports `{ id, nameKey, descriptionKey, icon, acceptsKinds, SetupScreen, PlayScreen }` and is registered in one registry file. Games reuse: players, PassPhone, Timer, Voting, random, history, content picker. If a game needs something new in the engine, add it generically, not per game.
 
 ## Next up
-Stage 6: Forbidden words, Mind match (needs the `cards` pack kind for Forbidden words). Bulk pack generation from stage 3 is still open; consider lazy-loading packs once the bundle grows.
+Stages 6 and 7 were skipped on purpose. Stage 6: Forbidden words, Mind match (needs the `cards` pack kind for Forbidden words). Bulk pack generation from stage 3 is still open; consider lazy-loading packs once the bundle grows.

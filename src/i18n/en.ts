@@ -66,7 +66,6 @@ export const en = {
   "picker.title": "Packs",
   "picker.items": "{count} items",
   "picker.allLanguages": "All languages",
-  "picker.showSpicy": "Show spicy",
   "picker.empty": "No packs match these filters.",
   "picker.selected": "{count} selected",
 
@@ -349,6 +348,18 @@ export const en = {
   "ten.over.title": "Verdict",
   "ten.over.worst": "Worst catches",
   "ten.over.empty": "No card was rated.",
+
+  "settings.theme": "Colour",
+  "theme.lime": "Lime",
+  "theme.pink": "Pink",
+  "theme.sky": "Sky",
+  "theme.orange": "Orange",
+  "settings.feel": "Sound and motion",
+  "settings.sound": "Sound effects",
+  "settings.animations": "Animations",
+  "settings.spice": "Spice limit",
+  "settings.spiceHelp": "Packs spicier than this stay hidden when you pick content for a game.",
+  "picker.spiceLimit": "Spice limit",
 };
 
 export type MessageKey = keyof typeof en;

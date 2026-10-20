@@ -7,6 +7,7 @@ import { errorMessage, logError } from "../../engine/logger";
 import { usePlayersStore } from "../../engine/players-store";
 import { rankByScore } from "../../engine/ranking";
 import { ScoreList } from "../../engine/score-list";
+import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useT } from "../../i18n/use-t";
 import { useTodConfig } from "./config-store";
@@ -44,6 +45,7 @@ export function TodPlayScreen() {
     setDrawing(true);
     try {
       const { item } = await drawItem<"prompts">(packsForChoice(packs, choice));
+      playCue("reveal");
       setCard({ id: item.id, text: item.text, choice });
       setFailure("");
     } catch (error) {
@@ -55,9 +57,15 @@ export function TodPlayScreen() {
   };
 
   const finishTurn = (outcome: TodOutcome) => {
+    playCue("tap");
     setStats(recordOutcome(stats, player.id, outcome));
     setCard(null);
     setTurn(nextPlayerIndex(turn, players.length));
+  };
+
+  const endGame = () => {
+    playCue("win");
+    setEnded(true);
   };
 
   const newGame = () => {
@@ -101,7 +109,7 @@ export function TodPlayScreen() {
       <Screen
         backTo={SETUP_PATH}
         footer={
-          <Button variant="ghost" onClick={() => setEnded(true)}>
+          <Button variant="ghost" onClick={endGame}>
             {t("tod.play.end")}
           </Button>
         }

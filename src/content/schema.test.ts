@@ -68,7 +68,7 @@ describe("backup", () => {
     app: "party-goat",
     version: 1,
     exportedAt: "2026-10-20T00:00:00.000Z",
-    settings: { language: "it" },
+    settings: { language: "it", sound: true, animations: true, theme: "lime", maxSpice: 1 },
     players: [{ id: "1", name: "Giulia" }],
     customPacks: [customPack],
     history: { "it-cibo": ["it-cibo#abc"] },

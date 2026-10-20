@@ -30,3 +30,22 @@ export function filterPackList(packs: readonly Pack[], filters: PackListFilters)
     )
     .sort((a, b) => a.title.localeCompare(b.title));
 }
+
+export interface PickerFilters {
+  gameId: string;
+  kinds: readonly PackKind[];
+  language: Language;
+  allLanguages: boolean;
+  maxSpice: number;
+}
+
+// Packs a game's content picker offers: right game and kind, within the language and spice limits.
+export function filterPickerPacks(packs: readonly Pack[], filters: PickerFilters): Pack[] {
+  return packs.filter(
+    (pack) =>
+      filters.kinds.includes(pack.kind) &&
+      pack.games.includes(filters.gameId) &&
+      (filters.allLanguages || pack.language === filters.language) &&
+      pack.spice <= filters.maxSpice,
+  );
+}

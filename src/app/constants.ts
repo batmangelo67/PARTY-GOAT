@@ -9,6 +9,7 @@ export const DISCUSSION_MINUTES_OPTIONS = [0, 2, 3, 5] as const;
 export const DEFAULT_DISCUSSION_MINUTES = 3;
 
 export const DEFAULT_MAX_SPICE = 1;
+export const DEFAULT_THEME = "lime";
 export const MAX_SPICE = 3;
 
 export const MAX_ANSWER_LENGTH = 60;

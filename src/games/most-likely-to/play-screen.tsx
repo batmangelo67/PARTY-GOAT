@@ -6,6 +6,7 @@ import { countMarks, isMarked, toggleMark, type CardMarks } from "../../engine/c
 import { usePlayersStore } from "../../engine/players-store";
 import { rankByScore } from "../../engine/ranking";
 import { ScoreList } from "../../engine/score-list";
+import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useCardDeck } from "../../engine/use-card-deck";
 import { useT } from "../../i18n/use-t";
@@ -27,6 +28,11 @@ export function MltPlayScreen() {
   const [ended, setEnded] = useState(false);
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
+
+  const endGame = () => {
+    playCue("win");
+    setEnded(true);
+  };
 
   const newGame = () => {
     setPicks([]);
@@ -78,7 +84,7 @@ export function MltPlayScreen() {
               {t("mlt.play.next")}
             </Button>
           </div>
-          <Button variant="ghost" onClick={() => (config.tally ? setEnded(true) : navigate(SETUP_PATH))}>
+          <Button variant="ghost" onClick={() => (config.tally ? endGame() : navigate(SETUP_PATH))}>
             {t("mlt.play.end")}
           </Button>
         </div>
@@ -102,7 +108,10 @@ export function MltPlayScreen() {
                   key={player.id}
                   type="button"
                   aria-pressed={picked}
-                  onClick={() => setPicks(toggleMark(picks, index, player.id))}
+                  onClick={() => {
+                    playCue("tap");
+                    setPicks(toggleMark(picks, index, player.id));
+                  }}
                   className={`flex min-h-16 items-center rounded-2xl px-4 text-left transition active:scale-[0.98] ${
                     picked ? "bg-accent/20 ring-2 ring-accent" : "bg-panel"
                   }`}

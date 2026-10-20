@@ -68,7 +68,6 @@ export const it: Messages = {
   "picker.title": "Pacchetti",
   "picker.items": "{count} voci",
   "picker.allLanguages": "Tutte le lingue",
-  "picker.showSpicy": "Mostra piccanti",
   "picker.empty": "Nessun pacchetto con questi filtri.",
   "picker.selected": "{count} scelti",
 
@@ -351,4 +350,16 @@ export const it: Messages = {
   "ten.over.title": "Verdetto",
   "ten.over.worst": "I difetti peggiori",
   "ten.over.empty": "Nessuna carta è stata votata.",
+
+  "settings.theme": "Colore",
+  "theme.lime": "Lime",
+  "theme.pink": "Rosa",
+  "theme.sky": "Cielo",
+  "theme.orange": "Arancio",
+  "settings.feel": "Suoni e movimento",
+  "settings.sound": "Effetti sonori",
+  "settings.animations": "Animazioni",
+  "settings.spice": "Limite di piccantezza",
+  "settings.spiceHelp": "I pacchetti più piccanti di questo limite restano nascosti quando scegli i contenuti per un gioco.",
+  "picker.spiceLimit": "Limite di piccantezza",
 };

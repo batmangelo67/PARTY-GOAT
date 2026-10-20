@@ -35,6 +35,7 @@ export function NhiePlayScreen() {
   const fingers = fingersLeft(config.fingers, playerIds, taps);
 
   const tap = (playerId: string) => {
+    playCue("tap");
     const next = toggleMark(taps, index, playerId);
     setTaps(next);
     if (isGameOver(fingersLeft(config.fingers, playerIds, next))) {

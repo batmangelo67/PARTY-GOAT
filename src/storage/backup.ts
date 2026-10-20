@@ -1,5 +1,6 @@
 import { z } from "zod";
-import { BACKUP_FORMAT_VERSION } from "../app/constants";
+import { BACKUP_FORMAT_VERSION, DEFAULT_MAX_SPICE, DEFAULT_THEME, MAX_SPICE } from "../app/constants";
+import { THEME_NAMES } from "../app/themes";
 import { packFileSchema } from "../content/schema";
 import { playerSchema } from "../engine/players";
 import { LANGUAGES } from "../i18n/languages";
@@ -8,7 +9,14 @@ import { KV_PLAYERS, KV_SETTINGS } from "./kv";
 
 const BACKUP_APP_ID = "party-goat";
 
-export const settingsSchema = z.object({ language: z.enum(LANGUAGES) });
+// Fields added after the first release have defaults so older backups and saved settings still load.
+export const settingsSchema = z.object({
+  language: z.enum(LANGUAGES),
+  sound: z.boolean().default(true),
+  animations: z.boolean().default(true),
+  theme: z.enum(THEME_NAMES).default(DEFAULT_THEME),
+  maxSpice: z.number().int().min(0).max(MAX_SPICE).default(DEFAULT_MAX_SPICE),
+});
 export type StoredSettings = z.infer<typeof settingsSchema>;
 
 export const backupSchema = z.object({

@@ -28,7 +28,7 @@ export function Screen({ title, backTo, footer, children, className = "" }: Scre
           <h1 className="truncate text-2xl font-black tracking-tight">{title}</h1>
         </header>
       )}
-      <main className={`px-safe flex-1 overflow-y-auto overscroll-contain pb-6 ${title || backTo ? "" : "pt-safe"}`}>
+      <main className={`fade-in px-safe flex-1 overflow-y-auto overscroll-contain pb-6 ${title || backTo ? "" : "pt-safe"}`}>
         {children}
       </main>
       {footer && <footer className="px-safe pb-safe border-t border-line/60 bg-ink pt-3">{footer}</footer>}
@@ -53,7 +53,7 @@ export function Button({ variant = "primary", className = "", type = "button", .
   return (
     <button
       type={type}
-      className={`min-h-tap w-full rounded-2xl px-5 text-lg font-extrabold transition disabled:opacity-40 ${BUTTON_VARIANTS[variant]} ${className}`}
+      className={`min-h-tap w-full rounded-2xl px-5 text-lg font-extrabold transition active:scale-[0.98] disabled:opacity-40 ${BUTTON_VARIANTS[variant]} ${className}`}
       {...props}
     />
   );

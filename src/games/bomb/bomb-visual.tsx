@@ -13,7 +13,7 @@ export function BombVisual({ beatMs, active }: { beatMs: number; active: boolean
       <circle cx="56" cy="70" r="38" fill="#25212f" stroke="#353042" strokeWidth="4" />
       <ellipse cx="42" cy="56" rx="10" ry="6" transform="rotate(-35 42 56)" fill="#f4f1ea" opacity="0.25" />
       <circle cx="103" cy="11" r={active ? 8 : 5} fill={active ? "#ff5d55" : "#a29cb0"} />
-      {active && <circle cx="103" cy="11" r="4" fill="#d7ff3e" />}
+      {active && <circle cx="103" cy="11" r="4" className="fill-accent" />}
     </svg>
   );
 }

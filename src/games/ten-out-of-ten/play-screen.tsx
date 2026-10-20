@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Navigate, useNavigate } from "react-router";
 import { useSelectedPacks } from "../../content/use-selected-packs";
+import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useCardDeck } from "../../engine/use-card-deck";
 import { useT } from "../../i18n/use-t";
@@ -23,6 +24,11 @@ export function TenPlayScreen() {
   const [ended, setEnded] = useState(false);
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
+
+  const endGame = () => {
+    playCue("win");
+    setEnded(true);
+  };
 
   const newGame = () => {
     setRatings({});
@@ -76,7 +82,7 @@ export function TenPlayScreen() {
               {t("ten.play.next")}
             </Button>
           </div>
-          <Button variant="ghost" onClick={() => (config.rate ? setEnded(true) : navigate(SETUP_PATH))}>
+          <Button variant="ghost" onClick={() => (config.rate ? endGame() : navigate(SETUP_PATH))}>
             {t("ten.play.end")}
           </Button>
         </div>
@@ -100,7 +106,10 @@ export function TenPlayScreen() {
                   key={value}
                   type="button"
                   aria-pressed={chosen}
-                  onClick={() => setRatings(toggleRating(ratings, index, value))}
+                  onClick={() => {
+                    playCue("tap");
+                    setRatings(toggleRating(ratings, index, value));
+                  }}
                   className={`min-h-14 rounded-2xl text-xl font-black tabular-nums transition active:scale-[0.97] ${
                     chosen ? "bg-accent text-accent-ink" : "bg-panel"
                   }`}
