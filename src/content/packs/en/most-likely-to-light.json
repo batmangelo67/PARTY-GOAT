@@ -1,0 +1,132 @@
+{
+  "id": "en-most-likely-to-light",
+  "title": "Most likely to: Light",
+  "language": "en",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "most-likely-to"
+  ],
+  "items": [
+    {
+      "text": "Most likely to forget their own birthday."
+    },
+    {
+      "text": "Most likely to get lost in their own neighbourhood."
+    },
+    {
+      "text": "Most likely to cry at a cartoon."
+    },
+    {
+      "text": "Most likely to fall asleep at a party."
+    },
+    {
+      "text": "Most likely to win a hot-dog eating contest."
+    },
+    {
+      "text": "Most likely to become famous for something silly."
+    },
+    {
+      "text": "Most likely to text the wrong person."
+    },
+    {
+      "text": "Most likely to adopt ten cats."
+    },
+    {
+      "text": "Most likely to burn water."
+    },
+    {
+      "text": "Most likely to be late to their own wedding."
+    },
+    {
+      "text": "Most likely to talk to strangers on the bus."
+    },
+    {
+      "text": "Most likely to spend all their money on snacks."
+    },
+    {
+      "text": "Most likely to survive a zombie apocalypse."
+    },
+    {
+      "text": "Most likely to laugh at a funeral."
+    },
+    {
+      "text": "Most likely to win the lottery and lose the ticket."
+    },
+    {
+      "text": "Most likely to make friends with a wild animal."
+    },
+    {
+      "text": "Most likely to start a business that fails spectacularly."
+    },
+    {
+      "text": "Most likely to wear pyjamas to the supermarket."
+    },
+    {
+      "text": "Most likely to become a millionaire."
+    },
+    {
+      "text": "Most likely to sing in the shower so loudly the neighbours hear."
+    },
+    {
+      "text": "Most likely to quit their job to travel the world."
+    },
+    {
+      "text": "Most likely to forget where they parked."
+    },
+    {
+      "text": "Most likely to still be playing video games at eighty."
+    },
+    {
+      "text": "Most likely to turn up with the wrong outfit for a theme party."
+    },
+    {
+      "text": "Most likely to trip over nothing."
+    },
+    {
+      "text": "Most likely to take twenty photos to get one good one."
+    },
+    {
+      "text": "Most likely to read the last page of a book first."
+    },
+    {
+      "text": "Most likely to be on their phone during a movie."
+    },
+    {
+      "text": "Most likely to get a tattoo they regret."
+    },
+    {
+      "text": "Most likely to give the worst advice with the most confidence."
+    },
+    {
+      "text": "Most likely to eat dessert before dinner."
+    },
+    {
+      "text": "Most likely to cancel plans at the last minute."
+    },
+    {
+      "text": "Most likely to move to another country on a whim."
+    },
+    {
+      "text": "Most likely to have a secret talent nobody knows about."
+    },
+    {
+      "text": "Most likely to be the last one awake."
+    },
+    {
+      "text": "Most likely to lose their keys today."
+    },
+    {
+      "text": "Most likely to take a dare they shouldn't."
+    },
+    {
+      "text": "Most likely to dance on a table."
+    },
+    {
+      "text": "Most likely to start a group chat and never reply in it."
+    },
+    {
+      "text": "Most likely to become a teacher."
+    }
+  ]
+}

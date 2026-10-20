@@ -1,7 +1,20 @@
 node_modules/
 dist/
-.DS_Store
+coverage/
 *.log
-ruvector.db
-.claude/
+*.tsbuildinfo
+.env
+.env.*
+.DS_Store
 .vercel/
+
+# Claude / claude-flow / ruflo tooling (not part of the app)
+.claude/
+.claude-flow/
+.swarm/
+.hive-mind/
+.ruflo/
+.agentdb/
+.mcp.json
+ruvector.db
+*.rvf

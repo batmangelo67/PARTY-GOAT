@@ -1,0 +1,132 @@
+{
+  "id": "it-il-piu-probabile-leggero",
+  "title": "Il più probabile: Leggero",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "most-likely-to"
+  ],
+  "items": [
+    {
+      "text": "Chi si dimenticherebbe del proprio compleanno?"
+    },
+    {
+      "text": "Chi si perderebbe nel proprio quartiere?"
+    },
+    {
+      "text": "Chi piangerebbe guardando un cartone animato?"
+    },
+    {
+      "text": "Chi si addormenterebbe a una festa?"
+    },
+    {
+      "text": "Chi vincerebbe una gara di panini?"
+    },
+    {
+      "text": "Chi diventerebbe famoso per una cosa stupida?"
+    },
+    {
+      "text": "Chi scriverebbe alla persona sbagliata?"
+    },
+    {
+      "text": "Chi adotterebbe dieci gatti?"
+    },
+    {
+      "text": "Chi riuscirebbe a bruciare l'acqua?"
+    },
+    {
+      "text": "Chi arriverebbe in ritardo al proprio matrimonio?"
+    },
+    {
+      "text": "Chi attaccherebbe bottone con gli sconosciuti sull'autobus?"
+    },
+    {
+      "text": "Chi spenderebbe tutti i soldi in snack?"
+    },
+    {
+      "text": "Chi sopravvivrebbe a un'apocalisse zombie?"
+    },
+    {
+      "text": "Chi riderebbe a un funerale?"
+    },
+    {
+      "text": "Chi vincerebbe alla lotteria e poi perderebbe il biglietto?"
+    },
+    {
+      "text": "Chi farebbe amicizia con un animale selvatico?"
+    },
+    {
+      "text": "Chi aprirebbe un'attività che fallisce in modo spettacolare?"
+    },
+    {
+      "text": "Chi andrebbe al supermercato in pigiama?"
+    },
+    {
+      "text": "Chi diventerebbe milionario?"
+    },
+    {
+      "text": "Chi canterebbe sotto la doccia così forte da farsi sentire dai vicini?"
+    },
+    {
+      "text": "Chi lascerebbe il lavoro per girare il mondo?"
+    },
+    {
+      "text": "Chi dimenticherebbe dove ha parcheggiato?"
+    },
+    {
+      "text": "Chi giocherebbe ancora ai videogiochi a ottant'anni?"
+    },
+    {
+      "text": "Chi si presenterebbe con il vestito sbagliato a una festa a tema?"
+    },
+    {
+      "text": "Chi inciamperebbe su niente?"
+    },
+    {
+      "text": "Chi farebbe venti foto per averne una venuta bene?"
+    },
+    {
+      "text": "Chi leggerebbe prima l'ultima pagina di un libro?"
+    },
+    {
+      "text": "Chi starebbe al telefono durante un film?"
+    },
+    {
+      "text": "Chi si farebbe un tatuaggio di cui poi si pentirebbe?"
+    },
+    {
+      "text": "Chi darebbe il consiglio peggiore con la massima sicurezza?"
+    },
+    {
+      "text": "Chi mangerebbe il dolce prima della cena?"
+    },
+    {
+      "text": "Chi disdirebbe un appuntamento all'ultimo minuto?"
+    },
+    {
+      "text": "Chi si trasferirebbe all'estero su due piedi?"
+    },
+    {
+      "text": "Chi ha un talento nascosto che nessuno conosce?"
+    },
+    {
+      "text": "Chi sarebbe l'ultimo a restare sveglio?"
+    },
+    {
+      "text": "Chi perderebbe le chiavi oggi?"
+    },
+    {
+      "text": "Chi accetterebbe una sfida che non dovrebbe?"
+    },
+    {
+      "text": "Chi ballerebbe sopra un tavolo?"
+    },
+    {
+      "text": "Chi creerebbe un gruppo su WhatsApp e poi non risponderebbe mai?"
+    },
+    {
+      "text": "Chi diventerebbe insegnante?"
+    }
+  ]
+}

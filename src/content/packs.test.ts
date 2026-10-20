@@ -76,6 +76,14 @@ describe("builtin packs", () => {
     }
   });
 
+  it("give every truth or dare pack both truths and dares", () => {
+    for (const pack of packs) {
+      if (!pack.games.includes("truth-or-dare") || pack.kind !== "prompts") continue;
+      const types = new Set(pack.items.map((item) => item.type));
+      expect([...types].sort(), pack.id).toEqual(["dare", "truth"]);
+    }
+  });
+
   it.each(LANGUAGES)("cover the starter set in %s", (language) => {
     const ofLanguage = packs.filter((p) => p.language === language);
     expect(ofLanguage.filter((p) => p.kind === "words").length).toBeGreaterThanOrEqual(MIN_WORD_PACKS_PER_LANGUAGE);

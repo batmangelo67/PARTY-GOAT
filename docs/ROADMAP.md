@@ -11,7 +11,7 @@ Update the Status column at the end of every stage.
 | 2 | Impostor (clue modes) + Who's the Liar + starter EN/IT packs | done |
 | 3 | Custom pack editor, pack browser, import/export, bulk packs | done (bulk packs still to generate) |
 | 4 | Who's got the bomb, Never have I ever | done |
-| 5 | Truth or dare, Most likely to, 10/10 but... | todo |
+| 5 | Truth or dare, Most likely to, 10/10 but... | done |
 | 6 | Forbidden words, Mind match | todo |
 | 7 | Circa + Circa Impostor | todo |
 | 8 | Polish: animations, sounds, themes, spice filters | todo |
@@ -34,7 +34,7 @@ Update the Status column at the end of every stage.
 
 **Never have I ever** (prompts): prompt cards with spice filter. Optional "fingers" mode with per-player counters.
 
-**Truth or dare** (prompts with `type: truth | dare`): player picks, gets a prompt, optional skip with penalty, spice filter.
+**Truth or dare** (prompts with `type: truth | dare`): player picks, gets a prompt, optional skip that counts against them in the final ranking, spice filter. Untyped cards (custom packs) work for both choices.
 
 **Most likely to** (prompts): prompt appears, group counts to three and points; the app can optionally tally votes per player.
 
@@ -50,4 +50,4 @@ Update the Status column at the end of every stage.
 Every game exports `{ id, nameKey, descriptionKey, icon, acceptsKinds, SetupScreen, PlayScreen }` and is registered in one registry file. Games reuse: players, PassPhone, Timer, Voting, random, history, content picker. If a game needs something new in the engine, add it generically, not per game.
 
 ## Next up
-Stage 5: Truth or dare, Most likely to, 10/10 but... (all `prompts` packs). Bulk pack generation from stage 3 is still open; consider lazy-loading packs once the bundle grows.
+Stage 6: Forbidden words, Mind match (needs the `cards` pack kind for Forbidden words). Bulk pack generation from stage 3 is still open; consider lazy-loading packs once the bundle grows.

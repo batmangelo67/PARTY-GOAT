@@ -1,0 +1,172 @@
+{
+  "id": "it-obbligo-o-verita-piccante",
+  "title": "Obbligo o verità: Piccante",
+  "language": "it",
+  "spice": 1,
+  "kind": "prompts",
+  "games": [
+    "truth-or-dare"
+  ],
+  "items": [
+    {
+      "text": "Con chi, tra i presenti, scambieresti la vita per una settimana?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più imbarazzante che hai fatto per fare colpo su qualcuno?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai mandato un messaggio alla persona sbagliata? Cosa diceva?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è stato l'appuntamento più imbarazzante che hai avuto?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi tra i presenti ha i gusti musicali peggiori?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è stata la tua cotta più imbarazzante?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è una cosa che hai fatto e speri che nessuno qui scopra mai?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi del gruppo sarebbe il tuo migliore complice per rimorchiare?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai spiato un profilo per troppo tempo? Di chi?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il motivo più meschino per cui hai smesso di parlare con qualcuno?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa peggiore che hai detto per rabbia?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi qui sopravvivrebbe più a lungo in un film horror?",
+      "type": "truth"
+    },
+    {
+      "text": "Con chi qui non vorresti mai restare bloccato in ascensore?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più strana che hai fatto quando eri solo in casa?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la tua red flag più grande?",
+      "type": "truth"
+    },
+    {
+      "text": "Di chi, in questa stanza, leggeresti la mente?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cifra più alta che hai speso per una cosa totalmente inutile?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è una regola che infrangi di continuo?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai riso nel momento sbagliato? Quando?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il complimento più strano che hai ricevuto?",
+      "type": "truth"
+    },
+    {
+      "text": "Lascia che il gruppo legga ad alta voce l'ultima cosa che hai cercato online.",
+      "type": "dare"
+    },
+    {
+      "text": "Scrivi \"devo dirti una cosa\" all'ultima persona a cui hai scritto. Senza spiegare.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai l'occhiolino più seducente che hai a ogni persona nella stanza.",
+      "type": "dare"
+    },
+    {
+      "text": "Lascia che il gruppo pubblichi una storia buffa sul tuo telefono, niente facce.",
+      "type": "dare"
+    },
+    {
+      "text": "Scambia un capo di abbigliamento con la persona accanto a te fino a fine partita.",
+      "type": "dare"
+    },
+    {
+      "text": "Di' una cosa carina su ogni persona nella stanza, restando serio.",
+      "type": "dare"
+    },
+    {
+      "text": "Attraversa la stanza correndo al rallentatore in modo drammatico.",
+      "type": "dare"
+    },
+    {
+      "text": "Fatti scegliere una canzone e balla per quindici secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Chiama un amico e cantagli \"Tanti auguri\", anche se non è il suo compleanno.",
+      "type": "dare"
+    },
+    {
+      "text": "Leggi ad alta voce l'ultimo messaggio che hai inviato, con voce drammatica.",
+      "type": "dare"
+    },
+    {
+      "text": "Lascia che il gruppo scelga la tua foto profilo per un giorno.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai la risata da cattivo per dieci secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un discorso commovente a un oggetto a caso della stanza.",
+      "type": "dare"
+    },
+    {
+      "text": "Lascia che la persona alla tua destra invii una emoji dal tuo telefono a chi vuole.",
+      "type": "dare"
+    },
+    {
+      "text": "Imita qualcuno dei presenti finché non indovina chi è.",
+      "type": "dare"
+    },
+    {
+      "text": "Assaggia un cucchiaio della cosa più strana che trovi in cucina.",
+      "type": "dare"
+    },
+    {
+      "text": "Mostra la foto più imbarazzante della tua galleria, oppure scegli un altro obbligo.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra tutto quello che dici fino al tuo prossimo turno.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai finta di chiedere la mano a un cuscino.",
+      "type": "dare"
+    },
+    {
+      "text": "Prova a leccarti il gomito. Tutti guardano.",
+      "type": "dare"
+    }
+  ]
+}

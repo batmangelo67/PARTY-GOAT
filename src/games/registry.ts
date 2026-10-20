@@ -1,11 +1,22 @@
 import type { PackKind } from "../content/schema";
 import { bombGame } from "./bomb";
 import { impostorGame } from "./impostor";
+import { mostLikelyToGame } from "./most-likely-to";
 import { neverHaveIEverGame } from "./never-have-i-ever";
+import { tenOutOfTenGame } from "./ten-out-of-ten";
+import { truthOrDareGame } from "./truth-or-dare";
 import type { GameDefinition } from "./types";
 import { whosTheLiarGame } from "./whos-the-liar";
 
-export const GAMES: readonly GameDefinition[] = [impostorGame, whosTheLiarGame, bombGame, neverHaveIEverGame];
+export const GAMES: readonly GameDefinition[] = [
+  impostorGame,
+  whosTheLiarGame,
+  bombGame,
+  neverHaveIEverGame,
+  truthOrDareGame,
+  mostLikelyToGame,
+  tenOutOfTenGame,
+];
 
 export function findGame(id: string | undefined): GameDefinition | undefined {
   return GAMES.find((game) => game.id === id);

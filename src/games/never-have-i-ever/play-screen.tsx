@@ -1,36 +1,20 @@
-import { useEffect, useRef, useState } from "react";
+import { useState } from "react";
 import { Navigate, useNavigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
-import { drawItem } from "../../engine/draw-item";
-import { errorMessage, logError } from "../../engine/logger";
+import { isMarked, toggleMark, type CardMarks } from "../../engine/card-marks";
 import { usePlayersStore } from "../../engine/players-store";
+import { rankByScore } from "../../engine/ranking";
 import { ScoreList } from "../../engine/score-list";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
+import { useCardDeck } from "../../engine/use-card-deck";
 import { useT } from "../../i18n/use-t";
 import { useNhieConfig } from "./config-store";
 import { NHIE_ID } from "./constants";
-import {
-  canTap,
-  deckBack,
-  deckForward,
-  fingersLeft,
-  isGameOver,
-  isTapped,
-  needsNewCard,
-  rankByFingers,
-  toggleTap,
-  type CardTaps,
-  type Deck,
-} from "./logic";
+import { canTap, fingersLeft, isGameOver } from "./logic";
 
 const SETUP_PATH = `/play/${NHIE_ID}/setup`;
-
-interface Card {
-  id: string;
-  text: string;
-}
 
 export function NhiePlayScreen() {
   const t = useT();
@@ -41,42 +25,17 @@ export function NhiePlayScreen() {
   const fingersMode = config.mode === "fingers";
   const valid = packs.length > 0 && (!fingersMode || players.length >= MIN_PLAYERS);
 
-  const [deck, setDeck] = useState<Deck<Card>>({ cards: [], index: 0 });
-  const [drawing, setDrawing] = useState(false);
-  const [failure, setFailure] = useState("");
-  const [taps, setTaps] = useState<CardTaps>([]);
+  const { card, index, drawing, failure, forward, back } = useCardDeck(packs, valid);
+  const [taps, setTaps] = useState<CardMarks>([]);
   const [ended, setEnded] = useState(false);
-  const started = useRef(false);
-
-  const forward = async () => {
-    if (deck.cards.length > 0 && !needsNewCard(deck)) return setDeck(deckForward(deck));
-    setDrawing(true);
-    try {
-      const { item } = await drawItem(packs);
-      setDeck((current) => deckForward(current, { id: item.id, text: item.text }));
-      setFailure("");
-    } catch (error) {
-      logError("Drawing a card", error);
-      setFailure(t("error.drawFailed", { reason: errorMessage(error) }));
-    } finally {
-      setDrawing(false);
-    }
-  };
-
-  useEffect(() => {
-    if (!valid || started.current) return;
-    started.current = true;
-    void forward();
-  });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
 
   const playerIds = players.map((p) => p.id);
   const fingers = fingersLeft(config.fingers, playerIds, taps);
-  const card = deck.cards[deck.index];
 
   const tap = (playerId: string) => {
-    const next = toggleTap(taps, deck.index, playerId);
+    const next = toggleMark(taps, index, playerId);
     setTaps(next);
     if (isGameOver(fingersLeft(config.fingers, playerIds, next))) {
       playCue("win");
@@ -91,7 +50,7 @@ export function NhiePlayScreen() {
   };
 
   if (ended) {
-    const ranking = rankByFingers(players, fingers);
+    const ranking = rankByScore(players, fingers);
     const leaders = ranking.filter((row) => row.rank === 1);
     return (
       <Screen
@@ -114,8 +73,8 @@ export function NhiePlayScreen() {
               id: row.player.id,
               name: row.player.name,
               rank: row.rank,
-              value: t("nhie.over.fingers", { count: row.fingers }),
-              dimmed: row.fingers === 0,
+              value: t("nhie.over.fingers", { count: row.score }),
+              dimmed: row.score === 0,
             }))}
           />
         </Section>
@@ -126,11 +85,11 @@ export function NhiePlayScreen() {
   return (
     <Screen
       backTo={SETUP_PATH}
-      title={card ? t("nhie.play.card", { number: deck.index + 1 }) : undefined}
+      title={card ? t("nhie.play.card", { number: index + 1 }) : undefined}
       footer={
         <div className="flex flex-col gap-2">
           <div className="grid grid-cols-[1fr_2fr] gap-2">
-            <Button variant="secondary" disabled={deck.index === 0} onClick={() => setDeck(deckBack(deck))}>
+            <Button variant="secondary" disabled={index === 0} onClick={back}>
               {t("nhie.play.back")}
             </Button>
             <Button disabled={drawing} onClick={() => void forward()}>
@@ -155,14 +114,14 @@ export function NhiePlayScreen() {
         <Section title={t("nhie.play.help")}>
           <div className="grid grid-cols-2 gap-2">
             {players.map((player) => {
-              const tapped = isTapped(taps, deck.index, player.id);
+              const tapped = isMarked(taps, index, player.id);
               const out = (fingers[player.id] ?? 0) === 0 && !tapped;
               return (
                 <button
                   key={player.id}
                   type="button"
                   aria-pressed={tapped}
-                  disabled={!canTap(fingers, taps, deck.index, player.id)}
+                  disabled={!canTap(fingers, taps, index, player.id)}
                   onClick={() => tap(player.id)}
                   className={`flex min-h-16 flex-col items-start justify-center rounded-2xl px-4 text-left transition active:scale-[0.98] disabled:opacity-40 ${
                     tapped ? "bg-danger/20 ring-2 ring-danger" : "bg-panel"

@@ -1,0 +1,172 @@
+{
+  "id": "it-obbligo-o-verita-leggero",
+  "title": "Obbligo o verità: Leggero",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "truth-or-dare"
+  ],
+  "items": [
+    {
+      "text": "Qual è la canzone più imbarazzante che hai nella playlist?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più stupida di cui hai segretamente paura?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il regalo peggiore che hai ricevuto? Hai fatto finta di apprezzarlo?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è un abbinamento di cibi che ami e che agli altri fa schifo?",
+      "type": "truth"
+    },
+    {
+      "text": "Con quale personaggio famoso vorresti cenare e perché?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il periodo più lungo che sei rimasto senza farti la doccia?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più strana che hai cercato su Google?",
+      "type": "truth"
+    },
+    {
+      "text": "Quale app ti ruba più tempo?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è un'abitudine da bambino che hai ancora?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più infantile che fai ancora?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai finto di stare male per saltare qualcosa? Cosa?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è l'ultima bugia che hai detto?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il tuo talento più inutile?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi tra i presenti sceglieresti per organizzarti la festa di compleanno?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è stato il tuo taglio di capelli peggiore?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è stato il tuo errore del correttore automatico più imbarazzante?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il sogno più strano che ti ricordi?",
+      "type": "truth"
+    },
+    {
+      "text": "Se dovessi cancellare un'app per sempre, quale sarebbe?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è un film che piace a tutti e che tu in segreto detesti?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il guaio più grosso in cui ti sei cacciato a scuola?",
+      "type": "truth"
+    },
+    {
+      "text": "Imita un altro giocatore finché qualcuno non indovina chi è.",
+      "type": "dare"
+    },
+    {
+      "text": "Parla con la voce di un robot fino al tuo prossimo turno.",
+      "type": "dare"
+    },
+    {
+      "text": "Canta a squarciagola il ritornello dell'ultima canzone che hai ascoltato.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai scegliere al gruppo un nome buffo con cui salvarti nella rubrica di qualcuno.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai dieci saltelli dicendo l'alfabeto al contrario finché riesci.",
+      "type": "dare"
+    },
+    {
+      "text": "Parla per un minuto senza chiudere la bocca.",
+      "type": "dare"
+    },
+    {
+      "text": "Tieni un cucchiaio in equilibrio sul naso per dieci secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Comportati come una gallina fino al tuo prossimo turno.",
+      "type": "dare"
+    },
+    {
+      "text": "Fatti disegnare dei baffi con una penna da un altro giocatore.",
+      "type": "dare"
+    },
+    {
+      "text": "Racconta una barzelletta. Se nessuno ride, fai la penitenza scelta dal gruppo.",
+      "type": "dare"
+    },
+    {
+      "text": "Attraversa la stanza come un modello in passerella.",
+      "type": "dare"
+    },
+    {
+      "text": "Ripeti uno scioglilingua tre volte veloce. Il gruppo decide se hai passato la prova.",
+      "type": "dare"
+    },
+    {
+      "text": "Resta in plank per trenta secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai la tua mossa di ballo migliore per dieci secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Racconta la tua giornata usando solo titoli di film.",
+      "type": "dare"
+    },
+    {
+      "text": "Fatti dare un nuovo soprannome dalla persona alla tua sinistra e tienilo fino a fine partita.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un telegiornale esagerato su quello che è appena successo in questa stanza.",
+      "type": "dare"
+    },
+    {
+      "text": "Salta su una gamba sola mentre racconti l'ultima vacanza.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai il cameriere e prendi le ordinazioni di tutti con un accento finto.",
+      "type": "dare"
+    },
+    {
+      "text": "Mostra l'ultima foto che hai scattato, qualunque sia.",
+      "type": "dare"
+    }
+  ]
+}
