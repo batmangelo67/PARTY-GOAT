@@ -19,6 +19,10 @@ function itemKey(pack: PackFile, index: number): string {
     }
     case "prompts":
       return pack.items[index]!.text;
+    case "cards":
+      return pack.items[index]!.word;
+    case "numeric":
+      return pack.items[index]!.question;
   }
 }
 

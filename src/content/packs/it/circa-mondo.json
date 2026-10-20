@@ -1,0 +1,180 @@
+{
+  "id": "it-circa-mondo",
+  "title": "Circa: Mondo",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "items": [
+    {
+      "question": "Quante ossa ha il corpo umano adulto?",
+      "answer": 206,
+      "unit": "ossa",
+      "decoyQuestion": "Quanti denti ha un adulto con tutti i denti del giudizio?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "Quanti tasti ha un pianoforte standard?",
+      "answer": 88,
+      "unit": "tasti",
+      "decoyQuestion": "Quanti tasti neri ha un pianoforte standard?",
+      "decoyAnswer": 36
+    },
+    {
+      "question": "Quanto è alto l'Everest in metri secondo la misurazione del 2020?",
+      "answer": 8849,
+      "unit": "metri",
+      "decoyQuestion": "Quanto è alto il K2 in metri?",
+      "decoyAnswer": 8611
+    },
+    {
+      "question": "Quanto è lunga una maratona in chilometri?",
+      "answer": 42.195,
+      "unit": "chilometri",
+      "decoyQuestion": "Quanto è lunga una maratona in miglia, arrotondata al numero intero?",
+      "decoyAnswer": 26
+    },
+    {
+      "question": "Quanti Paesi fanno parte dell'ONU?",
+      "answer": 193,
+      "unit": "Paesi",
+      "decoyQuestion": "Quanti membri permanenti ha il Consiglio di Sicurezza dell'ONU?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "A che temperatura bolle l'acqua a livello del mare, in gradi Celsius?",
+      "answer": 100,
+      "unit": "°C",
+      "decoyQuestion": "A che temperatura congela l'acqua, in gradi Fahrenheit?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "Quante corde ha una chitarra classica?",
+      "answer": 6,
+      "unit": "corde",
+      "decoyQuestion": "Quante corde ha un violino?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "Quante caselle ha una scacchiera?",
+      "answer": 64,
+      "unit": "caselle",
+      "decoyQuestion": "Quanti pezzi ci sono sulla scacchiera all'inizio della partita, tra bianchi e neri?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "Quanti pianeti ci sono nel Sistema solare?",
+      "answer": 8,
+      "unit": "pianeti",
+      "decoyQuestion": "Quante lune ha Marte?",
+      "decoyAnswer": 2
+    },
+    {
+      "question": "Quanto è alto il Burj Khalifa in metri?",
+      "answer": 828,
+      "unit": "metri",
+      "decoyQuestion": "Quanto è alto lo Shanghai Tower in metri?",
+      "decoyAnswer": 632
+    },
+    {
+      "question": "Quanto è alto il Kilimangiaro in metri?",
+      "answer": 5895,
+      "unit": "metri",
+      "decoyQuestion": "Quanto è alto il Monte Rosa, nella Punta Dufour, in metri?",
+      "decoyAnswer": 4634
+    },
+    {
+      "question": "Quante sinfonie ha composto Beethoven?",
+      "answer": 9,
+      "unit": "sinfonie",
+      "decoyQuestion": "Quanti concerti per pianoforte ha composto Beethoven?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti cuori ha un polpo?",
+      "answer": 3,
+      "unit": "cuori",
+      "decoyQuestion": "Quante zampe ha un insetto?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "Quanti giorni impiega la Terra a girare attorno al Sole, arrotondando?",
+      "answer": 365,
+      "unit": "giorni",
+      "decoyQuestion": "Quanti giorni impiega la Luna a girare attorno alla Terra, arrotondando?",
+      "decoyAnswer": 27
+    },
+    {
+      "question": "Quante stelle ci sono sulla bandiera degli Stati Uniti?",
+      "answer": 50,
+      "unit": "stelle",
+      "decoyQuestion": "Quante strisce ci sono sulla bandiera degli Stati Uniti?",
+      "decoyAnswer": 13
+    },
+    {
+      "question": "Quanto è lunga una piscina olimpica in metri?",
+      "answer": 50,
+      "unit": "metri",
+      "decoyQuestion": "Quanto è lungo un giro di pista di atletica in metri?",
+      "decoyAnswer": 400
+    },
+    {
+      "question": "Quanti bit ci sono in un byte?",
+      "answer": 8,
+      "unit": "bit",
+      "decoyQuestion": "Quanti byte ci sono in un kilobyte, nel senso binario tradizionale?",
+      "decoyAnswer": 1024
+    },
+    {
+      "question": "In che anno è stata inaugurata la Tour Eiffel?",
+      "answer": 1889,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stata inaugurata la Statua della Libertà?",
+      "decoyAnswer": 1886
+    },
+    {
+      "question": "In che anno l'uomo è sbarcato per la prima volta sulla Luna?",
+      "answer": 1969,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stato lanciato lo Sputnik 1?",
+      "decoyAnswer": 1957
+    },
+    {
+      "question": "In che anno è caduto il Muro di Berlino?",
+      "answer": 1989,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stato costruito il Muro di Berlino?",
+      "decoyAnswer": 1961
+    },
+    {
+      "question": "In che anno è affondato il Titanic?",
+      "answer": 1912,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stato varato lo scafo del Titanic?",
+      "decoyAnswer": 1911
+    },
+    {
+      "question": "In che anno è iniziata la Rivoluzione francese?",
+      "answer": 1789,
+      "unit": "anno",
+      "decoyQuestion": "In che anno Napoleone è stato incoronato imperatore?",
+      "decoyAnswer": 1804
+    },
+    {
+      "question": "In che anno Colombo è arrivato per la prima volta in America?",
+      "answer": 1492,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è partita la spedizione di Magellano?",
+      "decoyAnswer": 1519
+    },
+    {
+      "question": "In che anno è uscito il primo iPhone?",
+      "answer": 2007,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è uscito il primo iPod?",
+      "decoyAnswer": 2001
+    }
+  ]
+}

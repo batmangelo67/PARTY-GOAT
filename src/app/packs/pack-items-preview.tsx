@@ -30,6 +30,27 @@ function ItemLine({ pack, index }: { pack: Pack; index: number }) {
     }
     case "prompts":
       return <span className="font-bold">{pack.items[index]!.text}</span>;
+    case "cards": {
+      const item = pack.items[index]!;
+      return (
+        <>
+          <span className="font-bold">{item.word}</span>
+          <span className="text-muted"> · {item.banned.join(", ")}</span>
+        </>
+      );
+    }
+    case "numeric": {
+      const item = pack.items[index]!;
+      return (
+        <>
+          <span className="block font-bold">{item.question}</span>
+          <span className="block text-muted">
+            {item.answer} {item.unit}
+            {item.decoyQuestion && ` · ${t("pack.decoy")}: ${item.decoyQuestion} (${item.decoyAnswer})`}
+          </span>
+        </>
+      );
+    }
   }
 }
 

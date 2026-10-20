@@ -1,0 +1,173 @@
+{
+  "id": "it-circa-italia",
+  "title": "Circa: Italia",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "items": [
+    {
+      "question": "In che anno è stato proclamato il Regno d'Italia?",
+      "answer": 1861,
+      "unit": "anno",
+      "decoyQuestion": "In che anno Roma è diventata capitale d'Italia?",
+      "decoyAnswer": 1871
+    },
+    {
+      "question": "In che anno è nata la Repubblica Italiana con il referendum?",
+      "answer": 1946,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è entrata in vigore la Costituzione italiana?",
+      "decoyAnswer": 1948
+    },
+    {
+      "question": "In che anno è caduto l'Impero Romano d'Occidente?",
+      "answer": 476,
+      "unit": "anno",
+      "decoyQuestion": "In che anno Costantino ha emanato l'Editto di Milano?",
+      "decoyAnswer": 313
+    },
+    {
+      "question": "In che anno l'eruzione del Vesuvio ha distrutto Pompei?",
+      "answer": 79,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stato inaugurato il Colosseo?",
+      "decoyAnswer": 80
+    },
+    {
+      "question": "Quanto è alto il Monte Bianco in metri, arrotondato?",
+      "answer": 4806,
+      "unit": "metri",
+      "decoyQuestion": "Quanto è alto il Cervino in metri?",
+      "decoyAnswer": 4478
+    },
+    {
+      "question": "Quante regioni ha l'Italia?",
+      "answer": 20,
+      "unit": "regioni",
+      "decoyQuestion": "Quante regioni italiane hanno uno statuto speciale?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In che anno sono arrivate in Italia le monete e le banconote in euro?",
+      "answer": 2002,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stato firmato il Trattato di Roma che ha fondato la CEE?",
+      "decoyAnswer": 1957
+    },
+    {
+      "question": "In che anno è morto Dante Alighieri?",
+      "answer": 1321,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è nato Francesco Petrarca?",
+      "decoyAnswer": 1304
+    },
+    {
+      "question": "In che anno è nato Leonardo da Vinci?",
+      "answer": 1452,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è nato Michelangelo Buonarroti?",
+      "decoyAnswer": 1475
+    },
+    {
+      "question": "In che anno Galileo Galilei è stato condannato dall'Inquisizione?",
+      "answer": 1633,
+      "unit": "anno",
+      "decoyQuestion": "In che anno ha pubblicato il Dialogo sopra i due massimi sistemi?",
+      "decoyAnswer": 1632
+    },
+    {
+      "question": "In che anno è stata completata l'Autostrada del Sole?",
+      "answer": 1964,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stata aperta la Milano-Laghi, la prima autostrada italiana?",
+      "decoyAnswer": 1924
+    },
+    {
+      "question": "In che anno si sono svolte le Olimpiadi estive di Roma?",
+      "answer": 1960,
+      "unit": "anno",
+      "decoyQuestion": "In che anno si sono svolte le Olimpiadi invernali di Torino?",
+      "decoyAnswer": 2006
+    },
+    {
+      "question": "Quanto è lungo il fiume Po in chilometri?",
+      "answer": 652,
+      "unit": "chilometri",
+      "decoyQuestion": "Quanto è lungo il Tevere in chilometri?",
+      "decoyAnswer": 405
+    },
+    {
+      "question": "Quanti giocatori di una squadra stanno in campo in una partita di pallavolo?",
+      "answer": 6,
+      "unit": "giocatori",
+      "decoyQuestion": "Quanti giocatori di una squadra stanno in campo in una partita di basket?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quante carte ha un mazzo di carte napoletane?",
+      "answer": 40,
+      "unit": "carte",
+      "decoyQuestion": "Quante carte ha un mazzo di carte francesi senza jolly?",
+      "decoyAnswer": 52
+    },
+    {
+      "question": "Quanti minuti dura una partita di calcio nei tempi regolamentari?",
+      "answer": 90,
+      "unit": "minuti",
+      "decoyQuestion": "Quanti minuti dura una partita di rugby a quindici?",
+      "decoyAnswer": 80
+    },
+    {
+      "question": "In che anno l'Italia è stata liberata e si è conclusa la guerra in Italia?",
+      "answer": 1945,
+      "unit": "anno",
+      "decoyQuestion": "In che anno l'Italia è entrata nella Seconda guerra mondiale?",
+      "decoyAnswer": 1940
+    },
+    {
+      "question": "In che anno è uscito il film La dolce vita di Fellini?",
+      "answer": 1960,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è uscito il film 8½ di Fellini?",
+      "decoyAnswer": 1963
+    },
+    {
+      "question": "In che anno è nata la Vespa?",
+      "answer": 1946,
+      "unit": "anno",
+      "decoyQuestion": "In che anno è stata prodotta la prima Fiat 500 Nuova?",
+      "decoyAnswer": 1957
+    },
+    {
+      "question": "In che anno si è tenuto il primo Festival di Sanremo?",
+      "answer": 1951,
+      "unit": "anno",
+      "decoyQuestion": "In che anno i Måneskin hanno vinto l'Eurovision Song Contest?",
+      "decoyAnswer": 2021
+    },
+    {
+      "question": "In che anno si è corso il primo Giro d'Italia?",
+      "answer": 1909,
+      "unit": "anno",
+      "decoyQuestion": "In che anno si è corso il primo Tour de France?",
+      "decoyAnswer": 1903
+    },
+    {
+      "question": "In che anno l'Italia ha vinto il suo primo Mondiale di calcio?",
+      "answer": 1934,
+      "unit": "anno",
+      "decoyQuestion": "In che anno l'Italia ha vinto il suo quarto Mondiale di calcio?",
+      "decoyAnswer": 2006
+    },
+    {
+      "question": "In che anno si sono giocati i Mondiali di calcio in Italia?",
+      "answer": 1990,
+      "unit": "anno",
+      "decoyQuestion": "In che anno l'Italia ha vinto il Mondiale in Spagna?",
+      "decoyAnswer": 1982
+    }
+  ]
+}

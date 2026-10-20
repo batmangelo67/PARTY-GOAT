@@ -9,6 +9,10 @@ export const ITEM_LIMITS = {
   prompt: 200,
   minQuestion: 5,
   minPrompt: 3,
+  bannedWord: 40,
+  minBanned: 3,
+  maxBanned: 6,
+  unit: 20,
 } as const;
 
 export const PROMPT_TYPES = ["truth", "dare"] as const;
@@ -40,6 +44,26 @@ export const promptItemSchema = z.strictObject({
   type: z.enum(PROMPT_TYPES).optional(),
 });
 
+export const cardItemSchema = z.strictObject({
+  word: z.string().trim().min(1).max(ITEM_LIMITS.word),
+  banned: z.array(z.string().trim().min(1).max(ITEM_LIMITS.bannedWord)).min(ITEM_LIMITS.minBanned).max(ITEM_LIMITS.maxBanned),
+});
+
+// A decoy question needs its own answer, so the two fields come together or not at all.
+export const numericItemSchema = z
+  .strictObject({
+    question: z.string().trim().min(ITEM_LIMITS.minQuestion).max(ITEM_LIMITS.question),
+    answer: z.number().finite(),
+    unit: z.string().trim().min(1).max(ITEM_LIMITS.unit),
+    asOf: z.number().int().optional(),
+    decoyQuestion: z.string().trim().min(ITEM_LIMITS.minQuestion).max(ITEM_LIMITS.question).optional(),
+    decoyAnswer: z.number().finite().optional(),
+  })
+  .refine((item) => (item.decoyQuestion === undefined) === (item.decoyAnswer === undefined), {
+    message: "decoyQuestion and decoyAnswer must be given together",
+    path: ["decoyQuestion"],
+  });
+
 const wordsPackSchema = z.strictObject({
   ...packBaseShape,
   kind: z.literal("words"),
@@ -58,9 +82,27 @@ const promptsPackSchema = z.strictObject({
   items: z.array(promptItemSchema).min(1),
 });
 
-// Add new kinds (cards, numeric) here, then extend itemKey in items.ts and the line parser in pack-text.ts.
-export const packFileSchema = z.discriminatedUnion("kind", [wordsPackSchema, questionPairsPackSchema, promptsPackSchema]);
-export const PACK_KINDS = ["words", "question-pairs", "prompts"] as const satisfies readonly PackFile["kind"][];
+const cardsPackSchema = z.strictObject({
+  ...packBaseShape,
+  kind: z.literal("cards"),
+  items: z.array(cardItemSchema).min(1),
+});
+
+const numericPackSchema = z.strictObject({
+  ...packBaseShape,
+  kind: z.literal("numeric"),
+  items: z.array(numericItemSchema).min(1),
+});
+
+// Add new kinds here, then extend itemKey in items.ts, the line parser in pack-text.ts and the previews.
+export const packFileSchema = z.discriminatedUnion("kind", [
+  wordsPackSchema,
+  questionPairsPackSchema,
+  promptsPackSchema,
+  cardsPackSchema,
+  numericPackSchema,
+]);
+export const PACK_KINDS = ["words", "question-pairs", "prompts", "cards", "numeric"] as const satisfies readonly PackFile["kind"][];
 
 export type PackFile = z.infer<typeof packFileSchema>;
 export type PackKind = PackFile["kind"];
@@ -77,3 +119,5 @@ export type Pack = { [K in PackKind]: PackOf<K> }[PackKind];
 export type WordItem = ItemOf<"words">;
 export type QuestionPairItem = ItemOf<"question-pairs">;
 export type PromptItem = ItemOf<"prompts">;
+export type CardItem = ItemOf<"cards">;
+export type NumericItem = ItemOf<"numeric">;

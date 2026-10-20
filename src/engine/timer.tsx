@@ -13,13 +13,13 @@ interface TimerProps {
   onFinish: () => void;
 }
 
-function formatClock(totalSeconds: number): string {
+export function formatClock(totalSeconds: number): string {
   const minutes = Math.floor(totalSeconds / 60);
   return `${minutes}:${String(totalSeconds % 60).padStart(2, "0")}`;
 }
 
 // Countdown based on a deadline so it stays correct when the tab is throttled.
-function useCountdown(seconds: number) {
+export function useCountdown(seconds: number) {
   const [deadline, setDeadline] = useState(() => Date.now() + seconds * 1000);
   const [pausedLeftMs, setPausedLeftMs] = useState<number | null>(null);
   const [now, setNow] = useState(() => Date.now());
@@ -49,19 +49,23 @@ function useCountdown(seconds: number) {
   };
 }
 
-export function Timer({ seconds, onFinish }: TimerProps) {
-  const t = useT();
-  const { secondsLeft, paused, togglePause, addSeconds } = useCountdown(seconds);
+// Ticks over the last seconds and a closing sound at zero.
+export function useCountdownCues(secondsLeft: number): void {
   const lastSecond = useRef(secondsLeft);
-  const finished = secondsLeft === 0;
-  useWakeLock(true);
-
   useEffect(() => {
     if (secondsLeft === lastSecond.current) return;
     lastSecond.current = secondsLeft;
     if (secondsLeft === 0) playCue("end");
     else if (secondsLeft <= TICK_SOUND_SECONDS) playCue("tick");
   }, [secondsLeft]);
+}
+
+export function Timer({ seconds, onFinish }: TimerProps) {
+  const t = useT();
+  const { secondsLeft, paused, togglePause, addSeconds } = useCountdown(seconds);
+  const finished = secondsLeft === 0;
+  useWakeLock(true);
+  useCountdownCues(secondsLeft);
 
   const warning = !finished && secondsLeft <= TIMER_WARNING_SECONDS;
 

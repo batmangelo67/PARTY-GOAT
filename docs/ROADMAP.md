@@ -12,8 +12,8 @@ Update the Status column at the end of every stage.
 | 3 | Custom pack editor, pack browser, import/export, bulk packs | done (bulk packs still to generate) |
 | 4 | Who's got the bomb, Never have I ever | done |
 | 5 | Truth or dare, Most likely to, 10/10 but... | done |
-| 6 | Forbidden words, Mind match | todo |
-| 7 | Circa + Circa Impostor | todo |
+| 6 | Forbidden words, Mind match | done |
+| 7 | Circa + Circa Impostor | done (one game, impostor is a setup toggle) |
 | 8 | Polish: animations, sounds, themes, spice filters | done (settings: accent colour, sound, animations, global spice limit) |
 
 ## Decisions already made
@@ -40,14 +40,14 @@ Update the Status column at the end of every stage.
 
 **10/10 but...** (prompts): a person is a 10/10 but has a quirk; group rates how bad it is. Optional rating tally.
 
-**Forbidden words** (cards): describe the target word without saying it or the banned words. Timer, teams, skip and correct buttons, round scoring.
+**Forbidden words** (cards): describe the target word without saying it or the banned words. Two random teams (4+ players), timed turns, Correct and Skip buttons plus a "Banned word!" button (-1) for the other team, describer rotates inside each team.
 
-**Mind match** (words): players write or say a word at the same time, then converge round by round until two match. Optional starter word pairs.
+**Mind match** (words): two random starter words from the selected packs; everyone says (spoken mode) or secretly writes (typed mode) a word that links them, and the words of each round become the next prompt until two players match. Typed mode finds matches ignoring case and accents and awards a point per matching player.
 
-**Circa** (numeric): everyone secretly enters a number, closest wins. **Circa Impostor**: one player gets a decoy question and must bluff. Needs verified answers.
+**Circa** (numeric): everyone secretly enters a number, closest wins. **Circa Impostor** (a setup toggle on the same game): one player gets the decoy question and must bluff, then the group discusses and votes; only items with a decoy are used. Needs verified answers.
 
 ## Shared engine contract
 Every game exports `{ id, nameKey, descriptionKey, icon, acceptsKinds, SetupScreen, PlayScreen }` and is registered in one registry file. Games reuse: players, PassPhone, Timer, Voting, random, history, content picker. If a game needs something new in the engine, add it generically, not per game.
 
 ## Next up
-Stages 6 and 7 were skipped on purpose. Stage 6: Forbidden words, Mind match (needs the `cards` pack kind for Forbidden words). Bulk pack generation from stage 3 is still open; consider lazy-loading packs once the bundle grows.
+All eight stages are done. Open items: bulk pack generation from stage 3 (the Italian and English packs are still starter-sized, 20 to 40 items each) and lazy-loading packs if the bundle grows.

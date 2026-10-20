@@ -27,6 +27,22 @@ describe("pack schema", () => {
     expect(() => parsePackFile({ ...customPack, items: [{ word: "A", extra: 1 }] }, "bad")).toThrow();
   });
 
+  it("accepts cards and numeric packs with the right item shape", () => {
+    const base = { id: "custom-x", title: "X", language: "en", spice: 0, games: ["circa"] };
+    const cards = { ...base, kind: "cards", games: ["forbidden-words"], items: [{ word: "Pizza", banned: ["cheese", "Italy", "slice"] }] };
+    const numeric = { ...base, kind: "numeric", items: [{ question: "How many bones?", answer: 206, unit: "bones", decoyQuestion: "How many teeth?", decoyAnswer: 32 }] };
+    expect(parsePackFile(cards, "cards").kind).toBe("cards");
+    expect(parsePackFile(numeric, "numeric").kind).toBe("numeric");
+  });
+
+  it("rejects too few banned words and a decoy question without a decoy answer", () => {
+    const base = { id: "custom-x", title: "X", language: "en", spice: 0 };
+    const cards = { ...base, kind: "cards", games: ["forbidden-words"], items: [{ word: "Pizza", banned: ["cheese"] }] };
+    const numeric = { ...base, kind: "numeric", games: ["circa"], items: [{ question: "How many bones?", answer: 206, unit: "bones", decoyQuestion: "How many teeth?" }] };
+    expect(() => parsePackFile(cards, "cards")).toThrow();
+    expect(() => parsePackFile(numeric, "numeric")).toThrow(/decoy/);
+  });
+
   it("collects invalid packs as errors instead of crashing", () => {
     const result = parsePacks([["ok", customPack], ["broken", { id: "x" }]], "custom");
     expect(result.packs).toHaveLength(1);

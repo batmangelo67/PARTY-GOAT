@@ -1,9 +1,18 @@
 import { ITEM_LIMITS, type ItemOf, type PackKind } from "./schema";
 
 export const ITEM_SEPARATOR = "|";
+const BANNED_SEPARATOR = ",";
 export const MIN_CUSTOM_ITEMS = 5;
 
-export type LineErrorCode = "empty" | "missingSeparator" | "extraSeparator" | "duplicate" | "tooLong" | "tooShort";
+export type LineErrorCode =
+  | "empty"
+  | "missingSeparator"
+  | "extraSeparator"
+  | "duplicate"
+  | "tooLong"
+  | "tooShort"
+  | "badNumber"
+  | "wrongCount";
 
 export interface LineError {
   line: number;
@@ -57,6 +66,44 @@ function parsePromptLine(line: string): LineResult<"prompts"> {
   return { item: { text }, key: text };
 }
 
+function parseCardLine(line: string): LineResult<"cards"> {
+  const parts = splitParts(line);
+  if (parts.length < 2) return { error: "missingSeparator" };
+  if (parts.length > 2) return { error: "extraSeparator" };
+  const [word = "", bannedText = ""] = parts;
+  const banned = bannedText.split(BANNED_SEPARATOR).map((entry) => entry.trim());
+  if (!word || banned.some((entry) => entry === "")) return { error: "empty" };
+  if (banned.length < ITEM_LIMITS.minBanned || banned.length > ITEM_LIMITS.maxBanned) return { error: "wrongCount" };
+  const problem = lengthProblem(word, 1, ITEM_LIMITS.word) ?? banned.map((entry) => lengthProblem(entry, 1, ITEM_LIMITS.bannedWord)).find(Boolean);
+  if (problem) return { error: problem };
+  return { item: { word, banned }, key: word };
+}
+
+// Accepts "1234.5" and "1234,5"; anything else (units, thousands separators) is rejected.
+export function parseNumber(text: string): number | null {
+  const normalized = text.trim().replace(",", ".");
+  if (!/^-?\d+(\.\d+)?$/.test(normalized)) return null;
+  return Number(normalized);
+}
+
+function parseNumericLine(line: string): LineResult<"numeric"> {
+  const parts = splitParts(line);
+  if (parts.length < 3) return { error: "missingSeparator" };
+  if (parts.length !== 3 && parts.length !== 5) return { error: "wrongCount" };
+  const [question = "", answerText = "", unit = "", decoyQuestion, decoyAnswerText] = parts;
+  if (!question || !unit || (parts.length === 5 && !decoyQuestion)) return { error: "empty" };
+  const answer = parseNumber(answerText);
+  const decoyAnswer = decoyAnswerText === undefined ? undefined : parseNumber(decoyAnswerText);
+  if (answer === null || decoyAnswer === null) return { error: "badNumber" };
+  const problem =
+    lengthProblem(question, ITEM_LIMITS.minQuestion, ITEM_LIMITS.question) ??
+    lengthProblem(unit, 1, ITEM_LIMITS.unit) ??
+    (decoyQuestion ? lengthProblem(decoyQuestion, ITEM_LIMITS.minQuestion, ITEM_LIMITS.question) : null);
+  if (problem) return { error: problem };
+  const item = decoyQuestion === undefined ? { question, answer, unit } : { question, answer, unit, decoyQuestion, decoyAnswer };
+  return { item: item as ItemOf<"numeric">, key: question };
+}
+
 function parseLine<K extends PackKind>(kind: K, line: string): LineResult<K> {
   switch (kind) {
     case "words":
@@ -65,6 +112,10 @@ function parseLine<K extends PackKind>(kind: K, line: string): LineResult<K> {
       return parseQuestionPairLine(line) as LineResult<K>;
     case "prompts":
       return parsePromptLine(line) as LineResult<K>;
+    case "cards":
+      return parseCardLine(line) as LineResult<K>;
+    case "numeric":
+      return parseNumericLine(line) as LineResult<K>;
   }
   throw new Error(`Unknown pack kind "${kind}"`);
 }
@@ -103,6 +154,15 @@ function formatItem(kind: PackKind, item: ItemOf<PackKind>): string {
     }
     case "prompts":
       return (item as ItemOf<"prompts">).text;
+    case "cards": {
+      const { word, banned } = item as ItemOf<"cards">;
+      return `${word} ${ITEM_SEPARATOR} ${banned.join(`${BANNED_SEPARATOR} `)}`;
+    }
+    case "numeric": {
+      const { question, answer, unit, decoyQuestion, decoyAnswer } = item as ItemOf<"numeric">;
+      const base = [question, String(answer), unit];
+      return (decoyQuestion === undefined ? base : [...base, decoyQuestion, String(decoyAnswer)]).join(` ${ITEM_SEPARATOR} `);
+    }
   }
 }
 

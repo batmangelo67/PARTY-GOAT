@@ -1,6 +1,9 @@
 import type { PackKind } from "../content/schema";
 import { bombGame } from "./bomb";
+import { circaGame } from "./circa";
+import { forbiddenWordsGame } from "./forbidden-words";
 import { impostorGame } from "./impostor";
+import { mindMatchGame } from "./mind-match";
 import { mostLikelyToGame } from "./most-likely-to";
 import { neverHaveIEverGame } from "./never-have-i-ever";
 import { tenOutOfTenGame } from "./ten-out-of-ten";
@@ -16,6 +19,9 @@ export const GAMES: readonly GameDefinition[] = [
   truthOrDareGame,
   mostLikelyToGame,
   tenOutOfTenGame,
+  forbiddenWordsGame,
+  mindMatchGame,
+  circaGame,
 ];
 
 export function findGame(id: string | undefined): GameDefinition | undefined {

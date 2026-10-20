@@ -8,6 +8,10 @@ const MIN_PAIR_PACKS_PER_LANGUAGE = 3;
 const MIN_PROMPT_PACKS_PER_LANGUAGE = 3;
 const MIN_BOMB_PACKS_PER_LANGUAGE = 6;
 const MAX_HINT_WORDS = 3;
+const MIN_BANNED_WORDS = 4;
+const MAX_BANNED_WORDS = 5;
+const MIN_CARD_PACKS_PER_LANGUAGE = 2;
+const MIN_NUMERIC_PACKS_PER_LANGUAGE = 2;
 
 const { entries } = await importBuiltinPacks();
 const { packs, errors } = await loadBuiltinPacks();
@@ -84,11 +88,40 @@ describe("builtin packs", () => {
     }
   });
 
+  it("give every forbidden word card 4 or 5 banned words that never contain the word", () => {
+    for (const pack of packs) {
+      if (pack.kind !== "cards") continue;
+      for (const item of pack.items) {
+        expect(item.banned.length, `${pack.id}: ${item.word}`).toBeGreaterThanOrEqual(MIN_BANNED_WORDS);
+        expect(item.banned.length, `${pack.id}: ${item.word}`).toBeLessThanOrEqual(MAX_BANNED_WORDS);
+        const word = item.word.toLowerCase();
+        for (const banned of item.banned) {
+          expect(banned.toLowerCase().includes(word), `${pack.id}: ${item.word} bans ${banned}`).toBe(false);
+        }
+        expect(new Set(item.banned.map((b) => b.toLowerCase())).size, `${pack.id}: ${item.word}`).toBe(item.banned.length);
+      }
+    }
+  });
+
+  it("give every circa question a unit, a decoy question and a decoy answer that differs from the truth", () => {
+    for (const pack of packs) {
+      if (pack.kind !== "numeric") continue;
+      for (const item of pack.items) {
+        expect(item.decoyQuestion, `${pack.id}: ${item.question}`).toBeTruthy();
+        expect(item.decoyQuestion, pack.id).not.toBe(item.question);
+        expect(item.decoyAnswer, `${pack.id}: ${item.question}`).toBeDefined();
+      }
+    }
+  });
+
   it.each(LANGUAGES)("cover the starter set in %s", (language) => {
     const ofLanguage = packs.filter((p) => p.language === language);
     expect(ofLanguage.filter((p) => p.kind === "words").length).toBeGreaterThanOrEqual(MIN_WORD_PACKS_PER_LANGUAGE);
     expect(ofLanguage.filter((p) => p.kind === "question-pairs").length).toBeGreaterThanOrEqual(MIN_PAIR_PACKS_PER_LANGUAGE);
     expect(ofLanguage.filter((p) => p.kind === "prompts").length).toBeGreaterThanOrEqual(MIN_PROMPT_PACKS_PER_LANGUAGE);
     expect(ofLanguage.filter((p) => p.games.includes("bomb")).length).toBeGreaterThanOrEqual(MIN_BOMB_PACKS_PER_LANGUAGE);
+    expect(ofLanguage.filter((p) => p.kind === "cards").length).toBeGreaterThanOrEqual(MIN_CARD_PACKS_PER_LANGUAGE);
+    expect(ofLanguage.filter((p) => p.kind === "numeric").length).toBeGreaterThanOrEqual(MIN_NUMERIC_PACKS_PER_LANGUAGE);
+    expect(ofLanguage.filter((p) => p.games.includes("mind-match")).length).toBeGreaterThanOrEqual(MIN_WORD_PACKS_PER_LANGUAGE);
   });
 });
