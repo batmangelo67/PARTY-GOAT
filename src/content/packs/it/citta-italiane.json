@@ -1,0 +1,181 @@
+{
+  "id": "it-citta-italiane",
+  "title": "Città italiane",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Roma",
+      "hint": "Colosseo"
+    },
+    {
+      "word": "Milano",
+      "hint": "Navigli"
+    },
+    {
+      "word": "Napoli",
+      "hint": "Vesuvio"
+    },
+    {
+      "word": "Venezia",
+      "hint": "Gondole"
+    },
+    {
+      "word": "Firenze",
+      "hint": "Ponte Vecchio"
+    },
+    {
+      "word": "Torino",
+      "hint": "Mole"
+    },
+    {
+      "word": "Bologna",
+      "hint": "Portici"
+    },
+    {
+      "word": "Genova",
+      "hint": "Lanterna"
+    },
+    {
+      "word": "Palermo",
+      "hint": "Ballarò"
+    },
+    {
+      "word": "Bari",
+      "hint": "San Nicola"
+    },
+    {
+      "word": "Pisa",
+      "hint": "Torre pendente"
+    },
+    {
+      "word": "Verona",
+      "hint": "Giulietta"
+    },
+    {
+      "word": "Siena",
+      "hint": "Palio"
+    },
+    {
+      "word": "Catania",
+      "hint": "Etna"
+    },
+    {
+      "word": "Trieste",
+      "hint": "Bora"
+    },
+    {
+      "word": "Cagliari",
+      "hint": "Poetto"
+    },
+    {
+      "word": "Lecce",
+      "hint": "Barocco"
+    },
+    {
+      "word": "Matera",
+      "hint": "Sassi"
+    },
+    {
+      "word": "Perugia",
+      "hint": "Cioccolato"
+    },
+    {
+      "word": "Assisi",
+      "hint": "San Francesco"
+    },
+    {
+      "word": "Parma",
+      "hint": "Verdi"
+    },
+    {
+      "word": "Modena",
+      "hint": "Aceto balsamico"
+    },
+    {
+      "word": "Bergamo",
+      "hint": "Città Alta"
+    },
+    {
+      "word": "Como",
+      "hint": "Lago"
+    },
+    {
+      "word": "Rimini",
+      "hint": "Riviera"
+    },
+    {
+      "word": "Taormina",
+      "hint": "Teatro greco"
+    },
+    {
+      "word": "Capri",
+      "hint": "Faraglioni"
+    },
+    {
+      "word": "Amalfi",
+      "hint": "Costiera"
+    },
+    {
+      "word": "Portofino",
+      "hint": "Yacht"
+    },
+    {
+      "word": "Cortina",
+      "hint": "Sci"
+    },
+    {
+      "word": "Aosta",
+      "hint": "Valle"
+    },
+    {
+      "word": "Trento",
+      "hint": "Concilio"
+    },
+    {
+      "word": "Bolzano",
+      "hint": "Ötzi"
+    },
+    {
+      "word": "Ferrara",
+      "hint": "Biciclette"
+    },
+    {
+      "word": "Padova",
+      "hint": "Prato della Valle"
+    },
+    {
+      "word": "Livorno",
+      "hint": "Cacciucco"
+    },
+    {
+      "word": "Ravenna",
+      "hint": "Mosaici"
+    },
+    {
+      "word": "Pompei",
+      "hint": "Scavi"
+    },
+    {
+      "word": "Alberobello",
+      "hint": "Trulli"
+    },
+    {
+      "word": "Cinque Terre",
+      "hint": "Sentieri"
+    },
+    {
+      "word": "Urbino",
+      "hint": "Raffaello"
+    },
+    {
+      "word": "Lampedusa",
+      "hint": "Isola"
+    }
+  ]
+}

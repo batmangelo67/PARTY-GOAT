@@ -1,0 +1,125 @@
+{
+  "id": "it-sport",
+  "title": "Sport",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "bomb",
+    "impostor"
+  ],
+  "items": [
+    {
+      "word": "Tennis",
+      "hint": "Racchetta"
+    },
+    {
+      "word": "Basket",
+      "hint": "Canestro"
+    },
+    {
+      "word": "Nuoto",
+      "hint": "Piscina"
+    },
+    {
+      "word": "Pallavolo",
+      "hint": "Rete"
+    },
+    {
+      "word": "Golf",
+      "hint": "Mazze"
+    },
+    {
+      "word": "Pugilato",
+      "hint": "Ring"
+    },
+    {
+      "word": "Rugby",
+      "hint": "Mischia"
+    },
+    {
+      "word": "Ciclismo",
+      "hint": "Giro"
+    },
+    {
+      "word": "Sci",
+      "hint": "Piste"
+    },
+    {
+      "word": "Surf",
+      "hint": "Onde"
+    },
+    {
+      "word": "Scherma",
+      "hint": "Fioretto"
+    },
+    {
+      "word": "Tiro con l'arco",
+      "hint": "Frecce"
+    },
+    {
+      "word": "Canottaggio",
+      "hint": "Remi"
+    },
+    {
+      "word": "Ginnastica",
+      "hint": "Trave"
+    },
+    {
+      "word": "Ping pong",
+      "hint": "Tavolo"
+    },
+    {
+      "word": "Karate",
+      "hint": "Cintura nera"
+    },
+    {
+      "word": "Vela",
+      "hint": "Vento"
+    },
+    {
+      "word": "Arrampicata",
+      "hint": "Imbrago"
+    },
+    {
+      "word": "Maratona",
+      "hint": "42 km"
+    },
+    {
+      "word": "Freccette",
+      "hint": "Bersaglio"
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Tavola"
+    },
+    {
+      "word": "Equitazione",
+      "hint": "Maneggio"
+    },
+    {
+      "word": "Formula 1",
+      "hint": "Box"
+    },
+    {
+      "word": "MotoGP",
+      "hint": "Mugello"
+    },
+    {
+      "word": "Padel",
+      "hint": "Vetri"
+    },
+    {
+      "word": "Bocce",
+      "hint": "Pallino"
+    },
+    {
+      "word": "Biliardo",
+      "hint": "Stecca"
+    },
+    {
+      "word": "Beach volley",
+      "hint": "Sabbia"
+    }
+  ]
+}

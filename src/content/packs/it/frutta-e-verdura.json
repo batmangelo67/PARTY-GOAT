@@ -1,0 +1,129 @@
+{
+  "id": "it-frutta-e-verdura",
+  "title": "Frutta e verdura",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "bomb",
+    "impostor"
+  ],
+  "items": [
+    {
+      "word": "Mela",
+      "hint": "Torsolo"
+    },
+    {
+      "word": "Banana",
+      "hint": "Buccia"
+    },
+    {
+      "word": "Arancia",
+      "hint": "Spremuta"
+    },
+    {
+      "word": "Ananas",
+      "hint": "Tropicale"
+    },
+    {
+      "word": "Mango",
+      "hint": "Dolce"
+    },
+    {
+      "word": "Uva",
+      "hint": "Vendemmia"
+    },
+    {
+      "word": "Kiwi",
+      "hint": "Peloso"
+    },
+    {
+      "word": "Pesca",
+      "hint": "Nocciolo"
+    },
+    {
+      "word": "Pera",
+      "hint": "Forma"
+    },
+    {
+      "word": "Limone",
+      "hint": "Aspro"
+    },
+    {
+      "word": "Cocco",
+      "hint": "Palma"
+    },
+    {
+      "word": "Mirtillo",
+      "hint": "Piccolo blu"
+    },
+    {
+      "word": "Melone",
+      "hint": "Prosciutto"
+    },
+    {
+      "word": "Prugna",
+      "hint": "Viola"
+    },
+    {
+      "word": "Albicocca",
+      "hint": "Marmellata"
+    },
+    {
+      "word": "Fico",
+      "hint": "Foglia"
+    },
+    {
+      "word": "Carota",
+      "hint": "Arancione"
+    },
+    {
+      "word": "Patata",
+      "hint": "Purè"
+    },
+    {
+      "word": "Zucchina",
+      "hint": "Fiori"
+    },
+    {
+      "word": "Melanzana",
+      "hint": "Parmigiana"
+    },
+    {
+      "word": "Cipolla",
+      "hint": "Lacrime"
+    },
+    {
+      "word": "Aglio",
+      "hint": "Vampiri"
+    },
+    {
+      "word": "Carciofo",
+      "hint": "Alla romana"
+    },
+    {
+      "word": "Broccolo",
+      "hint": "Verde"
+    },
+    {
+      "word": "Spinaci",
+      "hint": "Braccio di Ferro"
+    },
+    {
+      "word": "Cavolfiore",
+      "hint": "Bianco"
+    },
+    {
+      "word": "Finocchio",
+      "hint": "Digestivo"
+    },
+    {
+      "word": "Radicchio",
+      "hint": "Treviso"
+    },
+    {
+      "word": "Castagna",
+      "hint": "Autunno"
+    }
+  ]
+}

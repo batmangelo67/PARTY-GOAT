@@ -1,0 +1,121 @@
+{
+  "id": "it-cose-rosse",
+  "title": "Cose rosse",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "bomb",
+    "impostor"
+  ],
+  "items": [
+    {
+      "word": "Pomodoro",
+      "hint": "Sugo"
+    },
+    {
+      "word": "Fragola",
+      "hint": "Panna"
+    },
+    {
+      "word": "Ciliegia",
+      "hint": "Nocciolo"
+    },
+    {
+      "word": "Coccinella",
+      "hint": "Puntini"
+    },
+    {
+      "word": "Rosa",
+      "hint": "San Valentino"
+    },
+    {
+      "word": "Ketchup",
+      "hint": "Patatine"
+    },
+    {
+      "word": "Rossetto",
+      "hint": "Labbra"
+    },
+    {
+      "word": "Sangue",
+      "hint": "Vene"
+    },
+    {
+      "word": "Mattone",
+      "hint": "Muro"
+    },
+    {
+      "word": "Peperoncino",
+      "hint": "Calabria"
+    },
+    {
+      "word": "Cassetta delle lettere",
+      "hint": "Poste"
+    },
+    {
+      "word": "Aragosta",
+      "hint": "Chele"
+    },
+    {
+      "word": "Babbo Natale",
+      "hint": "Slitta"
+    },
+    {
+      "word": "Rubino",
+      "hint": "Gemma"
+    },
+    {
+      "word": "Lava",
+      "hint": "Vulcano"
+    },
+    {
+      "word": "Lampone",
+      "hint": "Marmellata"
+    },
+    {
+      "word": "Semaforo rosso",
+      "hint": "Fermarsi"
+    },
+    {
+      "word": "Camion dei pompieri",
+      "hint": "Sirena"
+    },
+    {
+      "word": "Naso da clown",
+      "hint": "Circo"
+    },
+    {
+      "word": "Tappeto rosso",
+      "hint": "Prima del film"
+    },
+    {
+      "word": "Marte",
+      "hint": "Pianeta"
+    },
+    {
+      "word": "Paprika",
+      "hint": "Spezia"
+    },
+    {
+      "word": "Melagrana",
+      "hint": "Chicchi"
+    },
+    {
+      "word": "Cartellino rosso",
+      "hint": "Espulsione"
+    },
+    {
+      "word": "Corallo",
+      "hint": "Mare"
+    },
+    {
+      "word": "Guantoni da boxe",
+      "hint": "Ring"
+    },
+    {
+      "word": "Peperone rosso",
+      "hint": "Arrosto"
+    }
+  ]
+}

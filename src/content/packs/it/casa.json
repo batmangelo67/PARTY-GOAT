@@ -1,0 +1,181 @@
+{
+  "id": "it-casa",
+  "title": "Cose di casa",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Moka",
+      "hint": "Fornello"
+    },
+    {
+      "word": "Bidet",
+      "hint": "Bagno"
+    },
+    {
+      "word": "Frigorifero",
+      "hint": "Freddo"
+    },
+    {
+      "word": "Divano",
+      "hint": "Pisolino"
+    },
+    {
+      "word": "Lavatrice",
+      "hint": "Centrifuga"
+    },
+    {
+      "word": "Spazzolino",
+      "hint": "Denti"
+    },
+    {
+      "word": "Cuscino",
+      "hint": "Letto"
+    },
+    {
+      "word": "Telecomando",
+      "hint": "Zapping"
+    },
+    {
+      "word": "Specchio",
+      "hint": "Riflesso"
+    },
+    {
+      "word": "Aspirapolvere",
+      "hint": "Polvere"
+    },
+    {
+      "word": "Lampada",
+      "hint": "Luce"
+    },
+    {
+      "word": "Doccia",
+      "hint": "Acqua calda"
+    },
+    {
+      "word": "Tostapane",
+      "hint": "Pane"
+    },
+    {
+      "word": "Forno",
+      "hint": "Teglia"
+    },
+    {
+      "word": "Sveglia",
+      "hint": "Mattina"
+    },
+    {
+      "word": "Citofono",
+      "hint": "Portone"
+    },
+    {
+      "word": "Tapparella",
+      "hint": "Finestra"
+    },
+    {
+      "word": "Ferro da stiro",
+      "hint": "Pieghe"
+    },
+    {
+      "word": "Phon",
+      "hint": "Capelli"
+    },
+    {
+      "word": "Scolapasta",
+      "hint": "Buchi"
+    },
+    {
+      "word": "Mestolo",
+      "hint": "Sugo"
+    },
+    {
+      "word": "Pentola a pressione",
+      "hint": "Fischio"
+    },
+    {
+      "word": "Stendino",
+      "hint": "Panni"
+    },
+    {
+      "word": "Ciabatte",
+      "hint": "Piedi"
+    },
+    {
+      "word": "Coperta",
+      "hint": "Inverno"
+    },
+    {
+      "word": "Tovaglia",
+      "hint": "Pranzo domenicale"
+    },
+    {
+      "word": "Termosifone",
+      "hint": "Calore"
+    },
+    {
+      "word": "Zanzariera",
+      "hint": "Estate"
+    },
+    {
+      "word": "Ventilatore",
+      "hint": "Caldo"
+    },
+    {
+      "word": "Lavastoviglie",
+      "hint": "Piatti"
+    },
+    {
+      "word": "Armadio",
+      "hint": "Vestiti"
+    },
+    {
+      "word": "Comodino",
+      "hint": "Abat-jour"
+    },
+    {
+      "word": "Cassetto",
+      "hint": "Calzini"
+    },
+    {
+      "word": "Scopa",
+      "hint": "Paletta"
+    },
+    {
+      "word": "Mollette",
+      "hint": "Bucato"
+    },
+    {
+      "word": "Tappeto",
+      "hint": "Pavimento"
+    },
+    {
+      "word": "Pianta",
+      "hint": "Vaso"
+    },
+    {
+      "word": "Chiavi",
+      "hint": "Serratura"
+    },
+    {
+      "word": "Caricabatterie",
+      "hint": "Cavo"
+    },
+    {
+      "word": "Presepe",
+      "hint": "Pastori"
+    },
+    {
+      "word": "Bomboniera",
+      "hint": "Matrimonio"
+    },
+    {
+      "word": "Centrino",
+      "hint": "Nonna"
+    }
+  ]
+}

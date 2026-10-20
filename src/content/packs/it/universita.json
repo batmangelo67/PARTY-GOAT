@@ -1,0 +1,173 @@
+{
+  "id": "it-universita",
+  "title": "Vita universitaria",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Esame",
+      "hint": "Ansia"
+    },
+    {
+      "word": "Appello",
+      "hint": "Iscrizione"
+    },
+    {
+      "word": "Libretto",
+      "hint": "Voti"
+    },
+    {
+      "word": "Trenta e lode",
+      "hint": "Massimo"
+    },
+    {
+      "word": "Tesi",
+      "hint": "Relatore"
+    },
+    {
+      "word": "Laurea",
+      "hint": "Corona d'alloro"
+    },
+    {
+      "word": "Sessione",
+      "hint": "Studio matto"
+    },
+    {
+      "word": "Fuorisede",
+      "hint": "Pacchi da casa"
+    },
+    {
+      "word": "Erasmus",
+      "hint": "Estero"
+    },
+    {
+      "word": "Biblioteca",
+      "hint": "Silenzio"
+    },
+    {
+      "word": "Aula studio",
+      "hint": "Posto libero"
+    },
+    {
+      "word": "Mensa",
+      "hint": "Vassoio"
+    },
+    {
+      "word": "Professore",
+      "hint": "Ricevimento"
+    },
+    {
+      "word": "Lezione",
+      "hint": "Aula magna"
+    },
+    {
+      "word": "Appunti",
+      "hint": "Fotocopie"
+    },
+    {
+      "word": "Ripetizioni",
+      "hint": "Soldi"
+    },
+    {
+      "word": "Tasse universitarie",
+      "hint": "ISEE"
+    },
+    {
+      "word": "Coinquilino",
+      "hint": "Bollette"
+    },
+    {
+      "word": "Affitto",
+      "hint": "Proprietario"
+    },
+    {
+      "word": "Festa di laurea",
+      "hint": "Papiro"
+    },
+    {
+      "word": "Matricola",
+      "hint": "Primo anno"
+    },
+    {
+      "word": "Fuoricorso",
+      "hint": "Anni in più"
+    },
+    {
+      "word": "Orale",
+      "hint": "Domande"
+    },
+    {
+      "word": "Scritto",
+      "hint": "Penna"
+    },
+    {
+      "word": "Crediti",
+      "hint": "CFU"
+    },
+    {
+      "word": "Tirocinio",
+      "hint": "Esperienza"
+    },
+    {
+      "word": "Caffè delle macchinette",
+      "hint": "Corridoio"
+    },
+    {
+      "word": "Slide",
+      "hint": "Proiettore"
+    },
+    {
+      "word": "Gruppo WhatsApp",
+      "hint": "Notifiche"
+    },
+    {
+      "word": "Bocciatura",
+      "hint": "Riprovare"
+    },
+    {
+      "word": "Rifiutare il voto",
+      "hint": "Diciotto"
+    },
+    {
+      "word": "Seminario",
+      "hint": "Ospite"
+    },
+    {
+      "word": "Festa in casa",
+      "hint": "Vicini"
+    },
+    {
+      "word": "Treno regionale",
+      "hint": "Ritardo"
+    },
+    {
+      "word": "Pendolare",
+      "hint": "Abbonamento"
+    },
+    {
+      "word": "Borsa di studio",
+      "hint": "Merito"
+    },
+    {
+      "word": "Manuale",
+      "hint": "Pagine"
+    },
+    {
+      "word": "Evidenziatore",
+      "hint": "Giallo"
+    },
+    {
+      "word": "Calendario esami",
+      "hint": "Date"
+    },
+    {
+      "word": "Discussione",
+      "hint": "Commissione"
+    }
+  ]
+}

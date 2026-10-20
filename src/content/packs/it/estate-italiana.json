@@ -1,0 +1,177 @@
+{
+  "id": "it-estate-italiana",
+  "title": "Estate italiana",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Ombrellone",
+      "hint": "Lettino"
+    },
+    {
+      "word": "Crema solare",
+      "hint": "Protezione"
+    },
+    {
+      "word": "Ferragosto",
+      "hint": "Grigliata"
+    },
+    {
+      "word": "Sagra",
+      "hint": "Paese"
+    },
+    {
+      "word": "Tormentone",
+      "hint": "Radio"
+    },
+    {
+      "word": "Spiaggia libera",
+      "hint": "Gratis"
+    },
+    {
+      "word": "Stabilimento balneare",
+      "hint": "Cabine"
+    },
+    {
+      "word": "Racchettoni",
+      "hint": "Pallina"
+    },
+    {
+      "word": "Materassino",
+      "hint": "Galleggiare"
+    },
+    {
+      "word": "Infradito",
+      "hint": "Sabbia"
+    },
+    {
+      "word": "Anguria",
+      "hint": "Fette"
+    },
+    {
+      "word": "Autostrada",
+      "hint": "Esodo"
+    },
+    {
+      "word": "Traghetto",
+      "hint": "Sardegna"
+    },
+    {
+      "word": "Campeggio",
+      "hint": "Tenda"
+    },
+    {
+      "word": "Afa",
+      "hint": "Umidità"
+    },
+    {
+      "word": "Aria condizionata",
+      "hint": "Fresco"
+    },
+    {
+      "word": "Partita a carte",
+      "hint": "Briscola"
+    },
+    {
+      "word": "Cocco bello",
+      "hint": "Ambulante"
+    },
+    {
+      "word": "Bomba alla crema",
+      "hint": "Fritta"
+    },
+    {
+      "word": "Pedalò",
+      "hint": "Scivolo"
+    },
+    {
+      "word": "Castello di sabbia",
+      "hint": "Secchiello"
+    },
+    {
+      "word": "Snorkeling",
+      "hint": "Maschera"
+    },
+    {
+      "word": "Abbronzatura",
+      "hint": "Pelle"
+    },
+    {
+      "word": "Scottatura",
+      "hint": "Rossa"
+    },
+    {
+      "word": "Doposole",
+      "hint": "Sollievo"
+    },
+    {
+      "word": "Biliardino",
+      "hint": "Omini"
+    },
+    {
+      "word": "Festa patronale",
+      "hint": "Santo"
+    },
+    {
+      "word": "Fuochi d'artificio",
+      "hint": "Botti"
+    },
+    {
+      "word": "Notte di San Lorenzo",
+      "hint": "Stelle cadenti"
+    },
+    {
+      "word": "Villeggiatura",
+      "hint": "Seconda casa"
+    },
+    {
+      "word": "Rifugio",
+      "hint": "Montagna"
+    },
+    {
+      "word": "Discoteca",
+      "hint": "Pista"
+    },
+    {
+      "word": "Concerto all'aperto",
+      "hint": "Palco"
+    },
+    {
+      "word": "Telo mare",
+      "hint": "Spugna"
+    },
+    {
+      "word": "Settimana enigmistica",
+      "hint": "Cruciverba"
+    },
+    {
+      "word": "Caffè shakerato",
+      "hint": "Ghiaccio"
+    },
+    {
+      "word": "Ghiacciolo",
+      "hint": "Stecco"
+    },
+    {
+      "word": "Tuffo",
+      "hint": "Trampolino"
+    },
+    {
+      "word": "Scogli",
+      "hint": "Ricci di mare"
+    },
+    {
+      "word": "Ventaglio",
+      "hint": "Sventolare"
+    },
+    {
+      "word": "Sdraio",
+      "hint": "Pieghevole"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "id": "en-things-at-home",
+  "title": "Things at Home",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Fridge",
+      "hint": "Cold"
+    },
+    {
+      "word": "Sofa",
+      "hint": "Living room"
+    },
+    {
+      "word": "Toaster",
+      "hint": "Bread"
+    },
+    {
+      "word": "Microwave",
+      "hint": "Reheat"
+    },
+    {
+      "word": "Washing machine",
+      "hint": "Spin"
+    },
+    {
+      "word": "Toothbrush",
+      "hint": "Bathroom"
+    },
+    {
+      "word": "Pillow",
+      "hint": "Bed"
+    },
+    {
+      "word": "Remote control",
+      "hint": "TV"
+    },
+    {
+      "word": "Mirror",
+      "hint": "Reflection"
+    },
+    {
+      "word": "Vacuum cleaner",
+      "hint": "Dust"
+    },
+    {
+      "word": "Lamp",
+      "hint": "Light"
+    },
+    {
+      "word": "Shower",
+      "hint": "Water"
+    },
+    {
+      "word": "Kettle",
+      "hint": "Tea"
+    },
+    {
+      "word": "Alarm clock",
+      "hint": "Morning"
+    },
+    {
+      "word": "Doorbell",
+      "hint": "Ding dong"
+    },
+    {
+      "word": "Bookshelf",
+      "hint": "Novels"
+    },
+    {
+      "word": "Blanket",
+      "hint": "Cozy"
+    },
+    {
+      "word": "Frying pan",
+      "hint": "Stove"
+    },
+    {
+      "word": "Hairdryer",
+      "hint": "Hot air"
+    },
+    {
+      "word": "Iron",
+      "hint": "Wrinkles"
+    },
+    {
+      "word": "Plant pot",
+      "hint": "Soil"
+    },
+    {
+      "word": "Curtains",
+      "hint": "Window"
+    },
+    {
+      "word": "Fork",
+      "hint": "Cutlery"
+    },
+    {
+      "word": "Candle",
+      "hint": "Flame"
+    },
+    {
+      "word": "Rubbish bin",
+      "hint": "Trash"
+    },
+    {
+      "word": "Laptop",
+      "hint": "Keyboard"
+    },
+    {
+      "word": "Wardrobe",
+      "hint": "Clothes"
+    },
+    {
+      "word": "Rug",
+      "hint": "Floor"
+    },
+    {
+      "word": "Dishwasher",
+      "hint": "Plates"
+    },
+    {
+      "word": "Coat hanger",
+      "hint": "Closet"
+    },
+    {
+      "word": "Bathtub",
+      "hint": "Bubbles"
+    },
+    {
+      "word": "Umbrella",
+      "hint": "Rain"
+    },
+    {
+      "word": "Clock",
+      "hint": "Time"
+    },
+    {
+      "word": "Keys",
+      "hint": "Door"
+    },
+    {
+      "word": "Phone charger",
+      "hint": "Cable"
+    },
+    {
+      "word": "Fan",
+      "hint": "Breeze"
+    },
+    {
+      "word": "Doormat",
+      "hint": "Welcome"
+    },
+    {
+      "word": "Calendar",
+      "hint": "Dates"
+    },
+    {
+      "word": "Ladder",
+      "hint": "Steps"
+    },
+    {
+      "word": "Smoke detector",
+      "hint": "Beeping"
+    }
+  ]
+}

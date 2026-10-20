@@ -1,0 +1,92 @@
+{
+  "id": "it-confessioni",
+  "title": "Confessioni",
+  "language": "it",
+  "spice": 1,
+  "kind": "question-pairs",
+  "games": [
+    "whos-the-liar"
+  ],
+  "items": [
+    {
+      "question": "A che età hai dato il primo bacio?",
+      "liarQuestion": "A che età hai avuto il primo telefono?"
+    },
+    {
+      "question": "Quante volte hai preso una cotta seria?",
+      "liarQuestion": "Quante volte hai pianto guardando un film?"
+    },
+    {
+      "question": "Qual è il regalo più brutto che hai ricevuto?",
+      "liarQuestion": "Qual è il regalo più bello che hai ricevuto?"
+    },
+    {
+      "question": "Qual è la cosa più imbarazzante nella tua cronologia?",
+      "liarQuestion": "Qual è l'ultima cosa che hai cercato su internet?"
+    },
+    {
+      "question": "Chi qui sopravviverebbe più a lungo a un'apocalisse zombie?",
+      "liarQuestion": "Chi qui si perderebbe per primo in un bosco?"
+    },
+    {
+      "question": "Chi qui diventerà famoso?",
+      "liarQuestion": "Chi qui finirà in un reality?"
+    },
+    {
+      "question": "Quanti messaggi non letti hai adesso?",
+      "liarQuestion": "Quante foto hai nel telefono?"
+    },
+    {
+      "question": "Qual è il posto più strano in cui hai fatto un pisolino?",
+      "liarQuestion": "Qual è il posto più strano in cui hai mangiato?"
+    },
+    {
+      "question": "Qual è il taglio di capelli peggiore che hai avuto?",
+      "liarQuestion": "Quale moda hai seguito e ora ti vergogni?"
+    },
+    {
+      "question": "Qual è la bugia più grossa che hai detto ai tuoi da adolescente?",
+      "liarQuestion": "Quale regola dei tuoi genitori odiavi di più da adolescente?"
+    },
+    {
+      "question": "Quale emoji usi di più?",
+      "liarQuestion": "Quale emoji ti dà più fastidio?"
+    },
+    {
+      "question": "Chi qui dà i consigli migliori?",
+      "liarQuestion": "A chi qui affideresti un segreto?"
+    },
+    {
+      "question": "Qual è il lavoretto peggiore che hai fatto?",
+      "liarQuestion": "Qual è il lavoro più strano che vorresti provare?"
+    },
+    {
+      "question": "Quante volte rimandi la sveglia la mattina?",
+      "liarQuestion": "Quante volte al giorno apri il frigo?"
+    },
+    {
+      "question": "Qual è il programma trash che guardi di nascosto?",
+      "liarQuestion": "Quale serie amano tutti e tu non sopporti?"
+    },
+    {
+      "question": "Quanto hai aspettato al massimo prima di rispondere a un messaggio?",
+      "liarQuestion": "Quanto hai aspettato al massimo in fila alle Poste?"
+    },
+    {
+      "question": "Qual è la cosa peggiore da dire al primo appuntamento?",
+      "liarQuestion": "Qual è la frase migliore per rompere il ghiaccio su un'app di incontri?"
+    },
+    {
+      "question": "Chi qui sarebbe il coinquilino peggiore?",
+      "liarQuestion": "Con chi qui faresti un viaggio on the road?"
+    },
+    {
+      "question": "Qual è la scusa migliore per saltare il pranzo dai parenti?",
+      "liarQuestion": "Qual è la scusa migliore per andare via presto da una festa?"
+    },
+    {
+      "question": "Quanto hai speso il mese scorso in cibo a domicilio?",
+      "liarQuestion": "Quanto hai speso il mese scorso in vestiti?"
+    }
+  ]
+}

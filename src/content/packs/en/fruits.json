@@ -1,0 +1,121 @@
+{
+  "id": "en-fruits",
+  "title": "Fruits",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "bomb",
+    "impostor"
+  ],
+  "items": [
+    {
+      "word": "Apple",
+      "hint": "Orchard"
+    },
+    {
+      "word": "Banana",
+      "hint": "Peel"
+    },
+    {
+      "word": "Orange",
+      "hint": "Juice"
+    },
+    {
+      "word": "Pineapple",
+      "hint": "Tropical"
+    },
+    {
+      "word": "Mango",
+      "hint": "Sweet"
+    },
+    {
+      "word": "Grape",
+      "hint": "Vine"
+    },
+    {
+      "word": "Kiwi",
+      "hint": "Fuzzy"
+    },
+    {
+      "word": "Peach",
+      "hint": "Soft skin"
+    },
+    {
+      "word": "Pear",
+      "hint": "Shape"
+    },
+    {
+      "word": "Lemon",
+      "hint": "Sour"
+    },
+    {
+      "word": "Lime",
+      "hint": "Mojito"
+    },
+    {
+      "word": "Coconut",
+      "hint": "Palm tree"
+    },
+    {
+      "word": "Blueberry",
+      "hint": "Tiny"
+    },
+    {
+      "word": "Watermelon",
+      "hint": "Seeds"
+    },
+    {
+      "word": "Melon",
+      "hint": "Summer"
+    },
+    {
+      "word": "Plum",
+      "hint": "Purple"
+    },
+    {
+      "word": "Apricot",
+      "hint": "Jam"
+    },
+    {
+      "word": "Fig",
+      "hint": "Leaf"
+    },
+    {
+      "word": "Papaya",
+      "hint": "Orange flesh"
+    },
+    {
+      "word": "Passion fruit",
+      "hint": "Wrinkly"
+    },
+    {
+      "word": "Blackberry",
+      "hint": "Bramble"
+    },
+    {
+      "word": "Grapefruit",
+      "hint": "Bitter"
+    },
+    {
+      "word": "Lychee",
+      "hint": "Asian"
+    },
+    {
+      "word": "Dragon fruit",
+      "hint": "Pink skin"
+    },
+    {
+      "word": "Cranberry",
+      "hint": "Thanksgiving"
+    },
+    {
+      "word": "Date",
+      "hint": "Desert palm"
+    },
+    {
+      "word": "Kumquat",
+      "hint": "Tiny citrus"
+    }
+  ]
+}

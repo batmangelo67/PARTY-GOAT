@@ -1,0 +1,121 @@
+{
+  "id": "en-musical-instruments",
+  "title": "Musical Instruments",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "bomb",
+    "impostor"
+  ],
+  "items": [
+    {
+      "word": "Guitar",
+      "hint": "Strings"
+    },
+    {
+      "word": "Piano",
+      "hint": "Keys"
+    },
+    {
+      "word": "Drums",
+      "hint": "Sticks"
+    },
+    {
+      "word": "Violin",
+      "hint": "Bow"
+    },
+    {
+      "word": "Trumpet",
+      "hint": "Brass"
+    },
+    {
+      "word": "Flute",
+      "hint": "Wind"
+    },
+    {
+      "word": "Saxophone",
+      "hint": "Jazz"
+    },
+    {
+      "word": "Harp",
+      "hint": "Angels"
+    },
+    {
+      "word": "Cello",
+      "hint": "Between knees"
+    },
+    {
+      "word": "Accordion",
+      "hint": "Squeeze"
+    },
+    {
+      "word": "Harmonica",
+      "hint": "Blues"
+    },
+    {
+      "word": "Ukulele",
+      "hint": "Hawaii"
+    },
+    {
+      "word": "Clarinet",
+      "hint": "Reed"
+    },
+    {
+      "word": "Tambourine",
+      "hint": "Jingle"
+    },
+    {
+      "word": "Xylophone",
+      "hint": "Bars"
+    },
+    {
+      "word": "Bagpipes",
+      "hint": "Highlands"
+    },
+    {
+      "word": "Banjo",
+      "hint": "Country music"
+    },
+    {
+      "word": "Triangle",
+      "hint": "Ding"
+    },
+    {
+      "word": "Double bass",
+      "hint": "Upright"
+    },
+    {
+      "word": "Trombone",
+      "hint": "Slide"
+    },
+    {
+      "word": "Tuba",
+      "hint": "Oom-pah"
+    },
+    {
+      "word": "Maracas",
+      "hint": "Shake"
+    },
+    {
+      "word": "Organ",
+      "hint": "Church"
+    },
+    {
+      "word": "Bongos",
+      "hint": "Pair of drums"
+    },
+    {
+      "word": "Synthesizer",
+      "hint": "Electronic"
+    },
+    {
+      "word": "Recorder",
+      "hint": "School"
+    },
+    {
+      "word": "Cymbals",
+      "hint": "Crash"
+    }
+  ]
+}

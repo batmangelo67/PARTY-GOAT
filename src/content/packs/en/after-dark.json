@@ -1,0 +1,92 @@
+{
+  "id": "en-after-dark",
+  "title": "After Dark",
+  "language": "en",
+  "spice": 2,
+  "kind": "question-pairs",
+  "games": [
+    "whos-the-liar"
+  ],
+  "items": [
+    {
+      "question": "How many dates before a first kiss is ideal?",
+      "liarQuestion": "How many dates before meeting the parents is ideal?"
+    },
+    {
+      "question": "What's the most attractive quality in a person?",
+      "liarQuestion": "What's an instant turn-off?"
+    },
+    {
+      "question": "What's the cheesiest pick-up line you know?",
+      "liarQuestion": "What's the worst line someone has used to flirt with you?"
+    },
+    {
+      "question": "Who here flirts the most?",
+      "liarQuestion": "Who here would be worst at keeping a relationship secret?"
+    },
+    {
+      "question": "How long was your longest relationship?",
+      "liarQuestion": "How long was your longest single streak?"
+    },
+    {
+      "question": "What's the most romantic place for a first date?",
+      "liarQuestion": "What's the worst place to get dumped?"
+    },
+    {
+      "question": "How many of your exes are you still friends with?",
+      "liarQuestion": "How many people have you ghosted?"
+    },
+    {
+      "question": "Which celebrity would you drop everything for?",
+      "liarQuestion": "Which celebrity is overrated in the looks department?"
+    },
+    {
+      "question": "What's the boldest thing you've done to get someone's attention?",
+      "liarQuestion": "What's the most embarrassing thing you've done in front of a crush?"
+    },
+    {
+      "question": "What time does a perfect night out end?",
+      "liarQuestion": "What time is too late to send a \"you up?\" text?"
+    },
+    {
+      "question": "What's the best thing to wear on a first date?",
+      "liarQuestion": "What's the worst outfit for a first date?"
+    },
+    {
+      "question": "How long do you wait to text after a date?",
+      "liarQuestion": "How long do you wait before introducing a date to your friends?"
+    },
+    {
+      "question": "Who here would you trust to set you up on a blind date?",
+      "liarQuestion": "Who here would you never let pick your outfit?"
+    },
+    {
+      "question": "What's your love language?",
+      "liarQuestion": "What's your biggest red flag?"
+    },
+    {
+      "question": "What's the wildest thing you'd do for a million euros?",
+      "liarQuestion": "What's the most embarrassing thing you'd do for a hundred euros?"
+    },
+    {
+      "question": "How many people have you kissed?",
+      "liarQuestion": "How many countries have you visited?"
+    },
+    {
+      "question": "What's the most awkward place you've bumped into an ex?",
+      "liarQuestion": "What's the most awkward place you've bumped into your boss?"
+    },
+    {
+      "question": "What song puts you in a romantic mood?",
+      "liarQuestion": "What song reminds you of a breakup?"
+    },
+    {
+      "question": "What's the worst excuse to cancel a date?",
+      "liarQuestion": "What's the best excuse to escape a boring dinner?"
+    },
+    {
+      "question": "Who here has the most secret admirers?",
+      "liarQuestion": "Who here falls in love the fastest?"
+    }
+  ]
+}

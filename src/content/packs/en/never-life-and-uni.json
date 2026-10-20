@@ -1,0 +1,135 @@
+{
+  "id": "en-never-life-and-uni",
+  "title": "Never Have I Ever: Life & Uni",
+  "language": "en",
+  "spice": 1,
+  "kind": "prompts",
+  "games": [
+    "never-have-i-ever"
+  ],
+  "items": [
+    {
+      "text": "Never have I ever skipped a lecture to sleep in."
+    },
+    {
+      "text": "Never have I ever handed in an assignment one minute before the deadline."
+    },
+    {
+      "text": "Never have I ever started an essay the night before it was due."
+    },
+    {
+      "text": "Never have I ever pretended to have read the book."
+    },
+    {
+      "text": "Never have I ever eaten instant noodles three days in a row."
+    },
+    {
+      "text": "Never have I ever lied about my age."
+    },
+    {
+      "text": "Never have I ever invented an excuse to leave a party early."
+    },
+    {
+      "text": "Never have I ever googled myself."
+    },
+    {
+      "text": "Never have I ever cried in a library."
+    },
+    {
+      "text": "Never have I ever called a teacher \"mum\" or \"dad\"."
+    },
+    {
+      "text": "Never have I ever blamed a smell on someone else."
+    },
+    {
+      "text": "Never have I ever regifted a present."
+    },
+    {
+      "text": "Never have I ever muted the family group chat forever."
+    },
+    {
+      "text": "Never have I ever read someone's messages over their shoulder."
+    },
+    {
+      "text": "Never have I ever eaten a flatmate's food from the shared fridge."
+    },
+    {
+      "text": "Never have I ever pretended to be ill to skip work or school."
+    },
+    {
+      "text": "Never have I ever sent a voice note longer than five minutes."
+    },
+    {
+      "text": "Never have I ever fallen asleep during a lecture."
+    },
+    {
+      "text": "Never have I ever cheated at a board game."
+    },
+    {
+      "text": "Never have I ever exaggerated on my CV."
+    },
+    {
+      "text": "Never have I ever borrowed clothes and never given them back."
+    },
+    {
+      "text": "Never have I ever had a crush on a teacher."
+    },
+    {
+      "text": "Never have I ever cut my own hair."
+    },
+    {
+      "text": "Never have I ever watched a whole season in one day."
+    },
+    {
+      "text": "Never have I ever texted \"on my way\" while still in bed."
+    },
+    {
+      "text": "Never have I ever laughed so hard I snorted."
+    },
+    {
+      "text": "Never have I ever pretended to work while doing nothing."
+    },
+    {
+      "text": "Never have I ever spent a whole paycheck in one weekend."
+    },
+    {
+      "text": "Never have I ever sung karaoke sober."
+    },
+    {
+      "text": "Never have I ever turned up to a party I wasn't invited to."
+    },
+    {
+      "text": "Never have I ever taken the last slice without asking."
+    },
+    {
+      "text": "Never have I ever eavesdropped on strangers on a train."
+    },
+    {
+      "text": "Never have I ever read the last page of a book first."
+    },
+    {
+      "text": "Never have I ever eaten cereal for dinner."
+    },
+    {
+      "text": "Never have I ever forgotten someone's name right after hearing it."
+    },
+    {
+      "text": "Never have I ever missed the last train home."
+    },
+    {
+      "text": "Never have I ever stayed in pyjamas for an entire weekend."
+    },
+    {
+      "text": "Never have I ever argued with a stranger in the comments."
+    },
+    {
+      "text": "Never have I ever pretended not to be home when the doorbell rang."
+    },
+    {
+      "text": "Never have I ever told my parents an exam went better than it did."
+    },
+    {
+      "text": "Never have I ever slept in a train station."
+    }
+  ]
+}

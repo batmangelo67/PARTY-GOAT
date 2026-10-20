@@ -1,0 +1,173 @@
+{
+  "id": "en-food",
+  "title": "Food",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "Pizza",
+      "hint": "Italian"
+    },
+    {
+      "word": "Sushi",
+      "hint": "Raw fish"
+    },
+    {
+      "word": "Burger",
+      "hint": "Bun"
+    },
+    {
+      "word": "Pancakes",
+      "hint": "Breakfast stack"
+    },
+    {
+      "word": "Tacos",
+      "hint": "Mexican"
+    },
+    {
+      "word": "Croissant",
+      "hint": "Flaky"
+    },
+    {
+      "word": "Lasagna",
+      "hint": "Layers"
+    },
+    {
+      "word": "Ramen",
+      "hint": "Noodle soup"
+    },
+    {
+      "word": "Popcorn",
+      "hint": "Cinema"
+    },
+    {
+      "word": "Chocolate",
+      "hint": "Cocoa"
+    },
+    {
+      "word": "Avocado",
+      "hint": "Guacamole"
+    },
+    {
+      "word": "Spaghetti",
+      "hint": "Long strands"
+    },
+    {
+      "word": "Hot dog",
+      "hint": "Sausage"
+    },
+    {
+      "word": "Ice cream",
+      "hint": "Cone"
+    },
+    {
+      "word": "Cheesecake",
+      "hint": "Creamy dessert"
+    },
+    {
+      "word": "French fries",
+      "hint": "Ketchup"
+    },
+    {
+      "word": "Omelette",
+      "hint": "Eggs"
+    },
+    {
+      "word": "Curry",
+      "hint": "Spicy sauce"
+    },
+    {
+      "word": "Donut",
+      "hint": "Hole"
+    },
+    {
+      "word": "Salad",
+      "hint": "Leafy"
+    },
+    {
+      "word": "Popsicle",
+      "hint": "Stick"
+    },
+    {
+      "word": "Waffle",
+      "hint": "Grid pattern"
+    },
+    {
+      "word": "Burrito",
+      "hint": "Wrapped"
+    },
+    {
+      "word": "Steak",
+      "hint": "Medium rare"
+    },
+    {
+      "word": "Dumplings",
+      "hint": "Steamed"
+    },
+    {
+      "word": "Hummus",
+      "hint": "Chickpeas"
+    },
+    {
+      "word": "Paella",
+      "hint": "Saffron"
+    },
+    {
+      "word": "Bagel",
+      "hint": "Cream cheese"
+    },
+    {
+      "word": "Kebab",
+      "hint": "Late night"
+    },
+    {
+      "word": "Mac and cheese",
+      "hint": "Comfort"
+    },
+    {
+      "word": "Apple pie",
+      "hint": "Grandma"
+    },
+    {
+      "word": "Brownie",
+      "hint": "Fudgy"
+    },
+    {
+      "word": "Peanut butter",
+      "hint": "Jelly"
+    },
+    {
+      "word": "Fried chicken",
+      "hint": "Crispy"
+    },
+    {
+      "word": "Cupcake",
+      "hint": "Frosting"
+    },
+    {
+      "word": "Nachos",
+      "hint": "Melted"
+    },
+    {
+      "word": "Porridge",
+      "hint": "Oats"
+    },
+    {
+      "word": "Fish and chips",
+      "hint": "British"
+    },
+    {
+      "word": "Smoothie",
+      "hint": "Blender"
+    },
+    {
+      "word": "Toast",
+      "hint": "Butter"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "id": "it-film-e-tv",
+  "title": "Film e TV",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor",
+    "bomb"
+  ],
+  "items": [
+    {
+      "word": "La vita è bella",
+      "hint": "Benigni"
+    },
+    {
+      "word": "Fantozzi",
+      "hint": "Ragioniere"
+    },
+    {
+      "word": "Don Matteo",
+      "hint": "Gubbio"
+    },
+    {
+      "word": "Il Commissario Montalbano",
+      "hint": "Vigàta"
+    },
+    {
+      "word": "Gomorra",
+      "hint": "Scampia"
+    },
+    {
+      "word": "Suburra",
+      "hint": "Ostia"
+    },
+    {
+      "word": "Romanzo Criminale",
+      "hint": "Magliana"
+    },
+    {
+      "word": "La casa di carta",
+      "hint": "Maschere"
+    },
+    {
+      "word": "Il Signore degli Anelli",
+      "hint": "Hobbit"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Hogwarts"
+    },
+    {
+      "word": "Titanic",
+      "hint": "Iceberg"
+    },
+    {
+      "word": "Festival di Sanremo",
+      "hint": "Ariston"
+    },
+    {
+      "word": "X Factor",
+      "hint": "Giudici"
+    },
+    {
+      "word": "Grande Fratello",
+      "hint": "Confessionale"
+    },
+    {
+      "word": "Mare fuori",
+      "hint": "Carcere minorile"
+    },
+    {
+      "word": "L'amica geniale",
+      "hint": "Lenù"
+    },
+    {
+      "word": "Boris",
+      "hint": "Set"
+    },
+    {
+      "word": "Un medico in famiglia",
+      "hint": "Nonno Libero"
+    },
+    {
+      "word": "I Cesaroni",
+      "hint": "Garbatella"
+    },
+    {
+      "word": "Il Marchese del Grillo",
+      "hint": "Sordi"
+    },
+    {
+      "word": "Amici miei",
+      "hint": "Supercazzola"
+    },
+    {
+      "word": "Nuovo Cinema Paradiso",
+      "hint": "Proiezionista"
+    },
+    {
+      "word": "La grande bellezza",
+      "hint": "Jep"
+    },
+    {
+      "word": "Il ciclone",
+      "hint": "Flamenco"
+    },
+    {
+      "word": "Tre uomini e una gamba",
+      "hint": "Trio"
+    },
+    {
+      "word": "Vacanze di Natale",
+      "hint": "Cinepanettone"
+    },
+    {
+      "word": "Perfetti sconosciuti",
+      "hint": "Telefoni"
+    },
+    {
+      "word": "Zelig",
+      "hint": "Cabaret"
+    },
+    {
+      "word": "Striscia la notizia",
+      "hint": "Tapiro"
+    },
+    {
+      "word": "Affari tuoi",
+      "hint": "Pacchi"
+    },
+    {
+      "word": "Chi l'ha visto?",
+      "hint": "Scomparsi"
+    },
+    {
+      "word": "Il Commissario Rex",
+      "hint": "Pastore tedesco"
+    },
+    {
+      "word": "Squid Game",
+      "hint": "Bambola gigante"
+    },
+    {
+      "word": "Stranger Things",
+      "hint": "Sottosopra"
+    },
+    {
+      "word": "Friends",
+      "hint": "Central Perk"
+    },
+    {
+      "word": "I Simpson",
+      "hint": "Springfield"
+    },
+    {
+      "word": "Dragon Ball",
+      "hint": "Sfere"
+    },
+    {
+      "word": "One Piece",
+      "hint": "Pirati"
+    },
+    {
+      "word": "Lupin III",
+      "hint": "Ladro gentiluomo"
+    },
+    {
+      "word": "Holly e Benji",
+      "hint": "Cartone calcio"
+    },
+    {
+      "word": "Heidi",
+      "hint": "Alpi"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "en-never-light",
+  "title": "Never Have I Ever: Light",
+  "language": "en",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "never-have-i-ever"
+  ],
+  "items": [
+    {
+      "text": "Never have I ever eaten pizza for breakfast."
+    },
+    {
+      "text": "Never have I ever fallen asleep in a cinema."
+    },
+    {
+      "text": "Never have I ever sung in the shower so loudly the neighbours heard."
+    },
+    {
+      "text": "Never have I ever pretended to know a song I'd never heard."
+    },
+    {
+      "text": "Never have I ever waved back at someone who wasn't waving at me."
+    },
+    {
+      "text": "Never have I ever walked into a glass door."
+    },
+    {
+      "text": "Never have I ever sent a text to the wrong person."
+    },
+    {
+      "text": "Never have I ever laughed at a joke I didn't understand."
+    },
+    {
+      "text": "Never have I ever cried at an animated film."
+    },
+    {
+      "text": "Never have I ever forgotten a close friend's birthday."
+    },
+    {
+      "text": "Never have I ever tripped going up the stairs."
+    },
+    {
+      "text": "Never have I ever said \"you too\" when a waiter told me to enjoy my meal."
+    },
+    {
+      "text": "Never have I ever broken a bone."
+    },
+    {
+      "text": "Never have I ever been on TV."
+    },
+    {
+      "text": "Never have I ever ridden a horse."
+    },
+    {
+      "text": "Never have I ever eaten something that fell on the floor."
+    },
+    {
+      "text": "Never have I ever talked to a plant."
+    },
+    {
+      "text": "Never have I ever watched the same series three times."
+    },
+    {
+      "text": "Never have I ever pretended to be on the phone to avoid someone."
+    },
+    {
+      "text": "Never have I ever looked for my phone while holding it."
+    },
+    {
+      "text": "Never have I ever kept a library book far too long."
+    },
+    {
+      "text": "Never have I ever dyed my hair a wild colour."
+    },
+    {
+      "text": "Never have I ever won a trophy."
+    },
+    {
+      "text": "Never have I ever sleepwalked."
+    },
+    {
+      "text": "Never have I ever finished a whole tub of ice cream in one go."
+    },
+    {
+      "text": "Never have I ever met a celebrity."
+    },
+    {
+      "text": "Never have I ever practised an award speech in the mirror."
+    },
+    {
+      "text": "Never have I ever fallen off a bike."
+    },
+    {
+      "text": "Never have I ever locked myself out of my house."
+    },
+    {
+      "text": "Never have I ever worn socks with sandals in public."
+    },
+    {
+      "text": "Never have I ever built a snowman."
+    },
+    {
+      "text": "Never have I ever missed a flight."
+    },
+    {
+      "text": "Never have I ever named my car or my bike."
+    },
+    {
+      "text": "Never have I ever had a nickname I hated."
+    },
+    {
+      "text": "Never have I ever been stung by a jellyfish."
+    },
+    {
+      "text": "Never have I ever stayed up all night to watch the sunrise."
+    },
+    {
+      "text": "Never have I ever cooked a meal nobody could eat."
+    },
+    {
+      "text": "Never have I ever taken a selfie with a stranger's dog."
+    },
+    {
+      "text": "Never have I ever learned a dance from a video."
+    },
+    {
+      "text": "Never have I ever slept in a tent."
+    }
+  ]
+}
