@@ -11,7 +11,9 @@
     "typecheck": "tsc --noEmit",
     "test": "vitest run",
     "validate:packs": "vitest run src/content",
-    "make:icons": "node scripts/make-icons.mjs"
+    "make:icons": "node scripts/make-icons.mjs",
+    "audit": "npm run build && playwright test -c tests/audit/playwright.config.ts",
+    "audit:report": "node scripts/audit-report.mjs"
   },
   "type": "module",
   "dependencies": {
@@ -23,6 +25,7 @@
     "zustand": "^5.0.15"
   },
   "devDependencies": {
+    "@playwright/test": "^1.64.1",
     "@types/node": "^26.6.5",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",

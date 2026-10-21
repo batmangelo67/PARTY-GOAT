@@ -18,3 +18,7 @@ coverage/
 .mcp.json
 ruvector.db
 *.rvf
+
+# Audit harness raw output (curated evidence lives in docs/audit/)
+docs/audit/runs/
+dist-next/
