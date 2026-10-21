@@ -4,7 +4,7 @@ import { DISCUSSION_MINUTES_OPTIONS, MIN_PLAYERS, QUICK_START_PARAM } from "../a
 import type { Translate } from "../i18n/use-t";
 import { useT } from "../i18n/use-t";
 import type { DiscussionMinutes } from "./discussion-minutes";
-import { startSession, type SessionOrigin } from "./game-session";
+import { quickStartAction, startSession, type SessionOrigin } from "./game-session";
 import { usePlayLogStore } from "./play-log-store";
 import type { Player } from "./players";
 import { unlockAudio } from "./sound";
@@ -53,9 +53,10 @@ export function StartFooter({ problems, packIds, onBeforeStart }: StartFooterPro
   };
 
   useEffect(() => {
-    if (params.get(QUICK_START_PARAM) !== "1" || quickStarted.current) return;
+    const action = quickStartAction(params.get(QUICK_START_PARAM) === "1", quickStarted.current, problems);
+    if (action === "none") return;
     quickStarted.current = true;
-    if (problems.length === 0) start("home");
+    if (action === "start") start("home");
     else setParams({}, { replace: true });
   });
 

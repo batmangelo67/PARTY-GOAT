@@ -261,3 +261,38 @@ Throttled Chromium (4x CPU, 1.6 Mbps): about 3.1 s to a usable home before and a
 - Splitting the shared vendor chunk (React, router, zod) further; first load is already offline-cached after the first visit.
 - Folder and section chips in the picker once packs carry `group`/`section` (TAXONOMY.md).
 - Backups (Settings > Export) do not include remembered options, recents or starred packs yet.
+
+## Final regression (after phase 3 and 4)
+
+Full harness on the final build, all 3 iPhone sizes in WebKit plus Chromium, English and Italian
+(`docs/audit/summary-after.md`, `results-after.json`, screenshots in `docs/audit/evidence/after/`): 304 checks passed.
+
+- **Tap counts:** unchanged from phase 2 on every device and language (table above). Repeat play is 1 tap from the home card,
+  setups fit one screen (Impostor 1.1 screens on an SE in Italian), one pack is 5 taps, everything again is 4.
+- **Exits:** every in-game screen of every game has the ✕; back opens the pause menu in all 10 games; reload lands on setup
+  with options kept; backgrounding keeps turns and fuses paused; 0 wake locks and 0 sounds after leaving.
+- **Layout:** 0 issues on all 8 device/language pairs, including every setup, "More options", picker, the pack library,
+  pack editor, import, players and settings.
+- **Monkey:** 40 runs x 120 random actions, clean.
+- **Remembered choices:** options and packs kept after relaunch in 10 of 10 games.
+- **Offline:** reload offline and a full Impostor start work on all 8 pairs.
+- **First load:** the inline splash paints at once (WebKit first paint about 20 ms instead of about 150 ms, before the JS runs).
+  Initial JS + CSS 550 KB raw, 171 KB gzip (before: 514 KB, 155 KB). Throttled Chromium (4x CPU, 1.6 Mbps): about 3.1-3.6 s
+  to a usable home, the same range as before. Offline precache 664 KiB (75 entries) before → 783 KiB (105 entries) after.
+
+### Size of the visual identity
+
+| | Before phase 3 | After phase 3 |
+|---|---|---|
+| Initial JS + CSS (gzip) | 164 KB | 171 KB |
+| App icons in the precache | 4.9 KB (192 + touch icon) | 30 KB (192 + touch icon) |
+| 512 px install icons | precached (14 KB) | not precached (84 KB, fetched only on install) |
+| Offline precache | 750 KiB | 783 KiB |
+
+All art is SVG/CSS/canvas in code; the only binaries are the generated icons.
+
+### Still deferred
+
+Same list as after phase 2 (M5 number keypad Done control, duplicate-name message on rename, vendor chunk, TAXONOMY folders,
+backups of remembered options), plus: the harness cannot drive a real iPhone, so keyboard overlap, safe-area insets on
+notched phones and the standalone back swipe were checked in code and need the on-device checklist.

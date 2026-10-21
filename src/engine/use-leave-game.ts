@@ -1,17 +1,16 @@
 import { useNavigate, useParams } from "react-router";
-import { endSession, useGameSession } from "./game-session";
+import { endSession, leaveStep, useGameSession, type LeaveTarget } from "./game-session";
 
-export type LeaveTarget = "setup" | "home";
+export type { LeaveTarget } from "./game-session";
 
-// Leaves the running game for its setup screen or home. Steps back in history when that is where
-// the game was started from, so the back gesture afterwards doesn't land inside a finished game.
+// Leaves the running game for its setup screen or home (see leaveStep for the history rule).
 export function useLeaveGame(): (target: LeaveTarget) => void {
   const navigate = useNavigate();
-  const { gameId } = useParams();
+  const { gameId = "" } = useParams();
   return (target) => {
-    const { origin } = useGameSession.getState();
+    const step = leaveStep(useGameSession.getState().origin, target, gameId);
     endSession();
-    if (origin === target) void navigate(-1);
-    else void navigate(target === "home" ? "/" : `/play/${gameId}/setup`, { replace: true });
+    if (step.kind === "back") void navigate(-1);
+    else void navigate(step.path, { replace: true });
   };
 }

@@ -4,7 +4,9 @@ import {
   endSession,
   exitNeedsConfirm,
   isSessionLive,
+  leaveStep,
   markProgress,
+  quickStartAction,
   setSettled,
   startSession,
   useGameSession,
@@ -48,5 +50,32 @@ describe("game session", () => {
     changeTimers(-1);
     expect(useGameSession.getState().timers).toBe(1);
     changeTimers(-1);
+  });
+});
+
+describe("leaving a game", () => {
+  it("steps back when leaving to where the game was started", () => {
+    expect(leaveStep("setup", "setup", "bomb")).toEqual({ kind: "back" });
+    expect(leaveStep("home", "home", "bomb")).toEqual({ kind: "back" });
+  });
+
+  it("replaces the game entry when leaving somewhere else", () => {
+    expect(leaveStep("setup", "home", "bomb")).toEqual({ kind: "replace", path: "/" });
+    expect(leaveStep("home", "setup", "bomb")).toEqual({ kind: "replace", path: "/play/bomb/setup" });
+  });
+});
+
+describe("quick start from the home card", () => {
+  it("starts at once when setup is complete", () => {
+    expect(quickStartAction(true, false, [])).toBe("start");
+  });
+
+  it("shows setup when something is missing", () => {
+    expect(quickStartAction(true, false, ["You need at least 3 players."])).toBe("show-setup");
+  });
+
+  it("does nothing without the flag or after it was handled", () => {
+    expect(quickStartAction(false, false, [])).toBe("none");
+    expect(quickStartAction(true, true, [])).toBe("none");
   });
 });

@@ -15,6 +15,7 @@ Update the Status column at the end of every stage.
 | 6 | Forbidden words, Mind match | done |
 | 7 | Circa + Circa Impostor | done (one game, impostor is a setup toggle) |
 | 8 | Polish: animations, sounds, themes, spice filters | done (settings: accent colour, sound, animations, global spice limit) |
+| 9 | UX audit + fixes: quick start, pack picker, exit anywhere, visual identity | done (audit harness in `tests/audit`, findings and before/after in `docs/UX-AUDIT.md`, style in `docs/DESIGN.md`) |
 
 ## Decisions already made
 - Single-phone, pass-the-phone play only. No realtime backend.
@@ -66,4 +67,9 @@ Update the Status column at the end of every stage.
 Every game exports `{ id, nameKey, descriptionKey, icon, acceptsKinds, SetupScreen, PlayScreen }` and is registered in one registry file. Games reuse: players, PassPhone, Timer, Voting, random, history, content picker. If a game needs something new in the engine, add it generically, not per game.
 
 ## Next up
-All eight stages are done. Open items: bulk pack generation from stage 3 (the Italian and English packs are still starter-sized, 20 to 40 items each) and lazy-loading packs if the bundle grows.
+All nine stages are done. Open items:
+- Bulk pack generation from stage 3 (packs are still starter-sized, 20 to 40 items each).
+- Folders and sections from TAXONOMY.md in the pack data; then folder chips in the picker.
+- Deferred from the UX audit (details in `docs/UX-AUDIT.md`): a Done control for the iOS number keypad in Circa,
+  a message when renaming a player to a taken name, a smaller shared vendor chunk, and including remembered
+  options, recents and starred packs in backups.

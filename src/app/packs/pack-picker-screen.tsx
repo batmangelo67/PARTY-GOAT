@@ -117,10 +117,10 @@ export function PackPickerScreen() {
         className="min-h-tap w-full rounded-2xl border-2 border-line bg-ink px-4 font-bold outline-none focus:border-accent"
       />
       <div className="mt-3 grid grid-cols-2 gap-2">
-        <Button variant={packIds === null ? "primary" : "secondary"} className="px-3 text-base" onClick={() => game.packs.setPackIds(null)}>
+        <Button variant={packIds === null ? "primary" : "secondary"} className="!px-3 !text-base" onClick={() => game.packs.setPackIds(null)}>
           {t("picker.mixAll")}
         </Button>
-        <Button variant="secondary" className="px-3 text-base" onClick={surprise}>
+        <Button variant="secondary" className="!px-3 !text-base" onClick={surprise}>
           {t("picker.surprise")}
         </Button>
       </div>

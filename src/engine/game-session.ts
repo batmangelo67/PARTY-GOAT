@@ -63,3 +63,22 @@ export function changeTimers(delta: 1 | -1): void {
 export function exitNeedsConfirm(state: Pick<GameSessionState, "progress" | "settled">): boolean {
   return state.progress && !state.settled;
 }
+
+export type LeaveTarget = "setup" | "home";
+export type LeaveStep = { kind: "back" } | { kind: "replace"; path: string };
+
+// Leaving steps back in history when the target is where the game was started from, so the back
+// gesture afterwards does not land inside a finished game; otherwise it replaces the game entry.
+export function leaveStep(origin: SessionOrigin, target: LeaveTarget, gameId: string): LeaveStep {
+  if (origin === target) return { kind: "back" };
+  return { kind: "replace", path: target === "home" ? "/" : `/play/${gameId}/setup` };
+}
+
+export type QuickStartAction = "none" | "start" | "show-setup";
+
+// The home "play again" card opens setup with a flag: start at once when setup is complete,
+// otherwise drop the flag and let the group see what is missing.
+export function quickStartAction(flagged: boolean, alreadyHandled: boolean, problems: readonly string[]): QuickStartAction {
+  if (!flagged || alreadyHandled) return "none";
+  return problems.length === 0 ? "start" : "show-setup";
+}
