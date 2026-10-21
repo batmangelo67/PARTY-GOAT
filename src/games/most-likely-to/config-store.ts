@@ -1,18 +1,10 @@
-import { create } from "zustand";
+import { z } from "zod";
+import { createGameConfig } from "../../engine/game-config";
+import { MLT_ID } from "./constants";
 
 export interface MltConfig {
   tally: boolean;
   packIds: string[] | null;
 }
 
-interface MltConfigState extends MltConfig {
-  update: (changes: Partial<MltConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useMltConfig = create<MltConfigState>((set) => ({
-  tally: false,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useMltConfig = createGameConfig<MltConfig>(MLT_ID, { tally: false, packIds: null }, { tally: z.boolean() });

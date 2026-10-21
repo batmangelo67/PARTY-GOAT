@@ -66,9 +66,9 @@ export class Session {
     this.steps.push(`type ${note}`);
   }
 
-  // Records a screen once: screenshot plus layout checks.
-  async snap(name: string): Promise<void> {
-    const id = await screenId(this.page);
+  // Records a screen once: screenshot plus layout checks. `distinct` keeps states of one screen apart.
+  async snap(name: string, distinct = false): Promise<void> {
+    const id = `${await screenId(this.page)}${distinct ? ` :: ${name}` : ""}`;
     if (this.screens.has(id)) return;
     const record: ScreenRecord = { id, issues: [] };
     if (this.options.layout) record.issues = await checkLayout(this.page);
@@ -112,6 +112,12 @@ export async function gotoHome(page: Page): Promise<void> {
 
 export async function openGame(session: Session, gameId: string): Promise<void> {
   await session.tapSelector(`a[href="#/play/${gameId}/setup"]`, `open ${gameId}`);
+  await waitForScreen(session.page);
+}
+
+// Screens may load as separate chunks: wait until one has actions in its footer.
+export async function waitForScreen(page: Page): Promise<void> {
+  await page.locator("footer button").first().waitFor({ timeout: 10_000 });
 }
 
 // Adds the audit players through the setup screen's player editor, skipping names already there.
@@ -227,7 +233,11 @@ export async function driveUntil(session: Session, done: () => Promise<boolean>,
       await settle(session.page);
       continue;
     }
-    const pick = await pickNextAction(session.page);
+    let pick = await pickNextAction(session.page);
+    if (pick.kind === "none") {
+      await session.page.waitForTimeout(400);
+      pick = await pickNextAction(session.page);
+    }
     if (pick.kind === "none") return done();
     await doAction(session, pick, step);
   }

@@ -179,3 +179,85 @@ Chromium throttled to a slow phone on 4G. Offline reload and a full Impostor sta
 2. H3 + H4 + M1: shared compact setup, remembered options, home play-again card.
 3. M2 + M4: new picker.
 4. L1, L3, L4 with the above; M3 in the visual phase.
+
+## After phase 2 (flow, picker, exit)
+
+Same harness, same devices and languages (`docs/audit/summary-phase2.md`, `results-phase2.json`,
+screenshots in `docs/audit/evidence/phase2/`).
+
+### Tap counts, before → after
+
+WebKit, iPhone 15, English (other sizes and Italian give the same taps). "Repeat" is after a relaunch with the same players.
+
+| Game | First play to first card | Repeat via game tile | Repeat via home card | Setup controls | Setup height (SE, Italian) |
+|---|---|---|---|---|---|
+| Impostor | 10 → 10 | 2 → 2 | – → **1** | 42 → **10** | 4.6 → **1.1** |
+| Who's the Liar | 10 → 10 | 2 → 2 | – → **1** | 27 → **6** | 2.4 → **1.0** |
+| Who's got the bomb | 10 → 10 | 2 → 2 | – → **1** | 36 → **7** | 4.2 → **1.0** |
+| Never have I ever | 2 → 2 | 2 → 2 | – → **1** | 10 → **3** | 1.1 → **1.0** |
+| Truth or dare | 10 → 10 | 2 → 2 | – → **1** | 19 → **4** | 1.9 → **1.0** |
+| Most likely to | 2 → 2 | 2 → 2 | – → **1** | 9 → **2** | 1.1 → **1.0** |
+| 10/10 but... | 2 → 2 | 2 → 2 | – → **1** | 9 → **2** | 1.1 → **1.0** |
+| Forbidden words | 10 → 10 | 2 → 2 | – → **1** | 23 → **7** | 2.1 → **1.0** |
+| Mind match | 2 → 2 | 2 → 2 | – → **1** | 22 → **3** | 3.0 → **1.0** |
+| Circa | 10 → 10 | 2 → 2 | – → **1** | 19 → **4** | 1.9 → **1.0** |
+
+First play stays at 10 taps where 4 names have to be typed (2 taps per name, open, Start): the names are the floor.
+Round taps are unchanged (game rules untouched). Play again from a result is still 1 tap.
+
+Pack selection (Impostor, 14-15 packs):
+
+| Task | Before | After |
+|---|---|---|
+| Play with exactly one pack | 14-15 taps (untick every other pack) | **5** (Change, Clear, the pack, Use, Start) |
+| Back to every pack | 14-15 taps | **4** (Change, Mix everything, Use, Start) |
+| Remembered after relaunch | no (9 of 10 games reset) | **yes** (10 of 10 games, options and packs) |
+
+### Exits and interruptions, before → after
+
+| Check | Before | After |
+|---|---|---|
+| In-game screens with no way out | Impostor 10/11, Liar 10/11, Circa 6/7, Forbidden 3/5, Bomb 1/3, ToD 1/2 | **0 in every game** |
+| Back gesture mid-round | drops to setup, round lost, no confirm | **opens the pause menu**, round kept |
+| Forward after back | re-deals a new round | n/a (back no longer leaves) |
+| Reload / app killed mid-round | setup, options lost | setup, **options kept**, no half round in storage |
+| 60 s in background during a turn / fuse | turn lost ("Time's up!") / bomb exploded, 3 ticks while hidden | **paused**: 1:00 → 1:00, fuse stopped, 0 sounds |
+| Wake locks after leaving | 0 | 0 |
+| Sounds after leaving | 0 | 0 |
+| Layout issues (all screens, 8 device/language pairs) | 9 small-text, 1 clipped | **0** (the new "other screens" check also found and fixed an overflow in the pack library and the pack editor filters) |
+| Monkey (40 runs) | clean | clean (one expected negative Forbidden words score, now whitelisted) |
+
+### First load
+
+Initial JS + CSS 514 KB → 537 KB raw, 155 KB → 164 KB gzip: mostly the data router needed for back-gesture interception.
+Game screens now load as their own chunks (precached), which keeps the main chunk at 269 KB; the rest is a shared vendor chunk.
+Throttled Chromium (4x CPU, 1.6 Mbps): about 3.1 s to a usable home before and after. Offline start still works on all 8 pairs.
+
+### Finding status
+
+| Finding | Status |
+|---|---|
+| H1 No way out | Fixed: ✕ on every in-game screen, pause menu when a round would be lost |
+| H2 Back throws the round away | Fixed: back opens the pause menu; reload/forward land on setup |
+| H3 Long setup | Fixed: shared compact setup, rare options under More options |
+| H4 Choices forgotten | Fixed: options and packs saved per game, validated on load |
+| H5 Timers run in background | Fixed: timers, fuse and turns pause with the menu, which opens on background |
+| M1 No repeat shortcut | Fixed: home "Play again" card, 1 tap |
+| M2 Picker | Fixed: picker screen with search, Mix everything, Surprise me, Clear, Recent, Starred, language and spice chips |
+| M3 Long generic home | Phase 3 (visual identity) |
+| M4 Hidden spice limit | Fixed: spice shown as a labelled chip in the picker |
+| M5 Number keypad over the footer | Deferred |
+| L1 Small text | Fixed |
+| L2 Clipped pack title | Fixed: titles wrap in the picker and the library; the setup summary ellipsis is intentional |
+| L3 Score ties | Fixed: equal scores share a rank |
+| L4 Bomb on small screens | Fixed: holder above the bomb, bomb scales with screen height |
+| L5 Comprehension notes | Kept as noted; rename-to-duplicate message deferred |
+| L6 First load | Partly: game screens split; vendor chunk unchanged (deferred) |
+
+### Deferred
+
+- M5: a Done control for the iOS number keypad in Circa (tapping outside closes it today).
+- Renaming a player to a name already taken silently reverts; show the duplicate message on blur.
+- Splitting the shared vendor chunk (React, router, zod) further; first load is already offline-cached after the first visit.
+- Folder and section chips in the picker once packs carry `group`/`section` (TAXONOMY.md).
+- Backups (Settings > Export) do not include remembered options, recents or starred packs yet.

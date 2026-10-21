@@ -1,0 +1,5405 @@
+{
+  "label": "phase2",
+  "projects": [
+    "chromium-i15-en",
+    "chromium-i15-it",
+    "webkit-i15-en",
+    "webkit-i15-it",
+    "webkit-promax-en",
+    "webkit-promax-it",
+    "webkit-se-en",
+    "webkit-se-it"
+  ],
+  "journeys": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 7,
+        "setupControlsFilled": 16,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 7,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 3,
+        "setupControlsFilled": 3,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 3,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 2,
+        "setupControlsFilled": 2,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 2,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 4,
+        "setupControlsFilled": 13,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 4,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 6,
+        "setupControlsFilled": 15,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 6,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": 1
+        }
+      }
+    ]
+  },
+  "exits": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ NAME SOMETHING FROM Things That Are Red Bo has the bomb Pass Undo pass Skip ca"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ NAME SOMETHING FROM Things at Home Chiara has the bomb Pass Undo pass Skip cat"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION How many squares are on a chessboard? Your number Hide an"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2 packs C"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Headphones BANNED WORDS music ears listen wire Skip Correct Banned word! "
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS Edit players Alessandra Bo Chiara Dev Players are spli"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Library BANNED WORDS books borrow quiet read Skip Correct Banned word! Pa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 12,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 of 4 Pass the phone to Bo Only Bo should look. I'm Bo, show me Paused Leave "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 14 pac"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Ukulele Kenya Count to three and say yo"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match PACKS Mix of all 14 packs Animals, Cities & Places, Clothes +11 Cha"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Doormat Iron Count to three and say you"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Most likely to fall in love at first sight. Back Next End game Paused L"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to PACKS Mix of all 2 packs Most likely to: Cheeky, Most likely to"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Most likely to laugh at a funeral. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Never have I ever pretended to work while doing nothing. Back Next End "
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever PACKS Mix of all 2 packs Never Have I Ever: Life & Uni, Neve"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Never have I ever taken the last slice without asking. Back Next End ga"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 They're a 10/10 but they sing every sentence. Back Next End game Paused"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... PACKS Mix of all 2 packs 10/10 but: Cheeky, 10/10 but: Light Chan"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 They're a 10/10 but they're hopelessly jealous of your friends. Back Ne"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ YOUR TURN Bo Truth Dare End game Paused Leave now and this round is lost. Keep"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION Who here would be the worst flatmate? Your answer Hide an"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ DI' QUALCOSA TRA Mestieri Dev ha la bomba Passa Annulla passaggio Cambia categ"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ DI' QUALCOSA TRA Mestieri Dev ha la bomba Passa Annulla passaggio Cambia categ"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA In che anno si è corso il primo Giro d'Italia? Il tuo nu"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix di t"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Karaoke PAROLE VIETATE cantare microfono testo schermo Salta Indovinata P"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev I giocato"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Passaporto PAROLE VIETATE viaggio frontiera timbro documento Salta Indovi"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 di 4 Passa il telefono a Bo Deve guardare solo Bo. Sono Bo, fammi vedere In "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Telo mare Anguria Contate fino a t"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia PACCHETTI Mix di tutti i 15 pacchetti Animali, Cantanti italiani, Co"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Farmacista Sangue Contate fino a t"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Chi litigherebbe per un parcheggio? Indietro Avanti Fine partita In pa"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile PACCHETTI Mix di tutti i 2 pacchetti Il più probabile: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Chi sarebbe l'ultimo a restare sveglio? Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Non ho mai vinto alla tombola di Natale. Indietro Avanti Fine partita "
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai PACCHETTI Mix di tutti i 2 pacchetti Non ho mai: leggero, Non ho ma"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Non ho mai cantato sotto la doccia a squarciagola. Indietro Avanti Fin"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 È un 10/10 ma pensa che i film siano meglio con gli spoiler. Indietro "
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... PACCHETTI Mix di tutti i 2 pacchetti 10/10 ma: Leggero, 10/10 ma: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 È un 10/10 ma dà un nome a ogni oggetto che possiede. Indietro Avanti "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ TOCCA A TE Bo Verità Obbligo Fine partita In pausa Se esci adesso, questo roun"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA Qual è la bugia più grossa che hai detto ai tuoi da adol"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ NAME SOMETHING FROM University Life Dev has the bomb Pass Undo pass Skip categ"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ NAME SOMETHING FROM Movies & Series Dev has the bomb Pass Undo pass Skip categ"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION In what year were the first modern Olympic Games held in "
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2 packs C"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Sandwich BANNED WORDS bread filling lunch slices Skip Correct Banned word"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS Edit players Alessandra Bo Chiara Dev Players are spli"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Campfire BANNED WORDS marshmallows flames logs night Skip Correct Banned "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 of 4 Pass the phone to Bo Only Bo should look. I'm Bo, show me Paused Leave "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 14 pac"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Kiwi Ghostbusters Count to three and sa"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match PACKS Mix of all 14 packs Animals, Cities & Places, Clothes +11 Cha"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Chocolate Llama Count to three and say "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Most likely to have a crush on someone in this room. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to PACKS Mix of all 2 packs Most likely to: Cheeky, Most likely to"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Most likely to text the wrong person. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Never have I ever walked into a glass door. Back Next End game Paused L"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever PACKS Mix of all 2 packs Never Have I Ever: Life & Uni, Neve"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Never have I ever had a crush on a teacher. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 They're a 10/10 but they call you by the wrong name, again. Back Next E"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... PACKS Mix of all 2 packs 10/10 but: Cheeky, 10/10 but: Light Chan"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 They're a 10/10 but they never put the phone down at dinner. Back Next "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ YOUR TURN Bo Truth Dare End game Paused Leave now and this round is lost. Keep"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION What's the biggest lie you told your parents as a teenage"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ DI' QUALCOSA TRA Film e TV Bo ha la bomba Passa Annulla passaggio Cambia categ"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ DI' QUALCOSA TRA Estate italiana Alessandra ha la bomba Passa Annulla passaggi"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA In che anno è stata inaugurata la Tour Eiffel? Il tuo nu"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix di t"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Biblioteca PAROLE VIETATE libri prestito silenzio leggere Salta Indovinat"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev I giocato"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Forbici PAROLE VIETATE tagliare carta lame ritagliare Salta Indovinata Pa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 12,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 di 4 Passa il telefono a Bo Deve guardare solo Bo. Sono Bo, fammi vedere In "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Canguro Sangue Contate fino a tre "
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia PACCHETTI Mix di tutti i 15 pacchetti Animali, Cantanti italiani, Co"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Piccione Sagra Contate fino a tre "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Chi mangerebbe il dolce prima della cena? Indietro Avanti Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile PACCHETTI Mix di tutti i 2 pacchetti Il più probabile: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Chi si dimenticherebbe del proprio compleanno? Indietro Avanti Fine pa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Non ho mai ordinato un cappuccino dopo pranzo. Indietro Avanti Fine pa"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai PACCHETTI Mix di tutti i 2 pacchetti Non ho mai: leggero, Non ho ma"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Non ho mai gonfiato il curriculum. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 È un 10/10 ma pensa che i film siano meglio con gli spoiler. Indietro "
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... PACCHETTI Mix di tutti i 2 pacchetti 10/10 ma: Leggero, 10/10 ma: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 È un 10/10 ma tira sempre fuori il suo ex. Indietro Avanti Fine partit"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ TOCCA A TE Bo Verità Obbligo Fine partita In pausa Se esci adesso, questo roun"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA Qual è la squadra più simpatica della Serie A? La tua ri"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ NAME SOMETHING FROM Animals Chiara has the bomb Pass Undo pass Skip category P"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ NAME SOMETHING FROM Jobs Alessandra has the bomb Pass Undo pass Skip category "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION How many planets are in our solar system? Your number Hid"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2 packs C"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Hamburger BANNED WORDS bun beef patty fast food Skip Correct Banned word!"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS Edit players Alessandra Bo Chiara Dev Players are spli"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Thunder BANNED WORDS lightning storm loud sky Skip Correct Banned word! P"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 of 4 Pass the phone to Bo Only Bo should look. I'm Bo, show me Paused Leave "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 14 pac"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Wembley Extra time Count to three and s"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match PACKS Mix of all 14 packs Animals, Cities & Places, Clothes +11 Cha"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Ireland Iron Count to three and say you"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Most likely to start a business that fails spectacularly. Back Next End"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to PACKS Mix of all 2 packs Most likely to: Cheeky, Most likely to"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Most likely to give a cringey speech at a wedding. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Never have I ever eaten cereal for dinner. Back Next End game Paused Le"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever PACKS Mix of all 2 packs Never Have I Ever: Life & Uni, Neve"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Never have I ever cut my own hair. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 They're a 10/10 but they eat every meal standing at the fridge. Back Ne"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... PACKS Mix of all 2 packs 10/10 but: Cheeky, 10/10 but: Light Chan"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 They're a 10/10 but they call you by the wrong name, again. Back Next E"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ YOUR TURN Bo Truth Dare End game Paused Leave now and this round is lost. Keep"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION What's your go-to karaoke song? Your answer Hide and pass"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ DI' QUALCOSA TRA Marche italiane Bo ha la bomba Passa Annulla passaggio Cambia"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ DI' QUALCOSA TRA Cose rosse Bo ha la bomba Passa Annulla passaggio Cambia cate"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA Quanto è lunga una maratona in chilometri? Il tuo numero"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix di t"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Dentista PAROLE VIETATE denti trapano carie bocca Salta Indovinata Parola"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev I giocato"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Ferragosto PAROLE VIETATE agosto vacanza mare quindici Salta Indovinata P"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 di 4 Passa il telefono a Bo Deve guardare solo Bo. Sono Bo, fammi vedere In "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Guantoni da boxe Crema solare Cont"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia PACCHETTI Mix di tutti i 15 pacchetti Animali, Cantanti italiani, Co"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Brasile Telecomando Contate fino a"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Chi ruberebbe l'ultima fetta di pizza? Indietro Avanti Fine partita In"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile PACCHETTI Mix di tutti i 2 pacchetti Il più probabile: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Chi uscirebbe con due persone insieme senza accorgersene? Indietro Ava"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Non ho mai dormito durante una lezione. Indietro Avanti Fine partita I"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai PACCHETTI Mix di tutti i 2 pacchetti Non ho mai: leggero, Non ho ma"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Non ho mai messo i calzini con i sandali. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 È un 10/10 ma non chiede mai scusa. Indietro Avanti Fine partita In pa"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... PACCHETTI Mix di tutti i 2 pacchetti 10/10 ma: Leggero, 10/10 ma: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 È un 10/10 ma porta i calzini con i sandali. Indietro Avanti Fine part"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ TOCCA A TE Bo Verità Obbligo Fine partita In pausa Se esci adesso, questo roun"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA Quante volte rimandi la sveglia la mattina? La tua rispo"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ NAME SOMETHING FROM Food Chiara has the bomb Pass Undo pass Skip category Paus"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ NAME SOMETHING FROM Things at Home Bo has the bomb Pass Undo pass Skip categor"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION How many days does the Earth take to orbit the Sun, round"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2 packs C"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Pizza BANNED WORDS cheese Italy slice tomato dough Skip Correct Banned wo"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS Edit players Alessandra Bo Chiara Dev Players are spli"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Mirror BANNED WORDS reflection glass face look Skip Correct Banned word! "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 of 4 Pass the phone to Bo Only Bo should look. I'm Bo, show me Paused Leave "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 14 pac"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Taxi driver Fig Count to three and say "
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match PACKS Mix of all 14 packs Animals, Cities & Places, Clothes +11 Cha"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 SAY A WORD THAT CONNECTS THESE Apple Seminar Count to three and say yo"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Most likely to have an embarrassing story on tonight's table. Back Next"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to PACKS Mix of all 2 packs Most likely to: Cheeky, Most likely to"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Most likely to talk to strangers on the bus. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 Never have I ever lied about my age. Back Next End game Paused Leave no"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever PACKS Mix of all 2 packs Never Have I Ever: Life & Uni, Neve"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 Never have I ever sleepwalked. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Card 3 They're a 10/10 but they always bring up their ex. Back Next End game P"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... PACKS Mix of all 2 packs 10/10 but: Cheeky, 10/10 but: Light Chan"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Card 1 They're a 10/10 but they sneeze twelve times in a row. Back Next End ga"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ YOUR TURN Bo Truth Dare End game Paused Leave now and this round is lost. Keep"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all 2"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 of 4 YOUR QUESTION What's the worst way to spend a Saturday night? Your answ"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS Edit players Alessandra Bo Chiara Dev PACKS Mix of all "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandr"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ DI' QUALCOSA TRA Città italiane Bo ha la bomba Passa Annulla passaggio Cambia "
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ DI' QUALCOSA TRA Cantanti italiani Bo ha la bomba Passa Annulla passaggio Camb"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA In che anno l'uomo è sbarcato per la prima volta sulla L"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix di t"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1:00 Pianoforte PAROLE VIETATE tasti bianchi neri suonare Salta Indovinata Par"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev I giocato"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": "1:00",
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1:00 Trofeo PAROLE VIETATE vincitore coppa premio oro Salta Indovinata Parola "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 2 di 4 Passa il telefono a Bo Deve guardare solo Bo. Sono Bo, fammi vedere In "
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Limone Muratore Contate fino a tre"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia PACCHETTI Mix di tutti i 15 pacchetti Animali, Cantanti italiani, Co"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Kinder Alberobello Contate fino a "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Chi ruberebbe l'ultima fetta di pizza? Indietro Avanti Fine partita In"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile PACCHETTI Mix di tutti i 2 pacchetti Il più probabile: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Chi piangerebbe guardando un cartone animato? Indietro Avanti Fine par"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 Non ho mai mangiato pasta in bianco per una settimana di fila. Indietr"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai PACCHETTI Mix di tutti i 2 pacchetti Non ho mai: leggero, Non ho ma"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 Non ho mai pianto in biblioteca. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ Carta 3 È un 10/10 ma cammina lentissimo. Indietro Avanti Fine partita In paus"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... PACCHETTI Mix di tutti i 2 pacchetti 10/10 ma: Leggero, 10/10 ma: "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ Carta 1 È un 10/10 ma starnutisce dodici volte di fila. Indietro Avanti Fine p"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ TOCCA A TE Bo Verità Obbligo Fine partita In pausa Se esci adesso, questo roun"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar",
+          "pauseMenu": true,
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "✕ 1 di 4 LA TUA DOMANDA Quanto hai aspettato al massimo prima di rispondere a un"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI Modifica giocatori Alessandra Bo Chiara Dev PACCHETTI Mix"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "✕ 1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Ales"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ]
+  },
+  "monkey": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "seed": 1833782667,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 369207835,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 386673928,
+        "anomalies": [
+          "step 110: \"/-\\d+ (pts|punti)/\" visible at #/play/forbidden-words"
+        ],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": -447219094,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1607564651,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 258607263,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": -738291731,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -92459459,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 628678723,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": 1829653747,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "seed": -23909703,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": -2145634123,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 442453658,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": -154988780,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1380845981,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": -1748921519,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": 1826224915,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -1626136437,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 587006745,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": 2117948697,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "seed": 1157629665,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 200690269,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": -872009822,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": 851329628,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": -55360443,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 316558937,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": -1053066357,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -462469885,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": -916435951,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": -611415295,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "seed": -1990200813,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 1476643555,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 924512720,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": 1609720722,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1339955315,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 2011603911,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": 1601017701,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": 872804981,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 260256699,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": -1921446469,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ]
+  },
+  "memory": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 4
+      }
+    ]
+  },
+  "layout": {
+    "chromium-i15-en": {},
+    "chromium-i15-it": {},
+    "webkit-i15-en": {},
+    "webkit-i15-it": {},
+    "webkit-promax-en": {},
+    "webkit-promax-it": {},
+    "webkit-se-en": {},
+    "webkit-se-it": {}
+  },
+  "perf": {
+    "chromium-i15-en": {
+      "project": "chromium-i15-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 3,
+      "throttledHomeVisibleMs": 3140,
+      "timing": {
+        "domContentLoaded": 1242,
+        "load": 1243,
+        "fcp": null
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix of all 14 packs",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "chromium-i15-it": {
+      "project": "chromium-i15-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 4,
+      "throttledHomeVisibleMs": 3124,
+      "timing": {
+        "domContentLoaded": 1240,
+        "load": 1241,
+        "fcp": 3124
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix di tutti i 15 pacchetti",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-i15-en": {
+      "project": "webkit-i15-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 119,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 45,
+        "load": 77,
+        "fcp": 114
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix of all 14 packs",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-i15-it": {
+      "project": "webkit-i15-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 142,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 51,
+        "load": 102,
+        "fcp": 137
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix di tutti i 15 pacchetti",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-promax-en": {
+      "project": "webkit-promax-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 120,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 40,
+        "load": 77,
+        "fcp": 115
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix of all 14 packs",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-promax-it": {
+      "project": "webkit-promax-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 130,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 55,
+        "load": 91,
+        "fcp": 126
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix di tutti i 15 pacchetti",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-se-en": {
+      "project": "webkit-se-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 129,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 42,
+        "load": 86,
+        "fcp": 124
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix of all 14 packs",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-se-it": {
+      "project": "webkit-se-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-xT_Du7wx.js",
+            "bytes": 268772
+          },
+          {
+            "file": "assets/sound-yD0v5OC3.js",
+            "bytes": 265440
+          },
+          {
+            "file": "assets/index-C-kJeFdZ.css",
+            "bytes": 15753
+          }
+        ],
+        "initialBytes": 549965,
+        "allAssetBytes": 747124,
+        "publicBytes": 19735,
+        "precacheEntries": 106
+      },
+      "homeVisibleMs": 133,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 46,
+        "load": 78,
+        "fcp": 128
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": "Mix di tutti i 15 pacchetti",
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    }
+  },
+  "picker": {
+    "chromium-i15-en": {
+      "project": "chromium-i15-en",
+      "newPicker": true,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "chromium-i15-it": {
+      "project": "chromium-i15-it",
+      "newPicker": true,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-i15-en": {
+      "project": "webkit-i15-en",
+      "newPicker": true,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-i15-it": {
+      "project": "webkit-i15-it",
+      "newPicker": true,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-promax-en": {
+      "project": "webkit-promax-en",
+      "newPicker": true,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-promax-it": {
+      "project": "webkit-promax-it",
+      "newPicker": true,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-se-en": {
+      "project": "webkit-se-en",
+      "newPicker": true,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    },
+    "webkit-se-it": {
+      "project": "webkit-se-it",
+      "newPicker": true,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 5,
+      "allPacksTaps": 4
+    }
+  }
+}

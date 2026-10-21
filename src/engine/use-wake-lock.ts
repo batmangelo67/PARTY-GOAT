@@ -12,7 +12,11 @@ export function useWakeLock(active: boolean): void {
       try {
         const lock = await navigator.wakeLock.request("screen");
         if (cancelled) await lock.release();
-        else sentinel = lock;
+        else {
+          const previous = sentinel;
+          sentinel = lock;
+          await previous?.release();
+        }
       } catch (error) {
         logError("Keeping the screen on", error);
       }

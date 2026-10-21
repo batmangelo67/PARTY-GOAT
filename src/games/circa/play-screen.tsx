@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSettingsStore } from "../../app/settings-store";
 import { parseNumber } from "../../content/pack-text";
@@ -17,6 +17,7 @@ import { Timer } from "../../engine/timer";
 import { Button, Screen, Section } from "../../engine/ui";
 import { useRoundLoader } from "../../engine/use-round-loader";
 import { Voting } from "../../engine/voting";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { CircaSecret } from "./circa-secret";
 import { useCircaConfig } from "./config-store";
@@ -29,12 +30,12 @@ const SETUP_PATH = `/play/${CIRCA_ID}/setup`;
 
 export function CircaPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const language = useSettingsStore((state) => state.language);
   const players = usePlayersStore((state) => state.players);
   const addPoints = useScoreboardStore((state) => state.addPoints);
   const config = useCircaConfig();
-  const packs = useSelectedPacks("numeric", config.packIds);
+  const packs = useSelectedPacks(CIRCA_ID, "numeric", config.packIds);
   const pool = config.impostor ? packsWithDecoys(packs) : packs;
   const valid = players.length >= MIN_PLAYERS && pool.length > 0;
 
@@ -49,7 +50,7 @@ export function CircaPlayScreen() {
   });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
-  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} backTo={SETUP_PATH} />;
+  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} />;
 
   const playerIds = players.map((p) => p.id);
   const nameOf = (id: string) => players.find((p) => p.id === id)?.name ?? "?";
@@ -140,7 +141,7 @@ export function CircaPlayScreen() {
             caught
             roundPoints={roundPoints}
             onPlayAgain={playAgain}
-            onBackToSetup={() => navigate(SETUP_PATH)}
+            onBackToSetup={() => leave("setup")}
           >
             <RevealBlock label={t("circa.result.question")}>{round.item.question}</RevealBlock>
             <RevealBlock label={t("circa.reveal.truth")}>
@@ -159,7 +160,7 @@ export function CircaPlayScreen() {
           caught={caught}
           roundPoints={roundPoints}
           onPlayAgain={playAgain}
-          onBackToSetup={() => navigate(SETUP_PATH)}
+          onBackToSetup={() => leave("setup")}
         >
           <p className="text-lg text-muted">{t("round.accused", { name: nameOf(accusedId) })}</p>
           <RevealBlock label={t("circa.result.impostor")}>

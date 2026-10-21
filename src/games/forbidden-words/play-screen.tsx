@@ -1,5 +1,5 @@
 import { useCallback, useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import type { CardItem } from "../../content/schema";
 import { drawItem } from "../../engine/draw-item";
@@ -8,6 +8,7 @@ import { usePlayersStore } from "../../engine/players-store";
 import { ScoreList } from "../../engine/score-list";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useForbiddenConfig } from "./config-store";
 import { FORBIDDEN_ID } from "./constants";
@@ -20,10 +21,10 @@ type Phase = "ready" | "playing" | "summary" | "over";
 
 export function ForbiddenPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useForbiddenConfig();
-  const packs = useSelectedPacks("cards", config.packIds);
+  const packs = useSelectedPacks(FORBIDDEN_ID, "cards", config.packIds);
   const valid = players.length >= MIN_FORBIDDEN_PLAYERS && packs.length > 0;
 
   const [teams, setTeams] = useState(() => splitTeams(players.map((p) => p.id)));
@@ -108,10 +109,10 @@ export function ForbiddenPlayScreen() {
       }))
       .sort((a, b) => b.points - a.points);
     return (
-      <Screen
+      <Screen settled
         footer={
           <div className="grid grid-cols-2 gap-2">
-            <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+            <Button variant="secondary" onClick={() => leave("setup")}>
               {t("common.backToSetup")}
             </Button>
             <Button onClick={newGame}>{t("common.newGame")}</Button>
@@ -137,7 +138,7 @@ export function ForbiddenPlayScreen() {
   }
 
   return (
-    <Screen backTo={SETUP_PATH} footer={<Button onClick={() => void startTurn()}>{t("forbidden.ready.start")}</Button>}>
+    <Screen footer={<Button onClick={() => void startTurn()}>{t("forbidden.ready.start")}</Button>}>
       <div className="flex h-full flex-col justify-center gap-4">
         {failure && <Notice tone="error">❌ {failure}</Notice>}
         <BigCard key={turn}>

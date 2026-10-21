@@ -1,36 +1,61 @@
-import type { ButtonHTMLAttributes, ReactNode } from "react";
+import { useEffect, type ButtonHTMLAttributes, type ReactNode } from "react";
 import { Link } from "react-router";
 import { useT } from "../i18n/use-t";
+import { setSettled } from "./game-session";
+import { useInGame } from "./in-game-context";
 
 interface ScreenProps {
   title?: ReactNode;
+  // Back as a history step (for screens opened from another screen), instead of a link to `backTo`.
+  onBack?: () => void;
+  // A result screen inside a game: leaving from it loses nothing, so no confirm.
+  settled?: boolean;
   backTo?: string;
   footer?: ReactNode;
   children: ReactNode;
   className?: string;
 }
 
-export function Screen({ title, backTo, footer, children, className = "" }: ScreenProps) {
+const BACK_CLASS = "-ml-2 flex h-12 w-12 shrink-0 items-center justify-center rounded-full text-2xl text-muted active:bg-raised";
+
+export function Screen({ title, backTo, onBack, footer, settled = false, children, className = "" }: ScreenProps) {
   const t = useT();
+  const inGame = useInGame();
+  useEffect(() => {
+    if (!settled) return;
+    setSettled(true);
+    return () => setSettled(false);
+  }, [settled]);
+  const hasHeader = Boolean(title || backTo || onBack || inGame);
   return (
     <div className={`flex h-[100dvh] flex-col bg-ink ${className}`}>
-      {(title || backTo) && (
+      {hasHeader && (
         <header className="pt-safe px-safe flex min-h-[4.5rem] items-center gap-2 pb-2">
-          {backTo && (
-            <Link
-              to={backTo}
-              aria-label={t("common.back")}
-              className="-ml-2 flex h-12 w-12 items-center justify-center rounded-full text-2xl text-muted active:bg-raised"
+          {inGame ? (
+            <button
+              type="button"
+              data-exit-ui=""
+              aria-label={t("game.exit")}
+              onClick={inGame.requestExit}
+              className={BACK_CLASS}
             >
+              ✕
+            </button>
+          ) : onBack ? (
+            <button type="button" aria-label={t("common.back")} onClick={onBack} className={BACK_CLASS}>
               ←
-            </Link>
+            </button>
+          ) : (
+            backTo && (
+              <Link to={backTo} aria-label={t("common.back")} className={BACK_CLASS}>
+                ←
+              </Link>
+            )
           )}
           <h1 className="truncate text-2xl font-black tracking-tight">{title}</h1>
         </header>
       )}
-      <main className={`fade-in px-safe flex-1 overflow-y-auto overscroll-contain pb-6 ${title || backTo ? "" : "pt-safe"}`}>
-        {children}
-      </main>
+      <main className={`fade-in px-safe flex-1 overflow-y-auto overscroll-contain pb-6 ${hasHeader ? "" : "pt-safe"}`}>{children}</main>
       {footer && <footer className="px-safe pb-safe border-t border-line/60 bg-ink pt-3">{footer}</footer>}
     </div>
   );
@@ -173,6 +198,46 @@ export function BigCard({ children, className = "" }: { children: ReactNode; cla
   return (
     <div className={`pop-in flex flex-col items-center justify-center rounded-card bg-panel px-6 py-10 text-center ${className}`}>
       {children}
+    </div>
+  );
+}
+
+interface ChipProps {
+  label: string;
+  active: boolean;
+  onClick: () => void;
+  role?: "radio";
+}
+
+// A pill toggle for filters; chips wrap or scroll instead of squeezing like a segmented control.
+export function Chip({ label, active, onClick, role }: ChipProps) {
+  return (
+    <button
+      type="button"
+      role={role}
+      aria-pressed={role ? undefined : active}
+      aria-checked={role ? active : undefined}
+      onClick={onClick}
+      className={`min-h-11 min-w-11 shrink-0 rounded-full px-4 text-sm font-bold transition ${active ? "bg-text text-ink" : "bg-panel text-muted active:bg-raised"}`}
+    >
+      {label}
+    </button>
+  );
+}
+
+interface ChipGroupProps<T extends string | number> {
+  options: readonly { value: T; label: string }[];
+  value: T;
+  onChange: (value: T) => void;
+  ariaLabel: string;
+}
+
+export function ChipGroup<T extends string | number>({ options, value, onChange, ariaLabel }: ChipGroupProps<T>) {
+  return (
+    <div role="radiogroup" aria-label={ariaLabel} className="flex flex-wrap gap-2">
+      {options.map((option) => (
+        <Chip key={option.value} role="radio" label={option.label} active={option.value === value} onClick={() => onChange(option.value)} />
+      ))}
     </div>
   );
 }

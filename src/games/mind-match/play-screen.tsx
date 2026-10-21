@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { drawItem } from "../../engine/draw-item";
@@ -11,6 +11,7 @@ import { useScoreboardStore } from "../../engine/scoreboard-store";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Screen } from "../../engine/ui";
 import { useRoundLoader } from "../../engine/use-round-loader";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useMindConfig } from "./config-store";
 import { MIND_ID } from "./constants";
@@ -25,11 +26,11 @@ type Phase = "write" | "reveal" | "spoken" | "result";
 
 export function MindPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const addPoints = useScoreboardStore((state) => state.addPoints);
   const config = useMindConfig();
-  const packs = useSelectedPacks("words", config.packIds);
+  const packs = useSelectedPacks(MIND_ID, "words", config.packIds);
   const typed = config.mode === "typed";
   const valid = packs.length > 0 && (!typed || players.length >= MIN_PLAYERS);
 
@@ -50,7 +51,7 @@ export function MindPlayScreen() {
   });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
-  if (state !== "ready") return <RoundStatus state={state} failure={failure} onRetry={reload} backTo={SETUP_PATH} />;
+  if (state !== "ready") return <RoundStatus state={state} failure={failure} onRetry={reload} />;
 
   const playerIds = players.map((p) => p.id);
   const nameOf = (id: string) => players.find((p) => p.id === id)?.name ?? "?";
@@ -119,7 +120,6 @@ export function MindPlayScreen() {
     case "spoken":
       return (
         <Screen
-          backTo={SETUP_PATH}
           title={t("mind.play.round", { number: round })}
           footer={
             <div className="grid grid-cols-2 gap-2">
@@ -151,7 +151,7 @@ export function MindPlayScreen() {
           caught
           roundPoints={roundPoints}
           onPlayAgain={playAgain}
-          onBackToSetup={() => navigate(SETUP_PATH)}
+          onBackToSetup={() => leave("setup")}
         >
           <p className="text-xl text-muted">{t("mind.result.rounds", { count: round })}</p>
           {match && <p className="text-xl font-bold">{t("mind.result.players", { names: match.playerIds.map(nameOf).join(", ") })}</p>}

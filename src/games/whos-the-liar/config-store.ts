@@ -1,7 +1,9 @@
-import { create } from "zustand";
-import { DEFAULT_DISCUSSION_MINUTES } from "../../app/constants";
-import type { DiscussionMinutes } from "../../engine/setup-fields";
-import type { AnswerMode } from "./logic";
+import { z } from "zod";
+import { DEFAULT_DISCUSSION_MINUTES, MAX_PLAYERS } from "../../app/constants";
+import { createGameConfig } from "../../engine/game-config";
+import { DISCUSSION_MINUTES_SCHEMA, type DiscussionMinutes } from "../../engine/discussion-minutes";
+import { LIAR_ID } from "./constants";
+import { ANSWER_MODES, type AnswerMode } from "./logic";
 
 export interface LiarConfig {
   liarCount: number;
@@ -11,17 +13,13 @@ export interface LiarConfig {
   packIds: string[] | null;
 }
 
-interface LiarConfigState extends LiarConfig {
-  update: (changes: Partial<LiarConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useLiarConfig = create<LiarConfigState>((set) => ({
-  liarCount: 1,
-  answerMode: "typed",
-  liarKnows: false,
-  minutes: DEFAULT_DISCUSSION_MINUTES,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useLiarConfig = createGameConfig<LiarConfig>(
+  LIAR_ID,
+  { liarCount: 1, answerMode: "typed", liarKnows: false, minutes: DEFAULT_DISCUSSION_MINUTES, packIds: null },
+  {
+    liarCount: z.number().int().min(1).max(MAX_PLAYERS),
+    answerMode: z.enum(ANSWER_MODES),
+    liarKnows: z.boolean(),
+    minutes: DISCUSSION_MINUTES_SCHEMA,
+  },
+);

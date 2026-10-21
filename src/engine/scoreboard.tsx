@@ -16,10 +16,10 @@ export function Scoreboard({ roundPoints }: { roundPoints?: Record<string, numbe
 
   return (
     <ScoreList
-      rows={rows.map((row, index) => ({
+      rows={rows.map((row) => ({
         id: row.id,
         name: row.name,
-        rank: index + 1,
+        rank: rows.findIndex((other) => other.total === row.total) + 1,
         gained: row.gained > 0 ? `+${row.gained}` : undefined,
         value: t("scoreboard.points", { points: row.total }),
       }))}

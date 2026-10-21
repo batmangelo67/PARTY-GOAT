@@ -71,7 +71,10 @@ test("first load and offline", async ({ page, context, browserName }, info) => {
       const session = new Session(page, lang, info.project.name, "offline", { shots: false, layout: false });
       await openGame(session, "impostor");
       await addPlayers(session, PLAYER_NAMES);
-      const packsListed = await page.getByRole("checkbox").count();
+      const summary = page.locator('a[href="#/play/impostor/packs"]');
+      const packsListed = (await summary.isVisible().catch(() => false))
+        ? await summary.innerText().then((text) => text.split("\n")[0])
+        : await page.getByRole("checkbox").count();
       await startFromSetup(session);
       await page.waitForTimeout(500);
       offline = { tested: true, homeLoads: true, packsListed, reachedPlay: /#\/play\/impostor$/.test(new URL(page.url()).hash) };

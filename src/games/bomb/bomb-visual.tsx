@@ -5,7 +5,7 @@ export function BombVisual({ beatMs, active }: { beatMs: number; active: boolean
       viewBox="0 0 120 120"
       role="img"
       aria-hidden
-      className={`h-40 w-40 ${active ? "beat" : ""}`}
+      className={`h-[min(10rem,20dvh)] w-[min(10rem,20dvh)] ${active ? "beat" : ""}`}
       style={active ? { animationDuration: `${beatMs}ms` } : undefined}
     >
       <path d="M78 34 C 86 18, 98 22, 102 12" fill="none" stroke="#a29cb0" strokeWidth="5" strokeLinecap="round" />

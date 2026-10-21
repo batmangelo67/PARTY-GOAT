@@ -1,14 +1,18 @@
+import { lazy } from "react";
+import { packAccess } from "../../engine/game-config";
 import type { GameDefinition } from "../types";
+import { useTenConfig } from "./config-store";
 import { TEN_ID, TEN_KINDS } from "./constants";
-import { TenPlayScreen } from "./play-screen";
-import { TenSetupScreen } from "./setup-screen";
+import { TEN_ACCENT, TenOutOfTenGlyph } from "./icon";
 
 export const tenOutOfTenGame: GameDefinition = {
   id: TEN_ID,
   nameKey: "ten.name",
   descriptionKey: "ten.description",
-  icon: "🔟",
+  accent: TEN_ACCENT,
+  Glyph: TenOutOfTenGlyph,
   acceptsKinds: TEN_KINDS,
-  SetupScreen: TenSetupScreen,
-  PlayScreen: TenPlayScreen,
+  packs: packAccess(useTenConfig),
+  SetupScreen: lazy(() => import("./setup-screen").then((module) => ({ default: module.TenSetupScreen }))),
+  PlayScreen: lazy(() => import("./play-screen").then((module) => ({ default: module.TenPlayScreen }))),
 };

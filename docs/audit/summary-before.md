@@ -165,123 +165,123 @@ Taps include text entries (each typed name or answer counts as one tap). Setup s
 
 ### chromium-i15-en
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### chromium-i15-it
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-i15-en
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-i15-it
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-promax-en
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-promax-it
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-se-en
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
-| impostor | 10 of 11 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 3 | 0 | 0 |
+| impostor | 10 of 11 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ### webkit-se-it
 
-| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
-|---|---|---|---|---|---|---|---|---|
-| bomb | 1 of 3 | #/play/bomb/setup | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
-| circa | 6 of 7 | #/play/circa/setup | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
-| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
-| impostor | 11 of 12 | #/play/impostor/setup | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
-| mind-match | 0 of 2 | #/play/mind-match/setup | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
-| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
-| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
-| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
-| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
-| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
+| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |
+|---|---|---|---|---|---|---|---|---|---|
+| bomb | 1 of 3 | #/play/bomb/setup | no | no | #/play/bomb/setup | - / - | 3 | 0 | 0 |
+| circa | 6 of 7 | #/play/circa/setup | no | no | #/play/circa/setup | - / - | 0 | 0 | 0 |
+| forbidden-words | 3 of 5 | #/play/forbidden-words/setup | no | no | #/play/forbidden-words/setup | 1:00 / - | 0 | 0 | 0 |
+| impostor | 11 of 12 | #/play/impostor/setup | no | no | #/play/impostor/setup | - / - | 0 | 0 | 0 |
+| mind-match | 0 of 2 | #/play/mind-match/setup | no | no | #/play/mind-match/setup | - / - | 0 | 0 | 0 |
+| most-likely-to | 0 of 60 | #/play/most-likely-to/setup | no | no | #/play/most-likely-to/setup | - / - | 0 | 0 | 0 |
+| never-have-i-ever | 0 of 60 | #/play/never-have-i-ever/setup | no | no | #/play/never-have-i-ever/setup | - / - | 0 | 0 | 0 |
+| ten-out-of-ten | 0 of 60 | #/play/ten-out-of-ten/setup | no | no | #/play/ten-out-of-ten/setup | - / - | 0 | 0 | 0 |
+| truth-or-dare | 1 of 2 | #/play/truth-or-dare/setup | no | no | #/play/truth-or-dare/setup | - / - | 0 | 0 | 0 |
+| whos-the-liar | 10 of 11 | #/play/whos-the-liar/setup | no | no | #/play/whos-the-liar/setup | - / - | 0 | 0 | 0 |
 
 ## Monkey runs
 
@@ -347,6 +347,19 @@ Taps include text entries (each typed name or answer counts as one tap). Setup s
 - webkit-promax-it: options kept in 3/10 games, packs kept in 0/10, players kept in 6/10
 - webkit-se-en: options kept in 3/10 games, packs kept in 1/10, players kept in 6/10
 - webkit-se-it: options kept in 3/10 games, packs kept in 0/10, players kept in 6/10
+
+## Pack picker effort (Impostor)
+
+| Project | Packs listed | Taps to play with one pack | Taps back to every pack |
+|---|---|---|---|
+| chromium-i15-en | 14 | 14 | 14 |
+| chromium-i15-it | 15 | 15 | 15 |
+| webkit-i15-en | 14 | 14 | 14 |
+| webkit-i15-it | 15 | 15 | 15 |
+| webkit-promax-en | 14 | 14 | 14 |
+| webkit-promax-it | 15 | 15 | 15 |
+| webkit-se-en | 14 | 14 | 14 |
+| webkit-se-it | 15 | 15 | 15 |
 
 ## First load and offline
 

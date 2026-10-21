@@ -16,6 +16,7 @@ export function RoundResult({ headline, caught, children, roundPoints, onPlayAga
   const t = useT();
   return (
     <Screen
+      settled
       footer={
         <div className="grid grid-cols-2 gap-2">
           <Button variant="secondary" onClick={onBackToSetup}>

@@ -56,7 +56,7 @@ out("## Layout issues");
 out("");
 for (const project of projects) {
   const byType = {};
-  for (const f of [...filesOf(project, "journey-"), ...filesOf(project, "exits-")]) {
+  for (const f of [...filesOf(project, "journey-"), ...filesOf(project, "exits-"), ...filesOf(project, "screens")]) {
     const data = read(project, f);
     const issues = [...(data.screens ?? []).flatMap((s) => (s.issues ?? []).map((i) => ({ ...i, where: s.id.split(" :: ")[0] }))), ...(data.landscape ?? []).map((i) => ({ ...i, where: `${data.game} landscape` }))];
     for (const issue of issues) {
@@ -93,11 +93,11 @@ for (const project of projects) {
   }));
   out(`### ${project}`);
   out("");
-  out("| Game | Screens without a way out | Back mid-game lands on | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |");
-  out("|---|---|---|---|---|---|---|---|---|");
+  out("| Game | Screens without a way out | Back mid-game lands on | Back opens pause menu | Forward restores same screen | Reload mid-game lands on | Timer before/after 60 s hidden | Sounds while hidden | Locks after exit | Sounds after exit |");
+  out("|---|---|---|---|---|---|---|---|---|---|");
   for (const r of rows) {
     const noExit = r.screens.filter((s) => !s.exit).length;
-    out(`| ${r.game} | ${noExit} of ${r.screens.length} | ${r.back.landedOn} | ${r.back.forwardRestoredSameScreen ? "yes" : "no"} | ${r.reload.landedOn} | ${r.background.timerBefore ?? "-"} / ${r.background.timerAfter ?? "-"} | ${r.background.soundsWhileHidden} | ${r.leak.locksAfterExit} | ${r.leak.soundsAfterExit} |`);
+    out(`| ${r.game} | ${noExit} of ${r.screens.length} | ${r.back.landedOn} | ${r.back.pauseMenu ? "yes" : "no"} | ${r.back.forwardRestoredSameScreen ? "yes" : "no"} | ${r.reload.landedOn} | ${r.background.timerBefore ?? "-"} / ${r.background.timerAfter ?? "-"} | ${r.background.soundsWhileHidden} | ${r.leak.locksAfterExit} | ${r.leak.soundsAfterExit} |`);
   }
   out("");
 }
@@ -126,6 +126,20 @@ for (const project of projects) {
   if (!rows.length) continue;
   snapshot.memory[project] = rows.map((r) => ({ game: r.game, optionsKept: r.optionsKept, packsKept: r.packsKept, playersKept: r.playersKept }));
   out(`- ${project}: options kept in ${rows.filter((r) => r.optionsKept).length}/${rows.length} games, packs kept in ${rows.filter((r) => r.packsKept).length}/${rows.length}, players kept in ${rows.filter((r) => r.playersKept > 0).length}/${rows.length}`);
+}
+out("");
+
+// Pack picker effort.
+out("## Pack picker effort (Impostor)");
+out("");
+out("| Project | Packs listed | Taps to play with one pack | Taps back to every pack |");
+out("|---|---|---|---|");
+for (const project of projects) {
+  const data = read(project, "picker.json");
+  if (!data) continue;
+  snapshot.picker ??= {};
+  snapshot.picker[project] = data;
+  out(`| ${project} | ${data.packsListed} | ${data.onePackTaps} | ${data.allPacksTaps} |`);
 }
 out("");
 

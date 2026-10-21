@@ -26,7 +26,8 @@ function seedFor(text: string): number {
   return [...text].reduce((hash, char) => Math.imul(hash ^ char.charCodeAt(0), 16777619), 2166136261);
 }
 
-const IMPOSSIBLE = [/\bNaN\b/, /\bundefined\b/, /\[object /, /\bnull\b/, /-\d+ (pts|punti)/];
+const NEGATIVE_POINTS = /-\d+ (pts|punti)/;
+const IMPOSSIBLE = [/\bNaN\b/, /\bundefined\b/, /\[object /, /\bnull\b/, NEGATIVE_POINTS];
 
 for (const game of AUDIT_GAMES) {
   test(`monkey ${game.id}`, async ({ page }, info) => {
@@ -59,7 +60,11 @@ for (const game of AUDIT_GAMES) {
       const text = await page.locator("#root").innerText().catch(() => "");
       if (!text.trim()) anomalies.push(`step ${step}: blank screen at ${hash}`);
       if (text.includes(crashText)) anomalies.push(`step ${step}: error boundary at ${hash}`);
-      for (const pattern of IMPOSSIBLE) if (pattern.test(text)) anomalies.push(`step ${step}: "${pattern}" visible at ${hash}`);
+      for (const pattern of IMPOSSIBLE) {
+        // Forbidden words scores can go below zero by its rules (a banned word costs a point).
+        if (pattern === NEGATIVE_POINTS && game.id === "forbidden-words") continue;
+        if (pattern.test(text)) anomalies.push(`step ${step}: "${pattern}" visible at ${hash}`);
+      }
 
       const controls = page.locator("main button:not([disabled]), footer button:not([disabled]), header a, main input, main textarea");
       const count = await controls.count();

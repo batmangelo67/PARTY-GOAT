@@ -1,5 +1,7 @@
-import { create } from "zustand";
-import { DEFAULT_FINGERS, type NhieMode } from "./logic";
+import { z } from "zod";
+import { createGameConfig } from "../../engine/game-config";
+import { NHIE_ID } from "./constants";
+import { DEFAULT_FINGERS, MAX_FINGERS, MIN_FINGERS, NHIE_MODES, type NhieMode } from "./logic";
 
 export interface NhieConfig {
   mode: NhieMode;
@@ -7,15 +9,8 @@ export interface NhieConfig {
   packIds: string[] | null;
 }
 
-interface NhieConfigState extends NhieConfig {
-  update: (changes: Partial<NhieConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useNhieConfig = create<NhieConfigState>((set) => ({
-  mode: "classic",
-  fingers: DEFAULT_FINGERS,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useNhieConfig = createGameConfig<NhieConfig>(
+  NHIE_ID,
+  { mode: "classic", fingers: DEFAULT_FINGERS, packIds: null },
+  { mode: z.enum(NHIE_MODES), fingers: z.number().int().min(MIN_FINGERS).max(MAX_FINGERS) },
+);

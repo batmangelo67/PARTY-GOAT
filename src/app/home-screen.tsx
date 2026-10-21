@@ -1,9 +1,11 @@
 import { Link } from "react-router";
+import { GameBadge } from "../art/game-badge";
 import { useT } from "../i18n/use-t";
 import { GAMES } from "../games/registry";
 import { usePlayersStore } from "../engine/players-store";
 import { Screen } from "../engine/ui";
 import { APP_NAME } from "./constants";
+import { PlayAgainCard } from "./play-again-card";
 
 export function HomeScreen() {
   const t = useT();
@@ -14,7 +16,10 @@ export function HomeScreen() {
         <h1 className="text-5xl font-black leading-none tracking-tighter text-accent">{APP_NAME}</h1>
         <p className="mt-2 text-lg text-muted">{t("home.tagline")}</p>
       </div>
-      <nav className="mt-8 grid grid-cols-2 gap-3">
+      <div className="mt-6">
+        <PlayAgainCard />
+      </div>
+      <nav className="mt-4 grid grid-cols-2 gap-3">
         {GAMES.map((game, index) => (
           <Link
             key={game.id}
@@ -22,9 +27,7 @@ export function HomeScreen() {
             to={`/play/${game.id}/setup`}
             className="pop-in flex min-h-44 flex-col justify-between rounded-card bg-panel p-4 active:scale-[0.98] active:bg-raised"
           >
-            <span className="text-4xl" aria-hidden>
-              {game.icon}
-            </span>
+            <GameBadge game={game} size={52} />
             <span>
               <span className="block text-xl font-black leading-tight">{t(game.nameKey)}</span>
               <span className="mt-1 line-clamp-3 block text-sm text-muted">{t(game.descriptionKey)}</span>

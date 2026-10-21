@@ -17,3 +17,6 @@ export const TIMER_WARNING_SECONDS = 10;
 export const TIMER_BONUS_SECONDS = 30;
 
 export const BACKUP_FORMAT_VERSION = 1;
+
+// Query flag on a setup URL: start the game at once if setup is complete (home "play again").
+export const QUICK_START_PARAM = "go";

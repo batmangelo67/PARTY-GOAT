@@ -14,6 +14,35 @@ async function snapshotSetup(page: import("@playwright/test").Page) {
   }));
 }
 
+// Packs are chosen inline on the old setup and on their own screen in the new one.
+async function packStates(page: import("@playwright/test").Page): Promise<string> {
+  return page.evaluate(() => [...document.querySelectorAll("main [role=checkbox]")].map((el) => el.getAttribute("aria-checked")).join(""));
+}
+
+async function withPicker<T>(page: import("@playwright/test").Page, gameId: string, action: () => Promise<T>): Promise<T> {
+  const link = page.locator(`a[href="#/play/${gameId}/packs"]`);
+  if (!(await link.isVisible().catch(() => false))) return action();
+  await link.click();
+  await settle(page);
+  const result = await action();
+  await page.goBack();
+  await settle(page);
+  return result;
+}
+
+async function togglePack(page: import("@playwright/test").Page, gameId: string): Promise<string> {
+  return withPicker(page, gameId, async () => {
+    const first = page.locator("main [role=checkbox]").first();
+    if (await first.isVisible().catch(() => false)) await first.click();
+    await settle(page);
+    return packStates(page);
+  });
+}
+
+async function readPacks(page: import("@playwright/test").Page, gameId: string): Promise<string> {
+  return withPicker(page, gameId, () => packStates(page));
+}
+
 for (const game of AUDIT_GAMES) {
   test(`memory ${game.id}`, async ({ page }, info) => {
     const lang = langOf(info.project.name);
@@ -27,10 +56,8 @@ for (const game of AUDIT_GAMES) {
     if (await lastRadio.isVisible().catch(() => false)) await lastRadio.click();
     const firstSwitch = page.locator("main [role=switch]").first();
     if (await firstSwitch.isVisible().catch(() => false)) await firstSwitch.click();
-    const firstPack = page.locator("main [role=checkbox]").first();
-    if (await firstPack.isVisible().catch(() => false)) await firstPack.click();
-    await settle(page);
     const before = await snapshotSetup(page);
+    before.packs = await togglePack(page, game.id);
 
     // A real reload: in-memory state is gone, only what was stored survives.
     await page.reload();
@@ -38,7 +65,8 @@ for (const game of AUDIT_GAMES) {
     await openGame(session, game.id);
     await settle(page);
     const after = await snapshotSetup(page);
-    const playersKept = await page.locator("main li input").count();
+    after.packs = await readPacks(page, game.id);
+    const playersKept = await page.locator("main li input, main [data-player-name]").count();
     writeJson(`${info.project.name}/memory-${game.id}.json`, {
       project: info.project.name,
       game: game.id,

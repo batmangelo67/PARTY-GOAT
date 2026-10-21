@@ -3,7 +3,6 @@ import type { CardItem } from "../../content/schema";
 import { playCue } from "../../engine/sound";
 import { formatClock, useCountdown, useCountdownCues } from "../../engine/timer";
 import { BigCard, Button, Notice, Screen } from "../../engine/ui";
-import { useWakeLock } from "../../engine/use-wake-lock";
 import { useT } from "../../i18n/use-t";
 import { TIMER_WARNING_SECONDS } from "../../app/constants";
 
@@ -28,7 +27,6 @@ export function TurnPlay({ seconds, firstCard, drawCard, onFinish }: TurnPlayPro
   const [drawing, setDrawing] = useState(false);
   const [failure, setFailure] = useState("");
   const finished = useRef(false);
-  useWakeLock(true);
   useCountdownCues(secondsLeft);
 
   useEffect(() => {

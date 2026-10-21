@@ -1,19 +1,11 @@
-import { create } from "zustand";
-import type { MindMode } from "./logic";
+import { z } from "zod";
+import { createGameConfig } from "../../engine/game-config";
+import { MIND_ID } from "./constants";
+import { MIND_MODES, type MindMode } from "./logic";
 
 export interface MindConfig {
   mode: MindMode;
   packIds: string[] | null;
 }
 
-interface MindConfigState extends MindConfig {
-  update: (changes: Partial<MindConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useMindConfig = create<MindConfigState>((set) => ({
-  mode: "spoken",
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useMindConfig = createGameConfig<MindConfig>(MIND_ID, { mode: "spoken", packIds: null }, { mode: z.enum(MIND_MODES) });

@@ -5557,5 +5557,71 @@
         "page": []
       }
     }
+  },
+  "picker": {
+    "chromium-i15-en": {
+      "project": "chromium-i15-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "chromium-i15-it": {
+      "project": "chromium-i15-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-i15-en": {
+      "project": "webkit-i15-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-i15-it": {
+      "project": "webkit-i15-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-promax-en": {
+      "project": "webkit-promax-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-promax-it": {
+      "project": "webkit-promax-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-se-en": {
+      "project": "webkit-se-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-se-it": {
+      "project": "webkit-se-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    }
   }
 }

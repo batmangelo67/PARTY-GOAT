@@ -1,6 +1,8 @@
-import { create } from "zustand";
+import { z } from "zod";
 import { DEFAULT_DISCUSSION_MINUTES } from "../../app/constants";
-import type { DiscussionMinutes } from "../../engine/setup-fields";
+import { createGameConfig } from "../../engine/game-config";
+import { DISCUSSION_MINUTES_SCHEMA, type DiscussionMinutes } from "../../engine/discussion-minutes";
+import { CIRCA_ID } from "./constants";
 
 export interface CircaConfig {
   impostor: boolean;
@@ -8,15 +10,8 @@ export interface CircaConfig {
   packIds: string[] | null;
 }
 
-interface CircaConfigState extends CircaConfig {
-  update: (changes: Partial<CircaConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useCircaConfig = create<CircaConfigState>((set) => ({
-  impostor: false,
-  minutes: DEFAULT_DISCUSSION_MINUTES,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useCircaConfig = createGameConfig<CircaConfig>(
+  CIRCA_ID,
+  { impostor: false, minutes: DEFAULT_DISCUSSION_MINUTES, packIds: null },
+  { impostor: z.boolean(), minutes: DISCUSSION_MINUTES_SCHEMA },
+);

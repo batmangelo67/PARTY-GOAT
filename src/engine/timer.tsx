@@ -3,7 +3,7 @@ import { TIMER_BONUS_SECONDS, TIMER_WARNING_SECONDS } from "../app/constants";
 import { useT } from "../i18n/use-t";
 import { playCue } from "./sound";
 import { Button, Screen } from "./ui";
-import { useWakeLock } from "./use-wake-lock";
+import { useMenuOpen, useRunningTimer } from "./use-game-session";
 
 const TICK_MS = 200;
 const TICK_SOUND_SECONDS = 5;
@@ -18,11 +18,22 @@ export function formatClock(totalSeconds: number): string {
   return `${minutes}:${String(totalSeconds % 60).padStart(2, "0")}`;
 }
 
-// Countdown based on a deadline so it stays correct when the tab is throttled.
+// Countdown based on a deadline so it stays correct when the tab is throttled. It also stops
+// while the game's pause menu is open (the exit button, the back gesture, the app going to the background).
 export function useCountdown(seconds: number) {
   const [deadline, setDeadline] = useState(() => Date.now() + seconds * 1000);
   const [pausedLeftMs, setPausedLeftMs] = useState<number | null>(null);
   const [now, setNow] = useState(() => Date.now());
+  const menuOpen = useMenuOpen();
+  const pausedByMenu = useRef(false);
+
+  const leftMs = pausedLeftMs ?? Math.max(0, deadline - now);
+  const pause = () => setPausedLeftMs(leftMs);
+  const resume = (left: number) => {
+    setDeadline(Date.now() + left);
+    setNow(Date.now());
+    setPausedLeftMs(null);
+  };
 
   useEffect(() => {
     if (pausedLeftMs !== null) return;
@@ -30,17 +41,25 @@ export function useCountdown(seconds: number) {
     return () => window.clearInterval(id);
   }, [pausedLeftMs]);
 
-  const leftMs = pausedLeftMs ?? Math.max(0, deadline - now);
+  useEffect(() => {
+    if (menuOpen && pausedLeftMs === null) {
+      pausedByMenu.current = true;
+      pause();
+    } else if (!menuOpen && pausedByMenu.current && pausedLeftMs !== null) {
+      pausedByMenu.current = false;
+      resume(pausedLeftMs);
+    }
+  }, [menuOpen]);
+
+  useRunningTimer(pausedLeftMs === null && leftMs > 0);
+
   return {
     secondsLeft: Math.ceil(leftMs / 1000),
     paused: pausedLeftMs !== null,
     togglePause: () => {
-      if (pausedLeftMs === null) setPausedLeftMs(leftMs);
-      else {
-        setDeadline(Date.now() + pausedLeftMs);
-        setNow(Date.now());
-        setPausedLeftMs(null);
-      }
+      pausedByMenu.current = false;
+      if (pausedLeftMs === null) pause();
+      else resume(pausedLeftMs);
     },
     addSeconds: (extra: number) => {
       if (pausedLeftMs !== null) setPausedLeftMs(pausedLeftMs + extra * 1000);
@@ -64,7 +83,6 @@ export function Timer({ seconds, onFinish }: TimerProps) {
   const t = useT();
   const { secondsLeft, paused, togglePause, addSeconds } = useCountdown(seconds);
   const finished = secondsLeft === 0;
-  useWakeLock(true);
   useCountdownCues(secondsLeft);
 
   const warning = !finished && secondsLeft <= TIMER_WARNING_SECONDS;

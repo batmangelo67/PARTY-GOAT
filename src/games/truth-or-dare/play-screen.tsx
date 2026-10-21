@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { drawItem } from "../../engine/draw-item";
@@ -9,6 +9,7 @@ import { rankByScore } from "../../engine/ranking";
 import { ScoreList } from "../../engine/score-list";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useTodConfig } from "./config-store";
 import { TOD_ID } from "./constants";
@@ -24,10 +25,10 @@ interface DrawnCard {
 
 export function TodPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useTodConfig();
-  const packs = useSelectedPacks("prompts", config.packIds);
+  const packs = useSelectedPacks(TOD_ID, "prompts", config.packIds);
   const valid = packs.length > 0 && players.length >= MIN_PLAYERS;
 
   const [turn, setTurn] = useState(0);
@@ -78,10 +79,10 @@ export function TodPlayScreen() {
   if (ended) {
     const ranking = rankByScore(players, braveryScores(stats, players.map((p) => p.id)));
     return (
-      <Screen
+      <Screen settled
         footer={
           <div className="grid grid-cols-2 gap-2">
-            <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+            <Button variant="secondary" onClick={() => leave("setup")}>
               {t("common.backToSetup")}
             </Button>
             <Button onClick={newGame}>{t("common.newGame")}</Button>
@@ -107,7 +108,6 @@ export function TodPlayScreen() {
   if (!card) {
     return (
       <Screen
-        backTo={SETUP_PATH}
         footer={
           <Button variant="ghost" onClick={endGame}>
             {t("tod.play.end")}

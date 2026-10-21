@@ -23,6 +23,18 @@ Update the Status column at the end of every stage.
 - Impostor clue mode: `none | category | hint | both`, default `category`. Missing hint falls back to category.
 - Who's the Liar: liar gets a similar question; answers typed or spoken; liar doesn't know they're the liar by default.
 - No in-app AI generation (no API key, no cost). Packs are generated offline and added as JSON.
+- UX audit (see `docs/UX-AUDIT.md`), flow and exit decisions:
+  - Every game's options and pack choice are saved per game (`config:<gameId>` in IndexedDB) and validated field by field with zod on load, so one bad value falls back to its default without losing the rest.
+  - `packIds: null` means "the default mix": every pack for the game in the app language within the spice limit (any language if the app language has none). Choosing exactly the default set is stored back as `null`, so the mix keeps picking up new packs and language changes. An explicit choice keeps packs of any language but drops deleted or too-spicy ones.
+  - Home shows a "Play again" card for the last game started. It opens setup with `?go=1`, which starts at once when setup is complete and otherwise just shows setup with the problem. Setup stays the single place that knows whether a game can start.
+  - Setup has one shared layout: players as a compact row once there are enough (editor on tap), packs as one summary row, the one or two options that change the game, the rest under "More options" (collapsed every time).
+  - The pack picker is its own screen, one level deep: search, Mix everything, Surprise me (one random pack), Clear, chips for All / Recent / Starred / All languages / Spice, star per pack. Recents and stars are stored in `play-log` / `favorite-packs`. Folders and sections from TAXONOMY.md are not in the data yet; when they land they become extra chips, not extra levels.
+  - Exit anywhere: inside a game every screen's header shows ✕ instead of a back arrow. It leaves at once when nothing would be lost, otherwise it opens the pause menu (Keep playing, Change setup, Home). "Would be lost" = any tap since the round started, cleared on result screens (`Screen settled`).
+  - The system back gesture inside a running round opens the same pause menu (react-router `useBlocker`; the app now uses `createHashRouter`). In-app navigation (End game, Back to setup) is never blocked.
+  - Timers, the bomb fuse and Forbidden words turns stop while the pause menu is open, and the menu opens by itself when the app goes to the background during one, so locking the phone never costs a turn or blows up the bomb.
+  - The running game lives only in memory. A reload, an app kill or a forward navigation lands on setup with options intact; there is never a half-finished round in storage.
+  - Leaving steps back in history when the target is where the game was started from, so the back gesture afterwards does not land inside a finished game.
+  - Default spice limit stays "Cheeky"; the picker shows it as a labelled chip so it is visible where packs are chosen.
 
 ## Game specs
 

@@ -1,33 +1,37 @@
-import { useNavigate } from "react-router";
-import { ContentPicker } from "../../engine/content-picker";
-import { PlayerEditor } from "../../engine/player-editor";
 import type { Player } from "../../engine/players";
+import { useSelectedPacks } from "../../content/use-selected-packs";
 import { usePlayersStore } from "../../engine/players-store";
-import { packsProblem, playersProblem, StartFooter } from "../../engine/setup-fields";
-import { Screen, Section, Segmented, Stepper } from "../../engine/ui";
+import { SetupLayout, SetupPlayers } from "../../engine/setup-blocks";
+import { packsProblem, playersProblem } from "../../engine/setup-fields";
+import { Section, Segmented, Stepper } from "../../engine/ui";
 import type { Translate } from "../../i18n/use-t";
 import { useT } from "../../i18n/use-t";
-import { useNhieConfig, type NhieConfig } from "./config-store";
-import { NHIE_ID, NHIE_KINDS } from "./constants";
+import type { NhieConfig } from "./config-store";
+import { useNhieConfig } from "./config-store";
+import { NHIE_ID } from "./constants";
 import { MAX_FINGERS, MIN_FINGERS, NHIE_MODES } from "./logic";
 
 // Classic mode is just cards, so it only needs players when fingers are counted.
-export function nhieSetupProblems(t: Translate, players: readonly Player[], config: NhieConfig): string[] {
-  const problems = [config.mode === "fingers" ? playersProblem(t, players) : null, packsProblem(t, config.packIds)];
+export function nhieSetupProblems(t: Translate, players: readonly Player[], config: NhieConfig, packCount: number): string[] {
+  const problems = [config.mode === "fingers" ? playersProblem(t, players) : null, packsProblem(t, packCount)];
   return problems.filter((problem) => problem !== null);
 }
 
 export function NhieSetupScreen() {
   const t = useT();
-  const navigate = useNavigate();
   const players = usePlayersStore((state) => state.players);
   const config = useNhieConfig();
+  const packs = useSelectedPacks(NHIE_ID, "prompts", config.packIds);
+  const fingers = config.mode === "fingers";
 
   return (
-    <Screen
+    <SetupLayout
       title={t("nhie.name")}
-      backTo="/"
-      footer={<StartFooter problems={nhieSetupProblems(t, players, config)} onStart={() => navigate(`/play/${NHIE_ID}`)} />}
+      gameId={NHIE_ID}
+      problems={nhieSetupProblems(t, players, config, packs.length)}
+      packs={packs}
+      isMix={config.packIds === null}
+      players={fingers ? <SetupPlayers /> : undefined}
     >
       <Section title={t("nhie.setup.mode")}>
         <Segmented
@@ -38,25 +42,17 @@ export function NhieSetupScreen() {
         />
         <p className="mt-2 text-sm text-muted">{t(`nhie.mode.${config.mode}Help`)}</p>
       </Section>
-      {config.mode === "fingers" && (
-        <>
-          <Section title={t("nhie.setup.fingers")}>
-            <Stepper
-              label={t("nhie.setup.fingers")}
-              value={config.fingers}
-              min={MIN_FINGERS}
-              max={MAX_FINGERS}
-              onChange={(fingers) => config.update({ fingers })}
-            />
-          </Section>
-          <Section title={t("setup.players")}>
-            <PlayerEditor />
-          </Section>
-        </>
+      {fingers && (
+        <Section title={t("nhie.setup.fingers")}>
+          <Stepper
+            label={t("nhie.setup.fingers")}
+            value={config.fingers}
+            min={MIN_FINGERS}
+            max={MAX_FINGERS}
+            onChange={(value) => config.update({ fingers: value })}
+          />
+        </Section>
       )}
-      <Section title={t("picker.title")} aside={t("picker.selected", { count: config.packIds?.length ?? 0 })}>
-        <ContentPicker gameId={NHIE_ID} kinds={NHIE_KINDS} selectedIds={config.packIds} onChange={config.setPackIds} />
-      </Section>
-    </Screen>
+    </SetupLayout>
   );
 }

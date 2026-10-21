@@ -108,10 +108,11 @@ for (const game of AUDIT_GAMES) {
     await page.goBack({ waitUntil: "commit", timeout: 5000 }).catch(() => null);
     await settle(page);
     const backLanding = new URL(page.url()).hash;
+    const backOpenedPauseMenu = await page.getByRole("dialog").isVisible().catch(() => false);
     await page.goForward({ waitUntil: "commit", timeout: 5000 }).catch(() => null);
     await settle(page);
     const forwardText = await bodyText(page);
-    const back = { from: midHash, landedOn: backLanding, forwardRestoredSameScreen: forwardText === midBefore, forwardScreen: forwardText.slice(0, 80) };
+    const back = { from: midHash, landedOn: backLanding, pauseMenu: backOpenedPauseMenu, forwardRestoredSameScreen: forwardText === midBefore, forwardScreen: forwardText.slice(0, 80) };
 
     // 4. Background + return while a timer, fuse or turn is running.
     session = await newGameSession(page, lang, project, game.id);

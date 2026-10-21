@@ -1,18 +1,10 @@
-import { create } from "zustand";
+import { z } from "zod";
+import { createGameConfig } from "../../engine/game-config";
+import { TOD_ID } from "./constants";
 
 export interface TodConfig {
   allowSkip: boolean;
   packIds: string[] | null;
 }
 
-interface TodConfigState extends TodConfig {
-  update: (changes: Partial<TodConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useTodConfig = create<TodConfigState>((set) => ({
-  allowSkip: true,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useTodConfig = createGameConfig<TodConfig>(TOD_ID, { allowSkip: true, packIds: null }, { allowSkip: z.boolean() });

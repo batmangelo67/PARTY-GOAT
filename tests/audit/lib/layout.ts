@@ -79,7 +79,8 @@ export async function checkLayout(page: Page): Promise<LayoutIssue[]> {
 
         let box: Element | null = el;
         while (box && getComputedStyle(box).display === "inline") box = box.parentElement;
-        if (box && box.scrollWidth > box.clientWidth + 1) {
+        // data-ellipsis marks text that is meant to be cut with "…" (a summary of a longer list).
+        if (box && box.scrollWidth > box.clientWidth + 1 && !box.closest("[data-ellipsis]")) {
           const boxStyle = getComputedStyle(box);
           if (boxStyle.overflow === "hidden" || boxStyle.textOverflow === "ellipsis" || boxStyle.overflowX === "hidden") {
             issues.push({ type: "clipped-text", detail: `"${text.slice(0, 50)}" (${box.scrollWidth}px in ${box.clientWidth}px)` });

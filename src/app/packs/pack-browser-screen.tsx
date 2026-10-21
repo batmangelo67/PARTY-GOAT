@@ -4,7 +4,7 @@ import { useContentStore } from "../../content/content-store";
 import { filterPackList } from "../../content/pack-filter";
 import { PACK_KINDS, PACK_SOURCES } from "../../content/schema";
 import { errorMessage, logError } from "../../engine/logger";
-import { Button, Notice, Screen, Section, Segmented } from "../../engine/ui";
+import { Button, ChipGroup, Notice, Screen, Section } from "../../engine/ui";
 import { SPICE_LEVELS, spiceKey } from "../../i18n/labels";
 import { useT } from "../../i18n/use-t";
 import { useSettingsStore } from "../settings-store";
@@ -57,7 +57,7 @@ export function PackBrowserScreen() {
         className="mt-4 min-h-tap w-full rounded-2xl border-2 border-line bg-ink px-4 font-bold outline-none focus:border-accent"
       />
       <Section title={t("packs.filterLanguage")}>
-        <Segmented
+        <ChipGroup
           ariaLabel={t("packs.filterLanguage")}
           options={[
             { value: "ui", label: t(`language.${language}`) },
@@ -68,7 +68,7 @@ export function PackBrowserScreen() {
         />
       </Section>
       <Section title={t("packs.filterKind")}>
-        <Segmented
+        <ChipGroup
           ariaLabel={t("packs.filterKind")}
           options={[{ value: "all", label: t("packs.all") }, ...PACK_KINDS.map((kind) => ({ value: kind, label: t(`kind.${kind}`) }))]}
           value={filters.kind}
@@ -76,7 +76,7 @@ export function PackBrowserScreen() {
         />
       </Section>
       <Section title={t("packs.filterSpice")} aside={t(spiceKey(filters.maxSpice))}>
-        <Segmented
+        <ChipGroup
           ariaLabel={t("packs.filterSpice")}
           options={SPICE_LEVELS.map((level) => ({ value: level, label: String(level) }))}
           value={filters.maxSpice as (typeof SPICE_LEVELS)[number]}
@@ -84,7 +84,7 @@ export function PackBrowserScreen() {
         />
       </Section>
       <Section title={t("packs.filterSource")}>
-        <Segmented
+        <ChipGroup
           ariaLabel={t("packs.filterSource")}
           options={[{ value: "all", label: t("packs.all") }, ...PACK_SOURCES.map((source) => ({ value: source, label: t(`source.${source}`) }))]}
           value={filters.source}
@@ -99,15 +99,11 @@ export function PackBrowserScreen() {
             <li key={pack.id}>
               <Link to={`/packs/${pack.id}`} className="flex min-h-tap items-center gap-3 rounded-2xl bg-panel px-4 py-3 active:bg-raised">
                 <span className="min-w-0 flex-1">
-                  <span className="block truncate font-bold">{pack.title}</span>
+                  <span className="block break-words font-bold">{pack.title}</span>
                   <span className="block text-sm text-muted">
-                    {t(`kind.${pack.kind}`)} · {t("picker.items", { count: pack.items.length })} · {t(spiceKey(pack.spice))}
-                  </span>
-                </span>
-                <span className="flex shrink-0 flex-col items-end gap-1 text-xs font-bold">
-                  <span className="rounded-md bg-ink px-2 py-1 text-muted">{t(`language.short.${pack.language}`)}</span>
-                  <span className={`rounded-md px-2 py-1 ${pack.source === "custom" ? "bg-info text-ink" : "bg-ink text-muted"}`}>
-                    {t(`source.${pack.source}`)}
+                    {t(`kind.${pack.kind}`)} · {t("picker.items", { count: pack.items.length })} · {t(spiceKey(pack.spice))} ·{" "}
+                    {t(`language.short.${pack.language}`)}
+                    {pack.source === "custom" && <span className="font-bold text-info"> · {t("source.custom")}</span>}
                   </span>
                 </span>
               </Link>
