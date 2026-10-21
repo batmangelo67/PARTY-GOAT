@@ -79,11 +79,37 @@ export function useCountdownCues(secondsLeft: number): void {
   }, [secondsLeft]);
 }
 
+const RING_RADIUS = 54;
+const RING_LENGTH = 2 * Math.PI * RING_RADIUS;
+
+// The time left as a ring that drains in the game's colour and turns red at the end.
+function TimerRing({ fraction, alarm }: { fraction: number; alarm: boolean }) {
+  return (
+    <svg viewBox="0 0 120 120" aria-hidden className="absolute inset-0 h-full w-full -rotate-90">
+      <circle cx="60" cy="60" r={RING_RADIUS} fill="none" strokeWidth="7" className="stroke-line" />
+      <circle
+        cx="60"
+        cy="60"
+        r={RING_RADIUS}
+        fill="none"
+        strokeWidth="7"
+        strokeLinecap="round"
+        strokeDasharray={RING_LENGTH}
+        strokeDashoffset={RING_LENGTH * (1 - Math.min(1, Math.max(0, fraction)))}
+        className={`transition-[stroke-dashoffset] duration-200 ease-linear ${alarm ? "stroke-danger" : "stroke-game"}`}
+      />
+    </svg>
+  );
+}
+
 export function Timer({ seconds, onFinish }: TimerProps) {
   const t = useT();
   const { secondsLeft, paused, togglePause, addSeconds } = useCountdown(seconds);
   const finished = secondsLeft === 0;
   useCountdownCues(secondsLeft);
+  // Added time grows the ring's total instead of overfilling it.
+  const total = useRef(seconds);
+  total.current = Math.max(total.current, secondsLeft);
 
   const warning = !finished && secondsLeft <= TIMER_WARNING_SECONDS;
 
@@ -110,14 +136,17 @@ export function Timer({ seconds, onFinish }: TimerProps) {
       }
     >
       <div className="flex h-full flex-col items-center justify-center">
-        <p
-          role="timer"
-          aria-live={warning ? "assertive" : "off"}
-          className={`text-[7rem] font-black leading-none tabular-nums tracking-tighter ${warning ? "pulse-warning" : ""} ${finished ? "text-danger" : ""}`}
-        >
-          {formatClock(secondsLeft)}
-        </p>
-        {finished && <p className="mt-4 text-3xl font-black">{t("timer.timeUp")}</p>}
+        <div className="relative grid h-[min(18rem,72vw)] w-[min(18rem,72vw)] place-items-center">
+          <TimerRing fraction={secondsLeft / Math.max(total.current, 1)} alarm={warning || finished} />
+          <p
+            role="timer"
+            aria-live={warning ? "assertive" : "off"}
+            className={`text-[4.75rem] font-black leading-none tabular-nums tracking-tighter ${warning ? "pulse-warning" : ""} ${finished ? "text-danger" : ""}`}
+          >
+            {formatClock(secondsLeft)}
+          </p>
+        </div>
+        {finished && <p className="pop-in mt-4 text-3xl font-black">{t("timer.timeUp")}</p>}
       </div>
     </Screen>
   );

@@ -2,6 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import { Navigate, useLocation, useNavigate, useParams } from "react-router";
 import { MAX_SPICE } from "../constants";
 import { useSettingsStore } from "../settings-store";
+import { GameTheme } from "../../art/game-theme";
+import { PeekingGoat } from "../../art/goat";
 import { useContentStore } from "../../content/content-store";
 import { filterPickerPacks } from "../../content/pack-filter";
 import { pickerRows, toggleSelection, type PickerFilter } from "../../content/picker-selection";
@@ -9,7 +11,7 @@ import { defaultPacks } from "../../content/resolve-packs";
 import type { Pack } from "../../content/schema";
 import { usePlayLogStore } from "../../engine/play-log-store";
 import { pick } from "../../engine/random";
-import { Button, Chip, Notice, Screen } from "../../engine/ui";
+import { Button, Chip, Screen } from "../../engine/ui";
 import { findGame } from "../../games/registry";
 import { spiceKey } from "../../i18n/labels";
 import { useT } from "../../i18n/use-t";
@@ -94,6 +96,7 @@ export function PackPickerScreen() {
   const emptyKey = query ? "picker.empty" : filter === "recent" ? "picker.noRecent" : filter === "starred" ? "picker.noStarred" : "picker.empty";
 
   return (
+    <GameTheme game={game}>
     <Screen
       title={t("picker.title")}
       onBack={done}
@@ -114,10 +117,10 @@ export function PackPickerScreen() {
         className="min-h-tap w-full rounded-2xl border-2 border-line bg-ink px-4 font-bold outline-none focus:border-accent"
       />
       <div className="mt-3 grid grid-cols-2 gap-2">
-        <Button variant={packIds === null ? "primary" : "secondary"} className="text-base" onClick={() => game.packs.setPackIds(null)}>
+        <Button variant={packIds === null ? "primary" : "secondary"} className="px-3 text-base" onClick={() => game.packs.setPackIds(null)}>
           {t("picker.mixAll")}
         </Button>
-        <Button variant="secondary" className="text-base" onClick={surprise}>
+        <Button variant="secondary" className="px-3 text-base" onClick={surprise}>
           {t("picker.surprise")}
         </Button>
       </div>
@@ -156,8 +159,10 @@ export function PackPickerScreen() {
         ))}
       </ul>
       {rows.length === 0 && (
-        <div className="mt-3">
-          <Notice>{t(emptyKey)}</Notice>
+        <div className="mt-6">
+          <PeekingGoat mood="sleepy">
+            <p className="text-muted">{t(emptyKey)}</p>
+          </PeekingGoat>
         </div>
       )}
       <button
@@ -170,5 +175,6 @@ export function PackPickerScreen() {
         {t("picker.newPack")}
       </button>
     </Screen>
+    </GameTheme>
   );
 }

@@ -470,6 +470,7 @@ export const it: Messages = {
   "picker.noStarred": "Tocca ☆ su un pacchetto per tenerlo qui.",
   "picker.spice": "Piccante: {level}",
 
+  "home.games": "Giochi",
   "home.playAgain": "Rigioca",
   "home.quickSummary": "{players} giocatori · {packs}",
 };

@@ -35,6 +35,10 @@ Update the Status column at the end of every stage.
   - The running game lives only in memory. A reload, an app kill or a forward navigation lands on setup with options intact; there is never a half-finished round in storage.
   - Leaving steps back in history when the target is where the game was started from, so the back gesture afterwards does not land inside a finished game.
   - Default spice limit stays "Cheeky"; the picker shows it as a labelled chip so it is visible where packs are chosen.
+- Visual identity (see `docs/DESIGN.md`): an original goat mascot with six moods, one glyph and one colour per game
+  (in the game's folder, `icon.tsx`), the theme accent for actions and the game colour for identity. All art is code;
+  app icons are rendered from the mascot's shape data with the audit's Playwright Chromium. The goat never appears on
+  secret screens. Every animation is skipped with reduced motion or Settings > Animations off.
 
 ## Game specs
 

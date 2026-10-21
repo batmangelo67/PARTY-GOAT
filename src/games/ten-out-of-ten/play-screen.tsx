@@ -1,3 +1,4 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
 import { Navigate } from "react-router";
 import { useSelectedPacks } from "../../content/use-selected-packs";
@@ -50,7 +51,8 @@ export function TenPlayScreen() {
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("ten.over.title")}</h1>
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("ten.over.title")}</h1>
         <Section title={t("ten.over.worst")}>
           {worst.length === 0 ? (
             <Notice>{t("ten.over.empty")}</Notice>

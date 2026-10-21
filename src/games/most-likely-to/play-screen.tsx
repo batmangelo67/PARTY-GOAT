@@ -1,3 +1,4 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
 import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
@@ -54,8 +55,9 @@ export function MltPlayScreen() {
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("mlt.over.title")}</h1>
-        <p className="mt-2 text-lg text-muted">{t("mlt.over.help")}</p>
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("mlt.over.title")}</h1>
+        <p className="mt-2 text-center text-lg text-muted">{t("mlt.over.help")}</p>
         <Section title={t("scoreboard.title")}>
           <ScoreList
             rows={ranking.map((row) => ({

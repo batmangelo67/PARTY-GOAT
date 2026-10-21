@@ -1,3 +1,4 @@
+import { Celebration, Explosion } from "../../art/celebration";
 import { useRef, useState, type ButtonHTMLAttributes } from "react";
 import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
@@ -176,7 +177,8 @@ export function BombPlayScreen() {
           </div>
         }
       >
-        <h1 className="pop-in pt-10 text-center text-5xl font-black leading-tight text-danger">
+        <Explosion />
+        <h1 className="pop-in pt-2 text-center text-5xl font-black leading-tight text-danger">
           {t("bomb.boom.title", { name: players.find((p) => p.id === loserId)?.name ?? "?" })}
         </h1>
         <Section title={t("bomb.boom.scores")}>{rankingList}</Section>
@@ -195,7 +197,8 @@ export function BombPlayScreen() {
         </div>
       }
     >
-      <h1 className="pt-8 text-4xl font-black">{t("bomb.over.title")}</h1>
+      <Celebration mood="party" />
+      <h1 className="pt-2 text-center text-4xl font-black">{t("bomb.over.title")}</h1>
       {ranking[0] && <p className="mt-2 text-xl font-bold text-accent">{t("bomb.over.winner", { name: ranking[0].name })}</p>}
       <Section title={t("bomb.boom.scores")}>{rankingList}</Section>
     </Screen>

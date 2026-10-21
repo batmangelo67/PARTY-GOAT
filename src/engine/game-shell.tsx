@@ -1,5 +1,6 @@
 import { useEffect, useMemo, type MouseEvent, type ReactNode } from "react";
 import { useBlocker } from "react-router";
+import { Goat } from "../art/goat";
 import { useT } from "../i18n/use-t";
 import { closeMenu, exitNeedsConfirm, markProgress, openMenu, useGameSession } from "./game-session";
 import { InGameContext } from "./in-game-context";
@@ -69,16 +70,19 @@ function PauseMenu({ onResume, onLeave }: { onResume: () => void; onLeave: (targ
   const t = useT();
   const progress = useGameSession((state) => exitNeedsConfirm(state));
   return (
-    <div {...{ [EXIT_UI_ATTRIBUTE]: "" }} className="fixed inset-0 z-40 flex items-end bg-ink">
+    <div {...{ [EXIT_UI_ATTRIBUTE]: "" }} className="confetti-bg fixed inset-0 z-40 flex items-end bg-ink">
       <div
         role="dialog"
         aria-modal="true"
         aria-labelledby="pause-title"
         className="sheet-in pb-safe px-safe w-full rounded-t-card border-t border-line bg-panel pt-6"
       >
-        <h2 id="pause-title" className="text-3xl font-black tracking-tight">
-          {t("game.paused")}
-        </h2>
+        <div className="flex items-center gap-3">
+          <Goat mood="sleepy" size={64} className="text-accent" />
+          <h2 id="pause-title" className="text-3xl font-black tracking-tight">
+            {t("game.paused")}
+          </h2>
+        </div>
         {progress && <p className="mt-1 text-muted">{t("game.lostWarning")}</p>}
         <div className="mt-5 flex flex-col gap-2">
           <Button autoFocus onClick={onResume}>

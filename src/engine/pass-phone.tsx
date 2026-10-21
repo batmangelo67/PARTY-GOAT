@@ -54,7 +54,7 @@ export function PassPhone({ players, renderSecret, canHide, onDone }: PassPhoneP
     >
       <div className="flex min-h-full flex-col justify-center gap-4 py-6">
         {progress}
-        <BigCard>{renderSecret(player, index)}</BigCard>
+        <BigCard key={player.id} className="flip-in">{renderSecret(player, index)}</BigCard>
       </div>
     </Screen>
   );

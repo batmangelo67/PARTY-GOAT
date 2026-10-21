@@ -468,6 +468,7 @@ export const en = {
   "picker.noStarred": "Tap ☆ on a pack to keep it here.",
   "picker.spice": "Spice: {level}",
 
+  "home.games": "Games",
   "home.playAgain": "Play again",
   "home.quickSummary": "{players} players · {packs}",
 };

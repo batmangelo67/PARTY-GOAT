@@ -1,96 +1,83 @@
-// Renders the placeholder goat icon to PNG files in public/ without any image library.
+// Draws the PARTY GOAT app icon from the mascot's shape data (src/art/goat-paths.ts) and renders
+// every icon file in public/: favicon.svg, apple-touch-icon.png, icon-192/512 and the maskable icon.
+// Rasterising uses the Playwright Chromium already installed for the audit (dev only).
+// Usage: npm run make:icons
 import { writeFileSync } from "node:fs";
-import { deflateSync } from "node:zlib";
+import { chromium } from "@playwright/test";
+import { GOAT_COLORS as C, GOAT_EARS, GOAT_SHAPES as S } from "../src/art/goat-paths.ts";
 
-const INK = [14, 12, 19];
-const HORN = [244, 241, 234];
-const HEAD = [215, 255, 62];
-const SUPERSAMPLE = 4;
+const STROKE = `stroke="${C.ink}" stroke-width="2.4" stroke-linejoin="round" stroke-linecap="round"`;
+const BACKGROUND = "#17131f";
+const GLOW = "#2a2140";
 
-const CRC_TABLE = Array.from({ length: 256 }, (_, n) => {
-  let c = n;
-  for (let k = 0; k < 8; k++) c = c & 1 ? 0xedb88320 ^ (c >>> 1) : c >>> 1;
-  return c >>> 0;
-});
+const ellipse = ([cx, cy, rx, ry, rotation], fill, stroked) =>
+  `<ellipse cx="${cx}" cy="${cy}" rx="${rx}" ry="${ry}" fill="${fill}" transform="rotate(${rotation} ${cx} ${cy})" ${stroked ? STROKE : ""}/>`;
 
-function crc32(buf) {
-  let c = 0xffffffff;
-  for (const byte of buf) c = CRC_TABLE[(c ^ byte) & 0xff] ^ (c >>> 8);
-  return (c ^ 0xffffffff) >>> 0;
+function goat() {
+  return [
+    `<path d="${S.hornLeft}" fill="${C.horn}" ${STROKE}/>`,
+    `<path d="${S.hornRight}" fill="${C.horn}" ${STROKE}/>`,
+    ellipse(GOAT_EARS.left, C.fur, true),
+    ellipse(GOAT_EARS.right, C.fur, true),
+    ellipse(GOAT_EARS.innerLeft, C.blush),
+    ellipse(GOAT_EARS.innerRight, C.blush),
+    `<path d="${S.beard}" fill="${C.furShade}" ${STROKE}/>`,
+    `<path d="${S.head}" fill="${C.fur}" ${STROKE}/>`,
+    `<ellipse cx="60" cy="81" rx="17" ry="13" fill="${C.furShade}"/>`,
+    `<ellipse cx="54.5" cy="77" rx="2.2" ry="1.5" fill="${C.ink}"/>`,
+    `<ellipse cx="65.5" cy="77" rx="2.2" ry="1.5" fill="${C.ink}"/>`,
+    `<ellipse cx="41" cy="68" rx="5" ry="3" fill="${C.blush}" opacity="0.55"/>`,
+    `<ellipse cx="79" cy="68" rx="5" ry="3" fill="${C.blush}" opacity="0.55"/>`,
+    `<ellipse cx="49" cy="56" rx="4.2" ry="5.2" fill="${C.ink}"/>`,
+    `<path d="M66 57 Q71 52 76 57" fill="none" ${STROKE}/>`,
+    `<circle cx="50.6" cy="54" r="1.5" fill="#fff"/>`,
+    `<path d="${S.smile}" fill="none" ${STROKE}/>`,
+    `<g transform="rotate(12 60 31)"><path d="${S.hat}" fill="${C.hat}" ${STROKE}/>`,
+    `<path d="${S.hatStripes}" stroke="${C.ink}" stroke-width="2" stroke-linecap="round" opacity="0.45"/>`,
+    `<circle cx="62" cy="3" r="4.5" fill="#fff" ${STROKE}/></g>`,
+  ].join("");
 }
 
-function chunk(type, data) {
-  const len = Buffer.alloc(4);
-  len.writeUInt32BE(data.length);
-  const body = Buffer.concat([Buffer.from(type, "ascii"), data]);
-  const crc = Buffer.alloc(4);
-  crc.writeUInt32BE(crc32(body));
-  return Buffer.concat([len, body, crc]);
+function confetti() {
+  return [
+    `<rect x="14" y="20" width="5" height="9" rx="1.5" fill="${C.hat}" transform="rotate(-25 16 24)"/>`,
+    `<rect x="100" y="34" width="5" height="9" rx="1.5" fill="${C.blush}" transform="rotate(30 102 38)"/>`,
+    `<circle cx="18" cy="88" r="3" fill="#5cc8ff"/>`,
+    `<circle cx="103" cy="84" r="2.6" fill="#ffd447"/>`,
+  ].join("");
 }
 
-function encodePng(size, rgb) {
-  const header = Buffer.alloc(13);
-  header.writeUInt32BE(size, 0);
-  header.writeUInt32BE(size, 4);
-  header[8] = 8;
-  header[9] = 2;
-  const raw = Buffer.alloc(size * (size * 3 + 1));
-  for (let y = 0; y < size; y++) {
-    raw[y * (size * 3 + 1)] = 0;
-    rgb.copy(raw, y * (size * 3 + 1) + 1, y * size * 3, (y + 1) * size * 3);
-  }
-  return Buffer.concat([
-    Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]),
-    chunk("IHDR", header),
-    chunk("IDAT", deflateSync(raw)),
-    chunk("IEND", Buffer.alloc(0)),
-  ]);
+// scale < 1 leaves the safe zone a maskable icon needs.
+function iconSvg({ rounded, scale }) {
+  const offset = (120 - 120 * scale) / 2;
+  return `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+<rect width="120" height="120" rx="${rounded ? 26 : 0}" fill="${BACKGROUND}"/>
+<circle cx="60" cy="56" r="44" fill="${GLOW}"/>
+<g transform="translate(${offset} ${offset + 3 * scale}) scale(${scale})">${confetti()}${goat()}</g>
+</svg>`;
 }
 
-const inEllipse = (u, v, cx, cy, rx, ry) => ((u - cx) / rx) ** 2 + ((v - cy) / ry) ** 2 <= 1;
-
-function inBeard(u, v) {
-  if (v < 0.72 || v > 0.9) return false;
-  const halfWidth = 0.06 * (1 - (v - 0.72) / 0.18);
-  return Math.abs(u - 0.5) <= halfWidth;
-}
-
-function inHorns(u, v) {
-  const d = Math.hypot(u - 0.5, v - 0.44);
-  return d >= 0.2 && d <= 0.28 && v < 0.42 && Math.abs(u - 0.5) > 0.06;
-}
-
-// Goat face in a unit square, v grows downward.
-function colorAt(u, v) {
-  if (inEllipse(u, v, 0.44, 0.53, 0.026, 0.03) || inEllipse(u, v, 0.56, 0.53, 0.026, 0.03)) return INK;
-  if (inEllipse(u, v, 0.5, 0.56, 0.16, 0.21) || inBeard(u, v)) return HEAD;
-  if (inEllipse(u, v, 0.3, 0.47, 0.1, 0.04) || inEllipse(u, v, 0.7, 0.47, 0.1, 0.04)) return HEAD;
-  if (inHorns(u, v)) return HORN;
-  return INK;
-}
-
-function render(size, scale) {
-  const rgb = Buffer.alloc(size * size * 3);
-  for (let y = 0; y < size; y++) {
-    for (let x = 0; x < size; x++) {
-      const sum = [0, 0, 0];
-      for (let sy = 0; sy < SUPERSAMPLE; sy++) {
-        for (let sx = 0; sx < SUPERSAMPLE; sx++) {
-          const u = ((x + (sx + 0.5) / SUPERSAMPLE) / size - 0.5) / scale + 0.5;
-          const v = ((y + (sy + 0.5) / SUPERSAMPLE) / size - 0.5) / scale + 0.5;
-          colorAt(u, v).forEach((c, i) => (sum[i] += c));
-        }
-      }
-      sum.forEach((c, i) => (rgb[(y * size + x) * 3 + i] = Math.round(c / SUPERSAMPLE ** 2)));
-    }
-  }
-  return encodePng(size, rgb);
-}
-
-const outputs = [
-  ["public/icon-192.png", 192, 1],
-  ["public/icon-512.png", 512, 1],
-  ["public/icon-512-maskable.png", 512, 0.75],
-  ["public/apple-touch-icon.png", 180, 0.9],
+const TARGETS = [
+  { file: "apple-touch-icon.png", size: 180, rounded: false, scale: 0.9 },
+  { file: "icon-192.png", size: 192, rounded: true, scale: 0.9 },
+  { file: "icon-512.png", size: 512, rounded: true, scale: 0.9 },
+  { file: "icon-512-maskable.png", size: 512, rounded: false, scale: 0.72 },
 ];
-for (const [path, size, scale] of outputs) writeFileSync(path, render(size, scale));
+
+writeFileSync("public/favicon.svg", iconSvg({ rounded: true, scale: 0.92 }));
+
+const browser = await chromium.launch();
+try {
+  for (const target of TARGETS) {
+    const page = await browser.newPage({ viewport: { width: target.size, height: target.size } });
+    const svg = iconSvg(target).replace("<svg ", `<svg width="${target.size}" height="${target.size}" `);
+    await page.setContent(`<html><body style="margin:0;background:transparent">${svg}</body></html>`);
+    await page.screenshot({ path: `public/${target.file}`, omitBackground: target.rounded });
+    await page.close();
+  }
+} catch (error) {
+  console.error(`❌ Icon rendering failed — ${error instanceof Error ? error.message : error} — run "npx playwright install chromium" and try again.`);
+  process.exitCode = 1;
+} finally {
+  await browser.close();
+}

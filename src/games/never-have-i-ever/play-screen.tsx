@@ -1,3 +1,4 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
 import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
@@ -65,8 +66,9 @@ export function NhiePlayScreen() {
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("nhie.over.title")}</h1>
-        <p className="mt-2 text-xl font-bold text-accent">
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("nhie.over.title")}</h1>
+        <p className="mt-2 text-center text-xl font-bold text-accent">
           {leaders.length === 1 ? t("nhie.over.winner", { name: leaders[0]!.player.name }) : t("nhie.over.draw")}
         </p>
         <Section title={t("scoreboard.title")}>

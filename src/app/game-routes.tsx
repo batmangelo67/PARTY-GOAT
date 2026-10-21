@@ -1,5 +1,6 @@
 import { Suspense, useState, type ReactNode } from "react";
 import { Navigate, useParams } from "react-router";
+import { GameTheme } from "../art/game-theme";
 import { findGame } from "../games/registry";
 import { GameShell } from "../engine/game-shell";
 import { isSessionLive } from "../engine/game-session";
@@ -14,9 +15,11 @@ export function GameSetupRoute() {
   const game = findGame(useParams().gameId);
   if (!game) return <Navigate to="/" replace />;
   return (
-    <GameChunk>
-      <game.SetupScreen />
-    </GameChunk>
+    <GameTheme game={game}>
+      <GameChunk>
+        <game.SetupScreen />
+      </GameChunk>
+    </GameTheme>
   );
 }
 
@@ -29,10 +32,12 @@ export function GamePlayRoute() {
   if (!game) return <Navigate to="/" replace />;
   if (!live) return <Navigate to={`/play/${game.id}/setup`} replace />;
   return (
-    <GameShell>
-      <GameChunk>
-        <game.PlayScreen />
-      </GameChunk>
-    </GameShell>
+    <GameTheme game={game}>
+      <GameShell>
+        <GameChunk>
+          <game.PlayScreen />
+        </GameChunk>
+      </GameShell>
+    </GameTheme>
   );
 }

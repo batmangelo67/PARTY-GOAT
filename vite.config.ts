@@ -35,6 +35,8 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,svg,png,webmanifest}"],
+        // The 512 px icons are only read by the OS when installing; keep them out of the offline cache.
+        globIgnores: ["**/icon-512*.png"],
         navigateFallback: "index.html",
       },
     }),

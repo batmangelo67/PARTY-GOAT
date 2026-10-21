@@ -1,3 +1,4 @@
+import { Celebration } from "../../art/celebration";
 import { useCallback, useState } from "react";
 import { Navigate } from "react-router";
 import { useSelectedPacks } from "../../content/use-selected-packs";
@@ -119,8 +120,9 @@ export function ForbiddenPlayScreen() {
           </div>
         }
       >
-        <h1 className="pop-in pt-8 text-4xl font-black">{t("forbidden.over.title")}</h1>
-        <p className="mt-2 text-xl font-bold text-accent">
+        <Celebration mood="party" />
+        <h1 className="pop-in pt-2 text-center text-4xl font-black">{t("forbidden.over.title")}</h1>
+        <p className="mt-2 text-center text-xl font-bold text-accent">
           {winner === null ? t("forbidden.over.draw") : t("forbidden.over.winner", { team: teamName(winner) })}
         </p>
         <Section title={t("scoreboard.title")}>
