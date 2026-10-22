@@ -42,6 +42,24 @@ describe("no-repeat history", () => {
     expect(usedByPack.a).not.toContain("gone");
   });
 
+  it("draws only candidates and keeps history for the others", () => {
+    for (let i = 0; i < 20; i++) {
+      const { item, usedByPack } = pickUnused(items.slice(0, 3), { a: ["a3"] }, (candidate) => candidate.id !== "a3");
+      expect(item.id).not.toBe("a3");
+      expect(usedByPack.a).toContain("a3");
+    }
+  });
+
+  it("resets only the candidates once they are all used", () => {
+    const { item, usedByPack } = pickUnused(items.slice(0, 3), { a: ["a1", "a2", "a3"] }, (candidate) => candidate.id !== "a3");
+    expect(["a1", "a2"]).toContain(item.id);
+    expect(usedByPack.a!.sort()).toEqual([item.id, "a3"].sort());
+  });
+
+  it("fails loudly when no candidate matches", () => {
+    expect(() => pickUnused(items, {}, () => false)).toThrow(RangeError);
+  });
+
   it("fails loudly with no items", () => {
     expect(() => pickUnused([], {})).toThrow(RangeError);
   });

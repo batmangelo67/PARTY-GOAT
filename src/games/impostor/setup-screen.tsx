@@ -1,8 +1,9 @@
+import { countMatchingItems } from "../../content/difficulty";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { usePlayersStore } from "../../engine/players-store";
 import { clampHiddenRoleCount, maxHiddenRoles } from "../../engine/roles";
 import { SetupLayout, SetupPlayers } from "../../engine/setup-blocks";
-import { basicSetupProblems, DiscussionTimerField } from "../../engine/setup-fields";
+import { basicSetupProblems, difficultyProblem, DifficultyField, DiscussionTimerField } from "../../engine/setup-fields";
 import { Section, Segmented, Stepper, Toggle } from "../../engine/ui";
 import { useT } from "../../i18n/use-t";
 import { useImpostorConfig } from "./config-store";
@@ -22,7 +23,9 @@ export function ImpostorSetupScreen() {
     <SetupLayout
       title={t("impostor.name")}
       gameId={IMPOSTOR_ID}
-      problems={basicSetupProblems(t, players, packs.length)}
+      problems={[...basicSetupProblems(t, players, packs.length), difficultyProblem(t, packs.length, countMatchingItems(packs, config.difficulty))].filter(
+        (problem) => problem !== null,
+      )}
       packs={packs}
       isMix={config.packIds === null}
       onBeforeStart={() => config.update({ impostorCount })}
@@ -58,6 +61,9 @@ export function ImpostorSetupScreen() {
           max={maxHiddenRoles(players.length)}
           onChange={(value) => config.update({ impostorCount: value })}
         />
+      </Section>
+      <Section title={t("setup.difficulty")}>
+        <DifficultyField value={config.difficulty} onChange={(difficulty) => config.update({ difficulty })} />
       </Section>
       <Section title={t("setup.timer")}>
         <DiscussionTimerField value={config.minutes} onChange={(minutes) => config.update({ minutes })} />

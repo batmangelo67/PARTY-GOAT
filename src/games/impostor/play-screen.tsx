@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
+import { matchesDifficulty } from "../../content/difficulty";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { drawItem } from "../../engine/draw-item";
 import { PassPhone } from "../../engine/pass-phone";
@@ -40,7 +41,7 @@ export function ImpostorPlayScreen() {
   const [roundPoints, setRoundPoints] = useState<Record<string, number>>({});
 
   const { round, state, failure, reload } = useRoundLoader(valid, async () => {
-    const { item, pack } = await drawItem(packs);
+    const { item, pack } = await drawItem(packs, (candidate) => matchesDifficulty(candidate, config.difficulty));
     const playerIds = players.map((p) => p.id);
     return buildImpostorRound(item, pack.title, config.clueMode, playerIds, clampHiddenRoleCount(config.impostorCount, players.length));
   });

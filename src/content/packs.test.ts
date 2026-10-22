@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { GAMES } from "../games/registry";
 import { LANGUAGES } from "../i18n/languages";
+import { groupKey, sectionKey } from "../i18n/labels";
 import { importBuiltinPacks, loadBuiltinPacks, parsePackFile } from "./loader";
 
 const MIN_PACKS_PER_GAME_AND_LANGUAGE = 5;
@@ -19,6 +20,14 @@ describe("builtin packs", () => {
 
   it.each(entries)("%s matches the schema", (path, raw) => {
     expect(() => parsePackFile(raw, path)).not.toThrow();
+  });
+
+  it("name every folder and section with a translated label", () => {
+    const missing = packs.flatMap((pack) => [
+      ...(pack.group && !groupKey(pack.group) ? [`${pack.id}: group ${pack.group}`] : []),
+      ...(pack.section && !sectionKey(pack.section) ? [`${pack.id}: section ${pack.section}`] : []),
+    ]);
+    expect(missing).toEqual([]);
   });
 
   it("all load without errors", () => {

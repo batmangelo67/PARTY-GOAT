@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, type ReactNode } from "react";
 import { Navigate, useLocation, useNavigate, useParams } from "react-router";
 import { MAX_SPICE } from "../constants";
 import { useSettingsStore } from "../settings-store";
@@ -6,14 +6,14 @@ import { GameTheme } from "../../art/game-theme";
 import { PeekingGoat } from "../../art/goat";
 import { useContentStore } from "../../content/content-store";
 import { filterPickerPacks } from "../../content/pack-filter";
-import { pickerRows, toggleSelection, type PickerFilter } from "../../content/picker-selection";
+import { ALL_FOLDERS, folderChips, inFolder, pickerRows, toggleSelection, type PickerFilter, type PickerFolder } from "../../content/picker-selection";
 import { defaultPacks } from "../../content/resolve-packs";
 import type { Pack } from "../../content/schema";
 import { usePlayLogStore } from "../../engine/play-log-store";
 import { pick } from "../../engine/random";
 import { Button, Chip, Screen } from "../../engine/ui";
 import { findGame } from "../../games/registry";
-import { spiceKey } from "../../i18n/labels";
+import { groupLabel, sectionLabel, spiceKey } from "../../i18n/labels";
 import { useT } from "../../i18n/use-t";
 
 const FILTERS: readonly PickerFilter[] = ["all", "recent", "starred"];
@@ -50,6 +50,40 @@ function PackRow({ pack, checked, starred, onToggle, onStar }: { pack: Pack; che
   );
 }
 
+function ChipRow({ label, children }: { label: string; children: ReactNode }) {
+  return (
+    <div role="group" aria-label={label} className="-mx-4 mt-2 flex gap-2 overflow-x-auto px-4 pb-1">
+      {children}
+    </div>
+  );
+}
+
+// Folder and section chips: the second level of the taxonomy stays on this screen, as chips.
+function FolderChips({ chips, query, onChange }: { chips: ReturnType<typeof folderChips>; query: string; onChange: (folder: PickerFolder) => void }) {
+  const t = useT();
+  const { groups, sections, active } = chips;
+  if (groups.length === 0) return null;
+  const on = (selected: boolean) => !query && selected;
+  return (
+    <>
+      <ChipRow label={t("picker.folders")}>
+        <Chip label={t("picker.folder.all")} active={on(active.group === null)} onClick={() => onChange(ALL_FOLDERS)} />
+        {groups.map((group) => (
+          <Chip key={group} label={groupLabel(t, group)} active={on(active.group === group)} onClick={() => onChange({ group, section: null })} />
+        ))}
+      </ChipRow>
+      {sections.length > 0 && (
+        <ChipRow label={t("picker.sections")}>
+          <Chip label={t("picker.section.all")} active={on(active.section === null)} onClick={() => onChange({ group: active.group, section: null })} />
+          {sections.map((section) => (
+            <Chip key={section} label={sectionLabel(t, section)} active={on(active.section === section)} onClick={() => onChange({ group: active.group, section })} />
+          ))}
+        </ChipRow>
+      )}
+    </>
+  );
+}
+
 // One-level pack picker for a game: search first, shortcut lists, one-tap mix or surprise.
 export function PackPickerScreen() {
   const t = useT();
@@ -64,6 +98,7 @@ export function PackPickerScreen() {
   const packIds = game?.packs.usePackIds() ?? null;
   const [query, setQuery] = useState("");
   const [filter, setFilter] = useState<PickerFilter>("all");
+  const [folderChoice, setFolderChoice] = useState<PickerFolder>(ALL_FOLDERS);
   const [allLanguages, setAllLanguages] = useState(() => (packIds ?? []).some((id) => allPacks.find((p) => p.id === id)?.language !== language));
 
   const scope = useMemo(() => (game ? { gameId: game.id, kinds: game.acceptsKinds, language, maxSpice } : null), [game, language, maxSpice]);
@@ -85,12 +120,15 @@ export function PackPickerScreen() {
 
   if (!game || !scope) return <Navigate to="/" replace />;
 
-  const rows = pickerRows(visible, { filter, query, recentIds: log.packs[game.id] ?? [], favoriteIds: favorites });
+  const chips = folderChips(visible, folderChoice, { group: (id) => groupLabel(t, id), section: (id) => sectionLabel(t, id) });
+  const folder = chips.active;
+  const rows = pickerRows(visible, { filter, query, recentIds: log.packs[game.id] ?? [], favoriteIds: favorites, folder });
+  const inView = visible.filter((pack) => inFolder(pack, folder));
   const count = visible.filter((p) => selected.has(p.id)).length;
   const done = () => void navigate(-1);
   const surprise = () => {
-    if (visible.length === 0) return;
-    game.packs.setPackIds([pick(visible).id]);
+    if (inView.length === 0) return;
+    game.packs.setPackIds([pick(inView).id]);
     done();
   };
   const emptyKey = query ? "picker.empty" : filter === "recent" ? "picker.noRecent" : filter === "starred" ? "picker.noStarred" : "picker.empty";
@@ -135,6 +173,7 @@ export function PackPickerScreen() {
           onClick={() => updateSettings({ maxSpice: (maxSpice + 1) % (MAX_SPICE + 1) })}
         />
       </div>
+      <FolderChips chips={chips} query={query} onChange={setFolderChoice} />
       <div className="mt-3 flex min-h-11 items-center justify-between">
         <span className="text-sm font-bold uppercase tracking-widest text-muted">{t("picker.selected", { count })}</span>
         <button

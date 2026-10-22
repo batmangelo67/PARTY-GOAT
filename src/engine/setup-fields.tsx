@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import { useNavigate, useParams, useSearchParams } from "react-router";
 import { DISCUSSION_MINUTES_OPTIONS, MIN_PLAYERS, QUICK_START_PARAM } from "../app/constants";
+import { DIFFICULTY_FILTERS, type DifficultyFilter } from "../content/difficulty";
 import type { Translate } from "../i18n/use-t";
 import { useT } from "../i18n/use-t";
 import type { DiscussionMinutes } from "./discussion-minutes";
@@ -14,6 +15,17 @@ export function DiscussionTimerField({ value, onChange }: { value: DiscussionMin
   const t = useT();
   const options = DISCUSSION_MINUTES_OPTIONS.map((n) => ({ value: n, label: n === 0 ? t("common.off") : t("common.minutes", { n }) }));
   return <Segmented ariaLabel={t("setup.timer")} options={options} value={value} onChange={onChange} />;
+}
+
+export function DifficultyField({ value, onChange }: { value: DifficultyFilter; onChange: (v: DifficultyFilter) => void }) {
+  const t = useT();
+  const options = DIFFICULTY_FILTERS.map((level) => ({ value: level, label: t(`difficulty.${level}`) }));
+  return <Segmented ariaLabel={t("setup.difficulty")} options={options} value={value} onChange={onChange} />;
+}
+
+// Only speaks up when packs are chosen but none of their items is at the chosen level.
+export function difficultyProblem(t: Translate, packCount: number, matchingItems: number): string | null {
+  return packCount > 0 && matchingItems === 0 ? t("setup.noItemsAtDifficulty") : null;
 }
 
 export function playersProblem(t: Translate, players: readonly Player[]): string | null {
