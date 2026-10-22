@@ -1,6 +1,6 @@
 import { describe, expect, it } from "vitest";
 import type { PackOf } from "../../content/schema";
-import { braveryScores, nextPlayerIndex, packsForChoice, recordOutcome, type TodStats } from "./logic";
+import { braveryScores, fitsChoice, hasCardsFor, nextPlayerIndex, recordOutcome, type TodStats } from "./logic";
 
 function pack(id: string, types: (("truth" | "dare") | undefined)[]): PackOf<"prompts"> {
   return {
@@ -16,12 +16,16 @@ function pack(id: string, types: (("truth" | "dare") | undefined)[]): PackOf<"pr
 }
 
 describe("truth or dare: cards", () => {
-  it("keeps only the chosen type plus untyped cards, and drops emptied packs", () => {
-    const packs = [pack("a", ["truth", "dare", undefined]), pack("b", ["dare"])];
-    const truths = packsForChoice(packs, "truth");
-    expect(truths.map((p) => p.id)).toEqual(["a"]);
-    expect(truths[0]!.items.map((i) => i.type)).toEqual(["truth", undefined]);
-    expect(packsForChoice(packs, "dare").map((p) => p.items.length)).toEqual([2, 1]);
+  it("fits the chosen type plus untyped cards", () => {
+    const items = pack("a", ["truth", "dare", undefined]).items;
+    expect(items.filter((item) => fitsChoice(item, "truth")).map((i) => i.type)).toEqual(["truth", undefined]);
+    expect(items.filter((item) => fitsChoice(item, "dare")).map((i) => i.type)).toEqual(["dare", undefined]);
+  });
+
+  it("knows when no card fits a choice", () => {
+    expect(hasCardsFor([pack("b", ["dare"])], "truth")).toBe(false);
+    expect(hasCardsFor([pack("b", ["dare"]), pack("c", [undefined])], "truth")).toBe(true);
+    expect(hasCardsFor([], "dare")).toBe(false);
   });
 });
 
