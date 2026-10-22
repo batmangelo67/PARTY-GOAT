@@ -166,7 +166,7 @@
       "type": "dare"
     },
     {
-      "text": "Type a very dirty message to your ex and read it aloud. Do not send it.",
+      "text": "Let the group write a flirty message for your ex, then send it.",
       "type": "dare"
     },
     {
@@ -287,6 +287,10 @@
     },
     {
       "text": "Give a 30-second sensual neck kiss to the player you find most attractive here, if they agree.",
+      "type": "dare"
+    },
+    {
+      "text": "Let the group look through your incognito tab history or hidden photo album for 30 seconds.",
       "type": "dare"
     }
   ]
