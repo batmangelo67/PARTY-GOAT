@@ -10,8 +10,20 @@ The app name lives in one constant: `APP_NAME` in `src/app/constants.ts`.
 - **Who's the Liar**: everyone answers the same question except the liar, who got a similar one. Compare answers, vote, reveal.
 - **Who's got the bomb**: name something in the category and pass the phone before the hidden fuse runs out.
 - **Never have I ever**: prompt cards, with an optional fingers mode that keeps score.
+- **Truth or dare**, **Most likely to**, **10/10 but...**: card games with optional scoring.
+- **Forbidden words**: describe the word without the banned ones, two teams, timed turns.
+- **Mind match**: say a word that links the last two until two players match.
+- **Circa**: everyone guesses a number, closest wins; optional impostor with a decoy question.
 
-Packs can be browsed, created, edited, imported and exported from the **Packs** screen (home or Settings).
+## How it plays
+
+- **Play again in one tap.** Home shows a card for the last game: same players, packs and options, straight to the first card.
+- **Short setup.** Players as one row once they're in, packs as one row ("Mix of all 14 packs"), the option that matters, the rest under *More options*. Every game remembers its options and packs.
+- **Pack picker.** Search, *Mix everything*, *Surprise me*, *Clear*, Recent and Starred shortcuts, language and spice chips, *+ New pack* for your own.
+- **Leave any time.** ✕ in the top corner of every game screen. If a round would be lost it pauses first (Keep playing, Change setup, Home). The iPhone back swipe does the same, and locking the phone pauses timers, the bomb and turns.
+
+Packs can also be browsed, created, edited, imported and exported from the **Packs** screen (home or Settings).
+Look and feel (mascot, colours, motion) are described in `docs/DESIGN.md`.
 
 ## Run locally
 
@@ -36,7 +48,11 @@ Other commands:
 | `npm run typecheck` | Checks TypeScript types |
 | `npm test` | Runs all unit tests |
 | `npm run validate:packs` | Validates every content pack against the schema |
-| `npm run make:icons` | Regenerates the PNG icons in `public/` |
+| `npm run make:icons` | Redraws the app icons in `public/` from the mascot (uses the Playwright Chromium) |
+| `npm run audit` | Builds and runs the UX audit (Playwright, WebKit + Chromium, 3 iPhone sizes, EN + IT) |
+| `npm run audit:report -- <label>` | Summarises an audit run into `docs/audit/summary-<label>.md` |
+
+The audit needs the browsers once: `npx playwright install webkit chromium`. Set `AUDIT_LABEL=<label>` to keep a run apart (`docs/audit/runs/<label>/`, ignored by git). Results and findings live in `docs/UX-AUDIT.md`.
 
 ## Deploy to Vercel (free tier)
 
@@ -82,35 +98,39 @@ A third kind, `prompts`, holds cards like `{ "text": "Never have I ever ..." }` 
 
 3. Run `npm run validate:packs`. A broken pack fails the tests with the file name and the bad field.
 
-`spice` goes from 0 (clean) to 3; packs above 1 only show when "Show spicy" is on. Hints are 1 to 3 words and must not contain the word. Item IDs are generated automatically. See `docs/CONTENT.md` for the full authoring rules.
+`spice` goes from 0 (clean) to 3; packs above the spice limit (default 1, "Cheeky") stay hidden until the limit is raised in the picker or Settings. Hints are 1 to 3 words and must not contain the word. Item IDs are generated automatically. See `docs/CONTENT.md` for the full authoring rules.
 
 ## Add a game
 
 1. Create `src/games/<game-id>/` with a setup screen, a play screen, pure logic in `logic.ts` and tests in `logic.test.ts`.
-2. Export a definition from `src/games/<game-id>/index.ts`:
+2. Give it options in `config-store.ts` with `createGameConfig(id, defaults, zodFields)` (saved and validated automatically), and an `icon.tsx` with a 48x48 glyph and an accent colour (see `docs/DESIGN.md`).
+3. Export a definition from `src/games/<game-id>/index.ts`:
 
 ```ts
 export const myGame: GameDefinition = {
-  id: "my-game",
+  id: MY_GAME_ID,
   nameKey: "myGame.name",
   descriptionKey: "myGame.description",
-  icon: "🎲",
+  accent: MY_GAME_ACCENT,
+  Glyph: MyGameGlyph,
   acceptsKinds: ["words"],
-  SetupScreen: MyGameSetupScreen,
-  PlayScreen: MyGamePlayScreen,
+  packs: packAccess(useMyGameConfig),
+  SetupScreen: lazy(() => import("./setup-screen").then((m) => ({ default: m.MyGameSetupScreen }))),
+  PlayScreen: lazy(() => import("./play-screen").then((m) => ({ default: m.MyGamePlayScreen }))),
 };
 ```
 
-3. Add it to `GAMES` in `src/games/registry.ts`. The home screen picks it up.
-4. Add its text to `src/i18n/en.ts` and `src/i18n/it.ts` (a missing Italian key is a type error).
-5. Reuse the engine in `src/engine/`: `PassPhone`, `Timer`, `Voting`, `ContentPicker`, `PlayerEditor`, `RoundResult`, `drawItem` (no-repeat picks), `random.ts`, and the hidden-role helpers in `roles.ts`.
+4. Add it to `GAMES` in `src/games/registry.ts`. Home, the play-again card and the pack picker pick it up.
+5. Add its text to `src/i18n/en.ts` and `src/i18n/it.ts` (a missing Italian key is a type error).
+6. Reuse the engine in `src/engine/`: `SetupLayout` and `SetupPlayers` for setup, `PassPhone`, `Timer`, `Voting`, `RoundResult`, `drawItem` (no-repeat picks), `random.ts`, and the hidden-role helpers in `roles.ts`. Mark result screens with `<Screen settled>` so leaving them never asks for a confirm; the exit button, pause menu and back-gesture handling come for free.
 
 A new pack kind goes into the union in `src/content/schema.ts`, plus a case in `itemKey` in `src/content/items.ts`.
 
 ## Project layout
 
 ```
-src/app/       routes, home, players, settings, constants
+src/app/       routes, home, players, settings, pack picker, constants
+src/art/       mascot, game badges, confetti, theme helpers (all SVG/CSS/canvas)
 src/engine/    shared logic and components used by every game
 src/games/     one folder per game
 src/content/   pack schema, loader, packs/{en,it}/*.json
@@ -120,4 +140,4 @@ src/storage/   IndexedDB wrappers, backup export/import
 
 ## Data and backup
 
-Players, settings, custom packs and the no-repeat history are stored in IndexedDB on the device. **Settings → Export data** saves a JSON backup (on iPhone it opens the share sheet); **Import data** restores one after validating it.
+Players, settings, each game's options and packs, recent and starred packs, custom packs and the no-repeat history are stored in IndexedDB on the device. A running round is never stored: after a reload the app opens the game's setup. **Settings → Export data** saves a JSON backup (on iPhone it opens the share sheet); **Import data** restores one after validating it.

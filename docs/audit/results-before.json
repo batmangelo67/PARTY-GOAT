@@ -1,0 +1,5627 @@
+{
+  "label": "before",
+  "projects": [
+    "chromium-i15-en",
+    "chromium-i15-it",
+    "webkit-i15-en",
+    "webkit-i15-it",
+    "webkit-promax-en",
+    "webkit-promax-it",
+    "webkit-se-en",
+    "webkit-se-it"
+  ],
+  "journeys": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 28,
+        "setupControlsFilled": 36,
+        "setupScreensFilled": 3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 36,
+          "setupScreens": 3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.5,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 34,
+        "setupControlsFilled": 42,
+        "setupScreensFilled": 3.3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 42,
+          "setupScreens": 3.3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 22,
+        "setupControlsFilled": 22,
+        "setupScreensFilled": 2.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 22,
+          "setupScreens": 2.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 29,
+        "setupControlsFilled": 37,
+        "setupScreensFilled": 3.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 37,
+          "setupScreens": 3.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.5,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 35,
+        "setupControlsFilled": 43,
+        "setupScreensFilled": 3.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 43,
+          "setupScreens": 3.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 23,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 2.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 2.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 28,
+        "setupControlsFilled": 36,
+        "setupScreensFilled": 3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 36,
+          "setupScreens": 3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.5,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 34,
+        "setupControlsFilled": 42,
+        "setupScreensFilled": 3.3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 42,
+          "setupScreens": 3.3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 22,
+        "setupControlsFilled": 22,
+        "setupScreensFilled": 2.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 22,
+          "setupScreens": 2.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 29,
+        "setupControlsFilled": 37,
+        "setupScreensFilled": 3.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 37,
+          "setupScreens": 3.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.5,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.5,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 35,
+        "setupControlsFilled": 43,
+        "setupScreensFilled": 3.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 43,
+          "setupScreens": 3.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 23,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 2.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 2.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 28,
+        "setupControlsFilled": 36,
+        "setupScreensFilled": 2.7,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 36,
+          "setupScreens": 2.7,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 34,
+        "setupControlsFilled": 42,
+        "setupScreensFilled": 2.9,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 42,
+          "setupScreens": 2.9,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 22,
+        "setupControlsFilled": 22,
+        "setupScreensFilled": 1.9,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 22,
+          "setupScreens": 1.9,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.6,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 29,
+        "setupControlsFilled": 37,
+        "setupScreensFilled": 2.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 37,
+          "setupScreens": 2.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 1.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 1.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 13,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 35,
+        "setupControlsFilled": 43,
+        "setupScreensFilled": 3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 43,
+          "setupScreens": 3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 23,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 1.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 1.6,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 28,
+        "setupControlsFilled": 36,
+        "setupScreensFilled": 4.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 36,
+          "setupScreens": 4.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.9,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.9,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 2.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 2.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 34,
+        "setupControlsFilled": 42,
+        "setupScreensFilled": 4.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 42,
+          "setupScreens": 4.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 22,
+        "setupControlsFilled": 22,
+        "setupScreensFilled": 2.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 22,
+          "setupScreens": 2.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.8,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.8,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 2.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 2.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 5,
+        "roundTexts": 0,
+        "waits": 1,
+        "reachedResult": true,
+        "setupControlsFresh": 29,
+        "setupControlsFilled": 37,
+        "setupScreensFilled": 4.2,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 37,
+          "setupScreens": 4.2,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "circa",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.9,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.9,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 24,
+        "roundTexts": 0,
+        "waits": 4,
+        "reachedResult": true,
+        "setupControlsFresh": 15,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 2.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 2.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "impostor",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 12,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 35,
+        "setupControlsFilled": 43,
+        "setupScreensFilled": 4.6,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 43,
+          "setupScreens": 4.6,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "mind-match",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 1,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 23,
+        "setupControlsFilled": 23,
+        "setupScreensFilled": 3,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 23,
+          "setupScreens": 3,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 10,
+        "setupControlsFilled": 10,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 10,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "tapsToPlayable": 2,
+        "textsToPlayable": 0,
+        "roundTaps": 4,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 9,
+        "setupControlsFilled": 9,
+        "setupScreensFilled": 1.1,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 9,
+          "setupScreens": 1.1,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 7,
+        "roundTexts": 0,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 11,
+        "setupControlsFilled": 19,
+        "setupScreensFilled": 1.9,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 19,
+          "setupScreens": 1.9,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "tapsToPlayable": 10,
+        "textsToPlayable": 4,
+        "roundTaps": 16,
+        "roundTexts": 4,
+        "waits": 0,
+        "reachedResult": true,
+        "setupControlsFresh": 19,
+        "setupControlsFilled": 27,
+        "setupScreensFilled": 2.4,
+        "playAgainTaps": 1,
+        "repeat": {
+          "tapsToPlayable": 2,
+          "setupControls": 27,
+          "setupScreens": 2.4,
+          "reachedPlay": true,
+          "quickTaps": null
+        }
+      }
+    ]
+  },
+  "exits": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Pass|Undo pass|Skip category"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← NAME SOMETHING FROM Animals Bo starts Say something that fits, tap Pass, hand "
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS × × × × Add 4 of 12 players PACKS 14 selected All l"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Dev blew up! EXPLOSIONS · FEWEST WINS 1 Alessandra 💥 0 1 Chiara 💥 0 3 Bo 💥 1 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: I'm Alessandra, show me",
+          "#/play/circa ::  :: Hide and pass on",
+          "#/play/circa ::  :: I'm Bo, show me",
+          "#/play/circa ::  :: I'm Chiara, show me",
+          "#/play/circa ::  :: I'm Dev, show me",
+          "#/play/circa ::  :: Hide and continue"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS × × × × Add 4 of 12 players IMPOSTOR TWIST One player gets a dec"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Skip|Correct|Banned word!",
+          "#/play/forbidden-words ::  :: Next turn",
+          "#/play/forbidden-words ::  :: See final score"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TEAM A Chiara Chiara describes. Chiara's team guesses. The other team shouts i"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS × × × × Add 4 of 12 players Players are split into two"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Time's up! Team A scored 0 0 – 0 Next turn"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: I'm Alessandra, show me",
+          "#/play/impostor ::  :: Hide and pass on",
+          "#/play/impostor ::  :: I'm Bo, show me",
+          "#/play/impostor ::  :: I'm Chiara, show me",
+          "#/play/impostor ::  :: I'm Dev, show me",
+          "#/play/impostor ::  :: Hide and continue",
+          "#/play/impostor ::  :: Start discussion",
+          "#/play/impostor :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/impostor :: Vote :: Add at least one vote.",
+          "#/play/impostor :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS × × × × Add 4 of 12 players IMPOSTORS − 1 + PACKS 14 selected"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 SAY A WORD THAT CONNECTS THESE Goalkeeper Zoo Count to three and say y"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match MODE Say it Write it Count to three and say your word out loud, all"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 SAY A WORD THAT CONNECTS THESE Cranberry Apple pie Count to three and "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Most likely to get a tattoo they regret. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to TALLY Count who gets picked After each card, tap the player the"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Most likely to take the blame to avoid a scene. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Never have I ever tripped going up the stairs. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever MODE Classic Fingers Just the cards. Read, confess, next. PA"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Never have I ever laughed so hard I snorted. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 They're a 10/10 but they're hopelessly jealous of your friends. Back Ne"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... RATINGS Rate every catch The group agrees on a score from 1 to 10"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 They're a 10/10 but they get lost at every date location. Back Next End"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Skip|Done"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS × × × × Add 4 of 12 players SKIPPING Allow skipping A sk"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: I'm Alessandra, show me",
+          "#/play/whos-the-liar ::  :: Hide and pass on",
+          "#/play/whos-the-liar ::  :: I'm Bo, show me",
+          "#/play/whos-the-liar ::  :: I'm Chiara, show me",
+          "#/play/whos-the-liar ::  :: I'm Dev, show me",
+          "#/play/whos-the-liar ::  :: Hide and continue",
+          "#/play/whos-the-liar :: The answers :: Start discussion",
+          "#/play/whos-the-liar :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/whos-the-liar :: Vote :: Add at least one vote.",
+          "#/play/whos-the-liar :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS × × × × Add 4 of 12 players LIARS − 1 + PACKS 2 selecte"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Passa|Annulla passaggio|Cambia categoria"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← DI' QUALCOSA TRA Cantanti italiani Inizia Chiara Di' qualcosa che c'entra, toc"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI × × × × Aggiungi 4 su 12 giocatori PACCHETTI 15 sce"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Chiara è saltato in aria! ESPLOSIONI · VINCE CHI NE HA MENO 1 Alessandra 💥 0 1 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: Sono Alessandra, fammi vedere",
+          "#/play/circa ::  :: Nascondi e passa",
+          "#/play/circa ::  :: Sono Bo, fammi vedere",
+          "#/play/circa ::  :: Sono Chiara, fammi vedere",
+          "#/play/circa ::  :: Sono Dev, fammi vedere",
+          "#/play/circa ::  :: Nascondi e continua"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI × × × × Aggiungi 4 su 12 giocatori VARIANTE IMPOSTORE Un gioca"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Salta|Indovinata|Parola vietata!",
+          "#/play/forbidden-words ::  :: Prossimo turno",
+          "#/play/forbidden-words ::  :: Vedi il punteggio finale"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← SQUADRA A Dev Descrive Dev. La squadra di Dev indovina. L'altra squadra urla s"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI × × × × Aggiungi 4 su 12 giocatori I giocatori vengon"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Tempo scaduto! Squadra A ha fatto 0 0 – 0 Prossimo turno"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: Sono Alessandra, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e passa",
+          "#/play/impostor ::  :: Sono Bo, fammi vedere",
+          "#/play/impostor ::  :: Sono Chiara, fammi vedere",
+          "#/play/impostor ::  :: Sono Dev, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e continua",
+          "#/play/impostor ::  :: Via alla discussione",
+          "#/play/impostor :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/impostor :: Votazione :: Serve almeno un voto.",
+          "#/play/impostor :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI × × × × Aggiungi 4 su 12 giocatori IMPOSTORI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Professore Fiat Contate fino a tre"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia MODALITÀ A voce Scritta Contate fino a tre e dite la parola ad alta "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Laurea Genova Contate fino a tre e"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Chi diventerebbe troppo competitivo a un gioco da festa? Indietro Avan"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile CONTEGGIO Conta chi viene scelto Dopo ogni carta tocca "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Chi disdirebbe un appuntamento all'ultimo minuto? Indietro Avanti Fine"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Non ho mai salutato qualcuno che non stava salutando me. Indietro Avan"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai MODALITÀ Classica Con le dita Solo le carte. Leggi, confessa, avant"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Non ho mai preso l'ultima fetta senza chiedere. Indietro Avanti Fine p"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 È un 10/10 ma porta con sé un ombrellino sia che piova sia che ci sia "
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... VOTI Vota ogni difetto Il gruppo si accorda su un voto da 1 a 10 p"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 È un 10/10 ma parla di continuo del nuovo fidanzato del suo ex. Indiet"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Passo|Fatto"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI × × × × Aggiungi 4 su 12 giocatori PASSARE Consenti"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: Sono Alessandra, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e passa",
+          "#/play/whos-the-liar ::  :: Sono Bo, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Chiara, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Dev, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e continua",
+          "#/play/whos-the-liar :: Le risposte :: Via alla discussione",
+          "#/play/whos-the-liar :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/whos-the-liar :: Votazione :: Serve almeno un voto.",
+          "#/play/whos-the-liar :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI × × × × Aggiungi 4 su 12 giocatori BUGIARDI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Pass|Undo pass|Skip category"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← NAME SOMETHING FROM Clothes Chiara starts Say something that fits, tap Pass, h"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS × × × × Add 4 of 12 players PACKS 14 selected All l"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Alessandra blew up! EXPLOSIONS · FEWEST WINS 1 Bo 💥 0 1 Chiara 💥 0 1 Dev 💥 0 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: I'm Alessandra, show me",
+          "#/play/circa ::  :: Hide and pass on",
+          "#/play/circa ::  :: I'm Bo, show me",
+          "#/play/circa ::  :: I'm Chiara, show me",
+          "#/play/circa ::  :: I'm Dev, show me",
+          "#/play/circa ::  :: Hide and continue"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS × × × × Add 4 of 12 players IMPOSTOR TWIST One player gets a dec"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Skip|Correct|Banned word!",
+          "#/play/forbidden-words ::  :: Next turn",
+          "#/play/forbidden-words ::  :: See final score"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TEAM A Chiara Chiara describes. Chiara's team guesses. The other team shouts i"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS × × × × Add 4 of 12 players Players are split into two"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "Time's up! Team A scored 0 0 – 0 Next turn"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: I'm Alessandra, show me",
+          "#/play/impostor ::  :: Hide and pass on",
+          "#/play/impostor ::  :: I'm Bo, show me",
+          "#/play/impostor ::  :: I'm Chiara, show me",
+          "#/play/impostor ::  :: I'm Dev, show me",
+          "#/play/impostor ::  :: Hide and continue",
+          "#/play/impostor ::  :: Start discussion",
+          "#/play/impostor :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/impostor :: Vote :: Add at least one vote.",
+          "#/play/impostor :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS × × × × Add 4 of 12 players IMPOSTORS − 1 + PACKS 14 selected"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 SAY A WORD THAT CONNECTS THESE Lava Grape Count to three and say your "
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match MODE Say it Write it Count to three and say your word out loud, all"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 SAY A WORD THAT CONNECTS THESE Cycling Tokyo Count to three and say yo"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Most likely to text the wrong person. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to TALLY Count who gets picked After each card, tap the player the"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Most likely to steal the last slice of pizza. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Never have I ever met a celebrity. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever MODE Classic Fingers Just the cards. Read, confess, next. PA"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Never have I ever lied about my age. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 They're a 10/10 but they love horoscopes and plan their day around them"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... RATINGS Rate every catch The group agrees on a score from 1 to 10"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 They're a 10/10 but they need to hold your hand when it thunders. Back "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Skip|Done"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS × × × × Add 4 of 12 players SKIPPING Allow skipping A sk"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: I'm Alessandra, show me",
+          "#/play/whos-the-liar ::  :: Hide and pass on",
+          "#/play/whos-the-liar ::  :: I'm Bo, show me",
+          "#/play/whos-the-liar ::  :: I'm Chiara, show me",
+          "#/play/whos-the-liar ::  :: I'm Dev, show me",
+          "#/play/whos-the-liar ::  :: Hide and continue",
+          "#/play/whos-the-liar :: The answers :: Start discussion",
+          "#/play/whos-the-liar :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/whos-the-liar :: Vote :: Add at least one vote.",
+          "#/play/whos-the-liar :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS × × × × Add 4 of 12 players LIARS − 1 + PACKS 2 selecte"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Passa|Annulla passaggio|Cambia categoria"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← DI' QUALCOSA TRA Frutta e verdura Inizia Chiara Di' qualcosa che c'entra, tocc"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI × × × × Aggiungi 4 su 12 giocatori PACCHETTI 15 sce"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Alessandra è saltato in aria! ESPLOSIONI · VINCE CHI NE HA MENO 1 Bo 💥 0 1 Chia"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: Sono Alessandra, fammi vedere",
+          "#/play/circa ::  :: Nascondi e passa",
+          "#/play/circa ::  :: Sono Bo, fammi vedere",
+          "#/play/circa ::  :: Sono Chiara, fammi vedere",
+          "#/play/circa ::  :: Sono Dev, fammi vedere",
+          "#/play/circa ::  :: Nascondi e continua"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI × × × × Aggiungi 4 su 12 giocatori VARIANTE IMPOSTORE Un gioca"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Salta|Indovinata|Parola vietata!",
+          "#/play/forbidden-words ::  :: Prossimo turno",
+          "#/play/forbidden-words ::  :: Vedi il punteggio finale"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← SQUADRA A Chiara Descrive Chiara. La squadra di Chiara indovina. L'altra squad"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI × × × × Aggiungi 4 su 12 giocatori I giocatori vengon"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Tempo scaduto! Squadra A ha fatto 0 0 – 0 Prossimo turno"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: Sono Alessandra, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e passa",
+          "#/play/impostor ::  :: Sono Bo, fammi vedere",
+          "#/play/impostor ::  :: Sono Chiara, fammi vedere",
+          "#/play/impostor ::  :: Sono Dev, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e continua",
+          "#/play/impostor ::  :: Via alla discussione",
+          "#/play/impostor :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/impostor :: Votazione :: Serve almeno un voto.",
+          "#/play/impostor :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI × × × × Aggiungi 4 su 12 giocatori IMPOSTORI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Castagna Formica Contate fino a tr"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia MODALITÀ A voce Scritta Contate fino a tre e dite la parola ad alta "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Supplì Harry Potter Contate fino a"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Chi si farebbe togliere una multa a suon di sorrisi? Indietro Avanti F"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile CONTEGGIO Conta chi viene scelto Dopo ogni carta tocca "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Chi si prenderebbe la colpa per evitare una scenata? Indietro Avanti F"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Non ho mai risposto \"anche a lei\" al cameriere che mi augurava buon ap"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai MODALITÀ Classica Con le dita Solo le carte. Leggi, confessa, avant"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Non ho mai cantato sotto la doccia a squarciagola. Indietro Avanti Fin"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 È un 10/10 ma si addormenta in ogni macchina. Indietro Avanti Fine par"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... VOTI Vota ogni difetto Il gruppo si accorda su un voto da 1 a 10 p"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 È un 10/10 ma si veste solo di un colore. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Passo|Fatto"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI × × × × Aggiungi 4 su 12 giocatori PASSARE Consenti"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: Sono Alessandra, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e passa",
+          "#/play/whos-the-liar ::  :: Sono Bo, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Chiara, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Dev, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e continua",
+          "#/play/whos-the-liar :: Le risposte :: Via alla discussione",
+          "#/play/whos-the-liar :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/whos-the-liar :: Votazione :: Serve almeno un voto.",
+          "#/play/whos-the-liar :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI × × × × Aggiungi 4 su 12 giocatori BUGIARDI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Pass|Undo pass|Skip category"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← NAME SOMETHING FROM Animals Dev starts Say something that fits, tap Pass, hand"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS × × × × Add 4 of 12 players PACKS 14 selected All l"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Alessandra blew up! EXPLOSIONS · FEWEST WINS 1 Bo 💥 0 1 Chiara 💥 0 1 Dev 💥 0 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: I'm Alessandra, show me",
+          "#/play/circa ::  :: Hide and pass on",
+          "#/play/circa ::  :: I'm Bo, show me",
+          "#/play/circa ::  :: I'm Chiara, show me",
+          "#/play/circa ::  :: I'm Dev, show me",
+          "#/play/circa ::  :: Hide and continue"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS × × × × Add 4 of 12 players IMPOSTOR TWIST One player gets a dec"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Skip|Correct|Banned word!",
+          "#/play/forbidden-words ::  :: Next turn",
+          "#/play/forbidden-words ::  :: See final score"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TEAM A Alessandra Alessandra describes. Alessandra's team guesses. The other t"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS × × × × Add 4 of 12 players Players are split into two"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "Time's up! Team A scored 0 0 – 0 Next turn"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: I'm Alessandra, show me",
+          "#/play/impostor ::  :: Hide and pass on",
+          "#/play/impostor ::  :: I'm Bo, show me",
+          "#/play/impostor ::  :: I'm Chiara, show me",
+          "#/play/impostor ::  :: I'm Dev, show me",
+          "#/play/impostor ::  :: Hide and continue",
+          "#/play/impostor ::  :: Start discussion",
+          "#/play/impostor :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/impostor :: Vote :: Add at least one vote.",
+          "#/play/impostor :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS × × × × Add 4 of 12 players IMPOSTORS − 1 + PACKS 14 selected"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 SAY A WORD THAT CONNECTS THESE Mirror Rose Count to three and say your"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match MODE Say it Write it Count to three and say your word out loud, all"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 SAY A WORD THAT CONNECTS THESE Scotland Squirrel Count to three and sa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Most likely to run away from their own surprise party. Back Next End ga"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to TALLY Count who gets picked After each card, tap the player the"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Most likely to become a teacher. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Never have I ever been on TV. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever MODE Classic Fingers Just the cards. Read, confess, next. PA"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Never have I ever lied about my age. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 They're a 10/10 but they ghost people and then come back with \"hey stra"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... RATINGS Rate every catch The group agrees on a score from 1 to 10"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 They're a 10/10 but they name every object they own. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Skip|Done"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS × × × × Add 4 of 12 players SKIPPING Allow skipping A sk"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: I'm Alessandra, show me",
+          "#/play/whos-the-liar ::  :: Hide and pass on",
+          "#/play/whos-the-liar ::  :: I'm Bo, show me",
+          "#/play/whos-the-liar ::  :: I'm Chiara, show me",
+          "#/play/whos-the-liar ::  :: I'm Dev, show me",
+          "#/play/whos-the-liar ::  :: Hide and continue",
+          "#/play/whos-the-liar :: The answers :: Start discussion",
+          "#/play/whos-the-liar :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/whos-the-liar :: Vote :: Add at least one vote.",
+          "#/play/whos-the-liar :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS × × × × Add 4 of 12 players LIARS − 1 + PACKS 2 selecte"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Passa|Annulla passaggio|Cambia categoria"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← DI' QUALCOSA TRA Serie A Inizia Dev Di' qualcosa che c'entra, tocca Passa e da"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI × × × × Aggiungi 4 su 12 giocatori PACCHETTI 15 sce"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Alessandra è saltato in aria! ESPLOSIONI · VINCE CHI NE HA MENO 1 Bo 💥 0 1 Chia"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: Sono Alessandra, fammi vedere",
+          "#/play/circa ::  :: Nascondi e passa",
+          "#/play/circa ::  :: Sono Bo, fammi vedere",
+          "#/play/circa ::  :: Sono Chiara, fammi vedere",
+          "#/play/circa ::  :: Sono Dev, fammi vedere",
+          "#/play/circa ::  :: Nascondi e continua"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI × × × × Aggiungi 4 su 12 giocatori VARIANTE IMPOSTORE Un gioca"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Salta|Indovinata|Parola vietata!",
+          "#/play/forbidden-words ::  :: Prossimo turno",
+          "#/play/forbidden-words ::  :: Vedi il punteggio finale"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← SQUADRA A Bo Descrive Bo. La squadra di Bo indovina. L'altra squadra urla se s"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI × × × × Aggiungi 4 su 12 giocatori I giocatori vengon"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "Tempo scaduto! Squadra A ha fatto 0 0 – 0 Prossimo turno"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: Sono Alessandra, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e passa",
+          "#/play/impostor ::  :: Sono Bo, fammi vedere",
+          "#/play/impostor ::  :: Sono Chiara, fammi vedere",
+          "#/play/impostor ::  :: Sono Dev, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e continua",
+          "#/play/impostor ::  :: Via alla discussione",
+          "#/play/impostor :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/impostor :: Votazione :: Serve almeno un voto.",
+          "#/play/impostor :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI × × × × Aggiungi 4 su 12 giocatori IMPOSTORI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Sagra Pecora Contate fino a tre e "
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia MODALITÀ A voce Scritta Contate fino a tre e dite la parola ad alta "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Tuffo Mestolo Contate fino a tre e"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Chi farebbe da psicologo al gruppo? Indietro Avanti Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile CONTEGGIO Conta chi viene scelto Dopo ogni carta tocca "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Chi farebbe amicizia con un animale selvatico? Indietro Avanti Fine pa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Non ho mai salutato qualcuno che non stava salutando me. Indietro Avan"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai MODALITÀ Classica Con le dita Solo le carte. Leggi, confessa, avant"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Non ho mai tagliato i capelli da solo. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 È un 10/10 ma parla alle piante come se fossero persone. Indietro Avan"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... VOTI Vota ogni difetto Il gruppo si accorda su un voto da 1 a 10 p"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 È un 10/10 ma starnutisce dodici volte di fila. Indietro Avanti Fine p"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Passo|Fatto"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI × × × × Aggiungi 4 su 12 giocatori PASSARE Consenti"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: Sono Alessandra, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e passa",
+          "#/play/whos-the-liar ::  :: Sono Bo, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Chiara, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Dev, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e continua",
+          "#/play/whos-the-liar :: Le risposte :: Via alla discussione",
+          "#/play/whos-the-liar :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/whos-the-liar :: Votazione :: Serve almeno un voto.",
+          "#/play/whos-the-liar :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI × × × × Aggiungi 4 su 12 giocatori BUGIARDI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Pass|Undo pass|Skip category"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← NAME SOMETHING FROM Musical Instruments Alessandra starts Say something that f"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Who's got the bomb PLAYERS × × × × Add 4 of 12 players PACKS 14 selected All l"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Bo blew up! EXPLOSIONS · FEWEST WINS 1 Alessandra 💥 0 1 Chiara 💥 0 1 Dev 💥 0 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: I'm Alessandra, show me",
+          "#/play/circa ::  :: Hide and pass on",
+          "#/play/circa ::  :: I'm Bo, show me",
+          "#/play/circa ::  :: I'm Chiara, show me",
+          "#/play/circa ::  :: I'm Dev, show me",
+          "#/play/circa ::  :: Hide and continue"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa PLAYERS × × × × Add 4 of 12 players IMPOSTOR TWIST One player gets a dec"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Skip|Correct|Banned word!",
+          "#/play/forbidden-words ::  :: Next turn",
+          "#/play/forbidden-words ::  :: See final score"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TEAM A Dev Dev describes. Dev's team guesses. The other team shouts if a banne"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Forbidden words PLAYERS × × × × Add 4 of 12 players Players are split into two"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Time's up! Team A scored 0 0 – 0 Next turn"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 11,
+        "noExit": [
+          "#/play/impostor ::  :: I'm Alessandra, show me",
+          "#/play/impostor ::  :: Hide and pass on",
+          "#/play/impostor ::  :: I'm Bo, show me",
+          "#/play/impostor ::  :: I'm Chiara, show me",
+          "#/play/impostor ::  :: I'm Dev, show me",
+          "#/play/impostor ::  :: Hide and continue",
+          "#/play/impostor ::  :: Start discussion",
+          "#/play/impostor :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/impostor :: Vote :: Add at least one vote.",
+          "#/play/impostor :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostor PLAYERS × × × × Add 4 of 12 players IMPOSTORS − 1 + PACKS 14 selected"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 SAY A WORD THAT CONNECTS THESE Dorm Curry Count to three and say your "
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Mind match MODE Say it Write it Count to three and say your word out loud, all"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 SAY A WORD THAT CONNECTS THESE Avatar Ratatouille Count to three and s"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Most likely to survive a zombie apocalypse. Back Next End game"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Most likely to TALLY Count who gets picked After each card, tap the player the"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Most likely to win an argument they know nothing about. Back Next End g"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 Never have I ever turned up to a party I wasn't invited to. Back Next E"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Never have I ever MODE Classic Fingers Just the cards. Read, confess, next. PA"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 Never have I ever built a snowman. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Card 1 They're a 10/10 but they get lost at every date location. Back Next End"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 but... RATINGS Rate every catch The group agrees on a score from 1 to 10"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Card 1 They're a 10/10 but they fall asleep in every car. Back Next End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Skip|Done"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Truth or dare PLAYERS × × × × Add 4 of 12 players SKIPPING Allow skipping A sk"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← YOUR TURN Alessandra Truth Dare End game"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: I'm Alessandra, show me",
+          "#/play/whos-the-liar ::  :: Hide and pass on",
+          "#/play/whos-the-liar ::  :: I'm Bo, show me",
+          "#/play/whos-the-liar ::  :: I'm Chiara, show me",
+          "#/play/whos-the-liar ::  :: I'm Dev, show me",
+          "#/play/whos-the-liar ::  :: Hide and continue",
+          "#/play/whos-the-liar :: The answers :: Start discussion",
+          "#/play/whos-the-liar :: Discuss :: Pause|+30 s|Go to vote",
+          "#/play/whos-the-liar :: Vote :: Add at least one vote.",
+          "#/play/whos-the-liar :: Vote :: Lock in the vote"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Who's the Liar PLAYERS × × × × Add 4 of 12 players LIARS − 1 + PACKS 2 selecte"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 of 4 Pass the phone to Alessandra Only Alessandra should look. I'm Alessandra,"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "screens": 3,
+        "noExit": [
+          "#/play/bomb ::  :: Passa|Annulla passaggio|Cambia categoria"
+        ],
+        "back": {
+          "from": "#/play/bomb",
+          "landedOn": "#/play/bomb/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← DI' QUALCOSA TRA Paesi del mondo Inizia Bo Di' qualcosa che c'entra, tocca Pas"
+        },
+        "reload": {
+          "landedOn": "#/play/bomb/setup",
+          "screen": "← Chi ha la bomba? GIOCATORI × × × × Aggiungi 4 su 12 giocatori PACCHETTI 15 sce"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 3,
+          "screenAfter": "Alessandra è saltato in aria! ESPLOSIONI · VINCE CHI NE HA MENO 1 Chiara 💥 0 1 "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "screens": 7,
+        "noExit": [
+          "#/play/circa ::  :: Sono Alessandra, fammi vedere",
+          "#/play/circa ::  :: Nascondi e passa",
+          "#/play/circa ::  :: Sono Bo, fammi vedere",
+          "#/play/circa ::  :: Sono Chiara, fammi vedere",
+          "#/play/circa ::  :: Sono Dev, fammi vedere",
+          "#/play/circa ::  :: Nascondi e continua"
+        ],
+        "back": {
+          "from": "#/play/circa",
+          "landedOn": "#/play/circa/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/circa/setup",
+          "screen": "← Circa GIOCATORI × × × × Aggiungi 4 su 12 giocatori VARIANTE IMPOSTORE Un gioca"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "screens": 5,
+        "noExit": [
+          "#/play/forbidden-words ::  :: Salta|Indovinata|Parola vietata!",
+          "#/play/forbidden-words ::  :: Prossimo turno",
+          "#/play/forbidden-words ::  :: Vedi il punteggio finale"
+        ],
+        "back": {
+          "from": "#/play/forbidden-words",
+          "landedOn": "#/play/forbidden-words/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← SQUADRA A Dev Descrive Dev. La squadra di Dev indovina. L'altra squadra urla s"
+        },
+        "reload": {
+          "landedOn": "#/play/forbidden-words/setup",
+          "screen": "← Parole vietate GIOCATORI × × × × Aggiungi 4 su 12 giocatori I giocatori vengon"
+        },
+        "background": {
+          "timerBefore": "1:00",
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "Tempo scaduto! Squadra A ha fatto 0 0 – 0 Prossimo turno"
+        },
+        "leak": {
+          "locksInGame": 2,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "screens": 12,
+        "noExit": [
+          "#/play/impostor ::  :: Sono Alessandra, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e passa",
+          "#/play/impostor ::  :: Sono Bo, fammi vedere",
+          "#/play/impostor ::  :: Sono Chiara, fammi vedere",
+          "#/play/impostor ::  :: Sono Dev, fammi vedere",
+          "#/play/impostor ::  :: Nascondi e continua",
+          "#/play/impostor ::  :: Via alla discussione",
+          "#/play/impostor :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/impostor :: Votazione :: Serve almeno un voto.",
+          "#/play/impostor :: Votazione :: Conferma il voto",
+          "#/play/impostor ::  :: Sbagliata|Presa"
+        ],
+        "back": {
+          "from": "#/play/impostor",
+          "landedOn": "#/play/impostor/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/impostor/setup",
+          "screen": "← Impostore GIOCATORI × × × × Aggiungi 4 su 12 giocatori IMPOSTORI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "screens": 2,
+        "noExit": [],
+        "back": {
+          "from": "#/play/mind-match",
+          "landedOn": "#/play/mind-match/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Biliardo Libretto Contate fino a t"
+        },
+        "reload": {
+          "landedOn": "#/play/mind-match/setup",
+          "screen": "← Telepatia MODALITÀ A voce Scritta Contate fino a tre e dite la parola ad alta "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Round 1 DITE UNA PAROLA CHE COLLEGHI QUESTE Inter Polenta Contate fino a tre e"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/most-likely-to",
+          "landedOn": "#/play/most-likely-to/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Chi farebbe venti foto per averne una venuta bene? Indietro Avanti Fin"
+        },
+        "reload": {
+          "landedOn": "#/play/most-likely-to/setup",
+          "screen": "← Chi è il più probabile CONTEGGIO Conta chi viene scelto Dopo ogni carta tocca "
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Chi si imbucherebbe al matrimonio di uno sconosciuto? Indietro Avanti "
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/never-have-i-ever",
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 Non ho mai riciclato un regalo. Indietro Avanti Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/never-have-i-ever/setup",
+          "screen": "← Non ho mai MODALITÀ Classica Con le dita Solo le carte. Leggi, confessa, avant"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 Non ho mai dormito in spiaggia. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "screens": 60,
+        "noExit": [],
+        "back": {
+          "from": "#/play/ten-out-of-ten",
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← Carta 1 È un 10/10 ma russa come un tagliaerba. Indietro Avanti Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/ten-out-of-ten/setup",
+          "screen": "← 10/10 ma... VOTI Vota ogni difetto Il gruppo si accorda su un voto da 1 a 10 p"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← Carta 1 È un 10/10 ma deve avere sempre ragione. Indietro Avanti Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "screens": 2,
+        "noExit": [
+          "#/play/truth-or-dare ::  :: Passo|Fatto"
+        ],
+        "back": {
+          "from": "#/play/truth-or-dare",
+          "landedOn": "#/play/truth-or-dare/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "reload": {
+          "landedOn": "#/play/truth-or-dare/setup",
+          "screen": "← Obbligo o verità GIOCATORI × × × × Aggiungi 4 su 12 giocatori PASSARE Consenti"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "← TOCCA A TE Alessandra Verità Obbligo Fine partita"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "screens": 11,
+        "noExit": [
+          "#/play/whos-the-liar ::  :: Sono Alessandra, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e passa",
+          "#/play/whos-the-liar ::  :: Sono Bo, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Chiara, fammi vedere",
+          "#/play/whos-the-liar ::  :: Sono Dev, fammi vedere",
+          "#/play/whos-the-liar ::  :: Nascondi e continua",
+          "#/play/whos-the-liar :: Le risposte :: Via alla discussione",
+          "#/play/whos-the-liar :: Discutete :: Pausa|+30 s|Al voto",
+          "#/play/whos-the-liar :: Votazione :: Serve almeno un voto.",
+          "#/play/whos-the-liar :: Votazione :: Conferma il voto"
+        ],
+        "back": {
+          "from": "#/play/whos-the-liar",
+          "landedOn": "#/play/whos-the-liar/setup",
+          "forwardRestoredSameScreen": false,
+          "forwardScreen": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "reload": {
+          "landedOn": "#/play/whos-the-liar/setup",
+          "screen": "← Chi mente? GIOCATORI × × × × Aggiungi 4 su 12 giocatori BUGIARDI − 1 + PACCHET"
+        },
+        "background": {
+          "timerBefore": null,
+          "timerAfter": null,
+          "soundsWhileHidden": 0,
+          "screenAfter": "1 di 4 Passa il telefono a Alessandra Deve guardare solo Alessandra. Sono Alessa"
+        },
+        "leak": {
+          "locksInGame": 1,
+          "locksAfterExit": 0,
+          "soundsAfterExit": 0
+        },
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ]
+  },
+  "monkey": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "seed": 1833782667,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 369207835,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 386673928,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": -447219094,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1607564651,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 258607263,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": -738291731,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -92459459,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 628678723,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": 1829653747,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "seed": -23909703,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": -2145634123,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 442453658,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": -154988780,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1380845981,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": -1748921519,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": 1826224915,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -1626136437,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 587006745,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": 2117948697,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "seed": 1157629665,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 200690269,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": -872009822,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": 851329628,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": -55360443,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 316558937,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": -1053066357,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": -462469885,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": -916435951,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": -611415295,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "seed": -1990200813,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "circa",
+        "seed": 1476643555,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "forbidden-words",
+        "seed": 924512720,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "impostor",
+        "seed": 1609720722,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "mind-match",
+        "seed": 1339955315,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "most-likely-to",
+        "seed": 2011603911,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "never-have-i-ever",
+        "seed": 1601017701,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "ten-out-of-ten",
+        "seed": 872804981,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "truth-or-dare",
+        "seed": 260256699,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      },
+      {
+        "game": "whos-the-liar",
+        "seed": -1921446469,
+        "anomalies": [],
+        "errors": {
+          "console": [],
+          "page": []
+        }
+      }
+    ]
+  },
+  "memory": {
+    "chromium-i15-en": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "chromium-i15-it": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-i15-en": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-i15-it": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-promax-en": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-promax-it": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-se-en": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": true,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ],
+    "webkit-se-it": [
+      {
+        "game": "bomb",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "circa",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "forbidden-words",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "impostor",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "mind-match",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "most-likely-to",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "never-have-i-ever",
+        "optionsKept": true,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "ten-out-of-ten",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 0
+      },
+      {
+        "game": "truth-or-dare",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      },
+      {
+        "game": "whos-the-liar",
+        "optionsKept": false,
+        "packsKept": false,
+        "playersKept": 4
+      }
+    ]
+  },
+  "layout": {
+    "chromium-i15-en": {
+      "small-text": [
+        "\"EN\" at 12px @ #/play/bomb/setup",
+        "\"Category\" at 12px @ #/play/impostor"
+      ]
+    },
+    "chromium-i15-it": {
+      "small-text": [
+        "\"IT\" at 12px @ #/play/bomb/setup"
+      ]
+    },
+    "webkit-i15-en": {
+      "small-text": [
+        "\"EN\" at 12px @ #/play/bomb/setup"
+      ]
+    },
+    "webkit-i15-it": {
+      "small-text": [
+        "\"IT\" at 12px @ #/play/bomb/setup"
+      ]
+    },
+    "webkit-promax-en": {
+      "small-text": [
+        "\"EN\" at 12px @ #/play/bomb/setup",
+        "\"Category\" at 12px @ #/play/impostor"
+      ]
+    },
+    "webkit-promax-it": {
+      "small-text": [
+        "\"IT\" at 12px @ #/play/bomb/setup",
+        "\"Categoria\" at 12px @ #/play/impostor"
+      ]
+    },
+    "webkit-se-en": {
+      "small-text": [
+        "\"EN\" at 12px @ #/play/bomb/setup",
+        "\"Category\" at 12px @ #/play/impostor"
+      ],
+      "clipped-text": [
+        "\"Forbidden words: Food and fun\" (236px in 226px) @ #/play/forbidden-words/setup"
+      ]
+    },
+    "webkit-se-it": {
+      "small-text": [
+        "\"IT\" at 12px @ #/play/bomb/setup"
+      ]
+    }
+  },
+  "perf": {
+    "chromium-i15-en": {
+      "project": "chromium-i15-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 4,
+      "throttledHomeVisibleMs": 3088,
+      "timing": {
+        "domContentLoaded": 1177,
+        "load": 1179,
+        "fcp": null
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 14,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "chromium-i15-it": {
+      "project": "chromium-i15-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 3,
+      "throttledHomeVisibleMs": 3031,
+      "timing": {
+        "domContentLoaded": 1165,
+        "load": 1166,
+        "fcp": null
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 15,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-i15-en": {
+      "project": "webkit-i15-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 164,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 45,
+        "load": 90,
+        "fcp": 150
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 14,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-i15-it": {
+      "project": "webkit-i15-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 207,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 49,
+        "load": 114,
+        "fcp": 192
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 15,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-promax-en": {
+      "project": "webkit-promax-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 169,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 55,
+        "load": 98,
+        "fcp": 157
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 14,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-promax-it": {
+      "project": "webkit-promax-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 167,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 41,
+        "load": 88,
+        "fcp": 142
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 15,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-se-en": {
+      "project": "webkit-se-en",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 179,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 38,
+        "load": 107,
+        "fcp": 169
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 14,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    },
+    "webkit-se-it": {
+      "project": "webkit-se-it",
+      "sizes": {
+        "initialFiles": [
+          {
+            "file": "assets/index-CbUTIbkG.js",
+            "bytes": 511817
+          },
+          {
+            "file": "assets/index-BmjLYfRW.css",
+            "bytes": 14917
+          }
+        ],
+        "initialBytes": 526734,
+        "allAssetBytes": 658833,
+        "publicBytes": 19735,
+        "precacheEntries": 75
+      },
+      "homeVisibleMs": 184,
+      "throttledHomeVisibleMs": null,
+      "timing": {
+        "domContentLoaded": 70,
+        "load": 109,
+        "fcp": 171
+      },
+      "swReady": "ready",
+      "offline": {
+        "tested": true,
+        "homeLoads": true,
+        "packsListed": 15,
+        "reachedPlay": true
+      },
+      "errors": {
+        "console": [],
+        "page": []
+      }
+    }
+  },
+  "picker": {
+    "chromium-i15-en": {
+      "project": "chromium-i15-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "chromium-i15-it": {
+      "project": "chromium-i15-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-i15-en": {
+      "project": "webkit-i15-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-i15-it": {
+      "project": "webkit-i15-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-promax-en": {
+      "project": "webkit-promax-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-promax-it": {
+      "project": "webkit-promax-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    },
+    "webkit-se-en": {
+      "project": "webkit-se-en",
+      "newPicker": false,
+      "packsListed": 14,
+      "target": "Cities & Places",
+      "onePackTaps": 14,
+      "allPacksTaps": 14
+    },
+    "webkit-se-it": {
+      "project": "webkit-se-it",
+      "newPicker": false,
+      "packsListed": 15,
+      "target": "Cantanti italiani",
+      "onePackTaps": 15,
+      "allPacksTaps": 15
+    }
+  }
+}

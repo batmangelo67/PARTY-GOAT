@@ -1,9 +1,11 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useCardDeck } from "../../engine/use-card-deck";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useTenConfig } from "./config-store";
 import { TEN_ID } from "./constants";
@@ -14,9 +16,9 @@ const RATINGS = Array.from({ length: MAX_RATING - MIN_RATING + 1 }, (_, i) => MI
 
 export function TenPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const config = useTenConfig();
-  const packs = useSelectedPacks("prompts", config.packIds);
+  const packs = useSelectedPacks(TEN_ID, "prompts", config.packIds);
   const valid = packs.length > 0;
 
   const { cards, card, index, drawing, failure, forward, back } = useCardDeck(packs, valid);
@@ -39,17 +41,18 @@ export function TenPlayScreen() {
   if (ended) {
     const worst = worstCards(cards, ratings);
     return (
-      <Screen
+      <Screen settled
         footer={
           <div className="grid grid-cols-2 gap-2">
-            <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+            <Button variant="secondary" onClick={() => leave("setup")}>
               {t("common.backToSetup")}
             </Button>
             <Button onClick={newGame}>{t("common.newGame")}</Button>
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("ten.over.title")}</h1>
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("ten.over.title")}</h1>
         <Section title={t("ten.over.worst")}>
           {worst.length === 0 ? (
             <Notice>{t("ten.over.empty")}</Notice>
@@ -70,7 +73,6 @@ export function TenPlayScreen() {
 
   return (
     <Screen
-      backTo={SETUP_PATH}
       title={card ? t("ten.play.card", { number: index + 1 }) : undefined}
       footer={
         <div className="flex flex-col gap-2">
@@ -82,7 +84,7 @@ export function TenPlayScreen() {
               {t("ten.play.next")}
             </Button>
           </div>
-          <Button variant="ghost" onClick={() => (config.rate ? endGame() : navigate(SETUP_PATH))}>
+          <Button variant="ghost" onClick={() => (config.rate ? endGame() : leave("setup"))}>
             {t("ten.play.end")}
           </Button>
         </div>

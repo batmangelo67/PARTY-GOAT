@@ -12,7 +12,7 @@ interface ImpostorSecretProps {
 function ClueLine({ label, value }: { label: string; value: string }) {
   return (
     <div className="w-full rounded-2xl bg-ink px-4 py-3">
-      <p className="text-xs font-bold uppercase tracking-widest text-muted">{label}</p>
+      <p className="text-sm font-bold uppercase tracking-widest text-muted">{label}</p>
       <p className="text-2xl font-black">{value}</p>
     </div>
   );

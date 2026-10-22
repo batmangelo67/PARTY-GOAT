@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { drawItem } from "../../engine/draw-item";
@@ -15,6 +15,7 @@ import { Timer } from "../../engine/timer";
 import { Button, Screen } from "../../engine/ui";
 import { useRoundLoader } from "../../engine/use-round-loader";
 import { Voting } from "../../engine/voting";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useLiarConfig } from "./config-store";
 import { LIAR_ID } from "./constants";
@@ -27,11 +28,11 @@ const SETUP_PATH = `/play/${LIAR_ID}/setup`;
 
 export function LiarPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const addPoints = useScoreboardStore((state) => state.addPoints);
   const config = useLiarConfig();
-  const packs = useSelectedPacks("question-pairs", config.packIds);
+  const packs = useSelectedPacks(LIAR_ID, "question-pairs", config.packIds);
   const valid = players.length >= MIN_PLAYERS && packs.length > 0;
   const typed = config.answerMode === "typed";
   const [phase, setPhase] = useState<Phase>("pass");
@@ -45,7 +46,7 @@ export function LiarPlayScreen() {
   });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
-  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} backTo={SETUP_PATH} />;
+  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} />;
 
   const nameOf = (id: string) => players.find((p) => p.id === id)?.name ?? "?";
   const afterReveal = () => setPhase(config.minutes > 0 ? "discussion" : "vote");
@@ -129,7 +130,7 @@ export function LiarPlayScreen() {
           caught={caught}
           roundPoints={roundPoints}
           onPlayAgain={playAgain}
-          onBackToSetup={() => navigate(SETUP_PATH)}
+          onBackToSetup={() => leave("setup")}
         >
           <p className="text-lg text-muted">{t("round.accused", { name: nameOf(accusedId) })}</p>
           <RevealBlock label={liarNames.length > 1 ? t("liar.result.revealedMany") : t("liar.result.revealedOne")}>

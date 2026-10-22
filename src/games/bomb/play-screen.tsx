@@ -1,5 +1,6 @@
+import { Celebration, Explosion } from "../../art/celebration";
 import { useRef, useState, type ButtonHTMLAttributes } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { usePlayersStore } from "../../engine/players-store";
@@ -7,6 +8,7 @@ import { randomInt } from "../../engine/random";
 import { ScoreList } from "../../engine/score-list";
 import { playCue, unlockAudio } from "../../engine/sound";
 import { Button, Screen, Section } from "../../engine/ui";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { BombVisual } from "./bomb-visual";
 import { useBombConfig } from "./config-store";
@@ -31,10 +33,10 @@ const SETUP_PATH = `/play/${BOMB_ID}/setup`;
 
 export function BombPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useBombConfig();
-  const packs = useSelectedPacks("words", config.packIds);
+  const packs = useSelectedPacks(BOMB_ID, "words", config.packIds);
   const { explosions, addExplosion, resetExplosions } = useExplosionsStore();
   const valid = players.length >= MIN_PLAYERS && packs.length > 0;
 
@@ -106,7 +108,6 @@ export function BombPlayScreen() {
   if (phase === "ready") {
     return (
       <Screen
-        backTo={SETUP_PATH}
         footer={
           <div className="flex flex-col gap-2">
             <BigActionButton className="min-h-20 text-3xl" onClick={lightFuse}>
@@ -147,12 +148,12 @@ export function BombPlayScreen() {
           </div>
         }
       >
-        <div className="flex min-h-full flex-col items-center justify-center gap-4 py-4">
+        <div className="flex min-h-full flex-col items-center justify-center gap-3 py-2">
           {categoryBlock}
-          <BombVisual beatMs={tickMs} active />
           <p key={holder.index} className="pop-in text-center text-3xl font-black">
             {t("bomb.play.holder", { name: holderName })}
           </p>
+          <BombVisual beatMs={tickMs} active />
         </div>
       </Screen>
     );
@@ -160,7 +161,7 @@ export function BombPlayScreen() {
 
   if (phase === "exploded") {
     return (
-      <Screen
+      <Screen settled
         className="flash-white"
         footer={
           <div className="flex flex-col gap-2">
@@ -169,14 +170,15 @@ export function BombPlayScreen() {
               <Button variant="secondary" onClick={() => setPhase("over")}>
                 {t("bomb.boom.end")}
               </Button>
-              <Button variant="ghost" onClick={() => navigate(SETUP_PATH)}>
+              <Button variant="ghost" onClick={() => leave("setup")}>
                 {t("common.backToSetup")}
               </Button>
             </div>
           </div>
         }
       >
-        <h1 className="pop-in pt-10 text-center text-5xl font-black leading-tight text-danger">
+        <Explosion />
+        <h1 className="pop-in pt-2 text-center text-5xl font-black leading-tight text-danger">
           {t("bomb.boom.title", { name: players.find((p) => p.id === loserId)?.name ?? "?" })}
         </h1>
         <Section title={t("bomb.boom.scores")}>{rankingList}</Section>
@@ -185,17 +187,18 @@ export function BombPlayScreen() {
   }
 
   return (
-    <Screen
+    <Screen settled
       footer={
         <div className="grid grid-cols-2 gap-2">
-          <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+          <Button variant="secondary" onClick={() => leave("setup")}>
             {t("common.backToSetup")}
           </Button>
           <Button onClick={newGame}>{t("common.newGame")}</Button>
         </div>
       }
     >
-      <h1 className="pt-8 text-4xl font-black">{t("bomb.over.title")}</h1>
+      <Celebration mood="party" />
+      <h1 className="pt-2 text-center text-4xl font-black">{t("bomb.over.title")}</h1>
       {ranking[0] && <p className="mt-2 text-xl font-bold text-accent">{t("bomb.over.winner", { name: ranking[0].name })}</p>}
       <Section title={t("bomb.boom.scores")}>{rankingList}</Section>
     </Screen>

@@ -60,3 +60,4 @@ Never special-case a game inside `src/engine`.
 - Working on packs, schemas or content generation: read `docs/CONTENT.md`
 - Choosing what to build next or checking game specs: read `docs/ROADMAP.md`
 - Planning content, packs or pack structure: read docs/TAXONOMY.md
+- Touching UI, art, icons or motion: read `docs/DESIGN.md`

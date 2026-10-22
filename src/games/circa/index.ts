@@ -1,14 +1,18 @@
+import { lazy } from "react";
+import { packAccess } from "../../engine/game-config";
 import type { GameDefinition } from "../types";
+import { useCircaConfig } from "./config-store";
 import { CIRCA_ID, CIRCA_KINDS } from "./constants";
-import { CircaPlayScreen } from "./play-screen";
-import { CircaSetupScreen } from "./setup-screen";
+import { CIRCA_ACCENT, CircaGlyph } from "./icon";
 
 export const circaGame: GameDefinition = {
   id: CIRCA_ID,
   nameKey: "circa.name",
   descriptionKey: "circa.description",
-  icon: "🎯",
+  accent: CIRCA_ACCENT,
+  Glyph: CircaGlyph,
   acceptsKinds: CIRCA_KINDS,
-  SetupScreen: CircaSetupScreen,
-  PlayScreen: CircaPlayScreen,
+  packs: packAccess(useCircaConfig),
+  SetupScreen: lazy(() => import("./setup-screen").then((module) => ({ default: module.CircaSetupScreen }))),
+  PlayScreen: lazy(() => import("./play-screen").then((module) => ({ default: module.CircaPlayScreen }))),
 };

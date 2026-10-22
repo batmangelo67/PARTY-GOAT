@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Goat } from "../art/goat";
 import { useT } from "../i18n/use-t";
 import type { Player } from "./players";
 import { playCue } from "./sound";
@@ -44,7 +45,10 @@ export function Voting({ candidates, voterCount, onResult }: VotingProps) {
       }
     >
       <div className="flex flex-col gap-3">
-        {round > 1 ? <Notice tone="error">{t("vote.tie")}</Notice> : <Notice>{t("vote.help")}</Notice>}
+        <div className="flex items-center gap-3">
+          <Goat mood={round > 1 ? "shock" : "sly"} size={56} className="shrink-0 text-accent" />
+          <div className="flex-1">{round > 1 ? <Notice tone="error">{t("vote.tie")}</Notice> : <Notice>{t("vote.help")}</Notice>}</div>
+        </div>
         {visible.map((player) => {
           const votes = counts[player.id] ?? 0;
           return (

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { drawItem } from "../../engine/draw-item";
@@ -15,6 +15,7 @@ import { Timer } from "../../engine/timer";
 import { Button, Screen } from "../../engine/ui";
 import { useRoundLoader } from "../../engine/use-round-loader";
 import { Voting } from "../../engine/voting";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useImpostorConfig } from "./config-store";
 import { IMPOSTOR_ID } from "./constants";
@@ -27,11 +28,11 @@ const SETUP_PATH = `/play/${IMPOSTOR_ID}/setup`;
 
 export function ImpostorPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const addPoints = useScoreboardStore((state) => state.addPoints);
   const config = useImpostorConfig();
-  const packs = useSelectedPacks("words", config.packIds);
+  const packs = useSelectedPacks(IMPOSTOR_ID, "words", config.packIds);
   const valid = players.length >= MIN_PLAYERS && packs.length > 0;
   const [phase, setPhase] = useState<Phase>("pass");
   const [accusedId, setAccusedId] = useState("");
@@ -45,7 +46,7 @@ export function ImpostorPlayScreen() {
   });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;
-  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} backTo={SETUP_PATH} />;
+  if (state !== "ready" || !round) return <RoundStatus state={state} failure={failure} onRetry={reload} />;
 
   const nameOf = (id: string) => players.find((p) => p.id === id)?.name ?? "?";
   const playerIds = players.map((p) => p.id);
@@ -120,7 +121,7 @@ export function ImpostorPlayScreen() {
           caught={caught}
           roundPoints={roundPoints}
           onPlayAgain={playAgain}
-          onBackToSetup={() => navigate(SETUP_PATH)}
+          onBackToSetup={() => leave("setup")}
         >
           <p className="text-lg text-muted">{t("round.accused", { name: nameOf(accusedId) })}</p>
           <RevealBlock label={impostorNames.length > 1 ? t("impostor.result.revealedMany") : t("impostor.result.revealedOne")}>

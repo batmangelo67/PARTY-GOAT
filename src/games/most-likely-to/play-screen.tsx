@@ -1,5 +1,6 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { countMarks, isMarked, toggleMark, type CardMarks } from "../../engine/card-marks";
@@ -9,6 +10,7 @@ import { ScoreList } from "../../engine/score-list";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useCardDeck } from "../../engine/use-card-deck";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useMltConfig } from "./config-store";
 import { MLT_ID } from "./constants";
@@ -17,10 +19,10 @@ const SETUP_PATH = `/play/${MLT_ID}/setup`;
 
 export function MltPlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useMltConfig();
-  const packs = useSelectedPacks("prompts", config.packIds);
+  const packs = useSelectedPacks(MLT_ID, "prompts", config.packIds);
   const valid = packs.length > 0 && (!config.tally || players.length >= MIN_PLAYERS);
 
   const { card, index, drawing, failure, forward, back } = useCardDeck(packs, valid);
@@ -43,18 +45,19 @@ export function MltPlayScreen() {
   if (ended) {
     const ranking = rankByScore(players, countMarks(picks, players.map((p) => p.id)));
     return (
-      <Screen
+      <Screen settled
         footer={
           <div className="grid grid-cols-2 gap-2">
-            <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+            <Button variant="secondary" onClick={() => leave("setup")}>
               {t("common.backToSetup")}
             </Button>
             <Button onClick={newGame}>{t("common.newGame")}</Button>
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("mlt.over.title")}</h1>
-        <p className="mt-2 text-lg text-muted">{t("mlt.over.help")}</p>
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("mlt.over.title")}</h1>
+        <p className="mt-2 text-center text-lg text-muted">{t("mlt.over.help")}</p>
         <Section title={t("scoreboard.title")}>
           <ScoreList
             rows={ranking.map((row) => ({
@@ -72,7 +75,6 @@ export function MltPlayScreen() {
 
   return (
     <Screen
-      backTo={SETUP_PATH}
       title={card ? t("mlt.play.card", { number: index + 1 }) : undefined}
       footer={
         <div className="flex flex-col gap-2">
@@ -84,7 +86,7 @@ export function MltPlayScreen() {
               {t("mlt.play.next")}
             </Button>
           </div>
-          <Button variant="ghost" onClick={() => (config.tally ? endGame() : navigate(SETUP_PATH))}>
+          <Button variant="ghost" onClick={() => (config.tally ? endGame() : leave("setup"))}>
             {t("mlt.play.end")}
           </Button>
         </div>

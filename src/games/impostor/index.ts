@@ -1,14 +1,18 @@
+import { lazy } from "react";
+import { packAccess } from "../../engine/game-config";
 import type { GameDefinition } from "../types";
+import { useImpostorConfig } from "./config-store";
 import { IMPOSTOR_ID, IMPOSTOR_KINDS } from "./constants";
-import { ImpostorPlayScreen } from "./play-screen";
-import { ImpostorSetupScreen } from "./setup-screen";
+import { IMPOSTOR_ACCENT, ImpostorGlyph } from "./icon";
 
 export const impostorGame: GameDefinition = {
   id: IMPOSTOR_ID,
   nameKey: "impostor.name",
   descriptionKey: "impostor.description",
-  icon: "🕵️",
+  accent: IMPOSTOR_ACCENT,
+  Glyph: ImpostorGlyph,
   acceptsKinds: IMPOSTOR_KINDS,
-  SetupScreen: ImpostorSetupScreen,
-  PlayScreen: ImpostorPlayScreen,
+  packs: packAccess(useImpostorConfig),
+  SetupScreen: lazy(() => import("./setup-screen").then((module) => ({ default: module.ImpostorSetupScreen }))),
+  PlayScreen: lazy(() => import("./play-screen").then((module) => ({ default: module.ImpostorPlayScreen }))),
 };

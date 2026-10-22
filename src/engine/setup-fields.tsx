@@ -1,11 +1,14 @@
-import { DISCUSSION_MINUTES_OPTIONS, MIN_PLAYERS } from "../app/constants";
+import { useEffect, useRef } from "react";
+import { useNavigate, useParams, useSearchParams } from "react-router";
+import { DISCUSSION_MINUTES_OPTIONS, MIN_PLAYERS, QUICK_START_PARAM } from "../app/constants";
 import type { Translate } from "../i18n/use-t";
 import { useT } from "../i18n/use-t";
+import type { DiscussionMinutes } from "./discussion-minutes";
+import { quickStartAction, startSession, type SessionOrigin } from "./game-session";
+import { usePlayLogStore } from "./play-log-store";
 import type { Player } from "./players";
 import { unlockAudio } from "./sound";
 import { Button, Segmented } from "./ui";
-
-export type DiscussionMinutes = (typeof DISCUSSION_MINUTES_OPTIONS)[number];
 
 export function DiscussionTimerField({ value, onChange }: { value: DiscussionMinutes; onChange: (v: DiscussionMinutes) => void }) {
   const t = useT();
@@ -17,24 +20,50 @@ export function playersProblem(t: Translate, players: readonly Player[]): string
   return players.length < MIN_PLAYERS ? t("players.needMore", { min: MIN_PLAYERS }) : null;
 }
 
-export function packsProblem(t: Translate, packIds: readonly string[] | null): string | null {
-  return packIds?.length ? null : t("setup.needPacks");
+export function packsProblem(t: Translate, packCount: number): string | null {
+  return packCount > 0 ? null : t("setup.needPacks");
 }
 
-export function basicSetupProblems(t: Translate, players: readonly Player[], packIds: readonly string[] | null): string[] {
-  return [playersProblem(t, players), packsProblem(t, packIds)].filter((problem) => problem !== null);
+export function basicSetupProblems(t: Translate, players: readonly Player[], packCount: number): string[] {
+  return [playersProblem(t, players), packsProblem(t, packCount)].filter((problem) => problem !== null);
 }
 
-export function StartFooter({ problems, onStart }: { problems: string[]; onStart: () => void }) {
+interface StartFooterProps {
+  problems: string[];
+  packIds: readonly string[];
+  onBeforeStart?: () => void;
+}
+
+// Starts the game. With ?go=1 (the home "play again" card) it starts straight away when nothing
+// is missing, so a repeat game is one tap from home.
+export function StartFooter({ problems, packIds, onBeforeStart }: StartFooterProps) {
   const t = useT();
-  const start = () => {
+  const navigate = useNavigate();
+  const gameId = useParams().gameId ?? "";
+  const [params, setParams] = useSearchParams();
+  const logPlay = usePlayLogStore((state) => state.logPlay);
+  const quickStarted = useRef(false);
+
+  const start = (origin: SessionOrigin) => {
     unlockAudio();
-    onStart();
+    onBeforeStart?.();
+    logPlay(gameId, packIds);
+    startSession(gameId, origin);
+    void navigate(`/play/${gameId}`, { replace: origin === "home" });
   };
+
+  useEffect(() => {
+    const action = quickStartAction(params.get(QUICK_START_PARAM) === "1", quickStarted.current, problems);
+    if (action === "none") return;
+    quickStarted.current = true;
+    if (action === "start") start("home");
+    else setParams({}, { replace: true });
+  });
+
   return (
     <div className="flex flex-col gap-2">
       {problems[0] && <p className="text-center text-sm font-semibold text-danger">{problems[0]}</p>}
-      <Button disabled={problems.length > 0} onClick={start}>
+      <Button disabled={problems.length > 0} onClick={() => start("setup")}>
         {t("setup.start")}
       </Button>
     </div>

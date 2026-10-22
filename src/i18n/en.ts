@@ -439,6 +439,38 @@ export const en = {
   "circa.result.decoyQuestion": "Impostor's question",
   "circa.result.decoyAnswer": "Impostor's correct answer",
   "circa.result.ranking": "Closest guesses",
+  "game.exit": "Pause or leave the game",
+  "game.paused": "Paused",
+  "game.lostWarning": "Leave now and this round is lost.",
+  "game.resume": "Keep playing",
+  "game.toSetup": "Change setup",
+
+  "setup.done": "Done",
+  "setup.more": "More options",
+  "setup.fewer": "Fewer options",
+
+  "packs.mix": "Mix of all {count} packs",
+  "packs.chosen": "{count} packs picked",
+  "packs.change": "Change",
+
+  "picker.search": "Search packs",
+  "picker.filter.all": "All",
+  "picker.filter.recent": "Recent",
+  "picker.filter.starred": "Starred",
+  "picker.mixAll": "Mix everything",
+  "picker.clear": "Clear",
+  "picker.surprise": "Surprise me",
+  "picker.use": "Use {count} packs",
+  "picker.useMix": "Use the mix · {count}",
+  "picker.star": "Star {title}",
+  "picker.unstar": "Unstar {title}",
+  "picker.noRecent": "Packs you play with show up here.",
+  "picker.noStarred": "Tap ☆ on a pack to keep it here.",
+  "picker.spice": "Spice: {level}",
+
+  "home.games": "Games",
+  "home.playAgain": "Play again",
+  "home.quickSummary": "{players} players · {packs}",
 };
 
 export type MessageKey = keyof typeof en;

@@ -1,7 +1,9 @@
-import { create } from "zustand";
-import { DEFAULT_DISCUSSION_MINUTES } from "../../app/constants";
-import type { DiscussionMinutes } from "../../engine/setup-fields";
-import type { ClueMode } from "./logic";
+import { z } from "zod";
+import { DEFAULT_DISCUSSION_MINUTES, MAX_PLAYERS } from "../../app/constants";
+import { createGameConfig } from "../../engine/game-config";
+import { DISCUSSION_MINUTES_SCHEMA, type DiscussionMinutes } from "../../engine/discussion-minutes";
+import { IMPOSTOR_ID } from "./constants";
+import { CLUE_MODES, type ClueMode } from "./logic";
 
 export interface ImpostorConfig {
   impostorCount: number;
@@ -12,18 +14,14 @@ export interface ImpostorConfig {
   packIds: string[] | null;
 }
 
-interface ImpostorConfigState extends ImpostorConfig {
-  update: (changes: Partial<ImpostorConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useImpostorConfig = create<ImpostorConfigState>((set) => ({
-  impostorCount: 1,
-  clueMode: "category",
-  knowEachOther: false,
-  canGuess: true,
-  minutes: DEFAULT_DISCUSSION_MINUTES,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useImpostorConfig = createGameConfig<ImpostorConfig>(
+  IMPOSTOR_ID,
+  { impostorCount: 1, clueMode: "category", knowEachOther: false, canGuess: true, minutes: DEFAULT_DISCUSSION_MINUTES, packIds: null },
+  {
+    impostorCount: z.number().int().min(1).max(MAX_PLAYERS),
+    clueMode: z.enum(CLUE_MODES),
+    knowEachOther: z.boolean(),
+    canGuess: z.boolean(),
+    minutes: DISCUSSION_MINUTES_SCHEMA,
+  },
+);

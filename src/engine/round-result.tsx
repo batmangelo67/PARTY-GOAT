@@ -1,3 +1,4 @@
+import { Celebration } from "../art/celebration";
 import type { ReactNode } from "react";
 import { useT } from "../i18n/use-t";
 import { Scoreboard } from "./scoreboard";
@@ -16,6 +17,7 @@ export function RoundResult({ headline, caught, children, roundPoints, onPlayAga
   const t = useT();
   return (
     <Screen
+      settled
       footer={
         <div className="grid grid-cols-2 gap-2">
           <Button variant="secondary" onClick={onBackToSetup}>
@@ -25,7 +27,8 @@ export function RoundResult({ headline, caught, children, roundPoints, onPlayAga
         </div>
       }
     >
-      <h1 className={`pop-in pt-8 text-5xl font-black leading-tight tracking-tight ${caught ? "text-accent" : "text-danger"}`}>
+      <Celebration mood={caught ? "party" : "shock"} />
+      <h1 className={`pop-in pt-2 text-center text-5xl font-black leading-tight tracking-tight ${caught ? "text-accent" : "text-danger"}`}>
         {headline}
       </h1>
       <div className="mt-6 flex flex-col gap-4">{children}</div>

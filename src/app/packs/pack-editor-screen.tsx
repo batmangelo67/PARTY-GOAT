@@ -4,7 +4,7 @@ import { storeCustomPacks, useContentStore } from "../../content/content-store";
 import { MIN_CUSTOM_ITEMS, parseItemLines } from "../../content/pack-text";
 import { PACK_KINDS, type PackKind } from "../../content/schema";
 import { errorMessage, logError } from "../../engine/logger";
-import { Button, Notice, Screen, Section, Segmented } from "../../engine/ui";
+import { Button, ChipGroup, Notice, Screen, Section, Segmented } from "../../engine/ui";
 import { gamesForKind } from "../../games/registry";
 import { SPICE_LEVELS, spiceKey } from "../../i18n/labels";
 import { LANGUAGES } from "../../i18n/languages";
@@ -100,7 +100,7 @@ export function PackEditorScreen() {
       </Section>
       {!initial.editingId && (
         <Section title={t("editor.kind")}>
-          <Segmented
+          <ChipGroup
             ariaLabel={t("editor.kind")}
             options={PACK_KINDS.map((kind) => ({ value: kind, label: t(`kind.${kind}`) }))}
             value={draft.kind}

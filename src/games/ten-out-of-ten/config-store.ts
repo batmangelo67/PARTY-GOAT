@@ -1,18 +1,10 @@
-import { create } from "zustand";
+import { z } from "zod";
+import { createGameConfig } from "../../engine/game-config";
+import { TEN_ID } from "./constants";
 
 export interface TenConfig {
   rate: boolean;
   packIds: string[] | null;
 }
 
-interface TenConfigState extends TenConfig {
-  update: (changes: Partial<TenConfig>) => void;
-  setPackIds: (packIds: string[]) => void;
-}
-
-export const useTenConfig = create<TenConfigState>((set) => ({
-  rate: false,
-  packIds: null,
-  update: (changes) => set(changes),
-  setPackIds: (packIds) => set({ packIds }),
-}));
+export const useTenConfig = createGameConfig<TenConfig>(TEN_ID, { rate: false, packIds: null }, { rate: z.boolean() });

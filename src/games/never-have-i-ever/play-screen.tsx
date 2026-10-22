@@ -1,5 +1,6 @@
+import { Celebration } from "../../art/celebration";
 import { useState } from "react";
-import { Navigate, useNavigate } from "react-router";
+import { Navigate } from "react-router";
 import { MIN_PLAYERS } from "../../app/constants";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import { isMarked, toggleMark, type CardMarks } from "../../engine/card-marks";
@@ -9,6 +10,7 @@ import { ScoreList } from "../../engine/score-list";
 import { playCue } from "../../engine/sound";
 import { BigCard, Button, Notice, Screen, Section } from "../../engine/ui";
 import { useCardDeck } from "../../engine/use-card-deck";
+import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useNhieConfig } from "./config-store";
 import { NHIE_ID } from "./constants";
@@ -18,10 +20,10 @@ const SETUP_PATH = `/play/${NHIE_ID}/setup`;
 
 export function NhiePlayScreen() {
   const t = useT();
-  const navigate = useNavigate();
+  const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useNhieConfig();
-  const packs = useSelectedPacks("prompts", config.packIds);
+  const packs = useSelectedPacks(NHIE_ID, "prompts", config.packIds);
   const fingersMode = config.mode === "fingers";
   const valid = packs.length > 0 && (!fingersMode || players.length >= MIN_PLAYERS);
 
@@ -54,18 +56,19 @@ export function NhiePlayScreen() {
     const ranking = rankByScore(players, fingers);
     const leaders = ranking.filter((row) => row.rank === 1);
     return (
-      <Screen
+      <Screen settled
         footer={
           <div className="grid grid-cols-2 gap-2">
-            <Button variant="secondary" onClick={() => navigate(SETUP_PATH)}>
+            <Button variant="secondary" onClick={() => leave("setup")}>
               {t("common.backToSetup")}
             </Button>
             <Button onClick={newGame}>{t("common.newGame")}</Button>
           </div>
         }
       >
-        <h1 className="pt-8 text-4xl font-black">{t("nhie.over.title")}</h1>
-        <p className="mt-2 text-xl font-bold text-accent">
+        <Celebration mood="party" />
+        <h1 className="pt-2 text-center text-4xl font-black">{t("nhie.over.title")}</h1>
+        <p className="mt-2 text-center text-xl font-bold text-accent">
           {leaders.length === 1 ? t("nhie.over.winner", { name: leaders[0]!.player.name }) : t("nhie.over.draw")}
         </p>
         <Section title={t("scoreboard.title")}>
@@ -85,7 +88,6 @@ export function NhiePlayScreen() {
 
   return (
     <Screen
-      backTo={SETUP_PATH}
       title={card ? t("nhie.play.card", { number: index + 1 }) : undefined}
       footer={
         <div className="flex flex-col gap-2">
@@ -97,7 +99,7 @@ export function NhiePlayScreen() {
               {t("nhie.play.next")}
             </Button>
           </div>
-          <Button variant="ghost" onClick={() => (fingersMode ? setEnded(true) : navigate(SETUP_PATH))}>
+          <Button variant="ghost" onClick={() => (fingersMode ? setEnded(true) : leave("setup"))}>
             {t("nhie.play.end")}
           </Button>
         </div>
