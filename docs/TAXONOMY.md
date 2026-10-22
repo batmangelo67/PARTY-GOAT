@@ -153,7 +153,7 @@ Phrased as "...most likely to [do something]".
 
 ## 6. Changes to existing docs (apply in the refactor stage)
 
-Status (stage 10): schema, Bomb, Mind match, Impostor hints, Settings and ROADMAP are done. Still open: picker folder > section navigation and the difficulty filter.
+Status (stage 10): all done. The picker shows folders and sections as chip rows on one screen (see ROADMAP), and Impostor / Forbidden words have a difficulty setting (All / Easy / Medium / Hard; items without a difficulty count as medium).
 
 - **Schema**: add `group` and optional `section` to packs, `difficulty` to `words` and `cards` items, `examples` to `prompts` items, and the `numeric` and `cards` kinds. A pack has exactly one game.
 - **Bomb**: moves from `words` packs (pack title = category) to `prompts` packs (each prompt = one category). Migrate the Stage 4 builtin bomb packs and update the game, the picker and the tests.

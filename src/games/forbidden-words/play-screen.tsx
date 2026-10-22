@@ -1,6 +1,7 @@
 import { Celebration } from "../../art/celebration";
 import { useCallback, useState } from "react";
 import { Navigate } from "react-router";
+import { matchesDifficulty } from "../../content/difficulty";
 import { useSelectedPacks } from "../../content/use-selected-packs";
 import type { CardItem } from "../../content/schema";
 import { drawItem } from "../../engine/draw-item";
@@ -36,7 +37,10 @@ export function ForbiddenPlayScreen() {
   const [firstCard, setFirstCard] = useState<CardItem | null>(null);
   const [failure, setFailure] = useState("");
 
-  const draw = useCallback(async () => (await drawItem<"cards">(packs)).item, [packs]);
+  const draw = useCallback(
+    async () => (await drawItem<"cards">(packs, (card) => matchesDifficulty(card, config.difficulty))).item,
+    [packs, config.difficulty],
+  );
   const finishTurn = useCallback(
     (tally: TurnTally) => {
       const points = turnScore(tally.correct, tally.banned);

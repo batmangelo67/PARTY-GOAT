@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { normalizeSelection, pickerRows, toggleSelection } from "./picker-selection";
+import { ALL_FOLDERS, folderChips, inFolder, normalizeSelection, pickerRows, toggleSelection } from "./picker-selection";
 import { defaultPacks, resolvePacks } from "./resolve-packs";
 import type { Pack } from "./schema";
 
@@ -57,5 +57,51 @@ describe("picker rows", () => {
 
   it("shows only starred packs on the starred filter", () => {
     expect(pickerRows(packs, { ...base, filter: "starred", favoriteIds: ["b"] }).map((p) => p.id)).toEqual(["b"]);
+  });
+});
+
+describe("picker folders", () => {
+  const inGroup = (id: string, group?: string, section?: string) => ({ ...make(id, id.toUpperCase()), group, section }) as Pack;
+  const packs = [
+    inGroup("film", "entertainment"),
+    inGroup("calcio", "sports", "football"),
+    inGroup("nba", "sports", "basketball"),
+    inGroup("odd", "other"),
+    inGroup("mine"),
+  ];
+  const labels = { group: (id: string) => id, section: (id: string) => id };
+
+  it("lists every group, sorted by label, with other last", () => {
+    expect(folderChips(packs, ALL_FOLDERS, labels).groups).toEqual(["entertainment", "sports", "other"]);
+  });
+
+  it("shows sections only for the chosen group", () => {
+    expect(folderChips(packs, ALL_FOLDERS, labels).sections).toEqual([]);
+    expect(folderChips(packs, { group: "sports", section: null }, labels).sections).toEqual(["basketball", "football"]);
+  });
+
+  it("hides a row with a single choice", () => {
+    const one = [inGroup("a", "sports", "football"), inGroup("b", "sports", "football")];
+    expect(folderChips(one, { group: "sports", section: "football" }, labels)).toEqual({
+      groups: [],
+      sections: [],
+      active: ALL_FOLDERS,
+    });
+  });
+
+  it("falls back to all when the chosen folder is gone", () => {
+    expect(folderChips(packs, { group: "gaming", section: "retro" }, labels).active).toEqual(ALL_FOLDERS);
+    expect(folderChips(packs, { group: "sports", section: "retro" }, labels).active).toEqual({ group: "sports", section: null });
+  });
+
+  it("puts packs without a group in other", () => {
+    expect(inFolder(inGroup("mine"), { group: "other", section: null })).toBe(true);
+  });
+
+  it("limits the rows to the folder, but search still covers every pack", () => {
+    const rows = (folder = ALL_FOLDERS, query = "") => pickerRows(packs, { filter: "all", query, recentIds: [], favoriteIds: [], folder }).map((p) => p.id);
+    expect(rows({ group: "sports", section: null })).toEqual(["calcio", "nba"]);
+    expect(rows({ group: "sports", section: "basketball" })).toEqual(["nba"]);
+    expect(rows({ group: "sports", section: null }, "film")).toEqual(["film"]);
   });
 });

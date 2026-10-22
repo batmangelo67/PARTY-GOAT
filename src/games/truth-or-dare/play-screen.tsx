@@ -14,7 +14,7 @@ import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useTodConfig } from "./config-store";
 import { TOD_ID } from "./constants";
-import { braveryScores, nextPlayerIndex, packsForChoice, recordOutcome, TOD_CHOICES, type TodChoice, type TodOutcome, type TodStats } from "./logic";
+import { braveryScores, fitsChoice, hasCardsFor, nextPlayerIndex, recordOutcome, TOD_CHOICES, type TodChoice, type TodOutcome, type TodStats } from "./logic";
 
 const SETUP_PATH = `/play/${TOD_ID}/setup`;
 
@@ -46,7 +46,7 @@ export function TodPlayScreen() {
   const choose = async (choice: TodChoice) => {
     setDrawing(true);
     try {
-      const { item } = await drawItem<"prompts">(packsForChoice(packs, choice));
+      const { item } = await drawItem<"prompts">(packs, (candidate) => fitsChoice(candidate, choice));
       playCue("reveal");
       setCard({ id: item.id, text: item.text, choice });
       setFailure("");
@@ -127,7 +127,7 @@ export function TodPlayScreen() {
               <Button
                 key={choice}
                 variant={choice === "truth" ? "primary" : "secondary"}
-                disabled={drawing || packsForChoice(packs, choice).length === 0}
+                disabled={drawing || !hasCardsFor(packs, choice)}
                 onClick={() => void choose(choice)}
               >
                 {t(`tod.choice.${choice}`)}
