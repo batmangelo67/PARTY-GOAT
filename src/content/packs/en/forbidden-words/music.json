@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-music",
+  "title": "Music",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Guitar",
+      "banned": [
+        "Strings",
+        "Strum",
+        "Fretboard",
+        "Amp"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drums",
+      "banned": [
+        "Kit",
+        "Cymbals",
+        "Sticks",
+        "Beat"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Piano",
+      "banned": [
+        "Keys",
+        "Ivories",
+        "Grand",
+        "Hammers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Violin",
+      "banned": [
+        "Bow",
+        "Fiddle",
+        "Strings",
+        "Chin rest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trumpet",
+      "banned": [
+        "Brass",
+        "Valves",
+        "Horn",
+        "Mouthpiece"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harp",
+      "banned": [
+        "Angel",
+        "Strings",
+        "Golden",
+        "Lyre"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jazz",
+      "banned": [
+        "Saxophone",
+        "Swing",
+        "Blue notes",
+        "Improvisation"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rap",
+      "banned": [
+        "Hip-hop",
+        "Rhymes",
+        "Freestyle",
+        "Mic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Opera",
+      "banned": [
+        "Soprano",
+        "Aria",
+        "Theatre",
+        "Pavarotti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karaoke",
+      "banned": [
+        "Sing-along",
+        "Lyrics on screen",
+        "Bar",
+        "Microphone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Concert",
+      "banned": [
+        "Gig",
+        "Live",
+        "Stage",
+        "Show"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Microphone",
+      "banned": [
+        "Singer",
+        "Stand",
+        "Voice",
+        "Speaker"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Headphones",
+      "banned": [
+        "Earbuds",
+        "Cans",
+        "Listening",
+        "Cable"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Melody",
+      "banned": [
+        "Tune",
+        "Song",
+        "Hook",
+        "Notes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chorus",
+      "banned": [
+        "Refrain",
+        "Singers",
+        "Hook",
+        "Choir"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vinyl",
+      "banned": [
+        "Record",
+        "LP",
+        "Turntable",
+        "Needle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ballad",
+      "banned": [
+        "Slow song",
+        "Love song",
+        "Romance",
+        "Tearjerker"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bass",
+      "banned": [
+        "Low notes",
+        "Guitar",
+        "Fish",
+        "Amplifier"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Saxophone",
+      "banned": [
+        "Jazz",
+        "Brass",
+        "Reed",
+        "Woodwind"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Accordion",
+      "banned": [
+        "Squeezebox",
+        "Bellows",
+        "Polka",
+        "Keys"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Banjo",
+      "banned": [
+        "Bluegrass",
+        "Frets",
+        "Five strings",
+        "Porch"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ukulele",
+      "banned": [
+        "Hawaii",
+        "Small guitar",
+        "Four strings",
+        "Island"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cello",
+      "banned": [
+        "Orchestra",
+        "Bow",
+        "Big violin",
+        "Low"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Harmonica",
+      "banned": [
+        "Mouth organ",
+        "Blues",
+        "Puff",
+        "Pocket"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tambourine",
+      "banned": [
+        "Jingles",
+        "Shake",
+        "Percussion",
+        "Hand drum"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reggae",
+      "banned": [
+        "Jamaica",
+        "Bob Marley",
+        "Offbeat",
+        "Island"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Techno",
+      "banned": [
+        "Berlin",
+        "Club",
+        "Four-to-the-floor",
+        "Synths"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blues",
+      "banned": [
+        "Sad",
+        "Twelve bar",
+        "Mississippi",
+        "Harmonica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Punk",
+      "banned": [
+        "Mohawk",
+        "Safety pins",
+        "Rebel",
+        "Green Day"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metal",
+      "banned": [
+        "Heavy",
+        "Headbanging",
+        "Black",
+        "Loud"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Disco",
+      "banned": [
+        "Glitter",
+        "Dance floor",
+        "Mirror ball",
+        "Seventies"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gospel",
+      "banned": [
+        "Church",
+        "Choir",
+        "Hallelujah",
+        "Soul"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festival",
+      "banned": [
+        "Glastonbury",
+        "Tents",
+        "Line-up",
+        "Wristband"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Encore",
+      "banned": [
+        "Again",
+        "Second bow",
+        "Audience cheer",
+        "Extra songs"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mixtape",
+      "banned": [
+        "Playlist",
+        "Compilation",
+        "Cassette",
+        "Burned CD"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soundcheck",
+      "banned": [
+        "Rehearsal",
+        "Before the show",
+        "Test",
+        "Levels"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Polka",
+      "banned": [
+        "Accordion",
+        "Czech",
+        "Dance",
+        "Bohemian"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tempo",
+      "banned": [
+        "Speed",
+        "BPM",
+        "Pace",
+        "Fast or slow"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Synth",
+      "banned": [
+        "Keyboard",
+        "Electronic",
+        "Sounds",
+        "Eighties"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chord",
+      "banned": [
+        "Notes",
+        "Triad",
+        "Harmony",
+        "Piano"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Verse",
+      "banned": [
+        "Stanza",
+        "Chorus",
+        "Song part",
+        "Poem"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Overture",
+      "banned": [
+        "Opening",
+        "Introduction",
+        "Orchestra",
+        "Prelude"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crescendo",
+      "banned": [
+        "Louder",
+        "Build up",
+        "Swell",
+        "Climax"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Falsetto",
+      "banned": [
+        "High voice",
+        "Bee Gees",
+        "Head voice",
+        "Pitch"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sitar",
+      "banned": [
+        "Ravi Shankar",
+        "India",
+        "Strings",
+        "Long neck"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

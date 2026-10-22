@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-nba-legends",
+  "title": "Leggende NBA",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Allen Iverson",
+      "hint": "Ritmo da strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Charles Barkley",
+      "hint": "Opinioni forti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scottie Pippen",
+      "hint": "Piedi veloci",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hakeem Olajuwon",
+      "hint": "Passi da ballerino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Patrick Ewing",
+      "hint": "Muro al centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karl Malone",
+      "hint": "Lavoro quotidiano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "John Stockton",
+      "hint": "Vita semplice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dwyane Wade",
+      "hint": "Ritmo della notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chris Paul",
+      "hint": "Cervello sveglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kevin Garnett",
+      "hint": "Motore sempre acceso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paul Pierce",
+      "hint": "Chiacchiere in campo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ray Allen",
+      "hint": "Tiro in silenzio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dikembe Mutombo",
+      "hint": "Cuore grande",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tony Parker",
+      "hint": "Penetrazione veloce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manu Ginóbili",
+      "hint": "Colpi a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pau Gasol",
+      "hint": "Tiro in avvicinamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Steve Nash",
+      "hint": "Passaggi di seta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Julius Erving",
+      "hint": "Libertà in aria",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oscar Robertson",
+      "hint": "Statistiche da ricordare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jerry West",
+      "hint": "Capelli in ordine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elgin Baylor",
+      "hint": "Anni sessanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bob Pettit",
+      "hint": "Campione dimenticato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "George Mikan",
+      "hint": "Anni quaranta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bob Cousy",
+      "hint": "Palleggio elegante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tracy McGrady",
+      "hint": "Gioco sbarazzino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vince Carter",
+      "hint": "Salto da capogiro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gary Payton",
+      "hint": "Parlatore in campo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shawn Kemp",
+      "hint": "Decolli spettacolari",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chris Webber",
+      "hint": "Schiena dritta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Grant Hill",
+      "hint": "Eleganza tranquilla",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jason Kidd",
+      "hint": "Vista da regista",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reggie Miller",
+      "hint": "Sfida di nervi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dražen Petrović",
+      "hint": "Tiro dalla distanza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Toni Kukoč",
+      "hint": "Versatile e forte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pete Maravich",
+      "hint": "Trucchi da circo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "David Robinson",
+      "hint": "Stoppate in serie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dream Team",
+      "hint": "Tutti campioni",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Showtime",
+      "hint": "Festa sul parquet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bad Boys",
+      "hint": "Falli e nervi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Three-peat",
+      "hint": "Serie infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Finals MVP",
+      "hint": "Sorriso di giugno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hall of Fame",
+      "hint": "Corridoio dei ricordi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tanking",
+      "hint": "Strategia sul fondo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hack-a-Shaq",
+      "hint": "Tattica scomoda",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Buzzer beater",
+      "hint": "Sirena al volo",
+      "difficulty": "hard"
+    }
+  ]
+}

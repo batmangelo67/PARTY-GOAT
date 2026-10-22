@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-console-pc-franchises",
+  "title": "Console & PC Gaming Franchises",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Mario",
+      "hint": "Saturday mornings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zelda",
+      "hint": "Lazy summer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sonic",
+      "hint": "Nineties kids",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halo",
+      "hint": "LAN parties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minecraft",
+      "hint": "Snow day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fortnite",
+      "hint": "Summer break",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tetris",
+      "hint": "Long commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Call of Duty",
+      "hint": "Late-night lobby",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Final Fantasy",
+      "hint": "Grand adventure",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Super Smash Bros.",
+      "hint": "Party night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grand Theft Auto",
+      "hint": "Bad decisions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kirby",
+      "hint": "Lazy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crash Bandicoot",
+      "hint": "Nostalgia trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spyro",
+      "hint": "Childhood memories",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Sims",
+      "hint": "Moving house",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Battlefield",
+      "hint": "War movie night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gran Turismo",
+      "hint": "Weekend drive",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Assassin's Creed",
+      "hint": "History class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elden Ring",
+      "hint": "Hours lost",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Resident Evil",
+      "hint": "Creepy basement",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metroid",
+      "hint": "Deep space trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Animal Crossing",
+      "hint": "Cozy evenings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "God of War",
+      "hint": "Father and son",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hollow Knight",
+      "hint": "Lonely caves",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stardew Valley",
+      "hint": "Escape the 9-to-5",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Overwatch",
+      "hint": "Ranked grind",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rocket League",
+      "hint": "Crazy rally",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cyberpunk 2077",
+      "hint": "Buggy launch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Portal",
+      "hint": "Brain teaser night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tomb Raider",
+      "hint": "Museum trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dark Souls",
+      "hint": "Rage quit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Destiny",
+      "hint": "Starry night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ratchet & Clank",
+      "hint": "Garage tinkering",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Splatoon",
+      "hint": "Messy Saturday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monster Hunter",
+      "hint": "Weekend grind",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shadow of the Colossus",
+      "hint": "Empty field",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bloodborne",
+      "hint": "Midnight dread",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Metal Gear Solid",
+      "hint": "Hide and seek",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Persona 5",
+      "hint": "School days",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hades",
+      "hint": "Try again",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Death Stranding",
+      "hint": "Long walk",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Horizon Zero Dawn",
+      "hint": "Ancient history",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ghost of Tsushima",
+      "hint": "Golden hour",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dead Space",
+      "hint": "Lights out",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pikmin",
+      "hint": "Sunday garden",
+      "difficulty": "easy"
+    }
+  ]
+}

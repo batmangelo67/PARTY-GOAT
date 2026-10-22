@@ -1,0 +1,294 @@
+{
+  "id": "it-circa-italy",
+  "title": "Italia",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "italy",
+  "items": [
+    {
+      "question": "Quante regioni ha l'Italia?",
+      "answer": 20,
+      "unit": "regioni",
+      "format": "number",
+      "decoyQuestion": "Quante regioni hanno statuto speciale in Italia?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti chilometri è lungo il Po?",
+      "answer": 652,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti chilometri è lungo il Tevere?",
+      "decoyAnswer": 406
+    },
+    {
+      "question": "Quanti metri è alto il Cervino?",
+      "answer": 4478,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alto il Vesuvio?",
+      "decoyAnswer": 1281
+    },
+    {
+      "question": "In che anno fu fondata la Fiat?",
+      "answer": 1899,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Olivetti?",
+      "decoyAnswer": 1908
+    },
+    {
+      "question": "In che anno fu fondata la Lamborghini?",
+      "answer": 1963,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Maserati?",
+      "decoyAnswer": 1914
+    },
+    {
+      "question": "In che anno fu fondata la Barilla?",
+      "answer": 1877,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Ferrero?",
+      "decoyAnswer": 1946
+    },
+    {
+      "question": "In che anno fu fondata la Piaggio?",
+      "answer": 1884,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Benetton?",
+      "decoyAnswer": 1965
+    },
+    {
+      "question": "In che anno fu inaugurato il Teatro alla Scala di Milano?",
+      "answer": 1778,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurato il Teatro Regio di Torino?",
+      "decoyAnswer": 1740
+    },
+    {
+      "question": "In che anno fu inaugurata la Galleria Vittorio Emanuele II a Milano?",
+      "answer": 1867,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurato il Ponte di Rialto?",
+      "decoyAnswer": 1591
+    },
+    {
+      "question": "In che anno fu inaugurata la prima ferrovia italiana, la Napoli-Portici?",
+      "answer": 1839,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurata la Galleria del Gottardo?",
+      "decoyAnswer": 1882
+    },
+    {
+      "question": "In che anno fu inaugurata l'Autostrada del Sole?",
+      "answer": 1964,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurato il Traforo del Monte Bianco?",
+      "decoyAnswer": 1965
+    },
+    {
+      "question": "In che anno morì Giuseppe Verdi?",
+      "answer": 1901,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno nacque Giuseppe Verdi?",
+      "decoyAnswer": 1813
+    },
+    {
+      "question": "In che anno nacque Leonardo da Vinci?",
+      "answer": 1452,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno nacque Raffaello Sanzio?",
+      "decoyAnswer": 1483
+    },
+    {
+      "question": "In che anno Galileo Galilei pubblicò il Sidereus Nuncius?",
+      "answer": 1610,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno Galileo Galilei fu processato dall'Inquisizione?",
+      "decoyAnswer": 1633
+    },
+    {
+      "question": "In che anno Guglielmo Marconi brevettò la radio?",
+      "answer": 1896,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno Guglielmo Marconi ricevette il premio Nobel per la fisica?",
+      "decoyAnswer": 1909
+    },
+    {
+      "question": "Quanti deputati compongono la Camera dei deputati italiana?",
+      "answer": 400,
+      "unit": "deputati",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti senatori elettivi ha il Senato italiano?",
+      "decoyAnswer": 200
+    },
+    {
+      "question": "Quanti anni dura il mandato del Presidente della Repubblica italiana?",
+      "answer": 7,
+      "unit": "anni",
+      "format": "number",
+      "decoyQuestion": "Quanti anni dura il mandato di un deputato italiano?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quante città metropolitane ha l'Italia?",
+      "answer": 14,
+      "unit": "città",
+      "format": "number",
+      "decoyQuestion": "Quante regioni a statuto ordinario ha l'Italia?",
+      "decoyAnswer": 15
+    },
+    {
+      "question": "Quante lingue ufficiali ha la Svizzera?",
+      "answer": 4,
+      "unit": "lingue",
+      "format": "number",
+      "decoyQuestion": "Quante lingue ufficiali ha il Belgio?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "In che anno fu fondata l'Università di Bologna?",
+      "answer": 1088,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata l'Università di Padova?",
+      "decoyAnswer": 1222
+    },
+    {
+      "question": "In che anno fu fondata la Sapienza di Roma?",
+      "answer": 1303,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata l'Università Federico II di Napoli?",
+      "decoyAnswer": 1224
+    },
+    {
+      "question": "In che anno fu fondata la Scuola Normale di Pisa?",
+      "answer": 1810,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il Politecnico di Milano?",
+      "decoyAnswer": 1863
+    },
+    {
+      "question": "In che anno morì Michelangelo?",
+      "answer": 1564,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno morì Raffaello?",
+      "decoyAnswer": 1520
+    },
+    {
+      "question": "In che anno nacque Sophia Loren?",
+      "answer": 1934,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno nacque Federico Fellini?",
+      "decoyAnswer": 1920
+    },
+    {
+      "question": "In che anno nacque Dario Fo?",
+      "answer": 1926,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno nacque Luigi Pirandello?",
+      "decoyAnswer": 1867
+    },
+    {
+      "question": "In che anno morì Federico Fellini?",
+      "answer": 1993,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno morì Luigi Pirandello?",
+      "decoyAnswer": 1936
+    },
+    {
+      "question": "In che anno Roberto Benigni vinse l'Oscar come miglior attore?",
+      "answer": 1999,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno Sophia Loren vinse l'Oscar come migliore attrice?",
+      "decoyAnswer": 1962
+    },
+    {
+      "question": "In che anno fu inaugurato il Teatro Massimo di Palermo?",
+      "answer": 1897,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurato il Teatro La Fenice di Venezia?",
+      "decoyAnswer": 1792
+    },
+    {
+      "question": "In che anno iniziò la costruzione del Duomo di Milano?",
+      "answer": 1386,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu consacrata la Basilica di San Pietro?",
+      "decoyAnswer": 1626
+    },
+    {
+      "question": "In che anno fu inaugurato il Vittoriano, l'Altare della Patria?",
+      "answer": 1911,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu inaugurata la Mole Antonelliana?",
+      "decoyAnswer": 1889
+    },
+    {
+      "question": "Quanti chilometri è lungo l'Adige?",
+      "answer": 410,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti chilometri è lungo l'Arno?",
+      "decoyAnswer": 241
+    },
+    {
+      "question": "Quanti metri è alto il Corno Grande del Gran Sasso?",
+      "answer": 2912,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alto il Monte Amiata?",
+      "decoyAnswer": 1738
+    },
+    {
+      "question": "Quanti metri è profondo il Lago di Como?",
+      "answer": 410,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è profondo il Lago Maggiore?",
+      "decoyAnswer": 370
+    },
+    {
+      "question": "Quanti metri è profondo il Lago di Garda?",
+      "answer": 346,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è profondo il Lago d'Iseo?",
+      "decoyAnswer": 251
+    },
+    {
+      "question": "In che anno nacque Alessandro Manzoni?",
+      "answer": 1785,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno nacque Giacomo Leopardi?",
+      "decoyAnswer": 1798
+    }
+  ]
+}

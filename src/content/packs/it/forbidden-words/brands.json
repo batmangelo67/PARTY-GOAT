@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-brands",
+  "title": "Marchi",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Ferrari",
+      "banned": [
+        "Cavallino",
+        "Maranello",
+        "Formula 1",
+        "Rosso"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiat",
+      "banned": [
+        "Torino",
+        "Cinquecento",
+        "Panda",
+        "Lingotto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavazza",
+      "banned": [
+        "Caffè",
+        "Torino",
+        "Pacchetto rosso",
+        "Tazzina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barilla",
+      "banned": [
+        "Pasta",
+        "Parma",
+        "Spaghetti",
+        "Scatola blu"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peroni",
+      "banned": [
+        "Birra",
+        "Lattina",
+        "Roma",
+        "Rossa"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Martini",
+      "banned": [
+        "Vermouth",
+        "Bianco",
+        "Oliva",
+        "Cocktail"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferrero",
+      "banned": [
+        "Nutella",
+        "Alba",
+        "Cioccolato",
+        "Rocher"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gucci",
+      "banned": [
+        "Doppia G",
+        "Firenze",
+        "Moda",
+        "Lusso"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prada",
+      "banned": [
+        "Milano",
+        "Moda",
+        "Borsa nera",
+        "Lusso"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Armani",
+      "banned": [
+        "Aquila",
+        "Milano",
+        "Moda",
+        "Sartoria"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vespa",
+      "banned": [
+        "Scooter",
+        "Ruota",
+        "Pontedera",
+        "Lambretta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moleskine",
+      "banned": [
+        "Taccuino",
+        "Elastico",
+        "Nero",
+        "Carta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smeg",
+      "banned": [
+        "Frigorifero",
+        "Pastello",
+        "Elettrodomestico",
+        "Retrò"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olivetti",
+      "banned": [
+        "Macchina da scrivere",
+        "Ivrea",
+        "Tasti",
+        "Ufficio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pirelli",
+      "banned": [
+        "Pneumatici",
+        "Calendario",
+        "Milano",
+        "Gomma"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Perugina",
+      "banned": [
+        "Baci",
+        "Perugia",
+        "Cioccolatini",
+        "Frasi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mulino Bianco",
+      "banned": [
+        "Biscotti",
+        "Merenda",
+        "Pan di stelle",
+        "Gallo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Algida",
+      "banned": [
+        "Gelato",
+        "Cono",
+        "Carte",
+        "Cornetto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campari",
+      "banned": [
+        "Bitter",
+        "Spritz",
+        "Amaro",
+        "Milano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bialetti",
+      "banned": [
+        "Moka",
+        "Caffettiera",
+        "Ottagonale",
+        "Omino coi baffi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alessi",
+      "banned": [
+        "Design",
+        "Caraffe",
+        "Milano",
+        "Stile"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lamborghini",
+      "banned": [
+        "Toro",
+        "Sant'Agata",
+        "Supercar",
+        "Taurus"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ducati",
+      "banned": [
+        "Bologna",
+        "Moto",
+        "Rossa",
+        "Desmodromica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maserati",
+      "banned": [
+        "Tridente",
+        "Modena",
+        "Auto",
+        "Lusso"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alfa Romeo",
+      "banned": [
+        "Biscione",
+        "Milano",
+        "Quadrifoglio",
+        "Auto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brembo",
+      "banned": [
+        "Freni",
+        "Pinze",
+        "Bergamo",
+        "Rosse"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Versace",
+      "banned": [
+        "Medusa",
+        "Donatella",
+        "Miami",
+        "Oro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dolce & Gabbana",
+      "banned": [
+        "Sicilia",
+        "Stefano",
+        "Moda",
+        "Pizzo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Benetton",
+      "banned": [
+        "Treviso",
+        "Maglioni",
+        "Colorati",
+        "Maglia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diadora",
+      "banned": [
+        "Scarpe",
+        "Sport",
+        "Ginnastica",
+        "Sneakers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kinder",
+      "banned": [
+        "Ovetto",
+        "Sorpresa",
+        "Cioccolato",
+        "Bambini"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Motta",
+      "banned": [
+        "Panettone",
+        "Natale",
+        "Milano",
+        "Pandoro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nutella",
+      "banned": [
+        "Crema",
+        "Ferrero",
+        "Spalmabile",
+        "Merenda"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fernet",
+      "banned": [
+        "Amaro",
+        "Menta",
+        "Bottiglia",
+        "Bar"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buitoni",
+      "banned": [
+        "Pasta fresca",
+        "Ravioli",
+        "Sugo",
+        "Sorrento"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trussardi",
+      "banned": [
+        "Levriero",
+        "Milano",
+        "Pelle",
+        "Guanti"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ichnusa",
+      "banned": [
+        "Sardegna",
+        "Nuraghe",
+        "Birra",
+        "Logo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carpano",
+      "banned": [
+        "Vermouth",
+        "Torino",
+        "Antica formula",
+        "Chinato"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Piaggio",
+      "banned": [
+        "Ape",
+        "Pontedera",
+        "Motori",
+        "Sella"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fila",
+      "banned": [
+        "Sportswear",
+        "Tennis",
+        "Vintage",
+        "Felpa"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Campagnolo",
+      "banned": [
+        "Bici",
+        "Gruppo",
+        "Vicenza",
+        "Ciclismo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bottega Veneta",
+      "banned": [
+        "Intreccio",
+        "Vicenza",
+        "Pelle",
+        "Venezia"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Richard Ginori",
+      "banned": [
+        "Porcellana",
+        "Firenze",
+        "Doccia",
+        "Ceramica"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sambuca Molinari",
+      "banned": [
+        "Anice",
+        "Mosche",
+        "Liquore",
+        "Chicchi di caffè"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cirio",
+      "banned": [
+        "Pomodori",
+        "Conserva",
+        "Scatola",
+        "Pelati"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

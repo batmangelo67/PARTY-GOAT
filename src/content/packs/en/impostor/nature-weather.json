@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-nature-weather",
+  "title": "Nature, Weather & Landscapes",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Rainbow",
+      "hint": "After the storm",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thunder",
+      "hint": "Dog hiding",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snow",
+      "hint": "Christmas card",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lightning",
+      "hint": "Camera flash",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tornado",
+      "hint": "Storm chaser",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Volcano",
+      "hint": "Flight delays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rain",
+      "hint": "Grey Monday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waterfall",
+      "hint": "Hiking reward",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Desert",
+      "hint": "Thirsty trek",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Glacier",
+      "hint": "Climate worries",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mountain",
+      "hint": "Summit selfie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ocean",
+      "hint": "Bottled message",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Forest",
+      "hint": "Hide and seek",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Beach",
+      "hint": "Picnic hamper",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Island",
+      "hint": "Holiday hideaway",
+      "difficulty": "easy"
+    },
+    {
+      "word": "River",
+      "hint": "Pub garden",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cave",
+      "hint": "Torch beams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sandstorm",
+      "hint": "Lost goggles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fog",
+      "hint": "Spooky walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rainforest",
+      "hint": "Monkey business",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cyclone",
+      "hint": "Weather forecast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Earthquake",
+      "hint": "Cracked mugs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Avalanche",
+      "hint": "Snowball fight",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Drought",
+      "hint": "Empty bottles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blizzard",
+      "hint": "Cosy cabin",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hailstone",
+      "hint": "Car dents",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tsunami",
+      "hint": "Coastal warning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canyon",
+      "hint": "Echo chamber",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marsh",
+      "hint": "Wellies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Meadow",
+      "hint": "Daisy chains",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jungle",
+      "hint": "Wild expedition",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Savannah",
+      "hint": "Watering hole",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Swamp",
+      "hint": "Stinky boots",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dune",
+      "hint": "Sand between toes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geyser",
+      "hint": "Shower head mishap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Iceberg",
+      "hint": "Hidden danger",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stalactite",
+      "hint": "Slow growth",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monsoon",
+      "hint": "Flip-flops ruined",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Estuary",
+      "hint": "Salty mix",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tundra",
+      "hint": "Northern silence",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Plateau",
+      "hint": "Hiking break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Archipelago",
+      "hint": "Ferry tickets",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wadi",
+      "hint": "Flash flood",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fjord",
+      "hint": "Postcard views",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Delta",
+      "hint": "Greek letter",
+      "difficulty": "hard"
+    }
+  ]
+}

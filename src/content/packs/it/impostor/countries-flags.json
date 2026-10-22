@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-countries-flags",
+  "title": "Paesi e bandiere",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Egitto",
+      "hint": "Bazar affollato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canada",
+      "hint": "Inverno lungo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Australia",
+      "hint": "Festa in spiaggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Norvegia",
+      "hint": "Estate senza buio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Svezia",
+      "hint": "Pomeriggio di pioggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Islanda",
+      "hint": "Vacanza fuori stagione",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Grecia",
+      "hint": "Taverna con amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Turchia",
+      "hint": "Colazione infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cina",
+      "hint": "Ristorante da asporto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "India",
+      "hint": "Treno lungo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giamaica",
+      "hint": "Vacanza rilassata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cile",
+      "hint": "Mappa stretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Perù",
+      "hint": "Viaggio in altitudine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Russia",
+      "hint": "Notti lunghissime",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ucraina",
+      "hint": "Campi infiniti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Belgio",
+      "hint": "Venerdì al chiosco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Svizzera",
+      "hint": "Puntualità maniacale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Austria",
+      "hint": "Pomeriggio al caffè",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ungheria",
+      "hint": "Bagno termale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kenya",
+      "hint": "Corsa lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sudafrica",
+      "hint": "Vacanza avventurosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thailandia",
+      "hint": "Massaggio rilassante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vietnam",
+      "hint": "Moto nel traffico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nuova Zelanda",
+      "hint": "Pecore sulle colline",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuba",
+      "hint": "Auto d'epoca colorate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Irlanda",
+      "hint": "Pub con musica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scozia",
+      "hint": "Nebbia sul lago",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Danimarca",
+      "hint": "Biciclette ovunque",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Finlandia",
+      "hint": "Sole a mezzanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Polonia",
+      "hint": "Nonna in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Israele",
+      "hint": "Mare e deserto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nepal",
+      "hint": "Zaino in salita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghana",
+      "hint": "Tifo allo stadio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tunisia",
+      "hint": "Estate senza fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Etiopia",
+      "hint": "Calendario diverso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colombia",
+      "hint": "Ballo notturno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Romania",
+      "hint": "Brividi nella notte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Filippine",
+      "hint": "Tifone in arrivo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Indonesia",
+      "hint": "Surf al mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mongolia",
+      "hint": "Vento in pianura",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bolivia",
+      "hint": "Riflesso perfetto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Venezuela",
+      "hint": "Festa in strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Malta",
+      "hint": "Isolotto di pietra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Estonia",
+      "hint": "Vita tranquilla",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bulgaria",
+      "hint": "Vacanza economica",
+      "difficulty": "easy"
+    }
+  ]
+}

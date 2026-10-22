@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-brands-logos",
+  "title": "Marchi e loghi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "Lego",
+      "hint": "Piedi scalzi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nutella",
+      "hint": "Colazione in fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barilla",
+      "hint": "Pranzo feriale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vespa",
+      "hint": "Gita in città",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pepsi",
+      "hint": "Estate afosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kinder",
+      "hint": "Merenda di scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiat",
+      "hint": "Viaggio al mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavazza",
+      "hint": "Pausa in ufficio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ikea",
+      "hint": "Weekend di fatica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lamborghini",
+      "hint": "Sogno da ragazzino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rolex",
+      "hint": "Regalo di nozze",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alfa Romeo",
+      "hint": "Domenica in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peroni",
+      "hint": "Sera tra colleghi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Martini",
+      "hint": "Festa di Capodanno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferrero",
+      "hint": "Pomeriggio di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dolce & Gabbana",
+      "hint": "Gala del sabato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bialetti",
+      "hint": "Lunedì di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smeg",
+      "hint": "Cucina di mamma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Olivetti",
+      "hint": "Scrivania di nonno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Campari",
+      "hint": "Estate in piazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moleskine",
+      "hint": "Pagina bianca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lancia",
+      "hint": "Salita impegnativa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Peugeot",
+      "hint": "Viaggio romantico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Saeco",
+      "hint": "Pausa lunga",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mondadori",
+      "hint": "Lettura del sabato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bianchi",
+      "hint": "Passione da ragazzi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Esselunga",
+      "hint": "Carrello pieno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vodafone",
+      "hint": "Senza segnale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caffè Vergnano",
+      "hint": "Mattina di nebbia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Apple",
+      "hint": "Fila di sabato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milka",
+      "hint": "Pausa dolce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Red Bull",
+      "hint": "Notte di esami",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sony",
+      "hint": "Regalo di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chupa Chups",
+      "hint": "Gita di classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samsung",
+      "hint": "Discussione a cena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maserati",
+      "hint": "Sogno da ricchi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Haribo",
+      "hint": "Sacchetto in borsa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lindt",
+      "hint": "Regalo di Pasqua",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mulino Bianco",
+      "hint": "Merenda con latte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buitoni",
+      "hint": "Cena da riscaldare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canon",
+      "hint": "Foto di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lenovo",
+      "hint": "Ufficio di lavoro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piaggio",
+      "hint": "Mattina in piazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algida",
+      "hint": "Pomeriggio al parco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirelli",
+      "hint": "Lunga autostrada",
+      "difficulty": "hard"
+    }
+  ]
+}

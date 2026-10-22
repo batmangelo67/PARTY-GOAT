@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-musicians-bands",
+  "title": "Musicians & Bands",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "The Beatles",
+      "hint": "Sixties screaming fans",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Rolling Stones",
+      "hint": "Ageing rock tour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nirvana",
+      "hint": "Grumpy and loud",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pink Floyd",
+      "hint": "Late-night light show",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Led Zeppelin",
+      "hint": "Hard rock fury",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ABBA",
+      "hint": "Eurovision evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coldplay",
+      "hint": "Wristband sing-along",
+      "difficulty": "easy"
+    },
+    {
+      "word": "U2",
+      "hint": "Rooftop rock show",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oasis",
+      "hint": "Brotherly feud",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Metallica",
+      "hint": "Mosh pit chaos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Radiohead",
+      "hint": "Sad lo-fi mood",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AC/DC",
+      "hint": "Electric Saturday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Backstreet Boys",
+      "hint": "Sleepover singalong",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spice Girls",
+      "hint": "Nineties playground",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Green Day",
+      "hint": "Skateboard-park afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Red Hot Chili Peppers",
+      "hint": "Loose and funky",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foo Fighters",
+      "hint": "Rock comeback",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Daft Punk",
+      "hint": "Mysterious studio duo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Guns N' Roses",
+      "hint": "Bad boy reputation",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arctic Monkeys",
+      "hint": "Late-night indie gig",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Imagine Dragons",
+      "hint": "Arena fireworks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Linkin Park",
+      "hint": "Nu-metal nostalgia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maroon 5",
+      "hint": "Car radio pop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blink-182",
+      "hint": "Teen road trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Clash",
+      "hint": "Rebel anthems",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kiss",
+      "hint": "Stage-fire fury",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Black Sabbath",
+      "hint": "Midnight cemetery visit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eagles",
+      "hint": "Mellow road trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fleetwood Mac",
+      "hint": "Band drama soap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Who",
+      "hint": "Loud and explosive",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bon Jovi",
+      "hint": "Eighties power ballads",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Doors",
+      "hint": "Sixties poetry nights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Journey",
+      "hint": "Karaoke finale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bee Gees",
+      "hint": "Sibling harmony",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pearl Jam",
+      "hint": "Serious and earnest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dire Straits",
+      "hint": "Late-night radio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vampire Weekend",
+      "hint": "Graduation day playlist",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Talking Heads",
+      "hint": "Nervous energy",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Cure",
+      "hint": "Gothic romance mixtape",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Joy Division",
+      "hint": "Cold winter gloom",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pixies",
+      "hint": "Strange indie mixtape",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Strokes",
+      "hint": "Scruffy cool kids",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sex Pistols",
+      "hint": "Seventies scandal",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tame Impala",
+      "hint": "Hazy dreamy afternoon",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ramones",
+      "hint": "Pogo-dancing crowd",
+      "difficulty": "hard"
+    }
+  ]
+}

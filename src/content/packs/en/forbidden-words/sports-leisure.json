@@ -1,0 +1,473 @@
+{
+  "id": "en-forbidden-words-sports-leisure",
+  "title": "Sports & Leisure",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Tennis",
+      "banned": [
+        "Racket",
+        "Court",
+        "Wimbledon",
+        "Serve"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Golf",
+      "banned": [
+        "Caddie",
+        "Putt",
+        "Fairway",
+        "Clubs"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Swimming",
+      "banned": [
+        "Pool",
+        "Lengths",
+        "Goggles",
+        "Freestyle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surfing",
+      "banned": [
+        "Waves",
+        "Board",
+        "Wetsuit",
+        "Beach"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yoga",
+      "banned": [
+        "Mat",
+        "Stretch",
+        "Namaste",
+        "Pose"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cycling",
+      "banned": [
+        "Pedal",
+        "Helmet",
+        "Tour de France",
+        "Bike"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hiking",
+      "banned": [
+        "Trail",
+        "Boots",
+        "Summit",
+        "Backpack"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fishing",
+      "banned": [
+        "Rod",
+        "Bait",
+        "Lake",
+        "Hook"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bowling",
+      "banned": [
+        "Pins",
+        "Lanes",
+        "Alley",
+        "Strike"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Skiing",
+      "banned": [
+        "Slopes",
+        "Snow",
+        "Poles",
+        "Chairlift"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snowboarding",
+      "banned": [
+        "Halfpipe",
+        "Piste",
+        "Goofy",
+        "Bindings"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Boxing",
+      "banned": [
+        "Gloves",
+        "Ring",
+        "Punch",
+        "Ropes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rowing",
+      "banned": [
+        "Oars",
+        "Boat",
+        "Crew",
+        "Blades"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gymnastics",
+      "banned": [
+        "Balance Beam",
+        "Vault",
+        "Flips",
+        "Leotard"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Darts",
+      "banned": [
+        "Oche",
+        "Flights",
+        "Pub",
+        "Treble"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Archery",
+      "banned": [
+        "Bow",
+        "Quiver",
+        "Bullseye",
+        "Arrows"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Skateboarding",
+      "banned": [
+        "Ramp",
+        "Kickflip",
+        "Deck",
+        "Wheels"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Table Tennis",
+      "banned": [
+        "Ping Pong",
+        "Paddle",
+        "Net",
+        "Spin"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Badminton",
+      "banned": [
+        "Shuttlecock",
+        "Birdie",
+        "Smash",
+        "Feathers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volleyball",
+      "banned": [
+        "Spike",
+        "Sand",
+        "Setter",
+        "Dig"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Climbing",
+      "banned": [
+        "Harness",
+        "Rope",
+        "Chalk",
+        "Crag"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Camping",
+      "banned": [
+        "Tent",
+        "Campfire",
+        "Marshmallows",
+        "Sleeping Bag"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gardening",
+      "banned": [
+        "Spade",
+        "Compost",
+        "Weeds",
+        "Seeds"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Knitting",
+      "banned": [
+        "Wool",
+        "Needles",
+        "Scarf",
+        "Yarn"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Photography",
+      "banned": [
+        "Shutter",
+        "Lens",
+        "Flash",
+        "Tripod"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baking",
+      "banned": [
+        "Oven",
+        "Flour",
+        "Recipe",
+        "Whisk"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Painting",
+      "banned": [
+        "Canvas",
+        "Easel",
+        "Palette",
+        "Brush"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karate",
+      "banned": [
+        "Belt",
+        "Dojo",
+        "Kata",
+        "Sensei"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fencing",
+      "banned": [
+        "Sabre",
+        "Foil",
+        "Lunge",
+        "Duel"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marathon",
+      "banned": [
+        "Miles",
+        "Finish Line",
+        "Endurance",
+        "Pacing"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sprinting",
+      "banned": [
+        "Starting Blocks",
+        "Hundred Metres",
+        "Speed",
+        "Track"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Triathlon",
+      "banned": [
+        "Three Sports",
+        "Ironman",
+        "Transition",
+        "Swim Bike Run"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Horse Riding",
+      "banned": [
+        "Saddle",
+        "Stable",
+        "Reins",
+        "Pony"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sailing",
+      "banned": [
+        "Yacht",
+        "Mast",
+        "Tiller",
+        "Regatta"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roller Skating",
+      "banned": [
+        "Rink",
+        "Disco",
+        "Quad",
+        "Retro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dancing",
+      "banned": [
+        "Ballroom",
+        "Steps",
+        "Choreography",
+        "Rhythm"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bodybuilding",
+      "banned": [
+        "Muscles",
+        "Weights",
+        "Protein",
+        "Gym"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parkour",
+      "banned": [
+        "Free Running",
+        "Obstacles",
+        "Urban",
+        "Leaping"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wrestling",
+      "banned": [
+        "Pinning",
+        "Grappling",
+        "Singlet",
+        "Mat"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Curling",
+      "banned": [
+        "Broom",
+        "Sweeping",
+        "Stone",
+        "Ice"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cricket",
+      "banned": [
+        "Wicket",
+        "Stumps",
+        "Over",
+        "Bat"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rugby",
+      "banned": [
+        "Scrum",
+        "Try",
+        "Oval Ball",
+        "Tackle"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hockey",
+      "banned": [
+        "Puck",
+        "Rink",
+        "Goalie",
+        "Stick"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pilates",
+      "banned": [
+        "Core",
+        "Reformer",
+        "Stability",
+        "Sculpt"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hot Air Ballooning",
+      "banned": [
+        "Basket",
+        "Burner",
+        "Sky",
+        "Flight"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bird Watching",
+      "banned": [
+        "Binoculars",
+        "Hide",
+        "Twitcher",
+        "Notebook"
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}

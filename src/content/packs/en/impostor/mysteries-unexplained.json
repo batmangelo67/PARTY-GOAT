@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-mysteries-unexplained",
+  "title": "Bizarre & Unexplained Mysteries",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Bermuda Triangle",
+      "hint": "Lost luggage",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Loch Ness Monster",
+      "hint": "Tourist photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bigfoot",
+      "hint": "Lonely campsite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crop Circles",
+      "hint": "Early harvest",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yeti",
+      "hint": "Frostbite toes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chupacabra",
+      "hint": "Empty barn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pyramids",
+      "hint": "Tourist sunburn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poltergeist",
+      "hint": "Cold draught",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fairy Rings",
+      "hint": "Forest picnic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "UFO",
+      "hint": "Night drive",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghost Ship",
+      "hint": "Foggy coast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stonehenge",
+      "hint": "Frosty dawn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mermaid",
+      "hint": "Seaside holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vampire",
+      "hint": "Midnight cravings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghost",
+      "hint": "Creaky stairs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zombie",
+      "hint": "Morning commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Witch",
+      "hint": "Midnight brew",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leprechaun",
+      "hint": "Trickster tales",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ouija Board",
+      "hint": "Candlelit sleepover",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mothman",
+      "hint": "Bridge collapse",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kraken",
+      "hint": "Deep-sea rumble",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sea Serpent",
+      "hint": "Rough crossing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ball Lightning",
+      "hint": "Summer storms",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fata Morgana",
+      "hint": "Lost hiker",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Easter Island Statues",
+      "hint": "Ferry ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nazca Lines",
+      "hint": "Aerial view",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sleep Paralysis",
+      "hint": "Stuck in bed",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Werewolf",
+      "hint": "Howling neighbours",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mummy",
+      "hint": "Museum visit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Atlantis",
+      "hint": "Ancient legend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roswell",
+      "hint": "Top secret files",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antikythera Mechanism",
+      "hint": "Diving treasure",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Voynich Manuscript",
+      "hint": "Old library",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bell Witch",
+      "hint": "Creepy whispers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vanishing Hitchhiker",
+      "hint": "Late drive home",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lucid Dream",
+      "hint": "Night adventures",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oak Island Money Pit",
+      "hint": "Digging weekends",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mary Celeste",
+      "hint": "Abandoned breakfast",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dyatlov Pass",
+      "hint": "Winter camping",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tunguska Event",
+      "hint": "Distant thunder",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hessdalen Lights",
+      "hint": "Glowing hills",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Doppelganger",
+      "hint": "Familiar stranger",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Taos Hum",
+      "hint": "Annoying neighbours",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Marfa Lights",
+      "hint": "Road trip stop",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Piri Reis Map",
+      "hint": "Pirate charts",
+      "difficulty": "hard"
+    }
+  ]
+}

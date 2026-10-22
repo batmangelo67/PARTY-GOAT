@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-space-astronomy",
+  "title": "Spazio e astronomia",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Luna",
+      "hint": "Notte di innamorati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sole",
+      "hint": "Caldo a mezzogiorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marte",
+      "hint": "Racconto di fantascienza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Saturno",
+      "hint": "Hula hoop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stella",
+      "hint": "Ricordi d'infanzia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cometa",
+      "hint": "Visita rara",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Razzo",
+      "hint": "Festa di capodanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astronauta",
+      "hint": "Lavoro dei sogni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telescopio",
+      "hint": "Passione d'inverno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galassia",
+      "hint": "Cielo senza confini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Terra",
+      "hint": "Viaggio di ritorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giove",
+      "hint": "Capo di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venere",
+      "hint": "San Valentino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Via Lattea",
+      "hint": "Notte d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Meteorite",
+      "hint": "Desideri d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orbita",
+      "hint": "Giostra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eclissi",
+      "hint": "Presagio nefasto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Universo",
+      "hint": "Dove viviamo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Satellite",
+      "hint": "Antenna sul tetto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nebulosa",
+      "hint": "Sfumatura nel cielo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Asteroide",
+      "hint": "Allarme dal cielo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Costellazioni",
+      "hint": "Gioco da bambini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Supernova",
+      "hint": "Gran finale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Big Bang",
+      "hint": "Oltre il tempo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plutone",
+      "hint": "Confine ghiacciato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Urano",
+      "hint": "Sospiro ghiacciato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nettuno",
+      "hint": "Acque profonde",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mercurio",
+      "hint": "Termometro rotto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Astrolabio",
+      "hint": "Marinai nel passato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Apollo 11",
+      "hint": "Documentario storico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sonda spaziale",
+      "hint": "Messaggio in bottiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orsa Maggiore",
+      "hint": "Cartina del nord",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hubble",
+      "hint": "Fama stellare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zodiaco",
+      "hint": "Destino scritto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orione",
+      "hint": "Notti d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Radiazione",
+      "hint": "Pericolo nascosto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quasar",
+      "hint": "Sguardo del passato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pulsar",
+      "hint": "Ritmo d'universo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nana bianca",
+      "hint": "Dopo la festa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gigante rossa",
+      "hint": "Pancia piena",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nube di Oort",
+      "hint": "Riserva segreta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fascia di Kuiper",
+      "hint": "Viaggio in periferia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cefeide",
+      "hint": "Righello cosmico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eliosfera",
+      "hint": "Scudo invisibile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cerere",
+      "hint": "Piccolo mondo",
+      "difficulty": "hard"
+    }
+  ]
+}

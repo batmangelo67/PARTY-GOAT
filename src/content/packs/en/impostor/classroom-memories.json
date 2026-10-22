@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-classroom-memories",
+  "title": "Classroom & Schoolyard Memories",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Recess",
+      "hint": "Sandwich swaps",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Detention",
+      "hint": "Late slips",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lunchbox",
+      "hint": "Soggy crisps",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chalkboard",
+      "hint": "Old scribbles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hopscotch",
+      "hint": "Summer afternoons",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Show and tell",
+      "hint": "Treasured trinkets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fire drill",
+      "hint": "Surprise alarms",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spelling bee",
+      "hint": "Cheering crowds",
+      "difficulty": "easy"
+    },
+    {
+      "word": "School bus",
+      "hint": "Sleepy heads",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yearbook",
+      "hint": "Cringe photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hall pass",
+      "hint": "Sneaky escapes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sticker chart",
+      "hint": "Stacked prizes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pencil case",
+      "hint": "Broken zips",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Abacus",
+      "hint": "Dusty corners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hide and seek",
+      "hint": "Sneaky corners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Four square",
+      "hint": "Playground kings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Playground",
+      "hint": "Grazed knees",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tuck shop",
+      "hint": "Sweet tooth",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Conkers",
+      "hint": "Autumn breaks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jump rope",
+      "hint": "Lively ponytails",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ink stains",
+      "hint": "Blue fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Locker",
+      "hint": "Forgotten snacks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Field trip",
+      "hint": "Bus sickness",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Science fair",
+      "hint": "Parents' projects",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bake sale",
+      "hint": "Cake crumbs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lost property",
+      "hint": "Missing jumpers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Assembly",
+      "hint": "Stiff chairs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hall monitor",
+      "hint": "Strict badges",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Permission slip",
+      "hint": "Last-minute panic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Class clown",
+      "hint": "Loud giggles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Class captain",
+      "hint": "Proud smiles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Substitute teacher",
+      "hint": "Rowdy mornings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Class photo",
+      "hint": "Smiles on cue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Friendship bracelets",
+      "hint": "Secret handshakes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lunch money",
+      "hint": "Shrinking pockets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Timetable",
+      "hint": "Morning confusion",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scantron",
+      "hint": "Nervous shading",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Protractor",
+      "hint": "Dull lessons",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cloakroom",
+      "hint": "Crowded hooks",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Homeroom",
+      "hint": "Stifled yawns",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monkey bars",
+      "hint": "Brave tries",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carpool",
+      "hint": "Traffic jams",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Glue stick",
+      "hint": "Messy tables",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nap time",
+      "hint": "Blankets folded",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ruler",
+      "hint": "Crooked lines",
+      "difficulty": "easy"
+    }
+  ]
+}

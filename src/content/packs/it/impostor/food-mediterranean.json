@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-food-mediterranean",
+  "title": "Mediterraneo e Medio Oriente",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Spanakopita",
+      "hint": "Pausa dal lavoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Falafel",
+      "hint": "Pranzo da strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tzatziki",
+      "hint": "Aperitivo estivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paella",
+      "hint": "Pranzo di gruppo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moussaka",
+      "hint": "Teglia da forno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Couscous",
+      "hint": "Cena di venerdì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tagine",
+      "hint": "Cucina lenta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gazpacho",
+      "hint": "Caldo di agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Souvlaki",
+      "hint": "Notte in taverna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Patatas bravas",
+      "hint": "Serata tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pan con tomate",
+      "hint": "Colazione in vacanza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Insalata greca",
+      "hint": "Pranzo d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Feta",
+      "hint": "Cena all'aperto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shawarma",
+      "hint": "Fame notturna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harissa",
+      "hint": "Sfida piccante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tabbouleh",
+      "hint": "Pranzo in giardino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baklava",
+      "hint": "Miele e noci",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baba ganoush",
+      "hint": "Spuntino in terrazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shakshuka",
+      "hint": "Colazione tardiva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dolma",
+      "hint": "Tavolo di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Halloumi",
+      "hint": "Grigliata d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mezze",
+      "hint": "Chiacchiere al tavolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bouillabaisse",
+      "hint": "Porto al tramonto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lahmacun",
+      "hint": "Cena di mezzanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pastilla",
+      "hint": "Dolce e salato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fattoush",
+      "hint": "Dispensa vuota",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Labneh",
+      "hint": "Antipasto leggero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Za'atar",
+      "hint": "Spezie di mamma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kibbeh",
+      "hint": "Cena tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ful medames",
+      "hint": "Colazione di strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Manakish",
+      "hint": "Merenda in strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gözleme",
+      "hint": "Mercato della domenica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pide",
+      "hint": "Forno di quartiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gambas al ajillo",
+      "hint": "Cena a due",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Muhammara",
+      "hint": "Pranzo di ottobre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tapenade",
+      "hint": "Aperitivo di lusso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pan bagnat",
+      "hint": "Pranzo al mare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chorba",
+      "hint": "Zuppa d'inverno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Insalata nizzarda",
+      "hint": "Pranzo in riva",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dakos",
+      "hint": "Vacanze al sole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fasolada",
+      "hint": "Pranzo di gennaio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sheesh taouk",
+      "hint": "Cena alla griglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Melokhia",
+      "hint": "Cena d'estate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stifado",
+      "hint": "Pranzo di domenica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kofta",
+      "hint": "Festa di famiglia",
+      "difficulty": "medium"
+    }
+  ]
+}

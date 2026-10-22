@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-retro-arcade",
+  "title": "Retro & Arcade Classics",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Pac-Man",
+      "hint": "Pizza night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Space Invaders",
+      "hint": "Coin jar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pong",
+      "hint": "Grandad's stories",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Donkey Kong",
+      "hint": "Heavy lifting",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asteroids",
+      "hint": "Lost in space",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Breakout",
+      "hint": "Demolition day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frogger",
+      "hint": "Rush hour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Centipede",
+      "hint": "Summer garden",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Street Fighter",
+      "hint": "Friendly rivalry",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mortal Kombat",
+      "hint": "Wrestling on TV",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atari 2600",
+      "hint": "Christmas morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Simon",
+      "hint": "Birthday parties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pitfall!",
+      "hint": "Treasure hunt",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Defender",
+      "hint": "Last stand",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Missile Command",
+      "hint": "Cold War",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tapper",
+      "hint": "Happy hour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Q*bert",
+      "hint": "Cartoon swearing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galaga",
+      "hint": "Video shop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dig Dug",
+      "hint": "Sandcastle day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Joust",
+      "hint": "Fairy tales",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ms. Pac-Man",
+      "hint": "Sequel fans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zaxxon",
+      "hint": "Pilot's licence",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gauntlet",
+      "hint": "Co-op night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bomberman",
+      "hint": "Mischief night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Contra",
+      "hint": "Hard mode",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bubble Bobble",
+      "hint": "Rainy afternoon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Space Harrier",
+      "hint": "Rollercoaster",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Out Run",
+      "hint": "Summer road trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tempest",
+      "hint": "Ocean voyage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crazy Taxi",
+      "hint": "Late for work",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dragon's Lair",
+      "hint": "Cinema trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Double Dragon",
+      "hint": "Sibling rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rampage",
+      "hint": "Wild weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lode Runner",
+      "hint": "Greedy fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghosts 'n Goblins",
+      "hint": "Trick or treat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moon Patrol",
+      "hint": "Desert highway",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Robotron: 2084",
+      "hint": "Sore thumbs",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Berzerk",
+      "hint": "Cornered",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sinistar",
+      "hint": "Creepy voice",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arkanoid",
+      "hint": "Sweaty palms",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Choplifter",
+      "hint": "Heroic dash",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Star Castle",
+      "hint": "Round and round",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gyruss",
+      "hint": "Dizzy spell",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Qix",
+      "hint": "Colouring book",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gorf",
+      "hint": "Cheesy dialogue",
+      "difficulty": "hard"
+    }
+  ]
+}

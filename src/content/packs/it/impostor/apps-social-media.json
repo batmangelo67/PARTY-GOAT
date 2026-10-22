@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-apps-social-media",
+  "title": "App e social network",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "WhatsApp",
+      "hint": "Messaggi a mezzanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Instagram",
+      "hint": "Brunch domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TikTok",
+      "hint": "Ore perse",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Facebook",
+      "hint": "Zii e cugini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YouTube",
+      "hint": "Pausa infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spotify",
+      "hint": "Viaggio in auto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Netflix",
+      "hint": "Serata pigra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Google Maps",
+      "hint": "Litigio in macchina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snapchat",
+      "hint": "Selfie a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telegram",
+      "hint": "Gruppo di studio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tinder",
+      "hint": "Sabato in cerca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uber",
+      "hint": "Dopo il bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Airbnb",
+      "hint": "Valigia pronta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Duolingo",
+      "hint": "Lezione mattutina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zoom",
+      "hint": "Lunedì in ritardo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shazam",
+      "hint": "Ritornello in testa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waze",
+      "hint": "Ritardo all'appuntamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pinterest",
+      "hint": "Ispirazione infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Twitter",
+      "hint": "Rabbia del lunedì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LinkedIn",
+      "hint": "Camicia buona",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reddit",
+      "hint": "Caffè e curiosità",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Discord",
+      "hint": "Chiacchiere notturne",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Twitch",
+      "hint": "Tifo da casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BeReal",
+      "hint": "Notifica improvvisa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Threads",
+      "hint": "Conversazione infinita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Deliveroo",
+      "hint": "Sera di pigrizia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Glovo",
+      "hint": "Fame improvvisa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Satispay",
+      "hint": "Conto in sospeso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tumblr",
+      "hint": "Pomeriggio di nostalgia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vinted",
+      "hint": "Pulizie di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Revolut",
+      "hint": "Aeroporto alle sei",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dropbox",
+      "hint": "Soffitta piena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trello",
+      "hint": "Riunione lampo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gmail",
+      "hint": "Ansia da risposta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Google Drive",
+      "hint": "Tesi in corso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notion",
+      "hint": "Quaderno ordinato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mastodon",
+      "hint": "Gigante dimenticato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Clubhouse",
+      "hint": "Salotto aperto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Myspace",
+      "hint": "Adolescenza online",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vine",
+      "hint": "Scherzo ripetuto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Periscope",
+      "hint": "Diretta di quartiere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Foursquare",
+      "hint": "Giro della città",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Flickr",
+      "hint": "Foto di nonna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Orkut",
+      "hint": "Vecchi amici",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hi5",
+      "hint": "Primi profili",
+      "difficulty": "hard"
+    }
+  ]
+}

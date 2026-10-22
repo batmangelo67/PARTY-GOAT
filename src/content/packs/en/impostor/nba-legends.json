@@ -1,0 +1,244 @@
+{
+  "id": "en-impostor-nba-legends",
+  "title": "NBA Legends & Iconic Moments",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Michael Jordan",
+      "hint": "Retirement speech",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kobe Bryant",
+      "hint": "Late-night practice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Magic Johnson",
+      "hint": "Grand entrance",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Larry Bird",
+      "hint": "Boston nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shaquille O'Neal",
+      "hint": "Big presence",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kareem Abdul-Jabbar",
+      "hint": "Vintage photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wilt Chamberlain",
+      "hint": "Stat sheet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bill Russell",
+      "hint": "Trophy room",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tim Duncan",
+      "hint": "Quiet genius",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dirk Nowitzki",
+      "hint": "European import",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Allen Iverson",
+      "hint": "Hometown hero",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hakeem Olajuwon",
+      "hint": "Late-game touch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scottie Pippen",
+      "hint": "Second in command",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dennis Rodman",
+      "hint": "Wrestling ring",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Charles Barkley",
+      "hint": "Sports talk show",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Steve Nash",
+      "hint": "Nice guy",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kevin Garnett",
+      "hint": "Loud screams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Julius Erving",
+      "hint": "Flying high",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Oscar Robertson",
+      "hint": "Old-school passer",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dwyane Wade",
+      "hint": "Miami nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "David Robinson",
+      "hint": "Hard work",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Patrick Ewing",
+      "hint": "Almost champions",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dikembe Mutombo",
+      "hint": "Warm welcome",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reggie Miller",
+      "hint": "Late dagger",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yao Ming",
+      "hint": "Gentle giant",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vince Carter",
+      "hint": "Sky high",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Karl Malone",
+      "hint": "Delivery days",
+      "difficulty": "medium"
+    },
+    {
+      "word": "John Stockton",
+      "hint": "Silent passes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gary Payton",
+      "hint": "Loud mouth",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ray Allen",
+      "hint": "Morning routine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dwight Howard",
+      "hint": "Free throw woes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tracy McGrady",
+      "hint": "Injury comeback",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Manute Bol",
+      "hint": "Long shadow",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chris Webber",
+      "hint": "Crowd favorite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penny Hardaway",
+      "hint": "Sweet shoes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Last Dance",
+      "hint": "Quarantine binge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Shot",
+      "hint": "Last-second drama",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Flu Game",
+      "hint": "Tough day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Showtime",
+      "hint": "Razzle dazzle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dream Team",
+      "hint": "Celebrity photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dunk contest",
+      "hint": "Crowd roar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Harlem Globetrotters",
+      "hint": "Circus tricks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jordan Rules",
+      "hint": "Bruising defence",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bad Boys",
+      "hint": "Elbows out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Magic-Bird rivalry",
+      "hint": "Old-school fans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Air Jordan",
+      "hint": "Limited release",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-world-cup",
+  "title": "World Cup & National Teams",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Brazil",
+      "hint": "Beach weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Argentina",
+      "hint": "Late dinner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Germany",
+      "hint": "Recycling bins",
+      "difficulty": "easy"
+    },
+    {
+      "word": "France",
+      "hint": "Fashion week",
+      "difficulty": "easy"
+    },
+    {
+      "word": "England",
+      "hint": "Rainy afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spain",
+      "hint": "Sunny holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Italy",
+      "hint": "Family dinner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Japan",
+      "hint": "Tidy streets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mexico",
+      "hint": "Hot afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canada",
+      "hint": "Winter coat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Australia",
+      "hint": "Long flight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Netherlands",
+      "hint": "Bike ride",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portugal",
+      "hint": "Cobbled streets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sweden",
+      "hint": "Cold lake",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Egypt",
+      "hint": "Desert trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Colombia",
+      "hint": "Tropical rain",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Belgium",
+      "hint": "Sunday market",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vuvuzela",
+      "hint": "Noisy stadium",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uruguay",
+      "hint": "Quiet coast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Croatia",
+      "hint": "Ferry ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nigeria",
+      "hint": "Busy market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Denmark",
+      "hint": "Happy hour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Poland",
+      "hint": "Cold winter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "South Korea",
+      "hint": "Neon lights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Saudi Arabia",
+      "hint": "Desert sunset",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Russia",
+      "hint": "Long train ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Turkey",
+      "hint": "Bazaar haggle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scotland",
+      "hint": "Highland mist",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Switzerland",
+      "hint": "Mountain hike",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ireland",
+      "hint": "Pub quiz",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wales",
+      "hint": "Rainy hills",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Costa Rica",
+      "hint": "Eco trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Greece",
+      "hint": "Island holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cameroon",
+      "hint": "Jungle sounds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Group of death",
+      "hint": "Lottery night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Extra time",
+      "hint": "Tired legs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Morocco",
+      "hint": "Spice market",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Senegal",
+      "hint": "Sunny beach",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chile",
+      "hint": "Long skinny map",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Iran",
+      "hint": "Old carpets",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ivory Coast",
+      "hint": "Morning market",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ecuador",
+      "hint": "Mountain bus",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tunisia",
+      "hint": "Seaside villa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Qatar",
+      "hint": "Luxury hotels",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jules Rimet Trophy",
+      "hint": "Museum display",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-historical-eras-empires",
+  "title": "Epoche ed imperi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Impero Romano",
+      "hint": "Gladiatori al cinema",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rinascimento",
+      "hint": "Museo affollato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Medioevo",
+      "hint": "Film di spade",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Preistoria",
+      "hint": "Intorno al fuoco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Antica Grecia",
+      "hint": "Filosofi in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Ottomano",
+      "hint": "Bazar affollato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Età della pietra",
+      "hint": "Sasso in mano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Inca",
+      "hint": "Oro scintillante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Azteco",
+      "hint": "Mercato galleggiante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rivoluzione francese",
+      "hint": "Pane troppo caro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Età del bronzo",
+      "hint": "Commercio lontano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Antico Egitto",
+      "hint": "Caccia al tesoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Mongolo",
+      "hint": "Vento delle pianure",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Bizantino",
+      "hint": "Ultimo baluardo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Impero Persiano",
+      "hint": "Giardino perfetto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Età vittoriana",
+      "hint": "Tè delle cinque",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Illuminismo",
+      "hint": "Dibattito a cena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dinastia Ming",
+      "hint": "Ammiragli sul mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dinastia Han",
+      "hint": "Ideogrammi in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Carolingio",
+      "hint": "Chiesa e spada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Austro-Ungarico",
+      "hint": "Doppia corona",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Età napoleonica",
+      "hint": "Carri e cavalli",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Gupta",
+      "hint": "Monsone e spezie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dinastia Tang",
+      "hint": "Lunghe carovane",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Maurya",
+      "hint": "Remorso in battaglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Età elisabettiana",
+      "hint": "Corsetti e ventagli",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Abbaside",
+      "hint": "Racconti d'Oriente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Sassanide",
+      "hint": "Vicini bellicosi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Khmer",
+      "hint": "Città perduta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Songhai",
+      "hint": "Commercio nel deserto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Regno delle Due Sicilie",
+      "hint": "Sole del Sud",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Età giolittiana",
+      "hint": "Vigilia di guerra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Repubblica di Venezia",
+      "hint": "Carnevale in maschera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Achemenide",
+      "hint": "Corrieri veloci",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Ittita",
+      "hint": "Trattato di pace",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Repubblica di Genova",
+      "hint": "Vele all'orizzonte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impero Seleucide",
+      "hint": "Successione difficile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dinastia Shang",
+      "hint": "Consulto degli spiriti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Impero Kush",
+      "hint": "Reame dimenticato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lega Anseatica",
+      "hint": "Affari al freddo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Impero del Mali",
+      "hint": "Viaggio alla Mecca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dinastia Zhou",
+      "hint": "Filosofi in cortile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Impero Cartaginese",
+      "hint": "Commercio di porpora",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Repubblica Batava",
+      "hint": "Pioniere delle Indie",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Califfato Fatimide",
+      "hint": "Lampade nel deserto",
+      "difficulty": "hard"
+    }
+  ]
+}

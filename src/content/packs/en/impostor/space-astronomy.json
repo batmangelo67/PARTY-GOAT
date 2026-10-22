@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-space-astronomy",
+  "title": "Space & Astronomy",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Moon",
+      "hint": "Lovers' stroll",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sun",
+      "hint": "Fresh tan",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mars",
+      "hint": "Robot mission",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rocket",
+      "hint": "Fireworks finale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Space shuttle",
+      "hint": "Museum visit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Comet",
+      "hint": "Rare visitor",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telescope",
+      "hint": "Science class",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Star",
+      "hint": "Autograph queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sputnik",
+      "hint": "Cold War race",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eclipse",
+      "hint": "Mid-afternoon dusk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Satellite",
+      "hint": "Weather forecast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orbit",
+      "hint": "Merry-go-round",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spaceship",
+      "hint": "Alien encounter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Planet",
+      "hint": "Family photo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Meteor",
+      "hint": "Crater tour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gravity",
+      "hint": "Heavy shopping",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venus",
+      "hint": "Valentine's cards",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NASA",
+      "hint": "Budget cuts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galaxy",
+      "hint": "Vast night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Asteroid",
+      "hint": "Near miss",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Saturn",
+      "hint": "Hula hoop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jupiter",
+      "hint": "Thunderbolt",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pluto",
+      "hint": "Lonely outpost",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mercury",
+      "hint": "Hot days",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Neptune",
+      "hint": "Cold outskirts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nebula",
+      "hint": "Pastel sky",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spacewalk",
+      "hint": "Floating dance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lunar rover",
+      "hint": "Joyride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Constellation",
+      "hint": "Connect the dots",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Supernova",
+      "hint": "Grand exit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Light-year",
+      "hint": "Time machine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hubble",
+      "hint": "Eye test",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Launch pad",
+      "hint": "Ready steady go",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Space suit",
+      "hint": "Fancy dress",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mission control",
+      "hint": "Headset chatter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Milky Way",
+      "hint": "Night walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quasar",
+      "hint": "Dazzling beacon",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Redshift",
+      "hint": "Ambulance siren",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Solar wind",
+      "hint": "Sails on ships",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Exoplanet",
+      "hint": "Dream destination",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Big Bang",
+      "hint": "Loud beginning",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Aurora",
+      "hint": "Sky painting",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zodiac",
+      "hint": "Fortune teller",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Perihelion",
+      "hint": "Brush with fame",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Interstellar",
+      "hint": "Long voyage",
+      "difficulty": "hard"
+    }
+  ]
+}

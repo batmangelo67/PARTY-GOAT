@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-euroleague-international",
+  "title": "EuroLeague & International Basketball",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Panathinaikos",
+      "hint": "Sunset dinner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fenerbahçe",
+      "hint": "Afternoon ferry",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anadolu Efes",
+      "hint": "Street vendors",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Žalgiris",
+      "hint": "Frosty welcome",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Partizan",
+      "hint": "Loud derby",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olimpia Milano",
+      "hint": "Luxury lounge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baskonia",
+      "hint": "Wine glass",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Virtus Bologna",
+      "hint": "Coffee break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cibona",
+      "hint": "Chilly morning",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Valencia Basket",
+      "hint": "Morning stroll",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arvydas Sabonis",
+      "hint": "Hard comeback",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dražen Petrović",
+      "hint": "Quick release",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manu Ginóbili",
+      "hint": "Sneaky flicks",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tony Parker",
+      "hint": "Quick glide",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pau Gasol",
+      "hint": "Brother bond",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toni Kukoč",
+      "hint": "Surprise pick",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vlade Divac",
+      "hint": "Big heart",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nikola Vučević",
+      "hint": "Late fourth quarter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Andrei Kirilenko",
+      "hint": "Summer league",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hidayet Türkoğlu",
+      "hint": "Trade deadline",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Luis Scola",
+      "hint": "Slick moves",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kristaps Porziņģis",
+      "hint": "Growth spurt",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dino Radja",
+      "hint": "Rebound machine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rudy Fernández",
+      "hint": "Hot streak",
+      "difficulty": "medium"
+    },
+    {
+      "word": "James Naismith",
+      "hint": "Gym class",
+      "difficulty": "hard"
+    },
+    {
+      "word": "George Mikan",
+      "hint": "Early pro league",
+      "difficulty": "medium"
+    },
+    {
+      "word": "FIBA",
+      "hint": "Referee whistle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Basketball World Cup",
+      "hint": "Summer tournament",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Final Four",
+      "hint": "Packed arena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yugoslavia",
+      "hint": "Vanished country",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lithuania",
+      "hint": "Frozen lake",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Serbia",
+      "hint": "Lazy river",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Slovenia",
+      "hint": "Mountain cabin",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Latvia",
+      "hint": "Quiet forest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Georgia",
+      "hint": "Mountain toast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Montenegro",
+      "hint": "Adriatic coast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bosnia",
+      "hint": "Mountain pass",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bulgaria",
+      "hint": "Ancient ruins",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Czech Republic",
+      "hint": "Hidden gems",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hungary",
+      "hint": "Old tram",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Romania",
+      "hint": "Forest hike",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Finland",
+      "hint": "Snow day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Overtime",
+      "hint": "Nail-biter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Timeout",
+      "hint": "Quick breather",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shot clock",
+      "hint": "Ticking timer",
+      "difficulty": "medium"
+    }
+  ]
+}

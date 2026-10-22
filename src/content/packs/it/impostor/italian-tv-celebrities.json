@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-italian-tv-celebrities",
+  "title": "Tv italiana e volti noti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Mike Bongiorno",
+      "hint": "Concorrenti in ansia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pippo Baudo",
+      "hint": "Spettacoli da record",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Raffaella Carrà",
+      "hint": "Balli anni settanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maria De Filippi",
+      "hint": "Storie d'amore",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Antonella Clerici",
+      "hint": "Cucina della mattina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carlo Conti",
+      "hint": "Sabato in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiorello",
+      "hint": "Battute di mattina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Striscia la notizia",
+      "hint": "Scherzi in strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gerry Scotti",
+      "hint": "Concorrenti sudati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alberto Sordi",
+      "hint": "Ironia sull'Italia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Totò",
+      "hint": "Gag d'epoca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Massimo Troisi",
+      "hint": "Tenerezza in scena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monica Vitti",
+      "hint": "Dramma elegante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gigi Proietti",
+      "hint": "Palco e dizione",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lino Banfi",
+      "hint": "Battute da nonno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paolo Villaggio",
+      "hint": "Sfighe in ufficio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sophia Loren",
+      "hint": "Diva del dopoguerra",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Roberto Benigni",
+      "hint": "Gioia contagiosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fabio Fazio",
+      "hint": "Chiacchiere serali",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bruno Vespa",
+      "hint": "Notiziario serale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Milly Carlucci",
+      "hint": "Giuria severa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rita Pavone",
+      "hint": "Anni sessanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Checco Zalone",
+      "hint": "Furbo e impacciato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pierfrancesco Favino",
+      "hint": "Sguardo intenso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Corrado",
+      "hint": "Premi e regali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mara Venier",
+      "hint": "Pranzo di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aldo, Giovanni e Giacomo",
+      "hint": "Risate tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ezio Greggio",
+      "hint": "Anni ottanta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Diego Abatantuono",
+      "hint": "Ruoli da burbero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ornella Muti",
+      "hint": "Fascino retrò",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Enzo Tortora",
+      "hint": "Presentatore elegante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Raimondo Vianello",
+      "hint": "Sorrisi in salotto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maurizio Costanzo",
+      "hint": "Notti in studio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ambra Angiolini",
+      "hint": "Adolescenza in tv",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Michelle Hunziker",
+      "hint": "Bionda sorridente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ilary Blasi",
+      "hint": "Gossip da copertina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Simona Ventura",
+      "hint": "Sorrisi da conduttrice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lorella Cuccarini",
+      "hint": "Danza e sorrisi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Teo Teocoli",
+      "hint": "Caricature sfrenate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Renzo Arbore",
+      "hint": "Radio d'epoca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nino Frassica",
+      "hint": "Battute surreali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vittorio De Sica",
+      "hint": "Dopoguerra e povertà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vittorio Gassman",
+      "hint": "Dizione impeccabile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nanni Moretti",
+      "hint": "Autore introverso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paolo Bonolis",
+      "hint": "Battute veloci",
+      "difficulty": "easy"
+    }
+  ]
+}

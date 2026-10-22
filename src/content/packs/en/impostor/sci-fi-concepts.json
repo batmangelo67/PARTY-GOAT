@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-sci-fi-concepts",
+  "title": "Sci-Fi & Futuristic Concepts",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Time Travel",
+      "hint": "Late for dinner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Robot",
+      "hint": "Clunky chores",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jetpack",
+      "hint": "Commute upward",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hologram",
+      "hint": "Light show",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flying Car",
+      "hint": "Traffic jam",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Self-Driving Car",
+      "hint": "Nap time",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Virtual Reality",
+      "hint": "Sweaty gamer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smart Home",
+      "hint": "Alarm clock chaos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clone",
+      "hint": "Photocopy mistakes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Black Hole",
+      "hint": "Lost socks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Space Station",
+      "hint": "Astronaut dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lightsaber",
+      "hint": "Movie marathon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Invisibility Cloak",
+      "hint": "Hide and seek",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hoverboard",
+      "hint": "Skate park dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teleportation",
+      "hint": "Zero commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Robot Butler",
+      "hint": "Lazy weekends",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alien Invasion",
+      "hint": "Blockbuster movies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mars Colony",
+      "hint": "Pioneer dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warp Drive",
+      "hint": "Speeding tickets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Augmented Reality",
+      "hint": "Lost in town",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Artificial Intelligence",
+      "hint": "Homework cheats",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cyborg",
+      "hint": "Bionic grandpa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wormhole",
+      "hint": "Clever cheat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dyson Sphere",
+      "hint": "Overachieving aliens",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ray Gun",
+      "hint": "Cowboy duels",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Multiverse",
+      "hint": "Missed chances",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antimatter",
+      "hint": "Physics homework",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nanobots",
+      "hint": "Dental checkup",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terraforming",
+      "hint": "Garden redesign",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Space Elevator",
+      "hint": "Lift queues",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brain-Computer Interface",
+      "hint": "Lazy typing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Android",
+      "hint": "Creepy stares",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cryogenics",
+      "hint": "Future wake-up",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quantum Computer",
+      "hint": "Brain overload",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Solar Sail",
+      "hint": "Windy beach",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holodeck",
+      "hint": "Video game world",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Asteroid Mining",
+      "hint": "Rocky fortunes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dark Matter",
+      "hint": "Cosmic shrug",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Force Field",
+      "hint": "Protective spell",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dystopia",
+      "hint": "Grey Mondays",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Utopia",
+      "hint": "Perfect week",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Singularity",
+      "hint": "Future shock",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sentient Spaceship",
+      "hint": "Lonely captain",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rogue Planet",
+      "hint": "Wandering nomad",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Deep Space",
+      "hint": "Silent trip",
+      "difficulty": "hard"
+    }
+  ]
+}

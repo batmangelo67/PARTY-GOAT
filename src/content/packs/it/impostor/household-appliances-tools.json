@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-household-appliances-tools",
+  "title": "Elettrodomestici e attrezzi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Frigorifero",
+      "hint": "Avanzi del giorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavatrice",
+      "hint": "Ronzio notturno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Forno",
+      "hint": "Attesa in cucina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Microonde",
+      "hint": "Fame alle undici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aspirapolvere",
+      "hint": "Rumore che sveglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferro da stiro",
+      "hint": "Colloquio di lavoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavastoviglie",
+      "hint": "Discussione in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trapano",
+      "hint": "Weekend fai-da-te",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Martello",
+      "hint": "Sabato mattina presto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cacciavite",
+      "hint": "Istruzioni incomprensibili",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Forbici",
+      "hint": "Pomeriggio di lavoretti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frullatore",
+      "hint": "Buoni propositi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tostapane",
+      "hint": "Mattina di fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bollitore",
+      "hint": "Visita inattesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ventilatore",
+      "hint": "Notte insonne",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Condizionatore",
+      "hint": "Bolletta salata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asciugacapelli",
+      "hint": "Dopo la doccia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Radiatore",
+      "hint": "Calze di lana",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asciugatrice",
+      "hint": "Maglione restringito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impastatrice",
+      "hint": "Mani infarinate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spremiagrumi",
+      "hint": "Buongiorno in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bilancia da cucina",
+      "hint": "Ricetta precisa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piastra per capelli",
+      "hint": "Davanti allo specchio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rasoio elettrico",
+      "hint": "Appuntamento improvviso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tosaerba",
+      "hint": "Sabato di sole",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Idropulitrice",
+      "hint": "Pulizie di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Friggitrice ad aria",
+      "hint": "Sensi di colpa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Macchina del caffè",
+      "hint": "Sveglia dura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mixer a immersione",
+      "hint": "Pappa del neonato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stufa elettrica",
+      "hint": "Casa gelata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Deumidificatore",
+      "hint": "Notte di umidità",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metro a nastro",
+      "hint": "Arredare il monolocale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chiave inglese",
+      "hint": "Bagno da sistemare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seghetto",
+      "hint": "Tempesta di notte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lucidatrice",
+      "hint": "Visita dei suoceri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sega circolare",
+      "hint": "Progetto del sabato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Centrifuga per insalata",
+      "hint": "Cucina estiva",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Affettatrice",
+      "hint": "Buffet di Natale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tritacarne",
+      "hint": "Ricetta segreta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pialla",
+      "hint": "Sedia da restaurare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Smerigliatrice",
+      "hint": "Ronzio da garage",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cavatappi",
+      "hint": "Serata senza piani",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pompa per bicicletta",
+      "hint": "Gita fuori porta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chiave dinamometrica",
+      "hint": "Officina di fiducia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pinza amperometrica",
+      "hint": "Corrente che salta",
+      "difficulty": "hard"
+    }
+  ]
+}

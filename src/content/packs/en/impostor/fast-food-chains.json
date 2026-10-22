@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-fast-food-chains",
+  "title": "Fast Food & Chain Restaurants",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "McDonald's",
+      "hint": "Road trip stop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Starbucks",
+      "hint": "Laptop cafe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milkshake",
+      "hint": "Diner booth",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chicken nuggets",
+      "hint": "Family takeaway",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hot dog",
+      "hint": "Summer weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice cream sundae",
+      "hint": "Birthday party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chicken wings",
+      "hint": "Friday after work",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dunkin'",
+      "hint": "Morning rush",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nachos",
+      "hint": "Girls night in",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apple pie",
+      "hint": "Autumn kitchen",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KFC",
+      "hint": "Hungry road trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burger King",
+      "hint": "Lunch break rush",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheeseburger",
+      "hint": "Friday cheat meal",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smoothie",
+      "hint": "Health kick",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Onion rings",
+      "hint": "Heavy lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cola",
+      "hint": "Late shift",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wendy's",
+      "hint": "Drive-thru queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Happy Meal",
+      "hint": "Saturday treat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "French fries",
+      "hint": "Dipping sauce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Big Mac",
+      "hint": "Double trouble",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Subway",
+      "hint": "Lunch rush",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Greggs",
+      "hint": "Lunchtime bake",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chipotle",
+      "hint": "Lunch line",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Five Guys",
+      "hint": "Messy napkins",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nando's",
+      "hint": "Spicy date night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pret a Manger",
+      "hint": "Desk lunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soft serve",
+      "hint": "Long road trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fish fingers",
+      "hint": "School dinners",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chicken burger",
+      "hint": "Quick midweek bite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Veggie burger",
+      "hint": "Meat-free date",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Meal deal",
+      "hint": "Office budget",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cheesy bread",
+      "hint": "Friends sharing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pitta wrap",
+      "hint": "Quick commute",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hot chocolate",
+      "hint": "Snowy morning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Poutine",
+      "hint": "Late-night hangover",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fried pickles",
+      "hint": "Pub grub",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Krispy Kreme",
+      "hint": "Hot light",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sausage roll",
+      "hint": "Warm bag",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bagel",
+      "hint": "Weekend brunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cinnamon roll",
+      "hint": "Shopping break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bubble tea",
+      "hint": "Study break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hash browns",
+      "hint": "Before eleven",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tenders",
+      "hint": "Crispy snack",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Egg muffin",
+      "hint": "Early drive-thru",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Croissant",
+      "hint": "Sunday morning queue",
+      "difficulty": "hard"
+    }
+  ]
+}

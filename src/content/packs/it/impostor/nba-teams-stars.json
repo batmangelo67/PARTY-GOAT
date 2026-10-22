@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-nba-teams-stars",
+  "title": "NBA: squadre e stelle",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Lakers",
+      "hint": "Passerelle vip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Celtics",
+      "hint": "Bandiere al soffitto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bulls",
+      "hint": "Ruggito in arena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warriors",
+      "hint": "Tiro da lontano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Knicks",
+      "hint": "Tifosi in delirio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heat",
+      "hint": "Afa d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spurs",
+      "hint": "Pazienza e metodo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nets",
+      "hint": "Quartiere in festa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rockets",
+      "hint": "Corsa al cielo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mavericks",
+      "hint": "Stivali e cappelli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Raptors",
+      "hint": "Caccia notturna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bucks",
+      "hint": "Tifosi in corsa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "76ers",
+      "hint": "Pazienza e sogni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clippers",
+      "hint": "Tramonto sull'oceano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Suns",
+      "hint": "Caldo di luglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nuggets",
+      "hint": "Vette innevate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pistons",
+      "hint": "Lavoro in fabbrica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "LeBron James",
+      "hint": "Sempre in finale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Michael Jordan",
+      "hint": "Pomeriggi da golf",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stephen Curry",
+      "hint": "Tiro da centrocampo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kobe Bryant",
+      "hint": "Ore di palestra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shaquille O'Neal",
+      "hint": "Gioco di potenza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Magic Johnson",
+      "hint": "Sorriso contagioso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Larry Bird",
+      "hint": "Allenamento all'alba",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kareem Abdul-Jabbar",
+      "hint": "Pazienza infinita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wilt Chamberlain",
+      "hint": "Sfida ai numeri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bill Russell",
+      "hint": "Maestro di rimbalzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dirk Nowitzki",
+      "hint": "Sorriso sereno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giannis Antetokounmpo",
+      "hint": "Ali e slancio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nikola Jokić",
+      "hint": "Ritmo sicuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kevin Durant",
+      "hint": "Tiro di precisione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tim Duncan",
+      "hint": "Mai appariscente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kawhi Leonard",
+      "hint": "Lavoro in silenzio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yao Ming",
+      "hint": "Sorriso largo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dennis Rodman",
+      "hint": "Rimbalzi a raffica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schiacciata",
+      "hint": "Pugno sul ferro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tripla",
+      "hint": "Dal palleggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tiro libero",
+      "hint": "Silenzio in palestra",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stoppata",
+      "hint": "Grido dagli spalti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pick and roll",
+      "hint": "Coppia in movimento",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Draft",
+      "hint": "Notte di giugno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Playoff",
+      "hint": "Tensione in primavera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "All-Star",
+      "hint": "Serata di festa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triple-double",
+      "hint": "Partita completa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Thunder",
+      "hint": "Pomeriggi di fuoco",
+      "difficulty": "easy"
+    }
+  ]
+}

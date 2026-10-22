@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-classroom-memories",
+  "title": "Ricordi di classe",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Banco",
+      "hint": "Coperchio che sbatte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavagna",
+      "hint": "Ora di storia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gesso",
+      "hint": "Mani sporche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campanella",
+      "hint": "Libertà improvvisa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cortile",
+      "hint": "Ginocchia sbucciate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ricreazione",
+      "hint": "Fame improvvisa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Merenda",
+      "hint": "Mamma previdente",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bidello",
+      "hint": "Corridoio deserto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Registro",
+      "hint": "Giorno di punizione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pagella",
+      "hint": "Ansia di giugno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cattedra",
+      "hint": "Voce più alta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Interrogazione",
+      "hint": "Nome a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bigliettino",
+      "hint": "Inviato di nascosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quaderno",
+      "hint": "Disegni sul margine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astuccio",
+      "hint": "Penna di riserva",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Compito in classe",
+      "hint": "Ultimi dieci minuti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gita scolastica",
+      "hint": "Notte di partenza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cancellino",
+      "hint": "Giornata di pulizie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Temperino",
+      "hint": "Pollice ferito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diario",
+      "hint": "Confessioni a mezzanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Righello",
+      "hint": "Righe storte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scuolabus",
+      "hint": "Viaggio con amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Altalena",
+      "hint": "Gara in altezza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scivolo",
+      "hint": "Coda interminabile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Refettorio",
+      "hint": "Pasto di mezzogiorno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palestra",
+      "hint": "Sudore e risate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bacheca",
+      "hint": "Notizie in corridoio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foto di classe",
+      "hint": "Ciuffo ribelle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Recita di fine anno",
+      "hint": "Palco e tremore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa di Carnevale",
+      "hint": "Maschera improvvisata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cartellone",
+      "hint": "Lavoro di squadra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colla vinilica",
+      "hint": "Pasticcio di carta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cestino della carta",
+      "hint": "Canestro improvvisato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ora di buca",
+      "hint": "Niente da fare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lavoretto della festa",
+      "hint": "Lacrime di gioia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Voto di condotta",
+      "hint": "Lettera ai genitori",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Supplenza",
+      "hint": "Sorpresa in corridoio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bocciatura",
+      "hint": "Delusione in famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trasferimento",
+      "hint": "Amici da salutare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ritardatario",
+      "hint": "Corsa sulle scale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Aula magna",
+      "hint": "Silenzio solenne",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ripetente",
+      "hint": "Ancora qui",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Circolare",
+      "hint": "Foglio da firmare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Verbale",
+      "hint": "Penna di riunione",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Compagno di banco",
+      "hint": "Gomito contro gomito",
+      "difficulty": "easy"
+    }
+  ]
+}

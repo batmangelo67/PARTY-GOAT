@@ -20,7 +20,7 @@ export function MindSetupScreen() {
   const t = useT();
   const players = usePlayersStore((state) => state.players);
   const config = useMindConfig();
-  const packs = useSelectedPacks(MIND_ID, "words", config.packIds);
+  const packs = useSelectedPacks(MIND_ID, "prompts", config.packIds);
 
   return (
     <SetupLayout

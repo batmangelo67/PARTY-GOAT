@@ -1,0 +1,453 @@
+{
+  "id": "it-forbidden-words-entertainment",
+  "title": "Intrattenimento",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Film",
+      "banned": [
+        "Cinema",
+        "Regista",
+        "Popcorn",
+        "Pellicola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Serie TV",
+      "banned": [
+        "Episodi",
+        "Stagione",
+        "Netflix",
+        "Divano"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cinema",
+      "banned": [
+        "Schermo",
+        "Poltrone",
+        "Sala buia",
+        "Biglietto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Videogioco",
+      "banned": [
+        "Console",
+        "Joystick",
+        "Pad",
+        "Pixel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Commedia",
+      "banned": [
+        "Ridere",
+        "Battute",
+        "Risata",
+        "Sketch"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Horror",
+      "banned": [
+        "Paura",
+        "Zombie",
+        "Sangue",
+        "Notte"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fumetto",
+      "banned": [
+        "Vignette",
+        "Nuvoletta",
+        "Supereroe",
+        "Strisce"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cartone animato",
+      "banned": [
+        "Disegni",
+        "Topolino",
+        "Pupazzi",
+        "Matita"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reality show",
+      "banned": [
+        "Telecamere",
+        "Televoto",
+        "Concorrenti",
+        "Isola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quiz show",
+      "banned": [
+        "Domande",
+        "Premio",
+        "Conduttore",
+        "Rispondere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telenovela",
+      "banned": [
+        "Soap",
+        "Amore",
+        "Sudamerica",
+        "Melodramma"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gioco da tavolo",
+      "banned": [
+        "Dadi",
+        "Tabellone",
+        "Scatola",
+        "Pedine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fantascienza",
+      "banned": [
+        "Spazio",
+        "Alieni",
+        "Astronave",
+        "Futuro"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Supereroe",
+      "banned": [
+        "Mantello",
+        "Maschera",
+        "Poteri",
+        "Costume"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Western",
+      "banned": [
+        "Cowboy",
+        "Far West",
+        "Pistola",
+        "Sceriffo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anime",
+      "banned": [
+        "Giappone",
+        "Manga",
+        "Occhioni",
+        "Robot"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teatro",
+      "banned": [
+        "Palco",
+        "Sipario",
+        "Attori",
+        "Platea"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oscar",
+      "banned": [
+        "Statuetta",
+        "Hollywood",
+        "Premiazione",
+        "Tappeto rosso"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telecomando",
+      "banned": [
+        "Televisore",
+        "Pile",
+        "Divano",
+        "Canale"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sceneggiatura",
+      "banned": [
+        "Copione",
+        "Scrittore",
+        "Dialoghi",
+        "Trama"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Protagonista",
+      "banned": [
+        "Eroe",
+        "Attore principale",
+        "Copertina",
+        "Ruolo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sequel",
+      "banned": [
+        "Seguito",
+        "Capitolo due",
+        "Prequel",
+        "Continuazione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spin-off",
+      "banned": [
+        "Derivato",
+        "Parallelo",
+        "Ramo",
+        "Costola"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doppiaggio",
+      "banned": [
+        "Voce",
+        "Lingua",
+        "Versione italiana",
+        "Sottotitoli"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sottotitoli",
+      "banned": [
+        "Doppiaggio",
+        "Testo",
+        "Schermo",
+        "Lingua originale"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trailer",
+      "banned": [
+        "Promo",
+        "Teaser",
+        "Clip",
+        "Spot"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blockbuster",
+      "banned": [
+        "Incasso",
+        "Kolossal",
+        "Effetti speciali",
+        "Milioni"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cortometraggio",
+      "banned": [
+        "Breve",
+        "Premio",
+        "Durata",
+        "Mediometraggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sitcom",
+      "banned": [
+        "Risate",
+        "Pubblico in studio",
+        "Sigla",
+        "Famiglia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soap opera",
+      "banned": [
+        "Drama",
+        "Tradimenti",
+        "Lacrime",
+        "Quotidiano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gioco di ruolo",
+      "banned": [
+        "Dungeon",
+        "Fantasia",
+        "Schede",
+        "Master"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Battle royale",
+      "banned": [
+        "Ultimi rimasti",
+        "Armi",
+        "Mappa",
+        "Zona sicura"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cosplay",
+      "banned": [
+        "Fiera",
+        "Fan",
+        "Travestimento",
+        "Personaggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Podcast",
+      "banned": [
+        "Audio",
+        "Microfono",
+        "Ascolto",
+        "Puntate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Documentario",
+      "banned": [
+        "Realtà",
+        "Narratore",
+        "Interviste",
+        "Storia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pilot",
+      "banned": [
+        "Episodio zero",
+        "Prova",
+        "Prima serie",
+        "Anteprima"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cineasta",
+      "banned": [
+        "Regista",
+        "Autore",
+        "Pellicola",
+        "Festival"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fan fiction",
+      "banned": [
+        "Fanatico",
+        "Storie",
+        "Scrittura",
+        "Ammiratori"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Colpo di scena",
+      "banned": [
+        "Sorpresa",
+        "Twist",
+        "Finale",
+        "Svolta"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Premiere",
+      "banned": [
+        "Prima",
+        "Tappeto rosso",
+        "Debutto",
+        "Gala"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Binge watching",
+      "banned": [
+        "Maratona",
+        "Divano",
+        "Notti insonni",
+        "Abbuffata"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stuntman",
+      "banned": [
+        "Controfigura",
+        "Acrobazie",
+        "Cadute",
+        "Pericolo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ciak",
+      "banned": [
+        "Clap",
+        "Set",
+        "Regia",
+        "Riprese"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nerd",
+      "banned": [
+        "Fumetti",
+        "Videogiochi",
+        "Occhiali",
+        "Fantasy"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

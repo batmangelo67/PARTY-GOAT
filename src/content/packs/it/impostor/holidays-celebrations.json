@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-holidays-celebrations",
+  "title": "Feste e ricorrenze",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Natale",
+      "hint": "Luci in strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasqua",
+      "hint": "Pranzo di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Capodanno",
+      "hint": "Fine dicembre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferragosto",
+      "hint": "Città deserta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carnevale",
+      "hint": "Scherzi di febbraio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloween",
+      "hint": "Fine ottobre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Compleanno",
+      "hint": "Regali a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "San Valentino",
+      "hint": "Ristorante a lume",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matrimonio",
+      "hint": "Scarpe scomode",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa della mamma",
+      "hint": "Colazione a letto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa del papà",
+      "hint": "Cravatta storta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa della donna",
+      "hint": "Corteo in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Befana",
+      "hint": "Notte di gennaio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa dei nonni",
+      "hint": "Pomeriggio di ricordi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Primo maggio",
+      "hint": "Giorno di riposo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa della Repubblica",
+      "hint": "Ponte lungo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sagra",
+      "hint": "Estate in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Laurea",
+      "hint": "Lacrime di gioia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Addio al nubilato",
+      "hint": "Ultima notte libera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa patronale",
+      "hint": "Banda in piazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ognissanti",
+      "hint": "Visita ai parenti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "San Giuseppe",
+      "hint": "Tavola imbandita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holi",
+      "hint": "Vestiti vecchi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diwali",
+      "hint": "Lucine e dolci",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notte di San Lorenzo",
+      "hint": "Cielo d'agosto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Veglione",
+      "hint": "Vestito lungo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Presepe",
+      "hint": "Tradizione in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa del Redentore",
+      "hint": "Notte di luglio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coriandoli",
+      "hint": "Pavimento appiccicoso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pesce d'aprile",
+      "hint": "Telefonata strana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Battesimo",
+      "hint": "Foto di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cresima",
+      "hint": "Pranzo di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ringraziamento",
+      "hint": "Sonnellino dopo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oktoberfest",
+      "hint": "Freddo in arrivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa del paese",
+      "hint": "Musica dal palco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Capodanno cinese",
+      "hint": "Fine inverno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Santa Lucia",
+      "hint": "Dicembre freddo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Día de los Muertos",
+      "hint": "Notte di novembre",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pentecoste",
+      "hint": "Ponte di maggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tanabata",
+      "hint": "Cielo di luglio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cinco de Mayo",
+      "hint": "Sole di maggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sant'Antonio",
+      "hint": "Freddo di gennaio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Santo Stefano",
+      "hint": "Pigrizia dopo pranzo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Yule",
+      "hint": "Nebbia e candele",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Festa della Liberazione",
+      "hint": "Primi tepori",
+      "difficulty": "medium"
+    }
+  ]
+}

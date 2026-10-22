@@ -1,0 +1,243 @@
+{
+  "id": "en-impostor-supermarket-groceries",
+  "title": "Supermarket Grocery Items",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Milk",
+      "hint": "Early start",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eggs",
+      "hint": "Spring morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bread",
+      "hint": "Lazy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Butter",
+      "hint": "Late night snack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheese",
+      "hint": "Midnight fridge raid",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apples",
+      "hint": "School lunchbox",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bananas",
+      "hint": "Grab-and-go breakfast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carrots",
+      "hint": "Winter garden",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Potatoes",
+      "hint": "Hungry Saturday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rice",
+      "hint": "Batch cooking",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toilet roll",
+      "hint": "Big shopping trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tea bags",
+      "hint": "Sick day sofa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chocolate",
+      "hint": "Surprise treat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crisps",
+      "hint": "Lazy film night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ketchup",
+      "hint": "Park picnic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jam",
+      "hint": "Village fete",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olive oil",
+      "hint": "Cooking show",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flour",
+      "hint": "Rainy day project",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Frozen peas",
+      "hint": "Freezer dig",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tinned tomatoes",
+      "hint": "Broke flatmates",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cereal",
+      "hint": "Sleepover breakfast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oat milk",
+      "hint": "Vegan Tuesday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sugar",
+      "hint": "Office kitchen",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Garlic",
+      "hint": "Stinky breath",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Onions",
+      "hint": "Weeknight dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lettuce",
+      "hint": "Light lunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spinach",
+      "hint": "New Year diet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Batteries",
+      "hint": "Dead alarm clock",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Light bulbs",
+      "hint": "Dark hallway",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kitchen roll",
+      "hint": "Morning mess",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Washing up liquid",
+      "hint": "After the feast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bicarbonate of soda",
+      "hint": "Late-night indigestion",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cornflour",
+      "hint": "Dinner rescue",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lentils",
+      "hint": "Meat-free Monday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Capers",
+      "hint": "Fancy plate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sultanas",
+      "hint": "Pudding night",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bay leaves",
+      "hint": "Grandma's soup",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mustard",
+      "hint": "Summer lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vinegar",
+      "hint": "Seaside stroll",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stock cube",
+      "hint": "Cold-day cooking",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bacon",
+      "hint": "Morning sizzle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasta",
+      "hint": "Hungry teenagers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheddar",
+      "hint": "Cold packed lunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cucumber",
+      "hint": "Spa afternoon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coffee",
+      "hint": "Monday morning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porridge oats",
+      "hint": "Winter breakfast",
+      "difficulty": "medium"
+    }
+  ]
+}

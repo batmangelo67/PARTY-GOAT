@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-world-cup",
+  "title": "Mondiali e nazionali",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Italia",
+      "hint": "Brividi da stadio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brasile",
+      "hint": "Gioco di gioia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Argentina",
+      "hint": "Passione infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Germania",
+      "hint": "Sfida storica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Francia",
+      "hint": "Giovani talenti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spagna",
+      "hint": "Ritmo dell'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Inghilterra",
+      "hint": "Attesa infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olanda",
+      "hint": "Sfortuna in finale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uruguay",
+      "hint": "Storia di pionieri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portogallo",
+      "hint": "Nostalgia del mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Camerun",
+      "hint": "Grinta da outsider",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stati Uniti",
+      "hint": "Calcio in crescita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giappone",
+      "hint": "Piccolo ma prezioso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Corea del Sud",
+      "hint": "Gruppo di ferro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marocco",
+      "hint": "Squadra da seguire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nigeria",
+      "hint": "Gioia contagiosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Messico",
+      "hint": "Serata calda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Croazia",
+      "hint": "Piccola grande squadra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maracanã",
+      "hint": "Mare di gente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mondiale 1982",
+      "hint": "Brividi d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zico",
+      "hint": "Anni di magia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Klinsmann",
+      "hint": "Idee nuove",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beckenbauer",
+      "hint": "Stile e pazienza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Platini",
+      "hint": "Lento e sicuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cannavaro",
+      "hint": "Ritmo e disciplina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Klose",
+      "hint": "Freddo sotto porta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hagi",
+      "hint": "Piedi di velluto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gerd Müller",
+      "hint": "Gol da area",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jules Rimet",
+      "hint": "Dietro le quinte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doha",
+      "hint": "Mondiali in autunno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vuvuzela",
+      "hint": "Mal d'orecchie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Telstar",
+      "hint": "Vecchio pallone",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wembley",
+      "hint": "Ricordi di bambino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Azzurri",
+      "hint": "Squadra di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gigi Riva",
+      "hint": "Eroe di sempre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Matthäus",
+      "hint": "Anni novanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Girone",
+      "hint": "Fasi iniziali",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mondiale 1930",
+      "hint": "Primo viaggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Commissario tecnico",
+      "hint": "Decisioni all'ultimo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scarpa d'oro",
+      "hint": "Gol a valanga",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Finale 1994",
+      "hint": "Lacrime d'estate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Supplementari",
+      "hint": "Stanchezza infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Inno nazionale",
+      "hint": "Mano sul cuore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quattro stelle",
+      "hint": "Tanti anni dopo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mascotte",
+      "hint": "Regalo ai bambini",
+      "difficulty": "hard"
+    }
+  ]
+}

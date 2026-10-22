@@ -36,7 +36,7 @@ export function BombPlayScreen() {
   const leave = useLeaveGame();
   const players = usePlayersStore((state) => state.players);
   const config = useBombConfig();
-  const packs = useSelectedPacks(BOMB_ID, "words", config.packIds);
+  const packs = useSelectedPacks(BOMB_ID, "prompts", config.packIds);
   const { explosions, addExplosion, resetExplosions } = useExplosionsStore();
   const valid = players.length >= MIN_PLAYERS && packs.length > 0;
 
@@ -63,7 +63,7 @@ export function BombPlayScreen() {
   if (!valid || !category) return <Navigate to={SETUP_PATH} replace />;
 
   const holderName = players[holder.index]?.name ?? "?";
-  const skipCategory = () => setCategory(pickCategory(packs, category.packId));
+  const skipCategory = () => setCategory(pickCategory(packs, category.itemId));
 
   const lightFuse = () => {
     unlockAudio();
@@ -101,7 +101,7 @@ export function BombPlayScreen() {
     <div className="text-center">
       <p className="text-sm font-bold uppercase tracking-widest text-muted">{t("bomb.play.category")}</p>
       <p className="mt-1 break-words text-5xl font-black leading-tight tracking-tight text-accent">{category.title}</p>
-      {config.showExample && <p className="mt-2 text-lg text-muted">{t("bomb.play.example", { word: category.example })}</p>}
+      {config.showExample && category.example && <p className="mt-2 text-lg text-muted">{t("bomb.play.example", { word: category.example })}</p>}
     </div>
   );
 

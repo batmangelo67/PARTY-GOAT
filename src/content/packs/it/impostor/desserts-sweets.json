@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-desserts-sweets",
+  "title": "Dolci e dessert",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Tiramisù",
+      "hint": "Fine pasto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panna cotta",
+      "hint": "Festa di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gelato",
+      "hint": "Sole d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brownie",
+      "hint": "Festa di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Muffin",
+      "hint": "Merenda in ufficio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cupcake",
+      "hint": "Festa a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crème brûlée",
+      "hint": "San Valentino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mousse al cioccolato",
+      "hint": "Cena romantica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zeppole",
+      "hint": "Marzo in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheesecake",
+      "hint": "Pomeriggio tra amiche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Macarons",
+      "hint": "Regalo speciale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Churros",
+      "hint": "Festa di paese",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waffle",
+      "hint": "Brunch di domenica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Torta della nonna",
+      "hint": "Ricordi d'infanzia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crostata",
+      "hint": "Merenda di campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Profiteroles",
+      "hint": "Festa di nozze",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brioche",
+      "hint": "Colazione al bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sorbetto",
+      "hint": "Pausa tra portate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cantucci",
+      "hint": "Pausa del pomeriggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pandoro",
+      "hint": "Tavola di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panettone",
+      "hint": "Regalo di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Strudel",
+      "hint": "Pomeriggio d'autunno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Krapfen",
+      "hint": "Inverno in piazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Semifreddo",
+      "hint": "Dessert veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bomboloni",
+      "hint": "Colazione in spiaggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Millefoglie",
+      "hint": "Festa della mamma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baci di dama",
+      "hint": "Dolce da tè",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tarte tatin",
+      "hint": "Autunno in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crème caramel",
+      "hint": "Cena in trattoria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Torta di mele",
+      "hint": "Merenda autunnale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zabaione",
+      "hint": "Coccola d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Meringhe",
+      "hint": "Festa dei bambini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cannoli",
+      "hint": "Passeggiata della domenica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sfogliatella",
+      "hint": "Dolce del mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bugie",
+      "hint": "Festa di Carnevale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Savoiardi",
+      "hint": "Coccola di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cassata",
+      "hint": "Festa d'estate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pastiera",
+      "hint": "Pranzo di Pasqua",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kaiserschmarrn",
+      "hint": "Colazione in rifugio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bienenstich",
+      "hint": "Pomeriggio al parco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sachertorte",
+      "hint": "Pausa in caffetteria",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pavlova",
+      "hint": "Brindisi di Capodanno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tarta de Santiago",
+      "hint": "Pausa sul sentiero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kanelbullar",
+      "hint": "Pausa caffè",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gulab jamun",
+      "hint": "Pasto di nozze",
+      "difficulty": "hard"
+    }
+  ]
+}

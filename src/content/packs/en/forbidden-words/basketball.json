@@ -1,0 +1,464 @@
+{
+  "id": "en-forbidden-words-basketball",
+  "title": "Basketball",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Dunk",
+      "banned": [
+        "Slam",
+        "Rim",
+        "Jump",
+        "Air"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hoop",
+      "banned": [
+        "Rim",
+        "Net",
+        "Basket",
+        "Ring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Court",
+      "banned": [
+        "Floor",
+        "Sneakers",
+        "Lines",
+        "Arena"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Free throw",
+      "banned": [
+        "Foul line",
+        "Uncontested",
+        "Penalty shot",
+        "Charity stripe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Three-pointer",
+      "banned": [
+        "Long shot",
+        "Arc",
+        "Behind the line",
+        "Trey"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Layup",
+      "banned": [
+        "Close shot",
+        "Glass",
+        "Easy basket",
+        "Board"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dribble",
+      "banned": [
+        "Bounce",
+        "Handle",
+        "Ball",
+        "Crossover"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rebound",
+      "banned": [
+        "Board",
+        "Grab",
+        "Miss",
+        "Second chance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Assist",
+      "banned": [
+        "Pass",
+        "Setup",
+        "Helper",
+        "Dime"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foul",
+      "banned": [
+        "Whistle",
+        "Contact",
+        "Penalty",
+        "Illegal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Timeout",
+      "banned": [
+        "Pause",
+        "Coach",
+        "Huddle",
+        "Break"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Steal",
+      "banned": [
+        "Swipe",
+        "Intercept",
+        "Pickpocket",
+        "Snatch"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Block",
+      "banned": [
+        "Swat",
+        "Rejection",
+        "Wall",
+        "Stuff"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Backboard",
+      "banned": [
+        "Glass",
+        "Square",
+        "Rim",
+        "Plexiglass"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Buzzer beater",
+      "banned": [
+        "Final second",
+        "Clock",
+        "Horn",
+        "Last shot"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Turnover",
+      "banned": [
+        "Giveaway",
+        "Lost ball",
+        "Error",
+        "Bad pass"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jump ball",
+      "banned": [
+        "Tip-off",
+        "Center circle",
+        "Referee",
+        "Toss"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jersey",
+      "banned": [
+        "Shirt",
+        "Number",
+        "Kit",
+        "Uniform"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alley-oop",
+      "banned": [
+        "Lob",
+        "Pass in the air",
+        "Catch",
+        "Highlight"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crossover",
+      "banned": [
+        "Ankle breaker",
+        "Dribble move",
+        "Hesitation",
+        "Step over"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fast break",
+      "banned": [
+        "Counterattack",
+        "Sprint",
+        "Quick",
+        "Transition"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shot clock",
+      "banned": [
+        "24 seconds",
+        "Timer",
+        "Countdown",
+        "Possession limit"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Air ball",
+      "banned": [
+        "Missed shot",
+        "Brick",
+        "Clank",
+        "Bad rim"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Point guard",
+      "banned": [
+        "Playmaker",
+        "PG",
+        "Floor general",
+        "Ball handler"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Triple-double",
+      "banned": [
+        "Ten or more",
+        "Stat line",
+        "Three stats",
+        "Big night"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pick and roll",
+      "banned": [
+        "Screen",
+        "Dribble around",
+        "Two-man game",
+        "Set play"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Full-court press",
+      "banned": [
+        "Swarm",
+        "Whole court",
+        "Trap",
+        "Relentless"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bench",
+      "banned": [
+        "Reserves",
+        "Substitutes",
+        "Seat",
+        "Sideline"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Overtime",
+      "banned": [
+        "Extra period",
+        "Five more minutes",
+        "Tied",
+        "Extra time"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Playoffs",
+      "banned": [
+        "Postseason",
+        "Finals",
+        "Knockout",
+        "Championship"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Draft",
+      "banned": [
+        "Picks",
+        "Rookies",
+        "Lottery",
+        "Selection"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Travel",
+      "banned": [
+        "Walking",
+        "Steps",
+        "Moving feet",
+        "Violation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Center",
+      "banned": [
+        "Big man",
+        "Tall",
+        "Middle",
+        "Rim protector"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hall of Fame",
+      "banned": [
+        "Springfield",
+        "Legends",
+        "Induction",
+        "Museum"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sixth man",
+      "banned": [
+        "Reserve",
+        "Bench",
+        "Star off bench",
+        "Starter role"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mascot",
+      "banned": [
+        "Costume",
+        "Fans",
+        "Team character",
+        "Furry"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Euro step",
+      "banned": [
+        "Spin",
+        "Layup",
+        "Lane",
+        "Footwork"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zone defense",
+      "banned": [
+        "Man-to-man",
+        "Areas",
+        "Sag",
+        "Two-three"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Box out",
+      "banned": [
+        "Position",
+        "Body",
+        "Rebound",
+        "Hold"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Give-and-go",
+      "banned": [
+        "Pass back",
+        "Cut",
+        "Return pass",
+        "Quick"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Screen",
+      "banned": [
+        "Pick",
+        "Block",
+        "Shield",
+        "Teammate"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hockey assist",
+      "banned": [
+        "Second pass",
+        "Pass before the pass",
+        "Setup pass",
+        "Chain pass"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stepback",
+      "banned": [
+        "Retreat",
+        "Jumper",
+        "Fadeaway",
+        "Pull-up"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triangle offense",
+      "banned": [
+        "Phil Jackson",
+        "Post play",
+        "Weak side",
+        "Motion"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pivot",
+      "banned": [
+        "Big man",
+        "Turn",
+        "Post",
+        "Foot"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

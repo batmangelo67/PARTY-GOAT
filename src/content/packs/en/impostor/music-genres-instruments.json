@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-music-genres-instruments",
+  "title": "Music Genres & Instruments",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Piano",
+      "hint": "Wedding reception",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drums",
+      "hint": "Noisy neighbours",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Guitar",
+      "hint": "Campfire singalong",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trumpet",
+      "hint": "Parade day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harp",
+      "hint": "Fairy tale castle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Banjo",
+      "hint": "Sunday porch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harmonica",
+      "hint": "Train station busker",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ukulele",
+      "hint": "Beach holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bagpipes",
+      "hint": "Ceremony moment",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cello",
+      "hint": "Romantic film scene",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reggae",
+      "hint": "Chilled Sunday vibes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jazz",
+      "hint": "Smoky late bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rock",
+      "hint": "Loud stadium",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hip-hop",
+      "hint": "Block party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Country",
+      "hint": "Pickup truck trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disco",
+      "hint": "Roller rink night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Opera",
+      "hint": "Dramatic tears",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Techno",
+      "hint": "Warehouse rave",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marimba",
+      "hint": "Tropical market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sitar",
+      "hint": "Meditation retreat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mandolin",
+      "hint": "Late-night courtship",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bassoon",
+      "hint": "Grumpy music teacher",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oboe",
+      "hint": "Off-key moments",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clarinet",
+      "hint": "1930s ballroom",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trombone",
+      "hint": "Marching band practice",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Synthesizer",
+      "hint": "Eighties mixtape",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Theremin",
+      "hint": "Sci-fi 1950s movie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blues",
+      "hint": "Rainy Sunday mood",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Punk",
+      "hint": "Angry teenager phase",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Salsa",
+      "hint": "Hip-swaying night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Funk",
+      "hint": "Sweat and sequins",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gospel",
+      "hint": "Soul-lifting Sunday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Afrobeat",
+      "hint": "Endless groove",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bossa nova",
+      "hint": "Gentle cafe mood",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flamenco",
+      "hint": "Fiery heartbreak",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Samba",
+      "hint": "Summer street dance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shoegaze",
+      "hint": "Dreamy haze",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vaporwave",
+      "hint": "Nostalgic glitch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zydeco",
+      "hint": "Dance hall Saturday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dubstep",
+      "hint": "Festival wobble",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ambient",
+      "hint": "Sleep aid",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hurdy-gurdy",
+      "hint": "Dusty museum visit",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ocarina",
+      "hint": "Childhood whistle",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dulcimer",
+      "hint": "Quiet hillside evening",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Didgeridoo",
+      "hint": "Ancient cave echo",
+      "difficulty": "hard"
+    }
+  ]
+}

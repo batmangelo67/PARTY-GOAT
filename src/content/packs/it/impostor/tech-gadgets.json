@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-tech-gadgets",
+  "title": "Tecnologia e gadget",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "Smartphone",
+      "hint": "Sveglia alle sette",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Laptop",
+      "hint": "Caffè in biblioteca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tablet",
+      "hint": "Mattina a letto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smartwatch",
+      "hint": "Tempo che scorre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Auricolari",
+      "hint": "Metro affollata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drone",
+      "hint": "Festa in giardino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Powerbank",
+      "hint": "Viaggio in aereo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Router",
+      "hint": "Notte in bianco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stampante",
+      "hint": "Compito da consegnare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Webcam",
+      "hint": "Capelli appena lavati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Joystick",
+      "hint": "Divano e cuscini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chiavetta USB",
+      "hint": "Compiti da portare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caricabatterie",
+      "hint": "Comodino di sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smart TV",
+      "hint": "Salotto domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fotocamera",
+      "hint": "Vacanze d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Microfono",
+      "hint": "Serata di ballo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Proiettore",
+      "hint": "Serata all'aperto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Robot aspirapolvere",
+      "hint": "Gatto spaventato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kindle",
+      "hint": "Pausa lunga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fitbit",
+      "hint": "Sfida di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hard disk",
+      "hint": "Scaffale di nonno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scanner",
+      "hint": "Documenti da firmare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Action cam",
+      "hint": "Estate avventurosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smart ring",
+      "hint": "Sveglia alla luce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alexa",
+      "hint": "Domanda improvvisa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plotter",
+      "hint": "Progetto di cantiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smart speaker",
+      "hint": "Cucina affollata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gimbal",
+      "hint": "Gita in bici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ricarica a induzione",
+      "hint": "Tavolo del bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Visore VR",
+      "hint": "Viaggio immaginario",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mouse",
+      "hint": "Scrivania ordinata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tastiera meccanica",
+      "hint": "Vicini che bussano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hub USB",
+      "hint": "Caos sul tavolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monitor curvo",
+      "hint": "Maratona di lavoro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cavo HDMI",
+      "hint": "Dietro al mobile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lettore MP3",
+      "hint": "Compilation d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Raspberry Pi",
+      "hint": "Progetto del weekend",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arduino",
+      "hint": "Notte in garage",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Modem",
+      "hint": "Attesa infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "SSD",
+      "hint": "Tempo risparmiato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bluetooth",
+      "hint": "Musica in tasca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scheda madre",
+      "hint": "Pomeriggio di montaggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Termostato",
+      "hint": "Lite sul riscaldamento",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wi-Fi",
+      "hint": "Password dimenticata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ethernet",
+      "hint": "Ufficio d'altri tempi",
+      "difficulty": "hard"
+    }
+  ]
+}

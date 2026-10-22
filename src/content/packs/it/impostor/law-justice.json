@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-law-justice",
+  "title": "Diritto e giustizia",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Giudice",
+      "hint": "Tutti in piedi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tribunale",
+      "hint": "Ore di coda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Processo",
+      "hint": "Puntata senza fine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sentenza",
+      "hint": "Respiro trattenuto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Verdetto",
+      "hint": "Cuore in gola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Testimone",
+      "hint": "Ricordo a metà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giuria",
+      "hint": "Estranei responsabili",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Imputato",
+      "hint": "Sudore sulla fronte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reato",
+      "hint": "Scelta sbagliata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Appello",
+      "hint": "Ripensarci",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Contratto",
+      "hint": "Accordo a voce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Querela",
+      "hint": "Vicino arrabbiato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Multa",
+      "hint": "Ritardo al parcheggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Condanna",
+      "hint": "Giorni infiniti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Assoluzione",
+      "hint": "Sospiro di sollievo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alibi",
+      "hint": "Scusa pronta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Indagine",
+      "hint": "Filo da seguire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prova",
+      "hint": "Dettaglio dimenticato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ricorso",
+      "hint": "Non mi arrendo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cassazione",
+      "hint": "Ultima fermata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mediazione",
+      "hint": "Caffè tra vicini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arbitrato",
+      "hint": "Regole del campo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Usucapione",
+      "hint": "Orto ormai tuo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Locazione",
+      "hint": "Traslochi di settembre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eredità",
+      "hint": "Litigi per l'orologio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Divorzio",
+      "hint": "Anello nel cassetto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Affidamento",
+      "hint": "Weekend a metà",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Testamento",
+      "hint": "Parenti in attesa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ipoteca",
+      "hint": "Trent'anni di rate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pignoramento",
+      "hint": "Busta rossa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fideiussione",
+      "hint": "Firma dell'amico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diffamazione",
+      "hint": "Voce che gira",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Prescrizione",
+      "hint": "Troppo tardi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Risarcimento",
+      "hint": "Assicurazione in ritardo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Intercettazione",
+      "hint": "Voce registrata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Patteggiamento",
+      "hint": "Mezza verità",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ergastolo",
+      "hint": "Anni senza finestre",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Latitanza",
+      "hint": "Vita da nomade",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Estradizione",
+      "hint": "Passaporto in mano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cavillo",
+      "hint": "Virgola fuori posto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Usura",
+      "hint": "Prestito troppo caro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Surrogazione",
+      "hint": "Ponte tra banche",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Interdizione",
+      "hint": "Mani legate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chiamata in correità",
+      "hint": "Lista di nomi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cauzione",
+      "hint": "Libertà a pagamento",
+      "difficulty": "hard"
+    }
+  ]
+}

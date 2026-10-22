@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-fashion-brands",
+  "title": "Marchi di moda e abbigliamento",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Gucci",
+      "hint": "Vetrina di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prada",
+      "hint": "Sabato al museo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nike",
+      "hint": "Corsa mattutina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Adidas",
+      "hint": "Campetto di periferia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zara",
+      "hint": "Shopping del sabato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burberry",
+      "hint": "Giornata di nebbia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chanel",
+      "hint": "Cena elegante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Louis Vuitton",
+      "hint": "Aeroporto in partenza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dior",
+      "hint": "Ballo di debutto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calvin Klein",
+      "hint": "Vetrina in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ralph Lauren",
+      "hint": "Weekend in barca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tommy Hilfiger",
+      "hint": "Pomeriggio al parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Converse",
+      "hint": "Concerto punk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Puma",
+      "hint": "Gara di velocità",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Versace",
+      "hint": "Festa in terrazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Armani",
+      "hint": "Sera di premiazioni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "H&M",
+      "hint": "Carrello pieno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Levi's",
+      "hint": "Sabato in giro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valentino",
+      "hint": "Grande ballo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fendi",
+      "hint": "Pranzo tra amiche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Missoni",
+      "hint": "Pranzo di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Benetton",
+      "hint": "Terrazza in primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diesel",
+      "hint": "Sabato in discoteca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moschino",
+      "hint": "Sfilata di Carnevale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hermès",
+      "hint": "Ricevimento di nozze",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lacoste",
+      "hint": "Pomeriggio d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Balenciaga",
+      "hint": "Serata da influencer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Max Mara",
+      "hint": "Riunione in ufficio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stone Island",
+      "hint": "Gita in motorino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moncler",
+      "hint": "Weekend in baita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ray-Ban",
+      "hint": "Sole accecante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kappa",
+      "hint": "Partita di calcetto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geox",
+      "hint": "Giornata in piedi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Furla",
+      "hint": "Pausa pranzo veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Timberland",
+      "hint": "Lavoro nei campi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferragamo",
+      "hint": "Premiere al cinema",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zegna",
+      "hint": "Colloquio di lavoro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brioni",
+      "hint": "Brindisi con champagne",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Etro",
+      "hint": "Regalo di laurea",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Miu Miu",
+      "hint": "Festa di compleanno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pinko",
+      "hint": "Aperitivo estivo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kiton",
+      "hint": "Cena di Capodanno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tod's",
+      "hint": "Passeggiata in centro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bottega Veneta",
+      "hint": "Cena tra amici",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fila",
+      "hint": "Compagni di scuola",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-esports-competitive",
+  "title": "Esports & Competitive Titles",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "League of Legends",
+      "hint": "Ranked nerves",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dota 2",
+      "hint": "Long matches",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Counter-Strike",
+      "hint": "Final round",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valorant",
+      "hint": "Secret mission",
+      "difficulty": "easy"
+    },
+    {
+      "word": "StarCraft",
+      "hint": "Old-school rivals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apex Legends",
+      "hint": "Dropping in",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tekken",
+      "hint": "Family grudges",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warcraft",
+      "hint": "Late-night raids",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Age of Empires",
+      "hint": "History lessons",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rainbow Six Siege",
+      "hint": "Tactical teamwork",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smite",
+      "hint": "Old legends",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paladins",
+      "hint": "Team banter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hearthstone",
+      "hint": "Cards on Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heroes of the Storm",
+      "hint": "Brawl night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PUBG",
+      "hint": "Camping trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quake",
+      "hint": "Shaky ground",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mobile Legends",
+      "hint": "Pocket battles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "eFootball",
+      "hint": "Sunday league",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teamfight Tactics",
+      "hint": "Chess cousin",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marvel Rivals",
+      "hint": "Comic shop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marvel vs. Capcom",
+      "hint": "Teen rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trackmania",
+      "hint": "Personal best",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Team Fortress 2",
+      "hint": "Cartoon mayhem",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diablo",
+      "hint": "Blood moon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gears of War",
+      "hint": "Gritty war films",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Unreal Tournament",
+      "hint": "Ranking ladder",
+      "difficulty": "medium"
+    },
+    {
+      "word": "iRacing",
+      "hint": "Driving school",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dead by Daylight",
+      "hint": "Campfire stories",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Honor of Kings",
+      "hint": "Noble rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MTG Arena",
+      "hint": "Kitchen table",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Injustice 2",
+      "hint": "Fight night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The King of Fighters",
+      "hint": "Tag team night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Escape from Tarkov",
+      "hint": "Pure stress",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Battlerite",
+      "hint": "Quick rematch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hunt: Showdown",
+      "hint": "Late-night stakeouts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost Recon",
+      "hint": "Military movie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guilty Gear",
+      "hint": "Heavy metal",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Warframe",
+      "hint": "Endless loot",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Killer Instinct",
+      "hint": "Quick reflexes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lost Ark",
+      "hint": "Endless grind",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Splitgate",
+      "hint": "Chaotic fun",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skullgirls",
+      "hint": "Cute and deadly",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vainglory",
+      "hint": "Early smartphones",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gwent",
+      "hint": "Gambler's luck",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fatal Fury",
+      "hint": "Cheesy 90s",
+      "difficulty": "hard"
+    }
+  ]
+}

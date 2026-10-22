@@ -1,0 +1,297 @@
+{
+  "id": "en-circa-football",
+  "title": "Football",
+  "language": "en",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "question": "In what year did Brazil win their first World Cup?",
+      "answer": 1958,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Italy win the World Cup for the first time?",
+      "decoyAnswer": 1934
+    },
+    {
+      "question": "In what year did England win the World Cup?",
+      "answer": 1966,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Argentina win their first World Cup?",
+      "decoyAnswer": 1978
+    },
+    {
+      "question": "In what year was the first FIFA World Cup held?",
+      "answer": 1930,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the first European Nations' Cup, now Euro, held?",
+      "decoyAnswer": 1960
+    },
+    {
+      "question": "In what year did Italy win the European Championship for the first time?",
+      "answer": 1968,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Spain win the European Championship for the first time?",
+      "decoyAnswer": 1964
+    },
+    {
+      "question": "In what year did Italy win their fourth World Cup?",
+      "answer": 2006,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Spain win their first World Cup?",
+      "decoyAnswer": 2010
+    },
+    {
+      "question": "In what year did Juventus win the European Cup?",
+      "answer": 1985,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did AC Milan win their first European Cup?",
+      "decoyAnswer": 1963
+    },
+    {
+      "question": "In what year did Manchester United win their first Champions League?",
+      "answer": 1999,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Barcelona win their first European Cup?",
+      "decoyAnswer": 1992
+    },
+    {
+      "question": "In what year did Liverpool win the Champions League final in Istanbul?",
+      "answer": 2005,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Chelsea win their first Champions League?",
+      "decoyAnswer": 2012
+    },
+    {
+      "question": "In what year did Maradona's 'Hand of God' goal happen at the World Cup?",
+      "answer": 1986,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Pele win his first World Cup?",
+      "decoyAnswer": 1958
+    },
+    {
+      "question": "How many players from one team are on the pitch in football?",
+      "answer": 11,
+      "unit": "players",
+      "format": "number",
+      "decoyQuestion": "How many players from one team are on the pitch in rugby union?",
+      "decoyAnswer": 15
+    },
+    {
+      "question": "How many minutes is a standard football match, not counting extra time?",
+      "answer": 90,
+      "unit": "minutes",
+      "format": "number",
+      "decoyQuestion": "How many minutes is a standard rugby union match?",
+      "decoyAnswer": 80
+    },
+    {
+      "question": "How many metres from the goal line is the penalty spot?",
+      "answer": 11,
+      "unit": "metres",
+      "format": "number",
+      "decoyQuestion": "How many metres from the goal line is the edge of the penalty area?",
+      "decoyAnswer": 16.5
+    },
+    {
+      "question": "How many metres wide is a football goal, inside the posts?",
+      "answer": 7.32,
+      "unit": "metres",
+      "format": "number",
+      "decoyQuestion": "How many metres high is a football goal crossbar?",
+      "decoyAnswer": 2.44
+    },
+    {
+      "question": "How many FIFA World Cup titles has Brazil won?",
+      "answer": 5,
+      "unit": "titles",
+      "format": "number",
+      "asOf": 2022,
+      "decoyQuestion": "How many FIFA World Cup titles has Germany won?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "How many Ballon d'Or awards has Lionel Messi won?",
+      "answer": 8,
+      "unit": "awards",
+      "format": "number",
+      "asOf": 2023,
+      "decoyQuestion": "How many Ballon d'Or awards has Cristiano Ronaldo won?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In what year was the first European Cup final played?",
+      "answer": 1956,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Premier League begin?",
+      "decoyAnswer": 1992
+    },
+    {
+      "question": "In what year was the English Football League founded?",
+      "answer": 1888,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Real Madrid win their first European Cup?",
+      "decoyAnswer": 1956
+    },
+    {
+      "question": "How many countries have won the FIFA World Cup?",
+      "answer": 8,
+      "unit": "countries",
+      "format": "number",
+      "asOf": 2022,
+      "decoyQuestion": "How many teams played in the 2022 World Cup finals?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "In what year did France win the World Cup for the first time?",
+      "answer": 1998,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did West Germany win the World Cup for the first time?",
+      "decoyAnswer": 1954
+    },
+    {
+      "question": "In what year did Argentina win their third World Cup?",
+      "answer": 2022,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did France win their second World Cup?",
+      "decoyAnswer": 2018
+    },
+    {
+      "question": "In what year did Spain win the World Cup?",
+      "answer": 2010,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Italy host the World Cup?",
+      "decoyAnswer": 1990
+    },
+    {
+      "question": "In what year did the USA host the men's World Cup?",
+      "answer": 1994,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Qatar host the men's World Cup?",
+      "decoyAnswer": 2022
+    },
+    {
+      "question": "In what year did Germany host the World Cup?",
+      "answer": 2006,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Russia host the World Cup?",
+      "decoyAnswer": 2018
+    },
+    {
+      "question": "How many metres is the radius of a football centre circle?",
+      "answer": 9.15,
+      "unit": "metres",
+      "format": "number",
+      "decoyQuestion": "How many metres from the goal line is the edge of the penalty area?",
+      "decoyAnswer": 16.5
+    },
+    {
+      "question": "In what year did Brazil win the World Cup in Mexico?",
+      "answer": 1970,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Uruguay win the World Cup?",
+      "decoyAnswer": 1950
+    },
+    {
+      "question": "How many goals did England score in the 1966 World Cup final?",
+      "answer": 4,
+      "unit": "goals",
+      "format": "number",
+      "decoyQuestion": "How many goals did Brazil score in the 1958 World Cup final?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In what year did Eusebio win the World Cup Golden Boot?",
+      "answer": 1966,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Gerd Muller win the World Cup Golden Boot?",
+      "decoyAnswer": 1970
+    },
+    {
+      "question": "How many World Cup goals did Pele score?",
+      "answer": 12,
+      "unit": "goals",
+      "format": "number",
+      "decoyQuestion": "How many World Cup goals did Miroslav Klose score?",
+      "decoyAnswer": 16
+    },
+    {
+      "question": "In what year did Diego Maradona join Napoli?",
+      "answer": 1984,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Diego Maradona join Barcelona?",
+      "decoyAnswer": 1982
+    },
+    {
+      "question": "In what year did Italy win their third World Cup?",
+      "answer": 1982,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Italy win their second World Cup?",
+      "decoyAnswer": 1938
+    },
+    {
+      "question": "In what year did West Germany win the World Cup in Italy?",
+      "answer": 1990,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Germany last win the European Championship?",
+      "decoyAnswer": 1996
+    },
+    {
+      "question": "How many league points does a win earn in most football leagues?",
+      "answer": 3,
+      "unit": "points",
+      "format": "number",
+      "decoyQuestion": "How many league points does a draw earn in most football leagues?",
+      "decoyAnswer": 1
+    },
+    {
+      "question": "How many group-stage matches does each team play at a World Cup?",
+      "answer": 3,
+      "unit": "matches",
+      "format": "number",
+      "decoyQuestion": "How many group-stage matches did each team play in the Champions League before 2024?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "How many players per team are on the pitch in futsal, including the goalkeeper?",
+      "answer": 5,
+      "unit": "players",
+      "format": "number",
+      "decoyQuestion": "How many players per team are on the ice in ice hockey, including the goalie?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "In what year did Argentina host and win a World Cup?",
+      "answer": 1978,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Mexico host its first World Cup?",
+      "decoyAnswer": 1970
+    }
+  ]
+}

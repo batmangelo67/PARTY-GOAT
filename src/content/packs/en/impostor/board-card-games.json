@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-board-card-games",
+  "title": "Board Games & Card Games",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Monopoly",
+      "hint": "Family argument",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chess",
+      "hint": "Grandad's game",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uno",
+      "hint": "Holiday camp",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poker",
+      "hint": "Smoky backroom",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jenga",
+      "hint": "Nervous laughter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Twister",
+      "hint": "Awkward fun",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Connect Four",
+      "hint": "Quick match",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Checkers",
+      "hint": "Park benches",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dominoes",
+      "hint": "Pub table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Battleship",
+      "hint": "Navy movie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Blackjack",
+      "hint": "Casino night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spoons",
+      "hint": "Frantic hands",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bingo",
+      "hint": "Village hall",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yahtzee",
+      "hint": "Lucky streak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mahjong",
+      "hint": "Grandma's table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Go Fish",
+      "hint": "Kids' game",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tic-tac-toe",
+      "hint": "Bored in class",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hangman",
+      "hint": "Teacher's board",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catan",
+      "hint": "Family holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Risk",
+      "hint": "Long afternoon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clue",
+      "hint": "Dinner party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trivial Pursuit",
+      "hint": "Show-off",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ticket to Ride",
+      "hint": "Sunday trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pandemic",
+      "hint": "Hand sanitizer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dixit",
+      "hint": "Story time",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Exploding Kittens",
+      "hint": "Ticking clock",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Codenames",
+      "hint": "Clever clues",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pictionary",
+      "hint": "Bad drawings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Charades",
+      "hint": "Acting class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mastermind",
+      "hint": "Brain bending",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stratego",
+      "hint": "Battle plans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Operation",
+      "hint": "Hospital drama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hearts",
+      "hint": "Winter evenings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rummy",
+      "hint": "Sunday cards",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scrabble",
+      "hint": "Dictionary dispute",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Backgammon",
+      "hint": "Ancient empires",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trouble",
+      "hint": "Impatient kids",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mousetrap",
+      "hint": "Silly contraption",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cranium",
+      "hint": "Party tricks",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Balderdash",
+      "hint": "Make believe",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bridge",
+      "hint": "Old-timers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Canasta",
+      "hint": "Retirement home",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Euchre",
+      "hint": "Farmhouse table",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shogi",
+      "hint": "Quiet concentration",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carcassonne",
+      "hint": "Tea and biscuits",
+      "difficulty": "hard"
+    }
+  ]
+}

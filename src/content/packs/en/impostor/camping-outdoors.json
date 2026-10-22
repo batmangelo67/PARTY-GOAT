@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-camping-outdoors",
+  "title": "Camping & Outdoor Activities",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Tent",
+      "hint": "Festival weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sleeping bag",
+      "hint": "Early bedtime",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campfire",
+      "hint": "Sing-along",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Backpack",
+      "hint": "School trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hammock",
+      "hint": "Afternoon nap",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flashlight",
+      "hint": "Scary noise",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Map",
+      "hint": "Treasure chase",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Compass",
+      "hint": "Sense of direction",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Binoculars",
+      "hint": "Football seats",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lantern",
+      "hint": "Fairy lights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fishing rod",
+      "hint": "Silent dawn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kayak",
+      "hint": "Summer splash",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stargazing",
+      "hint": "Blanket on grass",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cooler",
+      "hint": "Beach party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trail mix",
+      "hint": "Pocket snacks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hiking",
+      "hint": "Weekend walk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Headlamp",
+      "hint": "Midnight toilet trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hiking boots",
+      "hint": "Blister repair",
+      "difficulty": "easy"
+    },
+    {
+      "word": "S'mores",
+      "hint": "Toasting skills",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Axe",
+      "hint": "Fallen tree",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Camp stove",
+      "hint": "Morning brew",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rope",
+      "hint": "Rescue team",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bug spray",
+      "hint": "Dusk walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orienteering",
+      "hint": "Team challenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geocaching",
+      "hint": "Smartphone quest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Abseiling",
+      "hint": "Nervous laughter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zipline",
+      "hint": "Brave kids",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rock climbing",
+      "hint": "Mountain goat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rafting",
+      "hint": "Waterpark",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bird watching",
+      "hint": "Quiet morning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gold panning",
+      "hint": "Muddy hands",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thermos",
+      "hint": "Frosty dawn",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Air mattress",
+      "hint": "Sleepless night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wild camping",
+      "hint": "No toilets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Picnic blanket",
+      "hint": "Ants invasion",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Water bottle",
+      "hint": "Gym bag",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pocket knife",
+      "hint": "Grandad's gift",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tarpaulin",
+      "hint": "Emergency shelter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cairn",
+      "hint": "Foggy peak",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trekking poles",
+      "hint": "Retired hikers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dry bag",
+      "hint": "River crossing",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carabiner",
+      "hint": "Heavy keyring",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lean-to",
+      "hint": "Rainy break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bivouac",
+      "hint": "Bare minimum",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fire starter",
+      "hint": "Dinner delay",
+      "difficulty": "hard"
+    }
+  ]
+}

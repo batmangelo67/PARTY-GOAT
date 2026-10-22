@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-vehicles-transport",
+  "title": "Vehicles & Transportation",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Bicycle",
+      "hint": "Fitness goals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Car",
+      "hint": "Border queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bus",
+      "hint": "Late for work",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Train",
+      "hint": "Lost in thought",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Motorbike",
+      "hint": "Open road",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Double-decker",
+      "hint": "Bus stop gossip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Helicopter",
+      "hint": "Rescue mission",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Airplane",
+      "hint": "Holiday dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boat",
+      "hint": "Lazy river",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tractor",
+      "hint": "Harvest festival",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Cool kids",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moped",
+      "hint": "Student budget",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ambulance",
+      "hint": "Late shift",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fire truck",
+      "hint": "Sparklers at dusk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tram",
+      "hint": "Hilly city",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Submarine",
+      "hint": "Spy thriller",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Van",
+      "hint": "Band on tour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Truck",
+      "hint": "Roadside cafe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caravan",
+      "hint": "Road trip snacks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hot air balloon",
+      "hint": "Birthday surprise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cable car",
+      "hint": "Ski holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferry",
+      "hint": "Duty-free shopping",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canoe",
+      "hint": "Scout camp",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sailboat",
+      "hint": "Millionaire's day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jet ski",
+      "hint": "Adrenaline junkie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monorail",
+      "hint": "Sci-fi future",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuk-tuk",
+      "hint": "Backpacker trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Segway",
+      "hint": "Shopping mall",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Snowmobile",
+      "hint": "Snowy weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Go-kart",
+      "hint": "Dad challenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hovercraft",
+      "hint": "Rough sea",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Golf cart",
+      "hint": "Retirement fun",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pickup truck",
+      "hint": "Sofa delivery",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Limousine",
+      "hint": "Red carpet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rowboat",
+      "hint": "Sunday picnic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ice cream van",
+      "hint": "School holidays",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zeppelin",
+      "hint": "Old adverts",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gondola",
+      "hint": "Anniversary dinner",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Penny-farthing",
+      "hint": "Vintage photo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sled",
+      "hint": "Snow day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tank",
+      "hint": "Army parade",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hearse",
+      "hint": "Sombre mood",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Unicycle",
+      "hint": "Talent show",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tandem",
+      "hint": "Cycling date",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cargo ship",
+      "hint": "Harbour cranes",
+      "difficulty": "hard"
+    }
+  ]
+}

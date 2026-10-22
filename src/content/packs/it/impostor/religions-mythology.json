@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-religions-mythology",
+  "title": "Miti e religioni",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Zeus",
+      "hint": "Litigi in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Odino",
+      "hint": "Saggezza costosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thor",
+      "hint": "Temporale improvviso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atena",
+      "hint": "Mente strategica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Medusa",
+      "hint": "Specchio tradito",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pegaso",
+      "hint": "Fantasia sfrenata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minotauro",
+      "hint": "Sentiero senza uscita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cerbero",
+      "hint": "Porta blindata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apollo",
+      "hint": "Gara di canto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ercole",
+      "hint": "Stalla da pulire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pandora",
+      "hint": "Regalo proibito",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fenice",
+      "hint": "Dopo la tempesta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anubi",
+      "hint": "Viaggio nell'aldilà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valchiria",
+      "hint": "Battaglia all'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ermes",
+      "hint": "Corriere veloce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Persefone",
+      "hint": "Stagioni che cambiano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orfeo",
+      "hint": "Concerto triste",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giano",
+      "hint": "Fine dicembre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Osiride",
+      "hint": "Coppia divina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chimera",
+      "hint": "Notte di incubi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sfinge",
+      "hint": "Domanda a tradimento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Titano",
+      "hint": "Generazione dimenticata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Olimpo",
+      "hint": "Vista dalla vetta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ade",
+      "hint": "Traghetto per l'oltretomba",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valhalla",
+      "hint": "Brindisi eterno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ragnarok",
+      "hint": "Profezia del caos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quaresima",
+      "hint": "Pesce il venerdì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Avvento",
+      "hint": "Conto alla rovescia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ramadan",
+      "hint": "Luna nuova",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kippur",
+      "hint": "Resa dei conti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Karma",
+      "hint": "Ricompensa tardiva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oracolo",
+      "hint": "Consiglio del destino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eremita",
+      "hint": "Fuga dalla città",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mantra",
+      "hint": "Meditazione mattutina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mandala",
+      "hint": "Pazienza infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ierofante",
+      "hint": "Porta sbarrata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brahma",
+      "hint": "Inizio di tutto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pellegrinaggio",
+      "hint": "Lungo cammino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kami",
+      "hint": "Ombra nel bosco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prometeo",
+      "hint": "Ribellione lassù",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cupido",
+      "hint": "Cuori in disordine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Afrodite",
+      "hint": "Primo appuntamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Morfeo",
+      "hint": "Ultimo sbadiglio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buddha",
+      "hint": "Lezione di calma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ganesh",
+      "hint": "Fortuna in viaggio",
+      "difficulty": "medium"
+    }
+  ]
+}

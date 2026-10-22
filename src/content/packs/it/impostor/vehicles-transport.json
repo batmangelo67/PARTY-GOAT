@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-vehicles-transport",
+  "title": "Veicoli e trasporti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Automobile",
+      "hint": "Ingorgo del venerdì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bicicletta",
+      "hint": "Aria di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Autobus",
+      "hint": "Pioggia in fermata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Treno",
+      "hint": "Sciopero del lunedì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aereo",
+      "hint": "Vacanza in arrivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taxi",
+      "hint": "Notte in città",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Motorino",
+      "hint": "Semaforo verde",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Camion",
+      "hint": "Autostrada di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Metropolitana",
+      "hint": "Ore di punta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Traghetto",
+      "hint": "Mal di mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ambulanza",
+      "hint": "Corsa d'urgenza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elicottero",
+      "hint": "Film d'azione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trattore",
+      "hint": "Alba di campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Furgone",
+      "hint": "Tour musicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tram",
+      "hint": "Passeggiata in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monopattino",
+      "hint": "Ultimo miglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mongolfiera",
+      "hint": "Sorpresa di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sottomarino",
+      "hint": "Silenzio profondo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vaporetto",
+      "hint": "Foto da cartolina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gondola",
+      "hint": "Proposta di matrimonio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Funicolare",
+      "hint": "Salita a fatica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seggiovia",
+      "hint": "Freddo alle dita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Motoscafo",
+      "hint": "Weekend di lusso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carro attrezzi",
+      "hint": "Giornata storta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pullman",
+      "hint": "Canti in viaggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roulotte",
+      "hint": "Ferie improvvisate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tandem",
+      "hint": "Sintonia perfetta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gommone",
+      "hint": "Brivido in acqua",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rimorchio",
+      "hint": "Carico in viaggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Slitta",
+      "hint": "Regali di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pedalò",
+      "hint": "Pomeriggio di sole",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Risciò",
+      "hint": "Passeggiata lenta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carro armato",
+      "hint": "Parata militare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Idrovolante",
+      "hint": "Vacanza esclusiva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canoa",
+      "hint": "Weekend tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carretto",
+      "hint": "Vecchie fotografie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dirigibile",
+      "hint": "Cielo d'epoca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mietitrebbia",
+      "hint": "Lavoro stagionale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Navetta spaziale",
+      "hint": "Sogno di bambino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bob",
+      "hint": "Discesa mozzafiato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carrozza",
+      "hint": "Matrimonio in chiesa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Teleferica",
+      "hint": "Salita senza fatica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zattera",
+      "hint": "Fuga disperata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quadriga",
+      "hint": "Gara d'altri tempi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Deltaplano",
+      "hint": "Cielo senza motore",
+      "difficulty": "hard"
+    }
+  ]
+}

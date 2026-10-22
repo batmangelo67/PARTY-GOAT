@@ -1,0 +1,503 @@
+{
+  "id": "en-forbidden-words-daily-life",
+  "title": "Daily Life & Things",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Toothbrush",
+      "banned": [
+        "Teeth",
+        "Bathroom",
+        "Paste",
+        "Bristles"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Umbrella",
+      "banned": [
+        "Rain",
+        "Canopy",
+        "Handle",
+        "Wet Weather"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alarm Clock",
+      "banned": [
+        "Wake Up",
+        "Snooze",
+        "Morning",
+        "Ring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kettle",
+      "banned": [
+        "Boil",
+        "Tea",
+        "Steam",
+        "Electric"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sofa",
+      "banned": [
+        "Couch",
+        "Living Room",
+        "Cushions",
+        "Settee"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fridge",
+      "banned": [
+        "Cold",
+        "Kitchen",
+        "Magnets",
+        "Freezer"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doormat",
+      "banned": [
+        "Welcome",
+        "Entrance",
+        "Floor",
+        "Shoes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stapler",
+      "banned": [
+        "Office",
+        "Paper",
+        "Clip",
+        "Desk"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hairdryer",
+      "banned": [
+        "Hot Air",
+        "Blow",
+        "Bathroom",
+        "Wet Hair"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Padlock",
+      "banned": [
+        "Key",
+        "Lock",
+        "Gate",
+        "Combination"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wallet",
+      "banned": [
+        "Money",
+        "Cards",
+        "Pocket",
+        "Leather"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sponge",
+      "banned": [
+        "Wash",
+        "Cake",
+        "Dishes",
+        "Absorb"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ironing Board",
+      "banned": [
+        "Creases",
+        "Laundry",
+        "Folding",
+        "Pleats"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lightbulb",
+      "banned": [
+        "Glow",
+        "Socket",
+        "Idea",
+        "Filament"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spatula",
+      "banned": [
+        "Flip",
+        "Pancake",
+        "Kitchen",
+        "Turner"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tape Measure",
+      "banned": [
+        "Inches",
+        "Tailor",
+        "Centimetres",
+        "Retractable"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hanger",
+      "banned": [
+        "Wardrobe",
+        "Clothes",
+        "Hook",
+        "Shirt"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doorbell",
+      "banned": [
+        "Ring",
+        "Visitor",
+        "Button",
+        "Chime"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calendar",
+      "banned": [
+        "Dates",
+        "Months",
+        "Wall",
+        "Schedule"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Padded Envelope",
+      "banned": [
+        "Postage",
+        "Parcel",
+        "Bubble Wrap",
+        "Sealed"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thermostat",
+      "banned": [
+        "Temperature",
+        "Heating",
+        "Dial",
+        "Warm"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hoover",
+      "banned": [
+        "Vacuum",
+        "Dust",
+        "Carpet",
+        "Suction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Washing Line",
+      "banned": [
+        "Pegs",
+        "Garden",
+        "Clothes",
+        "Laundry"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sellotape",
+      "banned": [
+        "Cellophane",
+        "Stick",
+        "Roll",
+        "Present"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Corkscrew",
+      "banned": [
+        "Wine",
+        "Bottle",
+        "Sommelier",
+        "Opener"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Remote Control",
+      "banned": [
+        "Telly",
+        "Batteries",
+        "Channel",
+        "Clicker"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bin Bag",
+      "banned": [
+        "Rubbish",
+        "Trash",
+        "Refuse",
+        "Tie"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plunger",
+      "banned": [
+        "Blocked",
+        "Sink",
+        "Suction",
+        "Toilet"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Keyring",
+      "banned": [
+        "Fob",
+        "Loop",
+        "Chain",
+        "Bunch"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pillow",
+      "banned": [
+        "Bed",
+        "Head",
+        "Sleep",
+        "Feathers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lint Roller",
+      "banned": [
+        "Sticky",
+        "Clothes",
+        "Fluff",
+        "Pet Hair"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Colander",
+      "banned": [
+        "Pasta",
+        "Holes",
+        "Strain",
+        "Drain"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blender",
+      "banned": [
+        "Smoothie",
+        "Whizz",
+        "Kitchen",
+        "Blades"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bath Mat",
+      "banned": [
+        "Slippery",
+        "Towel",
+        "Non-slip",
+        "Shower"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Letterbox",
+      "banned": [
+        "Post",
+        "Mail",
+        "Door",
+        "Flap"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stepladder",
+      "banned": [
+        "Attic",
+        "Painting",
+        "Height",
+        "Tall"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Biscuit Tin",
+      "banned": [
+        "Cookies",
+        "Rusty",
+        "Lid",
+        "Nan"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hot Water Bottle",
+      "banned": [
+        "Winter",
+        "Rubber",
+        "Bed",
+        "Warm"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tumble Dryer",
+      "banned": [
+        "Laundry",
+        "Heat",
+        "Fluff",
+        "Spin"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spare Key",
+      "banned": [
+        "Backup",
+        "Hidden",
+        "Doormat",
+        "Neighbour"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sticky Notes",
+      "banned": [
+        "Post-it",
+        "Reminder",
+        "Pad",
+        "Yellow"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dustpan",
+      "banned": [
+        "Brush",
+        "Sweep",
+        "Crumbs",
+        "Broom"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Egg Timer",
+      "banned": [
+        "Boiled",
+        "Sand",
+        "Minutes",
+        "Kitchen"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Loofah",
+      "banned": [
+        "Shower",
+        "Scrub",
+        "Gourd",
+        "Exfoliate"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Staple Gun",
+      "banned": [
+        "Upholstery",
+        "Tacker",
+        "Nail",
+        "Wood"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nail Clipper",
+      "banned": [
+        "Toes",
+        "Snip",
+        "Cutter",
+        "Manicure"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sock Drawer",
+      "banned": [
+        "Bedroom",
+        "Clothes",
+        "Pairs",
+        "Matching"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bubble Wrap",
+      "banned": [
+        "Popping",
+        "Packing",
+        "Plastic",
+        "Fragile"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rolling Pin",
+      "banned": [
+        "Pastry",
+        "Dough",
+        "Flour",
+        "Baking"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

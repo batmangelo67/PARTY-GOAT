@@ -13,7 +13,17 @@ export const ITEM_LIMITS = {
   minBanned: 3,
   maxBanned: 6,
   unit: 20,
+  example: 40,
+  minExamples: 3,
+  maxExamples: 6,
 } as const;
+
+export const DIFFICULTIES = ["easy", "medium", "hard"] as const;
+export type Difficulty = (typeof DIFFICULTIES)[number];
+
+export const NUMERIC_FORMATS = ["number", "year"] as const;
+
+const kebabId = z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, "id must be kebab-case");
 
 export const PROMPT_TYPES = ["truth", "dare"] as const;
 
@@ -21,17 +31,20 @@ export const PACK_SOURCES = ["builtin", "custom"] as const;
 export type PackSource = (typeof PACK_SOURCES)[number];
 
 const packBaseShape = {
-  id: z.string().regex(/^[a-z0-9]+(-[a-z0-9]+)*$/, "id must be kebab-case"),
+  id: kebabId,
   title: z.string().trim().min(1).max(40),
   language: z.enum(LANGUAGES),
   spice: z.number().int().min(0).max(MAX_SPICE),
   games: z.array(z.string().min(1)).min(1),
   source: z.enum(PACK_SOURCES).optional(),
+  group: kebabId.optional(),
+  section: kebabId.optional(),
 };
 
 export const wordItemSchema = z.strictObject({
   word: z.string().trim().min(1).max(ITEM_LIMITS.word),
   hint: z.string().trim().min(1).max(ITEM_LIMITS.hint).optional(),
+  difficulty: z.enum(DIFFICULTIES).optional(),
 });
 
 export const questionPairItemSchema = z.strictObject({
@@ -42,11 +55,17 @@ export const questionPairItemSchema = z.strictObject({
 export const promptItemSchema = z.strictObject({
   text: z.string().trim().min(ITEM_LIMITS.minPrompt).max(ITEM_LIMITS.prompt),
   type: z.enum(PROMPT_TYPES).optional(),
+  examples: z
+    .array(z.string().trim().min(1).max(ITEM_LIMITS.example))
+    .min(ITEM_LIMITS.minExamples)
+    .max(ITEM_LIMITS.maxExamples)
+    .optional(),
 });
 
 export const cardItemSchema = z.strictObject({
   word: z.string().trim().min(1).max(ITEM_LIMITS.word),
   banned: z.array(z.string().trim().min(1).max(ITEM_LIMITS.bannedWord)).min(ITEM_LIMITS.minBanned).max(ITEM_LIMITS.maxBanned),
+  difficulty: z.enum(DIFFICULTIES).optional(),
 });
 
 // A decoy question needs its own answer, so the two fields come together or not at all.
@@ -55,6 +74,7 @@ export const numericItemSchema = z
     question: z.string().trim().min(ITEM_LIMITS.minQuestion).max(ITEM_LIMITS.question),
     answer: z.number().finite(),
     unit: z.string().trim().min(1).max(ITEM_LIMITS.unit),
+    format: z.enum(NUMERIC_FORMATS).optional(),
     asOf: z.number().int().optional(),
     decoyQuestion: z.string().trim().min(ITEM_LIMITS.minQuestion).max(ITEM_LIMITS.question).optional(),
     decoyAnswer: z.number().finite().optional(),

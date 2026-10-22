@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-serie-a",
+  "title": "Serie A e calcio italiano",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Juventus",
+      "hint": "Abitudine al successo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Inter",
+      "hint": "Sciarpa al collo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milan",
+      "hint": "Notte europea",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiorentina",
+      "hint": "Lunga trasferta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sampdoria",
+      "hint": "Pioggia in tribuna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scudetto",
+      "hint": "Finale di maggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calciomercato",
+      "hint": "Estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "San Siro",
+      "hint": "Stasera si gioca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stadio Olimpico",
+      "hint": "Pomeriggio caldo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Derby d'Italia",
+      "hint": "Cuore in gola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Curva",
+      "hint": "Mal di gola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Totti",
+      "hint": "Poster in camera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Materazzi",
+      "hint": "Finale da dimenticare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gasperini",
+      "hint": "Caffè in panchina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sarri",
+      "hint": "Pomeriggio di novembre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Conte",
+      "hint": "Sveglia alle sei",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirlo",
+      "hint": "Passo calmo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ibrahimović",
+      "hint": "Mai banale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baggio",
+      "hint": "Classe pura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maldini",
+      "hint": "Vecchia scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Buffon",
+      "hint": "Pelle d'oca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Osimhen",
+      "hint": "Gioia dei tifosi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lukaku",
+      "hint": "Abbraccio ai tifosi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stadio Maradona",
+      "hint": "Notte di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Derby della Madonnina",
+      "hint": "Sfida in città",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Allianz Stadium",
+      "hint": "Stadio moderno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Verratti",
+      "hint": "Pausa pranzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chiellini",
+      "hint": "Sudore sulla fronte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coppa Italia",
+      "hint": "Sabato di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Del Piero",
+      "hint": "Notti da romanzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vieri",
+      "hint": "Lungo riposo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Catenaccio",
+      "hint": "Lezione dei nonni",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Libero",
+      "hint": "Ritmo lento",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pallone d'Oro",
+      "hint": "Serata di gala",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mancini",
+      "hint": "Sorpresa d'estate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Panenka",
+      "hint": "Pausa di tensione",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trequartista",
+      "hint": "Genio e sregolatezza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sacchi",
+      "hint": "Chiacchiere al bar",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zeman",
+      "hint": "Stile unico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gattuso",
+      "hint": "Mai mollare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Atalanta",
+      "hint": "Trasferta in pullman",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Genoa",
+      "hint": "Cori di gradinata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Udinese",
+      "hint": "Festa di paese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sassuolo",
+      "hint": "Piccola sorpresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Empoli",
+      "hint": "Salvezza in extremis",
+      "difficulty": "medium"
+    }
+  ]
+}

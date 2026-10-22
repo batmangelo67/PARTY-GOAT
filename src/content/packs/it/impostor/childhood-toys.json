@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-childhood-toys",
+  "title": "Giocattoli d'infanzia",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Trottola",
+      "hint": "Gare in cortile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bambola",
+      "hint": "Trasloco di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bolle di sapone",
+      "hint": "Pomeriggio di sole",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aquilone",
+      "hint": "Gita al parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pallone",
+      "hint": "Finestra del vicino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peluche",
+      "hint": "Buonanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Macchinine",
+      "hint": "Piede al buio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plastilina",
+      "hint": "Pomeriggio di pioggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biglie",
+      "hint": "Tasche sporche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gioco dell'oca",
+      "hint": "Domenica pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pistola ad acqua",
+      "hint": "Giornata di caldo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Puzzle",
+      "hint": "Vacanza in baita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cavallo a dondolo",
+      "hint": "Fare la spesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Figurine",
+      "hint": "Scambi a scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Walkie-talkie",
+      "hint": "Caccia al tesoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calcio balilla",
+      "hint": "Bar di paese",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yo-yo",
+      "hint": "Ricreazione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tamagotchi",
+      "hint": "Anni Novanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trenino",
+      "hint": "Natale sotto l'albero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cubo di Rubik",
+      "hint": "Pomeriggio di noia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dinosauro di plastica",
+      "hint": "Museo dei bambini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lavagna magica",
+      "hint": "Viaggio in auto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carte collezionabili",
+      "hint": "Edicola al mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gioco della campana",
+      "hint": "Giochi di strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bambola di pezza",
+      "hint": "Nonna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scatola dei colori",
+      "hint": "Grembiule",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cucina giocattolo",
+      "hint": "Pranzo finto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hula hoop",
+      "hint": "Anni Sessanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pop-it",
+      "hint": "Compiti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trottinetta",
+      "hint": "Discesa veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Racchettoni",
+      "hint": "Fine agosto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cerbottana",
+      "hint": "Festa in maschera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fionda",
+      "hint": "Pomeriggio al torrente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kendama",
+      "hint": "Ricordo di viaggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Slinky",
+      "hint": "Primo dopoguerra",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lanterna magica",
+      "hint": "Proiezione serale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carillon",
+      "hint": "Nonno sul divano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cubi di legno",
+      "hint": "Torre crollata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pogo",
+      "hint": "Piazza in festa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Burattini",
+      "hint": "Teatrino del sabato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caleidoscopio",
+      "hint": "Gioco di colori",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mangiadischi",
+      "hint": "Anni Settanta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Secchiello e paletta",
+      "hint": "Sabbia bagnata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tamburello",
+      "hint": "Festa in strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pupazzo a molla",
+      "hint": "Scatto improvviso",
+      "difficulty": "medium"
+    }
+  ]
+}

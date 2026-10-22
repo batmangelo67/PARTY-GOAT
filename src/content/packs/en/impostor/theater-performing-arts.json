@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-theater-performing-arts",
+  "title": "Broadway, Theater & Performing Arts",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Hamilton",
+      "hint": "Sold-out ticket hunt",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wicked",
+      "hint": "Misunderstood villain",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cats",
+      "hint": "Strange dress rehearsal",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chicago",
+      "hint": "Sequin showbiz",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Les Misérables",
+      "hint": "Long, heavy night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matilda",
+      "hint": "Library corner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Annie",
+      "hint": "Sunny optimism",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Romeo and Juliet",
+      "hint": "Doomed teen romance",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hamlet",
+      "hint": "Overthinking prince",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Macbeth",
+      "hint": "Bad ambition",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ballet",
+      "hint": "Early morning stretches",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Intermission",
+      "hint": "Bathroom queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Curtain call",
+      "hint": "Happy tears",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Standing ovation",
+      "hint": "Goosebumps moment",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spotlight",
+      "hint": "Hot seat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Understudy",
+      "hint": "Midnight phone call",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rent",
+      "hint": "Missed payments",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Phantom of the Opera",
+      "hint": "Creepy love triangle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Waiting for Godot",
+      "hint": "Bus stop boredom",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Death of a Salesman",
+      "hint": "Midlife defeat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "A Streetcar Named Desire",
+      "hint": "Sticky summer tension",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Our Town",
+      "hint": "Stripped-back stage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Glass Menagerie",
+      "hint": "Fragile dreams",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dear Evan Hansen",
+      "hint": "Teen anxiety",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hadestown",
+      "hint": "Grim romance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sweeney Todd",
+      "hint": "Gory revenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kinky Boots",
+      "hint": "Fierce footwork",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oliver!",
+      "hint": "Street-smart kid",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hello, Dolly!",
+      "hint": "Matchmaking mischief",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Choreography",
+      "hint": "Dance-floor rehearsal",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirouette",
+      "hint": "Dizzy spinning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ensemble",
+      "hint": "Group huddle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Encore",
+      "hint": "Stomping feet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tap dance",
+      "hint": "Loud feet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Improv",
+      "hint": "Quick wit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mime",
+      "hint": "Silent shrug",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wings",
+      "hint": "Backstage crew",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Footlights",
+      "hint": "Warm stage glow",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Overture",
+      "hint": "Musical teaser",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Libretto",
+      "hint": "Program notes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Matinee",
+      "hint": "Sunday brunch show",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vaudeville",
+      "hint": "Music hall laughter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Commedia dell'arte",
+      "hint": "Mask and mischief",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dramaturg",
+      "hint": "Margin notes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Blackout",
+      "hint": "Sudden silence",
+      "difficulty": "medium"
+    }
+  ]
+}

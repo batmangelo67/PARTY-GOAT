@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-superheroes-villains",
+  "title": "Supereroi e cattivi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Superman",
+      "hint": "Ritorno a casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Batman",
+      "hint": "Notte di pioggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spider-Man",
+      "hint": "Vita da liceale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hulk",
+      "hint": "Scatto d'ira",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Iron Man",
+      "hint": "Ego ingombrante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Joker",
+      "hint": "Sorriso impazzito",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wonder Woman",
+      "hint": "Giustizia senza confini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Capitan America",
+      "hint": "Nostalgia d'epoca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aquaman",
+      "hint": "Vita sott'acqua",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harley Quinn",
+      "hint": "Amore pazzo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catwoman",
+      "hint": "Gioielli rubati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diabolik",
+      "hint": "Furto perfetto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zagor",
+      "hint": "Notte nel bosco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deadpool",
+      "hint": "Umorismo scomodo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flash",
+      "hint": "Sempre di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wolverine",
+      "hint": "Rissa al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Black Panther",
+      "hint": "Rito di passaggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Daredevil",
+      "hint": "Avvocato di giorno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Venom",
+      "hint": "Ospite sgradito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doctor Strange",
+      "hint": "Sogni lucidi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Loki",
+      "hint": "Sguardo ambiguo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thanos",
+      "hint": "Lunga pazienza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lex Luthor",
+      "hint": "Cattivo in giacca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Green Lantern",
+      "hint": "Pattuglia cosmica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tex Willer",
+      "hint": "Lunga cavalcata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dylan Dog",
+      "hint": "Incubi notturni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ultron",
+      "hint": "Creatura ribelle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Robin",
+      "hint": "Fedele compagno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost Rider",
+      "hint": "Patto oscuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Silver Surfer",
+      "hint": "Malinconia spaziale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mystique",
+      "hint": "Gioco di identità",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Star-Lord",
+      "hint": "Galassia di amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sinestro",
+      "hint": "Ex eroe caduto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gambit",
+      "hint": "Fascino da giocatore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mister Fantastic",
+      "hint": "Scienziato distratto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Aquila Nera",
+      "hint": "Vecchie leggende",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Booster Gold",
+      "hint": "Ansia di gloria",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hawkeye",
+      "hint": "Ragazzo di provincia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ra's al Ghul",
+      "hint": "Ecologia estrema",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scarlet Witch",
+      "hint": "Dolore e magia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jessica Jones",
+      "hint": "Detective malconcia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kick-Ass",
+      "hint": "Coraggio improvvisato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ant-Man",
+      "hint": "Piccola grande impresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Supergirl",
+      "hint": "Eroina tardiva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spawn",
+      "hint": "Anni novanta",
+      "difficulty": "hard"
+    }
+  ]
+}

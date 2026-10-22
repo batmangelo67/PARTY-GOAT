@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-daily-life",
+  "title": "Vita quotidiana",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Frigorifero",
+      "banned": [
+        "Freddo",
+        "Cucina",
+        "Latte",
+        "Congelatore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ombrello",
+      "banned": [
+        "Pioggia",
+        "Tempesta",
+        "Lampo",
+        "Bastone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spazzolino",
+      "banned": [
+        "Denti",
+        "Dentifricio",
+        "Setole",
+        "Bocca"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sveglia",
+      "banned": [
+        "Mattina",
+        "Suoneria",
+        "Orologio",
+        "Ritardo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Forchetta",
+      "banned": [
+        "Posate",
+        "Spaghetti",
+        "Piatto",
+        "Tavola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chiave",
+      "banned": [
+        "Porta",
+        "Serratura",
+        "Anello",
+        "Mazzo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Specchio",
+      "banned": [
+        "Riflesso",
+        "Bagno",
+        "Vetro",
+        "Trucco"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asciugamano",
+      "banned": [
+        "Doccia",
+        "Telo",
+        "Spugna",
+        "Lavare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portafoglio",
+      "banned": [
+        "Soldi",
+        "Carte",
+        "Tasca",
+        "Contanti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferro da stiro",
+      "banned": [
+        "Vapore",
+        "Camicia",
+        "Pieghe",
+        "Asse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavatrice",
+      "banned": [
+        "Bucato",
+        "Oblò",
+        "Centrifuga",
+        "Detersivo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tostapane",
+      "banned": [
+        "Pane",
+        "Colazione",
+        "Fette",
+        "Leva"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cassetto",
+      "banned": [
+        "Armadio",
+        "Mobile",
+        "Maniglia",
+        "Rotaie"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuscino",
+      "banned": [
+        "Piume",
+        "Federa",
+        "Guanciale",
+        "Riposo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lucchetto",
+      "banned": [
+        "Chiave",
+        "Catena",
+        "Ferro",
+        "Combinazione"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pentola",
+      "banned": [
+        "Cucinare",
+        "Coperchio",
+        "Fornello",
+        "Acqua"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orologio da polso",
+      "banned": [
+        "Lancette",
+        "Cinturino",
+        "Quadrante",
+        "Braccialetto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zaino",
+      "banned": [
+        "Scuola",
+        "Spalle",
+        "Cerniera",
+        "Viaggio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lampadina",
+      "banned": [
+        "Luce",
+        "Interruttore",
+        "Filamento",
+        "Buio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Caffettiera",
+      "banned": [
+        "Moka",
+        "Espresso",
+        "Fornello",
+        "Macinino"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Materasso",
+      "banned": [
+        "Molle",
+        "Piumone",
+        "Dormire",
+        "Lenzuola"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lavastoviglie",
+      "banned": [
+        "Piatti",
+        "Pastiglie",
+        "Sporco",
+        "Cucina"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aspirapolvere",
+      "banned": [
+        "Polvere",
+        "Tubo",
+        "Sacchetto",
+        "Pulire"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scopa",
+      "banned": [
+        "Manico",
+        "Spazzare",
+        "Paglia",
+        "Pavimento"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impermeabile",
+      "banned": [
+        "Cappotto",
+        "Gomma",
+        "Pozzanghere",
+        "Mantella"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bilancia",
+      "banned": [
+        "Peso",
+        "Chili",
+        "Grammi",
+        "Pesare"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Frullatore",
+      "banned": [
+        "Frutta",
+        "Smoothie",
+        "Lame",
+        "Mixer"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Termosifone",
+      "banned": [
+        "Caldo",
+        "Radiatore",
+        "Inverno",
+        "Stufa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pattumiera",
+      "banned": [
+        "Spazzatura",
+        "Rifiuti",
+        "Sacco",
+        "Bidone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Biglietto del treno",
+      "banned": [
+        "Stazione",
+        "Obliteratrice",
+        "Tariffa",
+        "Binario"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Patente",
+      "banned": [
+        "Guida",
+        "Auto",
+        "Esame",
+        "Multa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ascensore",
+      "banned": [
+        "Piano",
+        "Cabina",
+        "Pulsante",
+        "Salire"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Citofono",
+      "banned": [
+        "Porta",
+        "Campanello",
+        "Portiere",
+        "Voce"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stendino",
+      "banned": [
+        "Panni",
+        "Sole",
+        "Filo",
+        "Mollette"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bollitore",
+      "banned": [
+        "Tè",
+        "Fischio",
+        "Fuoco",
+        "Caldaia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Forbici",
+      "banned": [
+        "Taglio",
+        "Carta",
+        "Stoffa",
+        "Punte"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pinzette",
+      "banned": [
+        "Sopracciglia",
+        "Peli",
+        "Scheggia",
+        "Cosmetici"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cacciavite",
+      "banned": [
+        "Viti",
+        "Ferramenta",
+        "Stella",
+        "Manico"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zerbino",
+      "banned": [
+        "Ingresso",
+        "Fango",
+        "Scarpe",
+        "Tappetino"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tergicristallo",
+      "banned": [
+        "Parabrezza",
+        "Auto",
+        "Spazzola",
+        "Liquido"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bigodino",
+      "banned": [
+        "Capelli",
+        "Riccioli",
+        "Parrucchiera",
+        "Piega"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mestolo",
+      "banned": [
+        "Cucchiaio",
+        "Zuppa",
+        "Pentola",
+        "Sugo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gomitolo",
+      "banned": [
+        "Lana",
+        "Filo",
+        "Maglia",
+        "Ferri"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Termometro",
+      "banned": [
+        "Febbre",
+        "Mercurio",
+        "Temperatura",
+        "Gradi"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Accendino",
+      "banned": [
+        "Fiamma",
+        "Sigaretta",
+        "Gas",
+        "Pietrina"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

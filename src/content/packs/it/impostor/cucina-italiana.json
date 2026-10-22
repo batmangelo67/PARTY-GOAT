@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-cucina-italiana",
+  "title": "Cucina italiana regionale",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Cacio e pepe",
+      "hint": "Cena all'ultimo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pesto alla genovese",
+      "hint": "Pranzo di agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Supplì",
+      "hint": "Spuntino di strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carciofi alla giudia",
+      "hint": "Pranzo di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Saltimbocca alla romana",
+      "hint": "Cena con ospiti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasta alla norma",
+      "hint": "Cena d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cotechino",
+      "hint": "Brindisi d'inverno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gnocco fritto",
+      "hint": "Pranzo in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mortadella",
+      "hint": "Pranzo sul prato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stracciatella",
+      "hint": "Pausa di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frittura di paranza",
+      "hint": "Pesce del giorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taralli",
+      "hint": "Gita fuori porta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trofie",
+      "hint": "Cena di lunedì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ribollita",
+      "hint": "Freddo di gennaio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pappa al pomodoro",
+      "hint": "Pranzo di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arrosticini",
+      "hint": "Cena di campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fregola",
+      "hint": "Cena d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olive all'ascolana",
+      "hint": "Aperitivo di paese",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coda alla vaccinara",
+      "hint": "Cena d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pasta alla gricia",
+      "hint": "Pranzo di lavoro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sfincione",
+      "hint": "Mattina al mercato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panelle",
+      "hint": "Passeggiata sul lungomare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sarde a beccafico",
+      "hint": "Antipasto di pesce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pizzoccheri",
+      "hint": "Cena di montagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Polenta concia",
+      "hint": "Cena in rifugio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tigelle",
+      "hint": "Merenda in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porchetta",
+      "hint": "Pranzo di strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Farinata",
+      "hint": "Tramonto in riva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bagna cauda",
+      "hint": "Cena in cascina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vitello tonnato",
+      "hint": "Antipasto estivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maccheroni alla chitarra",
+      "hint": "Domenica di casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Culurgiones",
+      "hint": "Pasta del pastore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Malloreddus",
+      "hint": "Cena di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pane carasau",
+      "hint": "Cestino da pic-nic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Risi e bisi",
+      "hint": "Cena di aprile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Torta pasqualina",
+      "hint": "Pasqua in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cappon magro",
+      "hint": "Vigilia di Natale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cacciucco",
+      "hint": "Cena di pescatori",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lampredotto",
+      "hint": "Spuntino a mezzogiorno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pici",
+      "hint": "Domenica in cucina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anguilla alla comacchiese",
+      "hint": "Cena di pesca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scapece",
+      "hint": "Pranzo da spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vincisgrassi",
+      "hint": "Pranzo di nozze",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stoccafisso all'anconetana",
+      "hint": "Cena di magro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Baccalà alla vicentina",
+      "hint": "Cena di Natale",
+      "difficulty": "hard"
+    }
+  ]
+}

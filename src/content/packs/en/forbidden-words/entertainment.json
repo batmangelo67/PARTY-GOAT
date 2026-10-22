@@ -1,0 +1,453 @@
+{
+  "id": "en-forbidden-words-entertainment",
+  "title": "Entertainment",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Trailer",
+      "banned": [
+        "Preview",
+        "Coming Soon",
+        "Teaser",
+        "Film"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Subtitles",
+      "banned": [
+        "Foreign",
+        "Captions",
+        "Translation",
+        "Reading"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oscar",
+      "banned": [
+        "Award",
+        "Golden",
+        "Hollywood",
+        "Statuette"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cartoon",
+      "banned": [
+        "Animated",
+        "Bugs Bunny",
+        "Sketch",
+        "Saturday Morning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sequel",
+      "banned": [
+        "Follow-up",
+        "Part Two",
+        "Franchise",
+        "Continuation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Director",
+      "banned": [
+        "Lights",
+        "Camera",
+        "Action",
+        "Shoot"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Villain",
+      "banned": [
+        "Evil",
+        "Hero",
+        "Cape",
+        "Lair"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sitcom",
+      "banned": [
+        "Laugh Track",
+        "Comedy",
+        "Episode",
+        "Living Room"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chess",
+      "banned": [
+        "Board",
+        "Knight",
+        "Checkmate",
+        "Pawn"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monopoly",
+      "banned": [
+        "Board Game",
+        "Property",
+        "Dice",
+        "Hotel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Joystick",
+      "banned": [
+        "Controller",
+        "Gamepad",
+        "Arcade",
+        "Stick"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cliffhanger",
+      "banned": [
+        "Ending",
+        "Suspense",
+        "Season Finale",
+        "Hanging"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Premiere",
+      "banned": [
+        "Opening Night",
+        "First",
+        "Red Carpet",
+        "Debut"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spoiler",
+      "banned": [
+        "Ruin",
+        "Ending",
+        "Twist",
+        "Warning"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Blockbuster",
+      "banned": [
+        "Hit",
+        "Summer",
+        "Explosions",
+        "Box Office"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Documentary",
+      "banned": [
+        "Facts",
+        "Narrator",
+        "Real",
+        "Interview"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mario",
+      "banned": [
+        "Plumber",
+        "Mushroom",
+        "Nintendo",
+        "Princess Peach"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tetris",
+      "banned": [
+        "Falling Blocks",
+        "Puzzle",
+        "Lines",
+        "Russia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Puppet Show",
+      "banned": [
+        "Strings",
+        "Marionette",
+        "Stage",
+        "Muppets"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bingo",
+      "banned": [
+        "Numbers",
+        "Dauber",
+        "Caller",
+        "Gambling"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jigsaw",
+      "banned": [
+        "Puzzle",
+        "Pieces",
+        "Table",
+        "Fit"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cinema",
+      "banned": [
+        "Movie Theatre",
+        "Screen",
+        "Seats",
+        "Popcorn"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reboot",
+      "banned": [
+        "Remake",
+        "Restart",
+        "Again",
+        "Fresh Start"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Animation",
+      "banned": [
+        "Frame",
+        "Pixar",
+        "Moving",
+        "Cel"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crossword",
+      "banned": [
+        "Clues",
+        "Grid",
+        "Newspaper",
+        "Across"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scrabble",
+      "banned": [
+        "Letters",
+        "Tiles",
+        "Words",
+        "Board"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Escape Room",
+      "banned": [
+        "Locked",
+        "Clues",
+        "Timer",
+        "Puzzles"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soap Opera",
+      "banned": [
+        "Drama",
+        "Serial",
+        "Daytime",
+        "Melodrama"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cosplay",
+      "banned": [
+        "Costume",
+        "Anime",
+        "Convention",
+        "Dress Up"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost Train",
+      "banned": [
+        "Fairground",
+        "Spooky",
+        "Ride",
+        "Carriage"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Plot Twist",
+      "banned": [
+        "Surprise",
+        "Unexpected",
+        "Story",
+        "Reveal"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cameo",
+      "banned": [
+        "Appearance",
+        "Brief",
+        "Guest",
+        "Surprise"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bloopers",
+      "banned": [
+        "Mistakes",
+        "Outtakes",
+        "Funny",
+        "Blunders"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Subplot",
+      "banned": [
+        "Side Story",
+        "Secondary",
+        "Minor",
+        "Storyline"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trivia",
+      "banned": [
+        "Facts",
+        "Quiz",
+        "Questions",
+        "Pub"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Puppetry",
+      "banned": [
+        "Muppets",
+        "Strings",
+        "Hand",
+        "Sesame Street"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Screenplay",
+      "banned": [
+        "Script",
+        "Writer",
+        "Scene",
+        "Dialogue"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sound Stage",
+      "banned": [
+        "Studio",
+        "Set",
+        "Lights",
+        "Filming"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tamagotchi",
+      "banned": [
+        "Pet",
+        "Egg",
+        "Keychain",
+        "Nineties"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quiz Show",
+      "banned": [
+        "Host",
+        "Contestants",
+        "Prize",
+        "Buzzer"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spin-off",
+      "banned": [
+        "Derivative",
+        "Offshoot",
+        "Side Show",
+        "Character"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cutscene",
+      "banned": [
+        "Video",
+        "Plot",
+        "Non-playable",
+        "Animation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Drama Club",
+      "banned": [
+        "Stage",
+        "School",
+        "Play",
+        "Theatre"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Game Show",
+      "banned": [
+        "Contestants",
+        "Wheel",
+        "Applause",
+        "Studio"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

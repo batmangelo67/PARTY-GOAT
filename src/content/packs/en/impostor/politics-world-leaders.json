@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-politics-world-leaders",
+  "title": "Politics & World Leaders",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Parliament",
+      "hint": "Late sittings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Democracy",
+      "hint": "Fair play",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monarchy",
+      "hint": "Royal weddings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Election",
+      "hint": "Nervous waiting",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Senate",
+      "hint": "Grey suits",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Constitution",
+      "hint": "Family rules",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Veto",
+      "hint": "Stubborn streak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Treaty",
+      "hint": "Peace parties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Napoleon",
+      "hint": "Bold ambitions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Churchill",
+      "hint": "Wartime nerves",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lincoln",
+      "hint": "Brave choices",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cleopatra",
+      "hint": "Glamour and gossip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Julius Caesar",
+      "hint": "Bad omens",
+      "difficulty": "easy"
+    },
+    {
+      "word": "President",
+      "hint": "Kissing babies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mayor",
+      "hint": "Ribbon cuttings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cabinet",
+      "hint": "Group photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Census",
+      "hint": "Nosy questions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campaign",
+      "hint": "Free stickers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lobbying",
+      "hint": "Expensive lunches",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Filibuster",
+      "hint": "Endurance contest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Referendum",
+      "hint": "Family vote",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Republic",
+      "hint": "Free country",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sovereignty",
+      "hint": "Proud nations",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Manifesto",
+      "hint": "Big promises",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Speaker",
+      "hint": "Booming voices",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coup",
+      "hint": "Secret plans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ambassador",
+      "hint": "Silver spoons",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Governor",
+      "hint": "State fairs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tribunal",
+      "hint": "Heavy silences",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sanctions",
+      "hint": "Trade wars",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ballot",
+      "hint": "Tick boxes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Queen Elizabeth I",
+      "hint": "Golden age",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nelson Mandela",
+      "hint": "Peaceful protests",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Genghis Khan",
+      "hint": "Bold conquests",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Catherine the Great",
+      "hint": "Royal court drama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gandhi",
+      "hint": "Simple living",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chancellor",
+      "hint": "Tough numbers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prime Minister",
+      "hint": "Late-night phone calls",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caucus",
+      "hint": "Secret huddles",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ombudsman",
+      "hint": "Angry letters",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gerrymandering",
+      "hint": "Sneaky lines",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tariff",
+      "hint": "Price hikes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Regency",
+      "hint": "Kings in waiting",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ministry",
+      "hint": "Office politics",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Plenary",
+      "hint": "Packed rooms",
+      "difficulty": "hard"
+    }
+  ]
+}

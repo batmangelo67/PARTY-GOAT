@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-rpg-fantasy-worlds",
+  "title": "RPG e mondi fantasy",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "The Witcher",
+      "hint": "Taverna di paese",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Skyrim",
+      "hint": "Freddo di gennaio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dungeons & Dragons",
+      "hint": "Serata in cantina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baldur's Gate",
+      "hint": "Pizza del venerdì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dragon Quest",
+      "hint": "Ricordi d'infanzia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Morrowind",
+      "hint": "Viaggio estivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oblivion",
+      "hint": "Nebbia in testa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mass Effect",
+      "hint": "Decisione in fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Persona",
+      "hint": "Amici di classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dragon Age",
+      "hint": "Festa di corte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elden Ring",
+      "hint": "Salita infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bloodborne",
+      "hint": "Vigilia di Halloween",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ultima",
+      "hint": "Dibattito in classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pillars of Eternity",
+      "hint": "Viaggio senza meta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Divinity: Original Sin",
+      "hint": "Chiacchiere al bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Icewind Dale",
+      "hint": "Cioccolata calda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Neverwinter Nights",
+      "hint": "Serata al tavolo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fable",
+      "hint": "Cena con amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ragnarok Online",
+      "hint": "Cybercaffè a scuola",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guild Wars",
+      "hint": "Messaggi in ritardo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "EverQuest",
+      "hint": "Notti al PC",
+      "difficulty": "medium"
+    },
+    {
+      "word": "RuneScape",
+      "hint": "Ore di routine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Planescape: Torment",
+      "hint": "Crisi di mezz'età",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gothic",
+      "hint": "Estate in valle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Risen",
+      "hint": "Estate sfortunata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kingdom Come: Deliverance",
+      "hint": "Festa di paese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dragon's Dogma",
+      "hint": "Patto difficile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Xenoblade Chronicles",
+      "hint": "Orizzonte lontano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Octopath Traveler",
+      "hint": "Zaino in spalla",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tales of Symphonia",
+      "hint": "Balcone al tramonto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Suikoden",
+      "hint": "Raccolta di figurine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ys",
+      "hint": "Avventura veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monster Hunter",
+      "hint": "Zaino pesante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Disgaea",
+      "hint": "Ufficio del lunedì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lufia",
+      "hint": "Vecchia cameretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Star Wars: KOTOR",
+      "hint": "Lezione del maestro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wizardry",
+      "hint": "Pomeriggio di studio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Might and Magic",
+      "hint": "Festa d'autunno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eye of the Beholder",
+      "hint": "Foto di gruppo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shadowrun",
+      "hint": "Mercato nero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Betrayal at Krondor",
+      "hint": "Sospetto in cucina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Realms of Arkania",
+      "hint": "Gita in campagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vampire: The Masquerade",
+      "hint": "Serata elegante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lands of Lore",
+      "hint": "Storia di famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Phantasy Star",
+      "hint": "Cielo di agosto",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-religions-mythology",
+  "title": "World Religions & Mythology",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Zeus",
+      "hint": "Family drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hera",
+      "hint": "Anniversary dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anubis",
+      "hint": "Desert nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Medusa",
+      "hint": "Bad hair day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pegasus",
+      "hint": "Heroic quests",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Phoenix",
+      "hint": "Comeback tales",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cerberus",
+      "hint": "Late-night watch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minotaur",
+      "hint": "Wrong turns",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Odin",
+      "hint": "Winter wanderers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poseidon",
+      "hint": "Beach holidays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sphinx",
+      "hint": "Pub quiz night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Unicorn",
+      "hint": "Glitter overload",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dragon",
+      "hint": "Castle sieges",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pandora",
+      "hint": "Don't touch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valhalla",
+      "hint": "Warrior parties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Persephone",
+      "hint": "Long winters",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Loki",
+      "hint": "Shifty smirks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Freyja",
+      "hint": "Romantic weekends",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ra",
+      "hint": "Beach towels",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Osiris",
+      "hint": "Harvest time",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thoth",
+      "hint": "Clever notebooks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ganesha",
+      "hint": "Lucky starts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vishnu",
+      "hint": "Eternal naps",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quetzalcoatl",
+      "hint": "Lost empires",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kitsune",
+      "hint": "Mischievous tricks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Genie",
+      "hint": "Careful wishes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chimera",
+      "hint": "Mixed bags",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nuwa",
+      "hint": "Sky repairs",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kami",
+      "hint": "Lantern nights",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tengu",
+      "hint": "Mountain hikes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Baba Yaga",
+      "hint": "Scary bedtime tales",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sisyphus",
+      "hint": "Never-ending laundry",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tiamat",
+      "hint": "Chaos beginnings",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ymir",
+      "hint": "Icy stories",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bastet",
+      "hint": "Sleepy afternoons",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Janus",
+      "hint": "Looking both ways",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hercules",
+      "hint": "Gym selfies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Midas",
+      "hint": "Shiny dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cupid",
+      "hint": "Heartbreak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hermes",
+      "hint": "Quick errands",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hanuman",
+      "hint": "Heavy lifting",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yggdrasil",
+      "hint": "Family tree",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Golem",
+      "hint": "Silent helpers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gilgamesh",
+      "hint": "Long journeys",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hydra",
+      "hint": "Endless arguments",
+      "difficulty": "medium"
+    }
+  ]
+}

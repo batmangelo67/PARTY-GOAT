@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-football-legends",
+  "title": "Football Legends & Iconic Moments",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Pelé",
+      "hint": "Golden era",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diego Maradona",
+      "hint": "Party animal",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Johan Cruyff",
+      "hint": "Thinking coach",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Franz Beckenbauer",
+      "hint": "Champagne lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Garrincha",
+      "hint": "Winger's dream",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eusébio",
+      "hint": "Sunshine smile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferenc Puskás",
+      "hint": "Old photographs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alfredo Di Stéfano",
+      "hint": "Old TV reruns",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lev Yashin",
+      "hint": "Silent statue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bobby Charlton",
+      "hint": "Old newsreel",
+      "difficulty": "easy"
+    },
+    {
+      "word": "George Best",
+      "hint": "Wild nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ronaldo Nazário",
+      "hint": "Knee worries",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kaká",
+      "hint": "Charming grin",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michel Platini",
+      "hint": "Soft touch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marco van Basten",
+      "hint": "Ankle trouble",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gerd Müller",
+      "hint": "Penalty box",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lothar Matthäus",
+      "hint": "Tough tackles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ruud Gullit",
+      "hint": "Rock star look",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gordon Banks",
+      "hint": "Clean sheet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zico",
+      "hint": "Friendly smile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bobby Moore",
+      "hint": "Pub chatter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stanley Matthews",
+      "hint": "Sunday papers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rivaldo",
+      "hint": "Dive drama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ryan Giggs",
+      "hint": "Youth team",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peter Shilton",
+      "hint": "Long career",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paul Gascoigne",
+      "hint": "Crying fans",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Romário",
+      "hint": "Late partying",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hristo Stoichkov",
+      "hint": "Hot temper",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dennis Bergkamp",
+      "hint": "Winter sports",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sócrates",
+      "hint": "Chess club",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kenny Dalglish",
+      "hint": "Tartan scarf",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mario Kempes",
+      "hint": "Golden mane",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gheorghe Hagi",
+      "hint": "Dark glasses",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Luís Figo",
+      "hint": "Transfer saga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carlos Valderrama",
+      "hint": "Wild look",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hand of God",
+      "hint": "Referee drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panenka",
+      "hint": "Pressure kick",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Miracle of Bern",
+      "hint": "Underdog glory",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Goal of the Century",
+      "hint": "Long run",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Phantom goal",
+      "hint": "Disputed ball",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roulette",
+      "hint": "Dizzy defender",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maracanazo",
+      "hint": "Silent stadium",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cruyff turn",
+      "hint": "Sneaky feint",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rabona",
+      "hint": "Show-off move",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jairzinho",
+      "hint": "Flashy boots",
+      "difficulty": "hard"
+    }
+  ]
+}

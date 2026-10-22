@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-food-asian",
+  "title": "Asian Food",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Sushi",
+      "hint": "Lunch out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spring rolls",
+      "hint": "Buffet line",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Egg fried rice",
+      "hint": "Midnight munch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chow mein",
+      "hint": "Friday cheat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teriyaki",
+      "hint": "Messy hands",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Miso soup",
+      "hint": "Cosy hangover",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pad thai",
+      "hint": "Street food stall",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samosa",
+      "hint": "Cricket match",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Naan",
+      "hint": "Tear-off bread",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Onigiri",
+      "hint": "Hungry commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tempura",
+      "hint": "Fried Friday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dim sum",
+      "hint": "Sunday brunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bulgogi",
+      "hint": "Family table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biryani",
+      "hint": "Big celebration",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wonton soup",
+      "hint": "Cold night in",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ramen",
+      "hint": "Rainy night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pho",
+      "hint": "Early morning queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Satay",
+      "hint": "Holiday wander",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gyoza",
+      "hint": "Quick lunch special",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bao",
+      "hint": "Cute snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kimchi",
+      "hint": "Spicy challenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mapo tofu",
+      "hint": "Spicy dare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kung pao chicken",
+      "hint": "Office lunch order",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bibimbap",
+      "hint": "Colourful bowl",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sashimi",
+      "hint": "Special occasion",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Banh mi",
+      "hint": "Sandwich craving",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tom yum",
+      "hint": "Cold cure",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pad see ew",
+      "hint": "Noodle challenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yakitori",
+      "hint": "Late bar crawl",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tteokbokki",
+      "hint": "Spicy snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Udon",
+      "hint": "Cold day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Okonomiyaki",
+      "hint": "Griddle night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paneer tikka",
+      "hint": "Veggie date",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Prawn crackers",
+      "hint": "Free starter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Green curry",
+      "hint": "Spicy Thursday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sticky rice",
+      "hint": "Sweet tooth",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Laksa",
+      "hint": "Spicy broth",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Katsu curry",
+      "hint": "Crispy comfort",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rogan josh",
+      "hint": "Slow braise",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sukiyaki",
+      "hint": "Hot pot party",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dan dan noodles",
+      "hint": "Street vendor",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Congee",
+      "hint": "Porridge at dawn",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dosa",
+      "hint": "Crispy crepe",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hainanese chicken rice",
+      "hint": "Food court",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Char siu",
+      "hint": "Shiny roast",
+      "difficulty": "hard"
+    }
+  ]
+}

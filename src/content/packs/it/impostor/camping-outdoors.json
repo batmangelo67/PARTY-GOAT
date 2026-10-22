@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-camping-outdoors",
+  "title": "Campeggio e vita all'aperto",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Tenda",
+      "hint": "Vento di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sacco a pelo",
+      "hint": "Compagni che russano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zaino",
+      "hint": "Escursione lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Torcia",
+      "hint": "Nascondino al campo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Falò",
+      "hint": "Storie di paura",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marshmallow",
+      "hint": "Merenda dei bambini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amaca",
+      "hint": "Giornata senza pensieri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sentiero",
+      "hint": "Bivio da scegliere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mappa",
+      "hint": "Dove siamo?",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fornelletto",
+      "hint": "Fame all'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Materassino",
+      "hint": "Schiena dolorante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Picchetto",
+      "hint": "Lavoro di squadra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coltellino multiuso",
+      "hint": "Regalo di papà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barbecue",
+      "hint": "Domenica al parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zanzariera",
+      "hint": "Finestra aperta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuscino gonfiabile",
+      "hint": "Viaggio in aereo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ombrellone",
+      "hint": "Pelle scottata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thermos",
+      "hint": "Brodo caldo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bussola",
+      "hint": "Nebbia fitta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gavetta",
+      "hint": "Ricordi di naja",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Borraccia",
+      "hint": "Estate in salita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stuoia",
+      "hint": "Pic-nic improvvisato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scarponi da trekking",
+      "hint": "Passo sicuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giacca impermeabile",
+      "hint": "Meteo incerto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kit di primo soccorso",
+      "hint": "Caduta sul sentiero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Repellente per insetti",
+      "hint": "Serata sul prato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Binocolo",
+      "hint": "Panorama lontano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Macchina fotografica",
+      "hint": "Ricordi da condividere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seggiolino pieghevole",
+      "hint": "Sosta lunga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tavolo pieghevole",
+      "hint": "Festa in giardino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canna da pesca",
+      "hint": "Pazienza infinita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lampada solare",
+      "hint": "Serata in terrazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stufetta a gas",
+      "hint": "Inverno in montagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ascia",
+      "hint": "Forza nelle braccia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Accendino antivento",
+      "hint": "Mani congelate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sapone biodegradabile",
+      "hint": "Rispetto della natura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ramponi",
+      "hint": "Passaggio gelato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Piccozza",
+      "hint": "Cordata di amici",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Moschettone",
+      "hint": "Legame stretto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Imbragatura",
+      "hint": "Vita stretta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nodo a otto",
+      "hint": "Lezione del corso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Altimetro",
+      "hint": "Mal di montagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caschetto da roccia",
+      "hint": "Prima di tutto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sci d'alpinismo",
+      "hint": "Gara in salita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Corda dinamica",
+      "hint": "Brivido in parete",
+      "difficulty": "hard"
+    }
+  ]
+}

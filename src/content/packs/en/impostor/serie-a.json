@@ -1,0 +1,244 @@
+{
+  "id": "en-impostor-serie-a",
+  "title": "Serie A & Italian Football",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Juventus",
+      "hint": "Sunday lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Inter Milan",
+      "hint": "Matchday queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "AC Milan",
+      "hint": "Early kickoff",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Napoli",
+      "hint": "Summer heat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roma",
+      "hint": "Tourist selfies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lazio",
+      "hint": "Rainy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiorentina",
+      "hint": "Art class",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Atalanta",
+      "hint": "Ancient history",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Torino",
+      "hint": "Winter breakfast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bologna",
+      "hint": "Student city",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Genoa",
+      "hint": "Harbour walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Verona",
+      "hint": "Valentine's date",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Como",
+      "hint": "Summer escape",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Venezia",
+      "hint": "Sinking feeling",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monza",
+      "hint": "Fast lane",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cagliari",
+      "hint": "Beach holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Udinese",
+      "hint": "Wine tasting",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Francesco Totti",
+      "hint": "Bedroom posters",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paolo Maldini",
+      "hint": "Family business",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roberto Baggio",
+      "hint": "Heartbreak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alessandro Del Piero",
+      "hint": "Long flight",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gianluigi Buffon",
+      "hint": "Retirement party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gianfranco Zola",
+      "hint": "Stadium tour",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zlatan Ibrahimović",
+      "hint": "Big talk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Franco Baresi",
+      "hint": "Old school",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Paolo Rossi",
+      "hint": "Comeback story",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mario Balotelli",
+      "hint": "Dinner-party drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roberto Mancini",
+      "hint": "Sharp suit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gianluca Vialli",
+      "hint": "Champions night",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Totò Schillaci",
+      "hint": "Dark horse",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Filippo Inzaghi",
+      "hint": "Perfect timing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marco Materazzi",
+      "hint": "Heated argument",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fabio Cannavaro",
+      "hint": "Polished shoes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dino Zoff",
+      "hint": "Second wind",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gigi Riva",
+      "hint": "Silent hero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scudetto",
+      "hint": "Champagne spray",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Catenaccio",
+      "hint": "Nil-nil draw",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Azzurri",
+      "hint": "National anthem",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coppa Italia",
+      "hint": "Spring knockout",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Serie B",
+      "hint": "Second tier",
+      "difficulty": "medium"
+    },
+    {
+      "word": "San Siro",
+      "hint": "Sold-out night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stadio Olimpico",
+      "hint": "Derby day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ultras",
+      "hint": "Terrace chants",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calciomercato",
+      "hint": "Pub gossip",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sampdoria",
+      "hint": "Weekend trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Parma",
+      "hint": "Long lunch",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "en-circa-history",
+  "title": "History",
+  "language": "en",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "question": "In what year did World War II end?",
+      "answer": 1945,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did World War I end?",
+      "decoyAnswer": 1918
+    },
+    {
+      "question": "In what year was the Berlin Wall built?",
+      "answer": 1961,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Berlin Wall fall?",
+      "decoyAnswer": 1989
+    },
+    {
+      "question": "In what year did Christopher Columbus first reach the Americas?",
+      "answer": 1492,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Vasco da Gama reach India by sea?",
+      "decoyAnswer": 1498
+    },
+    {
+      "question": "In what year did the Titanic sink?",
+      "answer": 1912,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Lusitania sunk?",
+      "decoyAnswer": 1915
+    },
+    {
+      "question": "In what year was the Magna Carta sealed?",
+      "answer": 1215,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Battle of Hastings fought?",
+      "decoyAnswer": 1066
+    },
+    {
+      "question": "In what year did the storming of the Bastille take place?",
+      "answer": 1789,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the US Declaration of Independence adopted?",
+      "decoyAnswer": 1776
+    },
+    {
+      "question": "In what year was the Gunpowder Plot foiled?",
+      "answer": 1605,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Great Fire of London start?",
+      "decoyAnswer": 1666
+    },
+    {
+      "question": "In what year was the Eiffel Tower completed?",
+      "answer": 1889,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Statue of Liberty dedicated?",
+      "decoyAnswer": 1886
+    },
+    {
+      "question": "In what year did the Wright brothers make their first powered flight?",
+      "answer": 1903,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Sputnik 1 launch?",
+      "decoyAnswer": 1957
+    },
+    {
+      "question": "In what year did Neil Armstrong first walk on the Moon?",
+      "answer": 1969,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Yuri Gagarin become the first person in space?",
+      "decoyAnswer": 1961
+    },
+    {
+      "question": "In what year was the Battle of Waterloo fought?",
+      "answer": 1815,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Battle of Trafalgar fought?",
+      "decoyAnswer": 1805
+    },
+    {
+      "question": "In what year did the Chernobyl disaster happen?",
+      "answer": 1986,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Three Mile Island accident happen?",
+      "decoyAnswer": 1979
+    },
+    {
+      "question": "In what year did the Black Death first arrive in Europe?",
+      "answer": 1347,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Battle of Agincourt fought?",
+      "decoyAnswer": 1415
+    },
+    {
+      "question": "In what year did the Ottomans capture Constantinople?",
+      "answer": 1453,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Spanish Armada defeated?",
+      "decoyAnswer": 1588
+    },
+    {
+      "question": "In what year did India gain independence from Britain?",
+      "answer": 1947,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Soviet Union dissolve?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In what year was the Treaty of Versailles signed?",
+      "answer": 1919,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the League of Nations founded?",
+      "decoyAnswer": 1920
+    },
+    {
+      "question": "In what year was Nelson Mandela released from prison?",
+      "answer": 1990,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was Nelson Mandela elected president of South Africa?",
+      "decoyAnswer": 1994
+    },
+    {
+      "question": "In what year did the Cuban Missile Crisis take place?",
+      "answer": 1962,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Bay of Pigs invasion take place?",
+      "decoyAnswer": 1961
+    },
+    {
+      "question": "In what year did the Battle of Stalingrad end?",
+      "answer": 1943,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Battle of Midway take place?",
+      "decoyAnswer": 1942
+    },
+    {
+      "question": "In what year did Gandhi lead the Salt March?",
+      "answer": 1930,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Amritsar massacre take place?",
+      "decoyAnswer": 1919
+    },
+    {
+      "question": "In what year did Rosa Parks refuse to give up her bus seat?",
+      "answer": 1955,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the March on Washington held?",
+      "decoyAnswer": 1963
+    },
+    {
+      "question": "In what year was the People's Republic of China founded?",
+      "answer": 1949,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Korean War begin?",
+      "decoyAnswer": 1950
+    },
+    {
+      "question": "In what year did the Wall Street Crash that began the Great Depression happen?",
+      "answer": 1929,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the stock market crash known as Black Monday happen?",
+      "decoyAnswer": 1987
+    },
+    {
+      "question": "In what year was the Great Exhibition held in London?",
+      "answer": 1851,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the London Underground first open?",
+      "decoyAnswer": 1863
+    },
+    {
+      "question": "In what year was the Universal Declaration of Human Rights adopted?",
+      "answer": 1948,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the United Nations founded?",
+      "decoyAnswer": 1945
+    },
+    {
+      "question": "In what year was NATO founded?",
+      "answer": 1949,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year was the Warsaw Pact signed?",
+      "decoyAnswer": 1955
+    },
+    {
+      "question": "In what year did Edmund Hillary and Tenzing Norgay first reach the summit of Everest?",
+      "answer": 1953,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Roger Bannister run the first sub-four-minute mile?",
+      "decoyAnswer": 1954
+    },
+    {
+      "question": "In what year was the first atomic bomb tested at Trinity?",
+      "answer": 1945,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Soviet Union test its first atomic bomb?",
+      "decoyAnswer": 1949
+    },
+    {
+      "question": "In what year did Japan attack Pearl Harbor?",
+      "answer": 1941,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Dunkirk evacuation take place?",
+      "decoyAnswer": 1940
+    },
+    {
+      "question": "In what year did Hitler become Chancellor of Germany?",
+      "answer": 1933,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did Germany annex Austria in the Anschluss?",
+      "decoyAnswer": 1938
+    },
+    {
+      "question": "In what year did the Spanish Civil War end?",
+      "answer": 1939,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Spanish Civil War begin?",
+      "decoyAnswer": 1936
+    },
+    {
+      "question": "In what year was Abraham Lincoln assassinated?",
+      "answer": 1865,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the American Civil War begin?",
+      "decoyAnswer": 1861
+    },
+    {
+      "question": "In what year did the Battle of the Somme begin?",
+      "answer": 1916,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Gallipoli landings take place?",
+      "decoyAnswer": 1915
+    },
+    {
+      "question": "In what year did China's Cultural Revolution begin?",
+      "answer": 1966,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Prague Spring take place?",
+      "decoyAnswer": 1968
+    },
+    {
+      "question": "In what year was the Louisiana Purchase made?",
+      "answer": 1803,
+      "unit": "year",
+      "format": "year",
+      "decoyQuestion": "In what year did the Mexican-American War begin?",
+      "decoyAnswer": 1846
+    }
+  ]
+}

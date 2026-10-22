@@ -1,0 +1,708 @@
+{
+  "id": "en-bomb-word-rules",
+  "title": "Word Rules",
+  "language": "en",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "word-rules",
+  "items": [
+    {
+      "text": "Words ending in -TION",
+      "examples": [
+        "Nation",
+        "Lotion",
+        "Potion",
+        "Mention",
+        "Auction"
+      ]
+    },
+    {
+      "text": "Words starting with SH",
+      "examples": [
+        "Shadow",
+        "Shampoo",
+        "Shelf",
+        "Shark",
+        "Shower"
+      ]
+    },
+    {
+      "text": "Words starting with UN",
+      "examples": [
+        "Unicorn",
+        "Under",
+        "Union",
+        "Unlock"
+      ]
+    },
+    {
+      "text": "Words that rhyme with CAT",
+      "examples": [
+        "Bat",
+        "Flat",
+        "Chat",
+        "Gnat",
+        "Brat"
+      ]
+    },
+    {
+      "text": "Words that rhyme with LIGHT",
+      "examples": [
+        "Night",
+        "Kite",
+        "Height",
+        "Bite",
+        "Flight"
+      ]
+    },
+    {
+      "text": "Words that rhyme with BEE",
+      "examples": [
+        "Tree",
+        "Knee",
+        "Sea",
+        "Glee",
+        "Key"
+      ]
+    },
+    {
+      "text": "Words that rhyme with BLUE",
+      "examples": [
+        "Glue",
+        "Shoe",
+        "Crew",
+        "Stew",
+        "Zoo"
+      ]
+    },
+    {
+      "text": "Words that rhyme with BOAT",
+      "examples": [
+        "Coat",
+        "Throat",
+        "Vote",
+        "Remote",
+        "Goat"
+      ]
+    },
+    {
+      "text": "Words ending in -LY",
+      "examples": [
+        "Quickly",
+        "Happily",
+        "Slowly",
+        "Gently",
+        "Madly"
+      ]
+    },
+    {
+      "text": "Words ending in -ABLE",
+      "examples": [
+        "Readable",
+        "Washable",
+        "Lovable",
+        "Drinkable"
+      ]
+    },
+    {
+      "text": "Words ending in -ING",
+      "examples": [
+        "Spring",
+        "Sing",
+        "Ceiling",
+        "Morning",
+        "Painting"
+      ]
+    },
+    {
+      "text": "Words ending in -MENT",
+      "examples": [
+        "Moment",
+        "Payment",
+        "Element",
+        "Movement",
+        "Argument"
+      ]
+    },
+    {
+      "text": "Words ending in -NESS",
+      "examples": [
+        "Kindness",
+        "Darkness",
+        "Sadness",
+        "Fitness",
+        "Business"
+      ]
+    },
+    {
+      "text": "Words ending in -FUL",
+      "examples": [
+        "Helpful",
+        "Careful",
+        "Playful",
+        "Hopeful",
+        "Useful"
+      ]
+    },
+    {
+      "text": "Words ending in -EST",
+      "examples": [
+        "Honest",
+        "Chest",
+        "Quest",
+        "Interest",
+        "Biggest"
+      ]
+    },
+    {
+      "text": "Words ending in -IST",
+      "examples": [
+        "Artist",
+        "Dentist",
+        "Pianist",
+        "Florist",
+        "Cyclist"
+      ]
+    },
+    {
+      "text": "Words ending in -OLOGY",
+      "examples": [
+        "Biology",
+        "Geology",
+        "Psychology",
+        "Zoology",
+        "Ecology"
+      ]
+    },
+    {
+      "text": "Words ending in -ISH",
+      "examples": [
+        "British",
+        "Childish",
+        "Selfish",
+        "Polish",
+        "Spanish"
+      ]
+    },
+    {
+      "text": "Words ending in -EN",
+      "examples": [
+        "Chicken",
+        "Kitten",
+        "Garden",
+        "Golden",
+        "Oxygen"
+      ]
+    },
+    {
+      "text": "Words ending in -ATE",
+      "examples": [
+        "Create",
+        "Plate",
+        "Estimate",
+        "Chocolate",
+        "Celebrate"
+      ]
+    },
+    {
+      "text": "Words ending in -ESS",
+      "examples": [
+        "Princess",
+        "Waitress",
+        "Goddess",
+        "Lioness",
+        "Actress"
+      ]
+    },
+    {
+      "text": "Words ending in -ER that are jobs",
+      "examples": [
+        "Teacher",
+        "Baker",
+        "Driver",
+        "Painter",
+        "Plumber"
+      ]
+    },
+    {
+      "text": "Words starting with ST",
+      "examples": [
+        "Stone",
+        "Storm",
+        "Stick",
+        "Street"
+      ]
+    },
+    {
+      "text": "Words starting with BR",
+      "examples": [
+        "Bread",
+        "Bridge",
+        "Brave",
+        "Broom",
+        "Brother"
+      ]
+    },
+    {
+      "text": "Words starting with BL",
+      "examples": [
+        "Blanket",
+        "Blink",
+        "Bloom",
+        "Blame",
+        "Blood"
+      ]
+    },
+    {
+      "text": "Words starting with PRE",
+      "examples": [
+        "Preview",
+        "Prepare",
+        "Prefix",
+        "Prevent",
+        "Premium"
+      ]
+    },
+    {
+      "text": "Words starting with BI",
+      "examples": [
+        "Bicycle",
+        "Biscuit",
+        "Binary",
+        "Bionic",
+        "Billion"
+      ]
+    },
+    {
+      "text": "Words starting with DIS",
+      "examples": [
+        "Disguise",
+        "Dispute",
+        "Distance",
+        "Dismiss",
+        "Disco"
+      ]
+    },
+    {
+      "text": "Words starting with EX",
+      "examples": [
+        "Exit",
+        "Exam",
+        "Excuse",
+        "Expert",
+        "Express"
+      ]
+    },
+    {
+      "text": "Words starting with OVER",
+      "examples": [
+        "Overcome",
+        "Overtime",
+        "Overdue",
+        "Overhead",
+        "Overlook"
+      ]
+    },
+    {
+      "text": "Words starting with MIS",
+      "examples": [
+        "Mistake",
+        "Mishap",
+        "Mislead",
+        "Mischief",
+        "Misuse"
+      ]
+    },
+    {
+      "text": "Words starting with CH",
+      "examples": [
+        "Chair",
+        "Chocolate",
+        "Chimney",
+        "Chess",
+        "Chance"
+      ]
+    },
+    {
+      "text": "Words starting with TR",
+      "examples": [
+        "Trophy",
+        "Triangle",
+        "Truck",
+        "Trust",
+        "Treasure"
+      ]
+    },
+    {
+      "text": "Words starting with GR",
+      "examples": [
+        "Grape",
+        "Grumpy",
+        "Ground",
+        "Gravy",
+        "Grow"
+      ]
+    },
+    {
+      "text": "Words starting with SN",
+      "examples": [
+        "Snake",
+        "Sneeze",
+        "Snail",
+        "Snack",
+        "Sniff"
+      ]
+    },
+    {
+      "text": "Words starting with CO",
+      "examples": [
+        "Cookie",
+        "Cousin",
+        "Cotton",
+        "Colour",
+        "Corner"
+      ]
+    },
+    {
+      "text": "Words starting with GL",
+      "examples": [
+        "Glass",
+        "Glove",
+        "Glide",
+        "Globe",
+        "Glitter"
+      ]
+    },
+    {
+      "text": "Words starting with FL",
+      "examples": [
+        "Flower",
+        "Flame",
+        "Flood",
+        "Flute",
+        "Flash"
+      ]
+    },
+    {
+      "text": "Words starting with SP",
+      "examples": [
+        "Spider",
+        "Spoon",
+        "Sparrow",
+        "Splash",
+        "Speech"
+      ]
+    },
+    {
+      "text": "Words starting with WH",
+      "examples": [
+        "Whale",
+        "Wheel",
+        "Whisper",
+        "Whistle"
+      ]
+    },
+    {
+      "text": "Words starting with RO",
+      "examples": [
+        "Rocket",
+        "Robot",
+        "Rose",
+        "Rope"
+      ]
+    },
+    {
+      "text": "Words starting with S and ending in T",
+      "examples": [
+        "Sweet",
+        "Smart",
+        "Secret",
+        "Spirit",
+        "Silent"
+      ]
+    },
+    {
+      "text": "Words starting and ending with the same letter",
+      "examples": [
+        "Area",
+        "Eye",
+        "Noon",
+        "Stats",
+        "Tenet"
+      ]
+    },
+    {
+      "text": "Palindromes",
+      "examples": [
+        "Kayak",
+        "Radar",
+        "Racecar",
+        "Civic",
+        "Level"
+      ]
+    },
+    {
+      "text": "Words with a silent K",
+      "examples": [
+        "Knife",
+        "Knee",
+        "Knot",
+        "Knight",
+        "Knuckle"
+      ]
+    },
+    {
+      "text": "Words with a silent W",
+      "examples": [
+        "Write",
+        "Wrong",
+        "Wrap",
+        "Wrist",
+        "Sword"
+      ]
+    },
+    {
+      "text": "Words with a silent L",
+      "examples": [
+        "Walk",
+        "Talk",
+        "Half",
+        "Calm",
+        "Chalk"
+      ]
+    },
+    {
+      "text": "Words with a silent G",
+      "examples": [
+        "Gnat",
+        "Sign",
+        "Design",
+        "Foreign",
+        "Gnaw"
+      ]
+    },
+    {
+      "text": "Words with a double E",
+      "examples": [
+        "Feet",
+        "Cheese",
+        "Coffee",
+        "Green",
+        "Sleep"
+      ]
+    },
+    {
+      "text": "Words with a double O",
+      "examples": [
+        "Moon",
+        "Spoon",
+        "School",
+        "Balloon",
+        "Food"
+      ]
+    },
+    {
+      "text": "Words containing EAR",
+      "examples": [
+        "Pearl",
+        "Learn",
+        "Search",
+        "Heart",
+        "Yearly"
+      ]
+    },
+    {
+      "text": "Words containing ANT",
+      "examples": [
+        "Plant",
+        "Giant",
+        "Elephant",
+        "Restaurant",
+        "Mantle"
+      ]
+    },
+    {
+      "text": "Words containing CAT",
+      "examples": [
+        "Scatter",
+        "Catch",
+        "Cathedral",
+        "Category",
+        "Certificate"
+      ]
+    },
+    {
+      "text": "Words containing ONE",
+      "examples": [
+        "Money",
+        "Honey",
+        "Phone",
+        "Bone",
+        "Stone"
+      ]
+    },
+    {
+      "text": "Compound words with FIRE",
+      "examples": [
+        "Firefly",
+        "Fireplace",
+        "Firework",
+        "Bonfire",
+        "Wildfire"
+      ]
+    },
+    {
+      "text": "Compound words with BOOK",
+      "examples": [
+        "Notebook",
+        "Bookmark",
+        "Textbook",
+        "Cookbook",
+        "Scrapbook"
+      ]
+    },
+    {
+      "text": "Compound words with WATER",
+      "examples": [
+        "Waterfall",
+        "Watermelon",
+        "Waterproof",
+        "Watercolour",
+        "Waterbed"
+      ]
+    },
+    {
+      "text": "Compound words with HOUSE",
+      "examples": [
+        "Greenhouse",
+        "Lighthouse",
+        "Doghouse",
+        "Treehouse",
+        "Houseboat"
+      ]
+    },
+    {
+      "text": "Compound words with BALL",
+      "examples": [
+        "Football",
+        "Snowball",
+        "Baseball",
+        "Meatball",
+        "Eyeball"
+      ]
+    },
+    {
+      "text": "Compound words with HAND",
+      "examples": [
+        "Handbag",
+        "Handshake",
+        "Handmade",
+        "Handout",
+        "Handrail"
+      ]
+    },
+    {
+      "text": "Compound words with BACK",
+      "examples": [
+        "Backpack",
+        "Backyard",
+        "Backbone",
+        "Backdoor",
+        "Backstage"
+      ]
+    },
+    {
+      "text": "Compound words with SNOW",
+      "examples": [
+        "Snowflake",
+        "Snowman",
+        "Snowboard",
+        "Snowdrop",
+        "Snowstorm"
+      ]
+    },
+    {
+      "text": "Compound words with SUN",
+      "examples": [
+        "Sunflower",
+        "Sunlight",
+        "Sunburn",
+        "Sundial",
+        "Sunglasses"
+      ]
+    },
+    {
+      "text": "Compound words with MAN",
+      "examples": [
+        "Postman",
+        "Policeman",
+        "Milkman",
+        "Chairman",
+        "Gentleman"
+      ]
+    },
+    {
+      "text": "Words that rhyme with DAY",
+      "examples": [
+        "Play",
+        "Way",
+        "Gray",
+        "Tray",
+        "Stay"
+      ]
+    },
+    {
+      "text": "Words starting with QU",
+      "examples": [
+        "Queen",
+        "Quiet",
+        "Quilt",
+        "Quick",
+        "Quote"
+      ]
+    },
+    {
+      "text": "Words starting with FR",
+      "examples": [
+        "Frog",
+        "Friend",
+        "Frost",
+        "Fruit",
+        "Front"
+      ]
+    },
+    {
+      "text": "Words starting with CR",
+      "examples": [
+        "Crown",
+        "Cricket",
+        "Crayon",
+        "Cry",
+        "Crane"
+      ]
+    },
+    {
+      "text": "Words ending in -OUS",
+      "examples": [
+        "Famous",
+        "Nervous",
+        "Curious",
+        "Generous",
+        "Delicious"
+      ]
+    },
+    {
+      "text": "Words starting with TH",
+      "examples": [
+        "Thunder",
+        "Thirsty",
+        "Thumb",
+        "Thread",
+        "Throne"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-rpg-fantasy-worlds",
+  "title": "RPG, Fantasy & Lore Worlds",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Hogwarts",
+      "hint": "School holidays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Narnia",
+      "hint": "Countryside house",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Middle-earth",
+      "hint": "Long journey",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Westeros",
+      "hint": "Scheming nobles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Neverland",
+      "hint": "Eternal youth",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wonderland",
+      "hint": "Dream logic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Camelot",
+      "hint": "Chivalry",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asgard",
+      "hint": "Fierce gods",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Land of Oz",
+      "hint": "Colourful journey",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mordor",
+      "hint": "Doom and gloom",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tatooine",
+      "hint": "Hot days",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hobbiton",
+      "hint": "Garden picnic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sherwood Forest",
+      "hint": "Outlaw life",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olympus",
+      "hint": "Stormy peak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Krypton",
+      "hint": "Lost planet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rivendell",
+      "hint": "Peaceful valley",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Discworld",
+      "hint": "Funny footnotes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Azeroth",
+      "hint": "Long nights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tamriel",
+      "hint": "Open map",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eorzea",
+      "hint": "Cozy fantasy",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Faerûn",
+      "hint": "Dice rolls",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eberron",
+      "hint": "Pulp adventure",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vvardenfell",
+      "hint": "Dusty trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dunwall",
+      "hint": "Victorian mess",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thedas",
+      "hint": "Medieval politics",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Norrath",
+      "hint": "Old-school MMO",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gondor",
+      "hint": "Ancient kings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lilliput",
+      "hint": "Tall tales",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dragonstone",
+      "hint": "Family feuds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tyria",
+      "hint": "Hero's journey",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Skyrim",
+      "hint": "Long winter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terraria",
+      "hint": "Rainy weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ravnica",
+      "hint": "City lights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lothlórien",
+      "hint": "Quiet glade",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gallifrey",
+      "hint": "Long-running show",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arrakis",
+      "hint": "Desert politics",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lordran",
+      "hint": "Tough love",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Midgar",
+      "hint": "Industrial dread",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hyrule",
+      "hint": "Hidden treasure",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shangri-La",
+      "hint": "Mountain retreat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "El Dorado",
+      "hint": "Treasure seekers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Terabithia",
+      "hint": "Childhood imagination",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Elysium",
+      "hint": "Eternal picnic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arendelle",
+      "hint": "Winter feud",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Erebor",
+      "hint": "Long sleep",
+      "difficulty": "hard"
+    }
+  ]
+}

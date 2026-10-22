@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-memes-viral",
+  "title": "Internet Memes & Viral Culture",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Rickroll",
+      "hint": "Surprise link",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doge",
+      "hint": "Wholesome laughs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nyan Cat",
+      "hint": "Lazy scrolling",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grumpy Cat",
+      "hint": "Monday mood",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Keyboard Cat",
+      "hint": "Cat tantrum",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice Bucket Challenge",
+      "hint": "Summer dare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harlem Shake",
+      "hint": "Party madness",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gangnam Style",
+      "hint": "Summer hits",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Planking",
+      "hint": "Stiff office",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dab",
+      "hint": "Sports victory",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surprised Pikachu",
+      "hint": "Big reveal",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yeet",
+      "hint": "Silly shouting",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pokémon GO",
+      "hint": "Walking everywhere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poop Emoji",
+      "hint": "Cheeky texts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fidget Spinner",
+      "hint": "Boredom in class",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wink Emoji",
+      "hint": "Flirty texts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shrug Emoji",
+      "hint": "Not my problem",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mannequin Challenge",
+      "hint": "Group photo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bottle Flip",
+      "hint": "Pool party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Floss",
+      "hint": "Silly moves",
+      "difficulty": "medium"
+    },
+    {
+      "word": "This Is Fine",
+      "hint": "Office chaos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mocking SpongeBob",
+      "hint": "Chatroom sass",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lolcat",
+      "hint": "Pet photos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hamster Dance",
+      "hint": "Quirky clips",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trollface",
+      "hint": "Sneaky prank",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hotline Bling",
+      "hint": "Ex texts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kermit Sipping Tea",
+      "hint": "Awkward silence",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hashtag",
+      "hint": "Trending topics",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bitmoji",
+      "hint": "Profile pictures",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chocolate Rain",
+      "hint": "Stormy drive",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blue Screen",
+      "hint": "Lost work",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Snapchat Dog Filter",
+      "hint": "Selfie session",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Keep Calm and Carry On",
+      "hint": "Mug designs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cat Hoover",
+      "hint": "Chores fail",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Leeroy Jenkins",
+      "hint": "Raid chaos",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rage Comic",
+      "hint": "Angry internet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dramatic Chipmunk",
+      "hint": "Overreaction",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sad Keanu",
+      "hint": "Lonely lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Thanos Snap",
+      "hint": "Vanishing act",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stonks",
+      "hint": "Investor dreams",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skull Emoji",
+      "hint": "Lol overload",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ok Boomer",
+      "hint": "Family dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Distracted Boyfriend",
+      "hint": "Crowded street",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dat Boi",
+      "hint": "Summer ride",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Yo Dawg",
+      "hint": "Sibling pranks",
+      "difficulty": "hard"
+    }
+  ]
+}

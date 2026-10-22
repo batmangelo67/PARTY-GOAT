@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-memes-viral",
+  "title": "Meme e tormentoni",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Rickroll",
+      "hint": "Anni Ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nyan Cat",
+      "hint": "Corsa infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harlem Shake",
+      "hint": "Serata in discoteca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice bucket challenge",
+      "hint": "Caldo di luglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gangnam Style",
+      "hint": "Ballo a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doge",
+      "hint": "Scrittura creativa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Keyboard Cat",
+      "hint": "Pisolino sul divano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trollface",
+      "hint": "Commento velenoso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stonks",
+      "hint": "Grafici in salita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Salt Bae",
+      "hint": "Ristorante di lusso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Unboxing",
+      "hint": "Pacco arrivato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flash mob",
+      "hint": "Coro improvvisato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yolo",
+      "hint": "Ultimo giorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dab",
+      "hint": "Vittoria a metà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grumpy Cat",
+      "hint": "Lunedì mattina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Distracted boyfriend",
+      "hint": "Passeggiata in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ok boomer",
+      "hint": "Discussione a cena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Success Kid",
+      "hint": "Piccola vittoria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reaction video",
+      "hint": "Schermo che ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algoritmo",
+      "hint": "Pubblicità mirata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Suoneria Nokia",
+      "hint": "Anni duemila",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hamster ballerino",
+      "hint": "Sabato sera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Meme a catena",
+      "hint": "Messaggio da girare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cringe",
+      "hint": "Imbarazzo sul palco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sticker",
+      "hint": "Quaderno di scuola",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gif",
+      "hint": "Ciclo breve",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Emoji",
+      "hint": "Faccine nella chat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Influencer",
+      "hint": "Vita in vetrina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Podcast",
+      "hint": "Viaggio in metro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Story",
+      "hint": "Ventiquattro ore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bot",
+      "hint": "Chat senza persone",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Duetto",
+      "hint": "Canzone in coppia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vlog",
+      "hint": "Giornata raccontata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spoiler",
+      "hint": "Commento prematuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trollata",
+      "hint": "Scherzo in chat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gattino ciambella",
+      "hint": "Colazione pelosa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Keep calm",
+      "hint": "Frase rassicurante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bruh",
+      "hint": "Scuotere la testa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rage comic",
+      "hint": "Vecchia bacheca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dancing baby",
+      "hint": "Anni Novanta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Flexing",
+      "hint": "Vantarsi in chat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Remix",
+      "hint": "Musica a sorpresa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fotomontaggio",
+      "hint": "Foto sospetta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fidget spinner",
+      "hint": "Pausa in classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mannequin challenge",
+      "hint": "Nessun movimento",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-conspiracies-urban-legends",
+  "title": "Conspiracy Theories & Urban Legends",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Bloody Mary",
+      "hint": "Late night dare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Slender Man",
+      "hint": "Creepy photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hookman",
+      "hint": "Lovers' lane",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alligators in the Sewers",
+      "hint": "Lost pets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Killer in the Backseat",
+      "hint": "Car keys",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tooth Fairy",
+      "hint": "Loose molar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pop Rocks and Soda",
+      "hint": "Sizzling tongue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloween Poison Candy",
+      "hint": "Sugar suspicion",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Men in Black",
+      "hint": "Night patrols",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kidney Heist",
+      "hint": "Business trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chemtrails",
+      "hint": "Lazy clouds",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Illuminati",
+      "hint": "Secret dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flat Earth",
+      "hint": "Long voyages",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Area 51",
+      "hint": "Guarded fences",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moon Landing Hoax",
+      "hint": "Studio lights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coca-Cola Secret",
+      "hint": "Family recipe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mandela Effect",
+      "hint": "Childhood cartoons",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lizard People",
+      "hint": "Scaly neighbours",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Black Helicopters",
+      "hint": "Whispered warnings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jersey Devil",
+      "hint": "Family ghost story",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Krampus",
+      "hint": "Naughty list",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wendigo",
+      "hint": "Deep winter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Creepy Clown Sightings",
+      "hint": "Funfair fright",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bat Boy",
+      "hint": "Grocery aisle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cell Phone Radiation",
+      "hint": "Late night scrolling",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beehive Hair Spiders",
+      "hint": "Retro salon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dead Man's Curve",
+      "hint": "Lonely highway",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hellhounds",
+      "hint": "Midnight howls",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Phantom Piper",
+      "hint": "Distant tune",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Goatman",
+      "hint": "Campfire chat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Banshee",
+      "hint": "Rattling windows",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gremlins",
+      "hint": "Broken gadgets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spontaneous Combustion",
+      "hint": "Hot seat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Haunted Doll",
+      "hint": "Charity shop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alien Autopsy",
+      "hint": "Secret footage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moon Rock Gift",
+      "hint": "Museum shop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Agartha",
+      "hint": "Hidden kingdom",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bloop",
+      "hint": "Deep ocean",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bielefeld Conspiracy",
+      "hint": "Map errors",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Paul Is Dead",
+      "hint": "Endless rumours",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dulce Base",
+      "hint": "Flashing lights",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Piltdown Man",
+      "hint": "Old bones",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cottingley Fairies",
+      "hint": "Summer giggles",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tulpa",
+      "hint": "Lonely company",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Phantom Time Hypothesis",
+      "hint": "Date confusion",
+      "difficulty": "hard"
+    }
+  ]
+}

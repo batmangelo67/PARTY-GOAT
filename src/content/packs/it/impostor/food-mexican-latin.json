@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-food-mexican-latin",
+  "title": "Cucina messicana e latina",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Guacamole",
+      "hint": "Festa in terrazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quesadilla",
+      "hint": "Cena in piedi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fajitas",
+      "hint": "Serata al ristorante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Salsa",
+      "hint": "Festa di quartiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chili con carne",
+      "hint": "Serata fredda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ceviche",
+      "hint": "Caldo di agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Empanadas",
+      "hint": "Pausa da lavoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asado",
+      "hint": "Domenica di festa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tostadas",
+      "hint": "Spuntino croccante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chorizo",
+      "hint": "Pausa al bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tortilla chips",
+      "hint": "Serata in pigiama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pico de gallo",
+      "hint": "Tavola d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Enchiladas",
+      "hint": "Cena in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elote",
+      "hint": "Passeggiata in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Huevos rancheros",
+      "hint": "Dopo la festa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pão de queijo",
+      "hint": "Merenda del pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Choripan",
+      "hint": "Festa in cortile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tacos al pastor",
+      "hint": "Notte in città",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pozole",
+      "hint": "Pranzo di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tamales",
+      "hint": "Lunga preparazione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mole poblano",
+      "hint": "Cena speciale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chimichanga",
+      "hint": "Notte di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carnitas",
+      "hint": "Festa di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arepa",
+      "hint": "Colazione di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Feijoada",
+      "hint": "Sabato in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ropa vieja",
+      "hint": "Avanzi di ieri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chiles rellenos",
+      "hint": "Serata piccante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gallo pinto",
+      "hint": "Mattina di campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Churrasco",
+      "hint": "Grigliata d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sancocho",
+      "hint": "Giorno di pioggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pan de yuca",
+      "hint": "Spuntino del mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ajiaco",
+      "hint": "Zuppa d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Picadillo",
+      "hint": "Cena quotidiana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pabellón criollo",
+      "hint": "Pranzo del venerdì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cochinita pibil",
+      "hint": "Cena di nozze",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pupusas",
+      "hint": "Pausa del mercato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chilaquiles",
+      "hint": "Mattina di sole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lomo saltado",
+      "hint": "Cena con amici",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Frijoles refritos",
+      "hint": "Contorno di famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tlayuda",
+      "hint": "Spuntino al mercato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nopales",
+      "hint": "Dieta leggera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bandeja paisa",
+      "hint": "Pranzo abbondante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pastel de choclo",
+      "hint": "Pranzo in campagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caldo de res",
+      "hint": "Pranzo di famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chicharrón",
+      "hint": "Spuntino da birra",
+      "difficulty": "hard"
+    }
+  ]
+}

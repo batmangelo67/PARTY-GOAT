@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-champions-league",
+  "title": "Champions League & European Clubs",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Bayern Munich",
+      "hint": "Winter ski trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Borussia Dortmund",
+      "hint": "Loud terraces",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paris Saint-Germain",
+      "hint": "Shopping spree",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ajax",
+      "hint": "Youth academy",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Porto",
+      "hint": "Riverside sunset",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Benfica",
+      "hint": "Tram ride",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Celtic",
+      "hint": "Winter rain",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AS Monaco",
+      "hint": "Yacht party",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Marseille",
+      "hint": "Old port",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PSV Eindhoven",
+      "hint": "Tech fair",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Galatasaray",
+      "hint": "Ferry crossing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Feyenoord",
+      "hint": "Bike commute",
+      "difficulty": "medium"
+    },
+    {
+      "word": "RB Salzburg",
+      "hint": "Mountain hike",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dynamo Kyiv",
+      "hint": "Cold winter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sporting CP",
+      "hint": "Sunset coffee",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Red Star Belgrade",
+      "hint": "Derby chaos",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Basel",
+      "hint": "Snow day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anderlecht",
+      "hint": "Tourist queue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lyon",
+      "hint": "Bistro meal",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferencváros",
+      "hint": "Warm bath",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dinamo Zagreb",
+      "hint": "Quiet morning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Copenhagen",
+      "hint": "Cozy candles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Young Boys",
+      "hint": "Alpine chill",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rangers",
+      "hint": "Pub argument",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Schalke 04",
+      "hint": "Rainy Monday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bayer Leverkusen",
+      "hint": "Chemistry class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wolfsburg",
+      "hint": "Road trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Robert Lewandowski",
+      "hint": "Early alarm",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kylian Mbappé",
+      "hint": "Turbo boost",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Neymar",
+      "hint": "Party season",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samuel Eto'o",
+      "hint": "Serial winner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Andriy Shevchenko",
+      "hint": "Poker face",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Franck Ribéry",
+      "hint": "Hair salon",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Thomas Müller",
+      "hint": "Cheeky grin",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Andrea Pirlo",
+      "hint": "Cool thinker",
+      "difficulty": "easy"
+    },
+    {
+      "word": "David Villa",
+      "hint": "Lunch break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penalty shootout",
+      "hint": "Sweaty palms",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Away goals",
+      "hint": "Tie-break math",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Champions League anthem",
+      "hint": "Goosebumps moment",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Miracle of Istanbul",
+      "hint": "Half-time pep talk",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Group stage",
+      "hint": "Tuesday nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "José Mourinho",
+      "hint": "Press conference",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carlo Ancelotti",
+      "hint": "Peaceful dugout",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jürgen Klopp",
+      "hint": "Loud touchline",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pep Guardiola",
+      "hint": "Tactical board",
+      "difficulty": "easy"
+    }
+  ]
+}

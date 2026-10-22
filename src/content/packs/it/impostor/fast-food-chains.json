@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-fast-food-chains",
+  "title": "Fast food e catene",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "McDonald's",
+      "hint": "Pomeriggio di scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burger King",
+      "hint": "Corona",
+      "difficulty": "easy"
+    },
+    {
+      "word": "KFC",
+      "hint": "Cena in ritardo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Subway",
+      "hint": "Pausa pranzo sana",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Domino's Pizza",
+      "hint": "Serata senza cucinare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Big Mac",
+      "hint": "Dopo la partita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crocchette di patate",
+      "hint": "Aperitivo improvvisato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kebab",
+      "hint": "Dopo la discoteca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hot dog",
+      "hint": "Pomeriggio di sport",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hamburger",
+      "hint": "Festa in giardino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coca-Cola",
+      "hint": "Brindisi tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pizza al taglio",
+      "hint": "Passeggiata in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panino",
+      "hint": "Pausa veloce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nuggets di pollo",
+      "hint": "Merenda di bambini",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wrap",
+      "hint": "Pranzo in ufficio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "McFlurry",
+      "hint": "Dopo il cinema",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milkshake",
+      "hint": "Pomeriggio d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toast",
+      "hint": "Colazione in fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Whopper",
+      "hint": "Pranzo tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Starbucks",
+      "hint": "Pomeriggio di studio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Autogrill",
+      "hint": "Viaggio estivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spizzico",
+      "hint": "Sabato sera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Old Wild West",
+      "hint": "Pranzo di lavoro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Telepizza",
+      "hint": "Cena pigra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pizza Hut",
+      "hint": "Cena di compleanno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chipotle",
+      "hint": "Pranzo di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dunkin' Donuts",
+      "hint": "Pausa caffè",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nachos",
+      "hint": "Partita in tv",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chicken wings",
+      "hint": "Serata sul divano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gyros",
+      "hint": "Cena di strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panzerotto",
+      "hint": "Serata in piazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fish and chips",
+      "hint": "Giornata al mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pancake",
+      "hint": "Domenica pigra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calzone",
+      "hint": "Cena tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Popcorn",
+      "hint": "Notte d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crêpes",
+      "hint": "Pomeriggio di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Taco Bell",
+      "hint": "Pranzo in aeroporto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Five Guys",
+      "hint": "Cena senza regole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Krispy Kreme",
+      "hint": "Coda al mattino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Piadina",
+      "hint": "Sagra d'estate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bagel",
+      "hint": "Sabato in città",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pretzel",
+      "hint": "Mercatino d'inverno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pollo arrosto",
+      "hint": "Pranzo della domenica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Corn dog",
+      "hint": "Giro sulle giostre",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arancini",
+      "hint": "Pranzo in piedi",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-food-drink",
+  "title": "Food & Drink",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Pancake",
+      "banned": [
+        "Flapjack",
+        "Syrup",
+        "Breakfast",
+        "Crepe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avocado",
+      "banned": [
+        "Green",
+        "Toast",
+        "Pit",
+        "Smashed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sandwich",
+      "banned": [
+        "Bread",
+        "Lunch",
+        "Filling",
+        "Deli"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Popcorn",
+      "banned": [
+        "Cinema",
+        "Kernel",
+        "Butter",
+        "Movie snack"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milkshake",
+      "banned": [
+        "Thick",
+        "Straw",
+        "Malt",
+        "Diner"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lemonade",
+      "banned": [
+        "Citrus",
+        "Stand",
+        "Sour",
+        "Summer"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doughnut",
+      "banned": [
+        "Sprinkles",
+        "Hole",
+        "Ring",
+        "Glazed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ketchup",
+      "banned": [
+        "Tomato sauce",
+        "Fries",
+        "Red",
+        "Squeeze bottle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pickle",
+      "banned": [
+        "Cucumber",
+        "Gherkin",
+        "Brine",
+        "Jar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Muffin",
+      "banned": [
+        "Bakery",
+        "Blueberry",
+        "Cupcake",
+        "Breakfast"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brownie",
+      "banned": [
+        "Chocolate",
+        "Square",
+        "Fudge",
+        "Dessert"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pizza",
+      "banned": [
+        "Slice",
+        "Cheese",
+        "Pepperoni",
+        "Delivery"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hot dog",
+      "banned": [
+        "Sausage",
+        "Bun",
+        "Mustard",
+        "Stadium"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spaghetti",
+      "banned": [
+        "Pasta",
+        "Bolognese",
+        "Strings",
+        "Carbonara"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice cream",
+      "banned": [
+        "Cone",
+        "Gelato",
+        "Scoop",
+        "Freezer"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burger",
+      "banned": [
+        "Patty",
+        "Bun",
+        "Fast food",
+        "Grill"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheese",
+      "banned": [
+        "Dairy",
+        "Brie",
+        "Cheddar",
+        "Mouse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pretzel",
+      "banned": [
+        "Twist",
+        "Salt",
+        "Bavarian",
+        "Beer snack"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Guacamole",
+      "banned": [
+        "Avocado dip",
+        "Mexican",
+        "Nachos",
+        "Chips"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hummus",
+      "banned": [
+        "Chickpeas",
+        "Pita",
+        "Tahini",
+        "Dip"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sushi",
+      "banned": [
+        "Japanese",
+        "Rice",
+        "Seaweed",
+        "Wasabi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burrito",
+      "banned": [
+        "Tortilla",
+        "Wrap",
+        "Mexican",
+        "Beans"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Croissant",
+      "banned": [
+        "French",
+        "Flaky",
+        "Crescent",
+        "Pastry"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cheesecake",
+      "banned": [
+        "Biscuit base",
+        "Baked",
+        "Cream filling",
+        "Dessert"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Espresso",
+      "banned": [
+        "Coffee",
+        "Shot",
+        "Italian",
+        "Strong"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cappuccino",
+      "banned": [
+        "Foam",
+        "Milk",
+        "Coffee",
+        "Barista"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smoothie",
+      "banned": [
+        "Blender",
+        "Fruit drink",
+        "Yogurt",
+        "Healthy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiramisu",
+      "banned": [
+        "Mascarpone",
+        "Ladyfingers",
+        "Coffee",
+        "Pick-me-up"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pepperoni",
+      "banned": [
+        "Salami",
+        "Pizza topping",
+        "Spicy",
+        "Sausage"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Curry",
+      "banned": [
+        "Spices",
+        "Indian",
+        "Korma",
+        "Takeaway"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Noodles",
+      "banned": [
+        "Pasta",
+        "Soup",
+        "Chopsticks",
+        "Wok"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dumpling",
+      "banned": [
+        "Dim sum",
+        "Steamed",
+        "Wrapper",
+        "Pastry"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bagel",
+      "banned": [
+        "Hole",
+        "Cream cheese",
+        "Breakfast",
+        "Ring"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Waffle",
+      "banned": [
+        "Grid",
+        "Syrup",
+        "Breakfast",
+        "Iron"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nachos",
+      "banned": [
+        "Tortilla chips",
+        "Cheese sauce",
+        "Jalapenos",
+        "Stadium"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mayonnaise",
+      "banned": [
+        "Egg yolk",
+        "Spread",
+        "Sandwich filler",
+        "Condiment"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gnocchi",
+      "banned": [
+        "Potato",
+        "Dumpling",
+        "Italian",
+        "Pillow"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ramen",
+      "banned": [
+        "Noodle soup",
+        "Instant",
+        "Broth",
+        "Japanese"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Churros",
+      "banned": [
+        "Fried dough",
+        "Cinnamon sugar",
+        "Spanish",
+        "Fair"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Porridge",
+      "banned": [
+        "Oats",
+        "Breakfast",
+        "Bowl",
+        "Goldilocks"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sourdough",
+      "banned": [
+        "Starter",
+        "Loaf",
+        "Bread",
+        "Tangy"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crumble",
+      "banned": [
+        "Fruit dessert",
+        "Topping",
+        "Oats",
+        "British"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Falafel",
+      "banned": [
+        "Chickpea balls",
+        "Middle East",
+        "Pita",
+        "Fried"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kimchi",
+      "banned": [
+        "Korean",
+        "Fermented",
+        "Cabbage",
+        "Spicy"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tapioca",
+      "banned": [
+        "Pudding",
+        "Cassava",
+        "Starch",
+        "Bubble"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

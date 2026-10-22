@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-music",
+  "title": "Musica",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Chitarra",
+      "banned": [
+        "Corde",
+        "Plettro",
+        "Accordi",
+        "Manico"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Batteria",
+      "banned": [
+        "Bacchette",
+        "Piatti",
+        "Rullante",
+        "Tamburi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pianoforte",
+      "banned": [
+        "Tasti",
+        "Pedale",
+        "Bianchi e neri",
+        "Martelletti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Violino",
+      "banned": [
+        "Archetto",
+        "Quattro corde",
+        "Orchestra",
+        "Viola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tromba",
+      "banned": [
+        "Ottoni",
+        "Fiato",
+        "Squillo",
+        "Fanfara"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rock",
+      "banned": [
+        "Chitarre",
+        "Distorsione",
+        "Ribelle",
+        "Stadio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Opera",
+      "banned": [
+        "Soprano",
+        "Teatro",
+        "Arena",
+        "Tenore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sanremo",
+      "banned": [
+        "Festival",
+        "Liguria",
+        "Ariston",
+        "Vincitore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karaoke",
+      "banned": [
+        "Microfono",
+        "Testo",
+        "Cantare",
+        "Base"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Concerto",
+      "banned": [
+        "Palco",
+        "Pubblico",
+        "Biglietto",
+        "Stadio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cantante",
+      "banned": [
+        "Voce",
+        "Microfono",
+        "Canzone",
+        "Palco"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orchestra",
+      "banned": [
+        "Maestro",
+        "Violini",
+        "Podio",
+        "Sinfonia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vinile",
+      "banned": [
+        "Giradischi",
+        "Puntina",
+        "Disco",
+        "Nero"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hit",
+      "banned": [
+        "Successo",
+        "Classifica",
+        "Top ten",
+        "Radio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rap",
+      "banned": [
+        "Freestyle",
+        "Rima",
+        "Cappuccio",
+        "Basi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Metal",
+      "banned": [
+        "Chitarra distorta",
+        "Heavy",
+        "Borchie",
+        "Rock duro"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jazz",
+      "banned": [
+        "Miles",
+        "Swing",
+        "New Orleans",
+        "Improvvisazione"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tamburo",
+      "banned": [
+        "Pelle",
+        "Marcia",
+        "Rullo",
+        "Orchestra"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Basso",
+      "banned": [
+        "Corde",
+        "Bassista",
+        "Note gravi",
+        "Amplificatore"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mandolino",
+      "banned": [
+        "Corde",
+        "Napoli",
+        "Pizzicato",
+        "Plettro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Armonica",
+      "banned": [
+        "Bocca",
+        "Soffiare",
+        "Blues",
+        "Lamelle"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fisarmonica",
+      "banned": [
+        "Mantice",
+        "Organetto",
+        "Ballo liscio",
+        "Sagra"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sassofono",
+      "banned": [
+        "Ance",
+        "Jazz",
+        "Tenore",
+        "Contralto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flauto",
+      "banned": [
+        "Traverso",
+        "Dolce",
+        "Fiato",
+        "Piccolo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clarinetto",
+      "banned": [
+        "Ancia",
+        "Legno",
+        "Nero",
+        "Orchestra"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ukulele",
+      "banned": [
+        "Hawaii",
+        "Quattro corde",
+        "Piccolo",
+        "Ananas"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Xilofono",
+      "banned": [
+        "Legno",
+        "Martelletto",
+        "Bambini",
+        "Percussione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arpa",
+      "banned": [
+        "Corde",
+        "Arpeggio",
+        "Angelo",
+        "Pedali"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Violoncello",
+      "banned": [
+        "Quartetto",
+        "Gamba",
+        "Archetto",
+        "Arcata"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chitarra elettrica",
+      "banned": [
+        "Amplificatore",
+        "Pickup",
+        "Jack",
+        "Distorsore"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Techno",
+      "banned": [
+        "Discoteca",
+        "Cassa",
+        "Bpm",
+        "Elettronica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Reggae",
+      "banned": [
+        "Giamaica",
+        "Dreadlocks",
+        "Ritmo in levare",
+        "Sole"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canzone d'autore",
+      "banned": [
+        "Testo proprio",
+        "Chitarra",
+        "Concerto",
+        "Solo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soprano",
+      "banned": [
+        "Acuto",
+        "Donna",
+        "Voce alta",
+        "Lirica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pop",
+      "banned": [
+        "Melodia",
+        "Ritornello",
+        "Radio",
+        "Ballata"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tenore",
+      "banned": [
+        "Uomo",
+        "Voce",
+        "Acuti",
+        "Lirica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bongo",
+      "banned": [
+        "Cubano",
+        "Percussione",
+        "Coppia",
+        "Tamburo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ghironda",
+      "banned": [
+        "Ruota",
+        "Manovella",
+        "Medioevo",
+        "Tasti"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Clavicembalo",
+      "banned": [
+        "Bach",
+        "Tasti",
+        "Corde pizzicate",
+        "Barocco"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zampogna",
+      "banned": [
+        "Pastori",
+        "Natale",
+        "Sacca",
+        "Otre"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ocarina",
+      "banned": [
+        "Terracotta",
+        "Forma di uovo",
+        "Fischio",
+        "Dolce"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Theremin",
+      "banned": [
+        "Antenne",
+        "Mani",
+        "Elettronico",
+        "Sovietico"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Glockenspiel",
+      "banned": [
+        "Metallofono",
+        "Lamine",
+        "Tedesco",
+        "Campanelli"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cornamusa",
+      "banned": [
+        "Scozia",
+        "Sacca",
+        "Canne",
+        "Kilt"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Liuto",
+      "banned": [
+        "Rinascimento",
+        "Corde",
+        "Pizzicare",
+        "Tiorba"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

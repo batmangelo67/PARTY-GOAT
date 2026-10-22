@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-italian-regions-cities",
+  "title": "Regioni e città italiane",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Lombardia",
+      "hint": "Ritmi frenetici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toscana",
+      "hint": "Viaggio in campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sicilia",
+      "hint": "Calore del sud",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sardegna",
+      "hint": "Mare turchese",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Puglia",
+      "hint": "Ulivi secolari",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campania",
+      "hint": "Cena di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Veneto",
+      "hint": "Gita in barca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piemonte",
+      "hint": "Vino e colline",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Liguria",
+      "hint": "Vacanza sul mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Emilia-Romagna",
+      "hint": "Pasti abbondanti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lazio",
+      "hint": "Domenica di tifo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calabria",
+      "hint": "Estate bruciante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Umbria",
+      "hint": "Verde e silenzio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marche",
+      "hint": "Colline e mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Abruzzo",
+      "hint": "Pastori in quota",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Molise",
+      "hint": "Regione tranquilla",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Basilicata",
+      "hint": "Rocce e silenzio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Friuli-Venezia Giulia",
+      "hint": "Vento di bora",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trentino-Alto Adige",
+      "hint": "Rifugio in quota",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valle d'Aosta",
+      "hint": "Cime in fila",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roma",
+      "hint": "Caffè al banco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Milano",
+      "hint": "Sera in ufficio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Napoli",
+      "hint": "Traffico e allegria",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Torino",
+      "hint": "Città elegante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Firenze",
+      "hint": "Turisti ovunque",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bologna",
+      "hint": "Università e portici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Genova",
+      "hint": "Mare e salite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palermo",
+      "hint": "Caos colorato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bari",
+      "hint": "Vita sul lungomare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Verona",
+      "hint": "Concerto d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catania",
+      "hint": "Pietra lavica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trieste",
+      "hint": "Vento freddo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pisa",
+      "hint": "Foto buffa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Siena",
+      "hint": "Tifo di quartiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ravenna",
+      "hint": "Luce dorata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cagliari",
+      "hint": "Spiaggia urbana",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Perugia",
+      "hint": "Scalinate in salita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ancona",
+      "hint": "Traghetti all'alba",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lecce",
+      "hint": "Pietra chiara",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Matera",
+      "hint": "Città scavata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Parma",
+      "hint": "Città di buongustai",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Modena",
+      "hint": "Rombo sul circuito",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bergamo",
+      "hint": "Città in alto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Padova",
+      "hint": "Università antica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pescara",
+      "hint": "Lungomare affollato",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-celebrations",
+  "title": "Feste e ricorrenze",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Natale",
+      "banned": [
+        "Abete",
+        "Regali",
+        "Albero",
+        "Presepe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasqua",
+      "banned": [
+        "Uova",
+        "Coniglio",
+        "Colomba",
+        "Resurrezione"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Capodanno",
+      "banned": [
+        "Mezzanotte",
+        "Botti",
+        "Anno nuovo",
+        "Lenticchie"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carnevale",
+      "banned": [
+        "Maschere",
+        "Coriandoli",
+        "Stelle filanti",
+        "Chiacchiere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferragosto",
+      "banned": [
+        "Agosto",
+        "Ombrellone",
+        "Vacanze",
+        "Mare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloween",
+      "banned": [
+        "Zucca",
+        "Dolcetto o scherzetto",
+        "Streghe",
+        "Fantasmi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Compleanno",
+      "banned": [
+        "Torta",
+        "Candeline",
+        "Anni",
+        "Spegnere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "San Valentino",
+      "banned": [
+        "Cuore",
+        "Rose",
+        "Innamorati",
+        "Baci"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa della mamma",
+      "banned": [
+        "Fiori",
+        "Maggio",
+        "Madre",
+        "Regalo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa del papà",
+      "banned": [
+        "Marzo",
+        "Cravatta",
+        "Padre",
+        "Grigliata"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa della Repubblica",
+      "banned": [
+        "2 giugno",
+        "Parata",
+        "Quirinale",
+        "Tricolore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Epifania",
+      "banned": [
+        "Befana",
+        "Calza",
+        "Dolcetti",
+        "Sei gennaio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ognissanti",
+      "banned": [
+        "Crisantemi",
+        "1 novembre",
+        "Cimitero",
+        "Tutti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festa di laurea",
+      "banned": [
+        "Tocco",
+        "Toga",
+        "Dottore",
+        "Pergamena"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Battesimo",
+      "banned": [
+        "Chiesa",
+        "Acqua",
+        "Padrino",
+        "Confetti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matrimonio",
+      "banned": [
+        "Sposa",
+        "Anello",
+        "Velo",
+        "Testimoni"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vigilia",
+      "banned": [
+        "Cenone",
+        "24 dicembre",
+        "Notte",
+        "Attesa"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Addio al nubilato",
+      "banned": [
+        "Ultima serata",
+        "Amiche",
+        "Testimone",
+        "Ballo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pentolaccia",
+      "banned": [
+        "Bastone",
+        "Bendati",
+        "Caramelle",
+        "Sorpresa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cenone",
+      "banned": [
+        "Panettone",
+        "Pranzo",
+        "Piatti ricchi",
+        "Tavolata"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panettone",
+      "banned": [
+        "Milano",
+        "Canditi",
+        "Uvetta",
+        "Lievito"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colomba",
+      "banned": [
+        "Pasqua",
+        "Glassa",
+        "Mandorle",
+        "Pasticceria"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Uova di Pasqua",
+      "banned": [
+        "Cioccolato",
+        "Gusci",
+        "Ovetto",
+        "Incarto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fuochi d'artificio",
+      "banned": [
+        "Botti",
+        "Cielo",
+        "Esplodere",
+        "Spettacolo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brindisi",
+      "banned": [
+        "Calice",
+        "Champagne",
+        "Spumante",
+        "Cin cin"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Serenata",
+      "banned": [
+        "Chitarra",
+        "Finestra",
+        "Innamorato",
+        "Balcone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coriandoli",
+      "banned": [
+        "Carta",
+        "Lancio",
+        "Festa",
+        "Pioggia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Confetti",
+      "banned": [
+        "Riso",
+        "Sposi",
+        "Zucchero",
+        "Tradizione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Barbecue",
+      "banned": [
+        "Griglia",
+        "Carne",
+        "Carbonella",
+        "Estate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Auguri",
+      "banned": [
+        "Biglietto",
+        "Buon compleanno",
+        "Messaggio",
+        "Cartolina"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maschera veneziana",
+      "banned": [
+        "Venezia",
+        "Piume",
+        "Lustrini",
+        "Travestimento"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa della donna",
+      "banned": [
+        "8 marzo",
+        "Mimosa",
+        "Fiori gialli",
+        "Uguaglianza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Befana",
+      "banned": [
+        "Carbone",
+        "Scopa",
+        "Vecchina",
+        "Regali"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa patronale",
+      "banned": [
+        "Santo",
+        "Processione",
+        "Paese",
+        "Luminarie"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tombola",
+      "banned": [
+        "Cartella",
+        "Numeri",
+        "Ambo",
+        "Smorfia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bomboniera",
+      "banned": [
+        "Confetti",
+        "Sacchetto",
+        "Ricordo",
+        "Nozze"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa di San Giuseppe",
+      "banned": [
+        "Zeppole",
+        "19 marzo",
+        "Falegname",
+        "Sfogliatelle"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Diwali",
+      "banned": [
+        "Luci",
+        "Lampade",
+        "India",
+        "Rangoli"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hanukkah",
+      "banned": [
+        "Candelabro",
+        "Lumi",
+        "Ottava notte",
+        "Dreidel"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Festa dei lavoratori",
+      "banned": [
+        "Primo maggio",
+        "Corteo",
+        "Sindacato",
+        "Concerto"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vendemmia",
+      "banned": [
+        "Uva",
+        "Grappoli",
+        "Autunno",
+        "Cantina"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Solstizio",
+      "banned": [
+        "Estate",
+        "Inverno",
+        "Stonehenge",
+        "Alba"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Equinozio",
+      "banned": [
+        "Primavera",
+        "Giorno e notte",
+        "Uguale durata",
+        "Settembre"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Redentore",
+      "banned": [
+        "Luglio",
+        "Barca",
+        "Ponte di barche",
+        "Ringraziamento"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sagra",
+      "banned": [
+        "Specialità",
+        "Stand",
+        "Piatti tipici",
+        "Bancarelle"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

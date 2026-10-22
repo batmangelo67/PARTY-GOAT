@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-fashion-brands",
+  "title": "Fashion Brands & Apparel",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Gucci",
+      "hint": "Birthday splurge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Versace",
+      "hint": "Gala night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Levi's",
+      "hint": "Road trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burberry",
+      "hint": "Rainy commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chanel",
+      "hint": "Vintage glamour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ray-Ban",
+      "hint": "Cool factor",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Converse",
+      "hint": "Indie gig",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calvin Klein",
+      "hint": "Fitting room",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Louis Vuitton",
+      "hint": "Airport lounge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dior",
+      "hint": "Front row seats",
+      "difficulty": "easy"
+    },
+    {
+      "word": "H&M",
+      "hint": "Bargain bin",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uniqlo",
+      "hint": "Cheap and cheerful",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tuxedo",
+      "hint": "Prom night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sneakers",
+      "hint": "Morning run",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trench coat",
+      "hint": "Late autumn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bikini",
+      "hint": "Pool party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wedding dress",
+      "hint": "Happily ever after",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sunglasses",
+      "hint": "Hungover Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prada",
+      "hint": "Corner office",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fendi",
+      "hint": "Anniversary gift",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valentino",
+      "hint": "Champagne toast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Armani",
+      "hint": "Date night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiffany & Co.",
+      "hint": "Proposal",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Swarovski",
+      "hint": "Sparkly party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ralph Lauren",
+      "hint": "Country club",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tommy Hilfiger",
+      "hint": "Weekend barbecue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crocs",
+      "hint": "Hospital shift",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Timberland",
+      "hint": "Snowy weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gap",
+      "hint": "Back to school",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coach",
+      "hint": "Commuter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kenzo",
+      "hint": "Bold colours",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vans",
+      "hint": "Teen rebellion",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dr. Martens",
+      "hint": "Muddy festival",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Denim jacket",
+      "hint": "Old photo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oakley",
+      "hint": "Windy day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blazer",
+      "hint": "Parents' evening",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Balenciaga",
+      "hint": "Hype drop",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Issey Miyake",
+      "hint": "Museum opening",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Emilio Pucci",
+      "hint": "Yacht club",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stella McCartney",
+      "hint": "Brunch date",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Max Mara",
+      "hint": "Coffee meeting",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dolce & Gabbana",
+      "hint": "Sunday lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Loro Piana",
+      "hint": "Quiet luxury",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Missoni",
+      "hint": "Cosy evenings",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hugo Boss",
+      "hint": "Job interview",
+      "difficulty": "hard"
+    }
+  ]
+}

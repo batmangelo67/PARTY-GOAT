@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-esports-competitive",
+  "title": "Esport e giochi competitivi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "League of Legends",
+      "hint": "Partita di mezz'ora",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Counter-Strike",
+      "hint": "Pizza tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valorant",
+      "hint": "Notte d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rocket League",
+      "hint": "Domenica in compagnia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fall Guys",
+      "hint": "Corsa dei sacchi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hearthstone",
+      "hint": "Mazzo del nonno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "StarCraft",
+      "hint": "Mente veloce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doom",
+      "hint": "Brivido notturno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quake",
+      "hint": "Scossa improvvisa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Age of Empires",
+      "hint": "Partita lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diablo",
+      "hint": "Notte senza luna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apex Legends",
+      "hint": "Battito di cuore",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rainbow Six Siege",
+      "hint": "Vicini sospettosi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Madden NFL",
+      "hint": "Lunedì sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NBA 2K",
+      "hint": "Festa di quartiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dota 2",
+      "hint": "Sessioni infinite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smite",
+      "hint": "Conto salato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heroes of the Storm",
+      "hint": "Torneo di scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trackmania",
+      "hint": "Serata solitaria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Warframe",
+      "hint": "Sala d'attesa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Destiny 2",
+      "hint": "Impegno fisso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "PUBG",
+      "hint": "Passeggiata nel bosco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Escape from Tarkov",
+      "hint": "Scommessa pericolosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Team Fortress 2",
+      "hint": "Caos in cortile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Titanfall",
+      "hint": "Ascensore rotto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Injustice",
+      "hint": "Litigio al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guilty Gear",
+      "hint": "Ritmo spezzato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dead or Alive",
+      "hint": "Pomeriggio al mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Virtua Fighter",
+      "hint": "Lezione di karate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Teamfight Tactics",
+      "hint": "Partita a poker",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dragon Ball FighterZ",
+      "hint": "Vecchie cassette",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Samurai Shodown",
+      "hint": "Notte di nebbia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "King of Fighters",
+      "hint": "Spiccioli in tasca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Super Meat Boy",
+      "hint": "Frustrazione da divano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Celeste",
+      "hint": "Fiato corto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ori and the Blind Forest",
+      "hint": "Racconto della buonanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marvel vs Capcom",
+      "hint": "Derby di quartiere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Killer Instinct",
+      "hint": "Stanza buia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Unreal Tournament",
+      "hint": "Torneo di quartiere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Warcraft III",
+      "hint": "Lunga campagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ghost Recon",
+      "hint": "Alba silenziosa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sensible Soccer",
+      "hint": "Ricordi dell'oratorio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ridge Racer",
+      "hint": "Estate da ragazzi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brawlhalla",
+      "hint": "Festa in spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Painkiller",
+      "hint": "Dentista in ritardo",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-everyday-quirks",
+  "title": "Cose di ogni giorno",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Calzino spaiato",
+      "hint": "Lavatrice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuffie aggrovigliate",
+      "hint": "Tasca dei pantaloni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telecomando",
+      "hint": "Pigrizia serale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chiave smarrita",
+      "hint": "Mattina di fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sacchetto di plastica",
+      "hint": "Spesa settimanale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tappo della bottiglia",
+      "hint": "Cassetto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scontrino",
+      "hint": "Spese pazze",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Penna senza inchiostro",
+      "hint": "Pochi appunti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caricatore",
+      "hint": "Batteria al 3%",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Specchio appannato",
+      "hint": "Doccia calda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sveglia",
+      "hint": "Lunedì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carrello della spesa",
+      "hint": "Sabato mattina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bottone mancante",
+      "hint": "Fretta di uscire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Porta del frigorifero",
+      "hint": "Aperta a lungo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tazza di caffè",
+      "hint": "Prima di colazione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pennarello",
+      "hint": "Compiti di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bolletta",
+      "hint": "Fine del mese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scarpa slacciata",
+      "hint": "Corsa al bus",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coperta del divano",
+      "hint": "Pomeriggio pigro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pacco in ritardo",
+      "hint": "Citofono muto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ascensore fermo",
+      "hint": "Scale a piedi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rubinetto che gocciola",
+      "hint": "Notte insonne",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tappetino del bagno",
+      "hint": "Asciugamano a terra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lampadina fulminata",
+      "hint": "Cena a lume",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scaffale storto",
+      "hint": "Trapano in mano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Parcheggio stretto",
+      "hint": "Manovra difficile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Biscotto sbriciolato",
+      "hint": "Pausa del mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuscino schiacciato",
+      "hint": "Pisolino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Password dimenticata",
+      "hint": "Accesso negato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zucchero sul tavolo",
+      "hint": "Caffè amaro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Posta indesiderata",
+      "hint": "Pile di volantini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Filo interdentale",
+      "hint": "Dopo cena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porta che cigola",
+      "hint": "Notte di casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fila alla cassa",
+      "hint": "Ultimo minuto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coltello da burro",
+      "hint": "Tavola apparecchiata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Matita appuntita a metà",
+      "hint": "Compiti interrotti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vaschetta del ghiaccio",
+      "hint": "Bevanda estiva",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Maglione infeltrito",
+      "hint": "Inverno lontano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Giacca appesa al contrario",
+      "hint": "Rientro serale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Occhiali sulla fronte",
+      "hint": "Ricerca inutile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lista della spesa",
+      "hint": "Corsa al negozio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tovaglia macchiata",
+      "hint": "Pranzo della domenica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Elastico per capelli",
+      "hint": "Pettinatura di fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Graffetta",
+      "hint": "Fogli in disordine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sciacquone rotto",
+      "hint": "Ospiti in arrivo",
+      "difficulty": "medium"
+    }
+  ]
+}

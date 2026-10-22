@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-celebrations",
+  "title": "Festivals & Celebrations",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Christmas",
+      "banned": [
+        "Santa",
+        "Presents",
+        "Reindeer",
+        "Mince Pie"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloween",
+      "banned": [
+        "Pumpkin",
+        "Costumes",
+        "Trick or Treat",
+        "Witches"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Easter",
+      "banned": [
+        "Eggs",
+        "Bunny",
+        "Chocolate",
+        "Spring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "New Year",
+      "banned": [
+        "Midnight",
+        "Fireworks",
+        "Countdown",
+        "Resolutions"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Birthday",
+      "banned": [
+        "Cake",
+        "Candles",
+        "Age",
+        "Balloons"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wedding",
+      "banned": [
+        "Bride",
+        "Groom",
+        "Vows",
+        "Confetti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valentine's Day",
+      "banned": [
+        "Hearts",
+        "Roses",
+        "Chocolates",
+        "Cupid"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Father's Day",
+      "banned": [
+        "Dad",
+        "Ties",
+        "Socks",
+        "Grill"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mothers' Day",
+      "banned": [
+        "Mum",
+        "Flowers",
+        "Card",
+        "Breakfast in Bed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pancake Day",
+      "banned": [
+        "Shrove Tuesday",
+        "Lemon",
+        "Flipping",
+        "Batter"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anniversary",
+      "banned": [
+        "Gift",
+        "Milestone",
+        "Years Together",
+        "Champagne"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Christening",
+      "banned": [
+        "Godparents",
+        "Gown",
+        "Family",
+        "Baptism"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baby Shower",
+      "banned": [
+        "Gifts",
+        "Pregnant",
+        "Games",
+        "Nappies"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Housewarming",
+      "banned": [
+        "New Home",
+        "Plant",
+        "Keys",
+        "Gifts"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prom",
+      "banned": [
+        "Dress",
+        "Corsage",
+        "Limo",
+        "Dance"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hen Night",
+      "banned": [
+        "Bride-to-be",
+        "Dares",
+        "Sash",
+        "Prosecco"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "April Fools' Day",
+      "banned": [
+        "Prank",
+        "Joke",
+        "Hoax",
+        "Newspaper"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diwali",
+      "banned": [
+        "Lights",
+        "Lamps",
+        "Rangoli",
+        "Sweets"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hanukkah",
+      "banned": [
+        "Menorah",
+        "Latkes",
+        "Dreidel",
+        "Eight Nights"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eid",
+      "banned": [
+        "Feast",
+        "Crescent Moon",
+        "Ramadan",
+        "Lamb"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thanksgiving",
+      "banned": [
+        "Pilgrims",
+        "Cranberry",
+        "Stuffing",
+        "Autumn"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bonfire Night",
+      "banned": [
+        "Guy Fawkes",
+        "Toffee Apples",
+        "Parkin",
+        "Sparklers"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mardi Gras",
+      "banned": [
+        "New Orleans",
+        "Beads",
+        "Parade",
+        "Doubloons"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pride",
+      "banned": [
+        "Rainbow",
+        "Parade",
+        "Flags",
+        "Equality"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chinese New Year",
+      "banned": [
+        "Dragon",
+        "Red Envelopes",
+        "Lanterns",
+        "Zodiac"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Summer Solstice",
+      "banned": [
+        "Longest Day",
+        "Stonehenge",
+        "Bonfires",
+        "Sunrise"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Labour Day",
+      "banned": [
+        "Workers",
+        "May Day",
+        "Holiday",
+        "Unions"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Independence Day",
+      "banned": [
+        "Fourth of July",
+        "Fireworks",
+        "Barbecue",
+        "Flags"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "St Patrick's Day",
+      "banned": [
+        "Shamrock",
+        "Leprechaun",
+        "Green",
+        "Guinness"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bastille Day",
+      "banned": [
+        "France",
+        "Storming",
+        "Tricolore",
+        "Fireworks"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Boxing Day",
+      "banned": [
+        "Sales",
+        "Leftovers",
+        "Day After",
+        "St Stephen"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stag Do",
+      "banned": [
+        "Groom",
+        "Pub Crawl",
+        "Pranks",
+        "Best Man"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ramadan",
+      "banned": [
+        "Fasting",
+        "Iftar",
+        "Crescent",
+        "Suhoor"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holi",
+      "banned": [
+        "Colours",
+        "Powder",
+        "Bonfire",
+        "Throwing"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mid-Autumn Festival",
+      "banned": [
+        "Mooncakes",
+        "Full Moon",
+        "Lanterns",
+        "Reunion"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Juneteenth",
+      "banned": [
+        "Freedom",
+        "Emancipation",
+        "Texas",
+        "Liberation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hogmanay",
+      "banned": [
+        "Scotland",
+        "Auld Lang Syne",
+        "Whisky",
+        "First-footing"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hanami",
+      "banned": [
+        "Cherry Blossom",
+        "Picnic",
+        "Sakura",
+        "Japan"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Burns Night",
+      "banned": [
+        "Robert",
+        "Neeps",
+        "Haggis",
+        "Supper"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Passover",
+      "banned": [
+        "Matzah",
+        "Seder",
+        "Exodus",
+        "Unleavened"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dia de los Muertos",
+      "banned": [
+        "Marigolds",
+        "Ofrenda",
+        "Calaveras",
+        "Altar"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kwanzaa",
+      "banned": [
+        "Harvest",
+        "Karamu",
+        "Kinara",
+        "Seven Principles"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sukkot",
+      "banned": [
+        "Booth",
+        "Lulav",
+        "Etrog",
+        "Harvest"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nowruz",
+      "banned": [
+        "Persian",
+        "Haft-seen",
+        "Spring Equinox",
+        "Sizdah Bedar"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Purim",
+      "banned": [
+        "Hamantaschen",
+        "Megillah",
+        "Esther",
+        "Costumes"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

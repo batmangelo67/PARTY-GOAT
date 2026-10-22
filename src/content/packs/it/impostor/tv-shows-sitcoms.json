@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-tv-shows-sitcoms",
+  "title": "Serie TV e sitcom cult",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Friends",
+      "hint": "Caffè con amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boris",
+      "hint": "Dietro le quinte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Breaking Bad",
+      "hint": "Scelta sbagliata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "La casa di carta",
+      "hint": "Piano rischioso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sex and the City",
+      "hint": "Brunch domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Don Matteo",
+      "hint": "Paesino tranquillo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grey's Anatomy",
+      "hint": "Turni notturni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lost",
+      "hint": "Vacanza andata male",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doctor Who",
+      "hint": "Mai in orario",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peaky Blinders",
+      "hint": "Vita di strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il commissario Rex",
+      "hint": "Domenica pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scrubs",
+      "hint": "Sala d'attesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Camera Café",
+      "hint": "Pausa caffè",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frasier",
+      "hint": "Consigli non richiesti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Seinfeld",
+      "hint": "Coda al diner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Modern Family",
+      "hint": "Pranzo di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Un medico in famiglia",
+      "hint": "Domenica sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mr. Bean",
+      "hint": "Gaffe in pubblico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stranger Things",
+      "hint": "Nottate in cantina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gomorra",
+      "hint": "Rapporti di potere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Squid Game",
+      "hint": "Debiti da pagare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Office",
+      "hint": "Riunioni inutili",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Montalbano",
+      "hint": "Pranzo lungo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sherlock",
+      "hint": "Ragionamento lampo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dark",
+      "hint": "Notte senza fine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Big Bang Theory",
+      "hint": "Serata di giochi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il Trono di Spade",
+      "hint": "Lotta al potere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Crown",
+      "hint": "Protocolli rigidi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "How I Met Your Mother",
+      "hint": "Serata al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mare fuori",
+      "hint": "Adolescenza difficile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Twin Peaks",
+      "hint": "Notti inquietanti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gilmore Girls",
+      "hint": "Chiacchiere a raffica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mad Men",
+      "hint": "Cocktail a pranzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Downton Abbey",
+      "hint": "Servitù in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Simpsons",
+      "hint": "Cartone del sabato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cobra Kai",
+      "hint": "Sfida in cortile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fleabag",
+      "hint": "Cene imbarazzanti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Better Call Saul",
+      "hint": "Piccole truffe",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fawlty Towers",
+      "hint": "Ospiti esasperati",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Black Mirror",
+      "hint": "Ansia da schermo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cheers",
+      "hint": "Chiacchiere alcoliche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brooklyn Nine-Nine",
+      "hint": "Giornata di lavoro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gossip Girl",
+      "hint": "Liceali benestanti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Euphoria",
+      "hint": "Lacrime e glitter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lucifer",
+      "hint": "Peccato e fascino",
+      "difficulty": "easy"
+    }
+  ]
+}

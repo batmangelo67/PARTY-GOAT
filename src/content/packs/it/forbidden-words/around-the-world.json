@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-around-the-world",
+  "title": "Giro del mondo",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Italia",
+      "banned": [
+        "Stivale",
+        "Pizza",
+        "Roma",
+        "Mediterraneo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parigi",
+      "banned": [
+        "Francia",
+        "Torre",
+        "Senna",
+        "Capitale"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Londra",
+      "banned": [
+        "Inghilterra",
+        "Tamigi",
+        "Big Ben",
+        "Sterlina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "New York",
+      "banned": [
+        "Grande Mela",
+        "Manhattan",
+        "Statua",
+        "Stati Uniti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Egitto",
+      "banned": [
+        "Piramidi",
+        "Faraone",
+        "Nilo",
+        "Cairo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giappone",
+      "banned": [
+        "Sushi",
+        "Tokyo",
+        "Samurai",
+        "Kimono"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brasile",
+      "banned": [
+        "Carnevale",
+        "Samba",
+        "Calcio",
+        "Amazzonia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spagna",
+      "banned": [
+        "Madrid",
+        "Paella",
+        "Iberia",
+        "Tapas"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grecia",
+      "banned": [
+        "Atene",
+        "Olimpiadi",
+        "Acropoli",
+        "Egeo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Germania",
+      "banned": [
+        "Berlino",
+        "Birra",
+        "Wurstel",
+        "Oktoberfest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Messico",
+      "banned": [
+        "Tacos",
+        "Sombrero",
+        "Tequila",
+        "Mariachi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cina",
+      "banned": [
+        "Muraglia",
+        "Panda",
+        "Pechino",
+        "Dragone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Africa",
+      "banned": [
+        "Continente",
+        "Leoni",
+        "Savana",
+        "Sahara"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canada",
+      "banned": [
+        "Acero",
+        "Ottawa",
+        "Hockey",
+        "Nordamerica"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Turchia",
+      "banned": [
+        "Istanbul",
+        "Kebab",
+        "Ankara",
+        "Bosforo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Svizzera",
+      "banned": [
+        "Cioccolata",
+        "Orologi",
+        "Alpi",
+        "Franchi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olanda",
+      "banned": [
+        "Tulipani",
+        "Amsterdam",
+        "Mulini a vento",
+        "Formaggio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Russia",
+      "banned": [
+        "Matrioska",
+        "Vodka",
+        "Mosca",
+        "Zar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marocco",
+      "banned": [
+        "Marrakech",
+        "Tajine",
+        "Berberi",
+        "Deserto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Islanda",
+      "banned": [
+        "Ghiaccio",
+        "Geyser",
+        "Vulcano",
+        "Aurora"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Australia",
+      "banned": [
+        "Canguro",
+        "Sydney",
+        "Opera",
+        "Down Under"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Perù",
+      "banned": [
+        "Machu Picchu",
+        "Inca",
+        "Cordigliera",
+        "Lama"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Argentina",
+      "banned": [
+        "Tango",
+        "Asado",
+        "Pampa",
+        "Buenos Aires"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuba",
+      "banned": [
+        "Havana",
+        "Sigaro",
+        "Caraibi",
+        "Salsa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thailandia",
+      "banned": [
+        "Elefante",
+        "Bangkok",
+        "Spiaggia",
+        "Pad thai"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "India",
+      "banned": [
+        "Taj Mahal",
+        "Curry",
+        "Bollywood",
+        "Gange"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Norvegia",
+      "banned": [
+        "Fiordi",
+        "Oslo",
+        "Salmone",
+        "Vichinghi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cile",
+      "banned": [
+        "Santiago",
+        "Vino",
+        "Pinguini",
+        "Patagonia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Portogallo",
+      "banned": [
+        "Lisbona",
+        "Fado",
+        "Sardine",
+        "Pastel de nata"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Austria",
+      "banned": [
+        "Vienna",
+        "Mozart",
+        "Strudel",
+        "Sissi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Corea del Sud",
+      "banned": [
+        "Seul",
+        "Kimchi",
+        "K-pop",
+        "Samsung"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Irlanda",
+      "banned": [
+        "Guinness",
+        "Trifoglio",
+        "Dublino",
+        "Leprecauno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scozia",
+      "banned": [
+        "Kilt",
+        "Edimburgo",
+        "Haggis",
+        "Cornamusa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nepal",
+      "banned": [
+        "Everest",
+        "Himalaya",
+        "Yak",
+        "Sherpa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kenya",
+      "banned": [
+        "Safari",
+        "Maratona",
+        "Nairobi",
+        "Rift"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vietnam",
+      "banned": [
+        "Pho",
+        "Hanoi",
+        "Risaie",
+        "Ao dai"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mongolia",
+      "banned": [
+        "Yurta",
+        "Gengis Khan",
+        "Steppa",
+        "Cavalli"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Madagascar",
+      "banned": [
+        "Lemuri",
+        "Baobab",
+        "Isola",
+        "Vaniglia"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kazakistan",
+      "banned": [
+        "Astana",
+        "Baikonur",
+        "Nomadi",
+        "Caspio"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Uruguay",
+      "banned": [
+        "Montevideo",
+        "Rio de la Plata",
+        "Mate",
+        "Gaucho"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Paraguay",
+      "banned": [
+        "Asuncion",
+        "Guarani",
+        "Chaco",
+        "Itaipu"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bhutan",
+      "banned": [
+        "Monaci",
+        "Drago",
+        "Thimphu",
+        "Felicità"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Groenlandia",
+      "banned": [
+        "Inuit",
+        "Iceberg",
+        "Danimarca",
+        "Kayak"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tanzania",
+      "banned": [
+        "Kilimangiaro",
+        "Zanzibar",
+        "Swahili",
+        "Serengeti"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Finlandia",
+      "banned": [
+        "Sauna",
+        "Babbo Natale",
+        "Renne",
+        "Nokia"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

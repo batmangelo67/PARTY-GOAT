@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-football-legends",
+  "title": "Leggende del calcio",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Di Stefano",
+      "hint": "Foto ingiallite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Garrincha",
+      "hint": "Gioia senza freni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Figo",
+      "hint": "Estate di polemiche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Raúl",
+      "hint": "Eterna fedeltà",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paolo Rossi",
+      "hint": "Riscatto e sorrisi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Schillaci",
+      "hint": "Sogno all'improvviso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Batistuta",
+      "hint": "Pioggia di gol",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lineker",
+      "hint": "Dopo il ritiro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shearer",
+      "hint": "Attaccante di cuore",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Weah",
+      "hint": "Vicoli e successo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zoff",
+      "hint": "Mani sicure",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nedved",
+      "hint": "Corsa infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gullit",
+      "hint": "Passo di danza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bobby Charlton",
+      "hint": "Tiro da fuori",
+      "difficulty": "easy"
+    },
+    {
+      "word": "George Best",
+      "hint": "Calcio magico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rivaldo",
+      "hint": "Piedi educati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cafu",
+      "hint": "Corsa senza fine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kopa",
+      "hint": "Gesti eleganti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yashin",
+      "hint": "Mani di velluto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Facchetti",
+      "hint": "Tanta sostanza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rummenigge",
+      "hint": "Ritmo alto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sócrates",
+      "hint": "Pensiero libero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rivera",
+      "hint": "Stile da romanzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nesta",
+      "hint": "Mai fuori posto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Inzaghi",
+      "hint": "Sempre al posto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zanetti",
+      "hint": "Mai in panchina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rui Costa",
+      "hint": "Passo leggero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kahn",
+      "hint": "Furia in porta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Romário",
+      "hint": "Vita notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bergkamp",
+      "hint": "Stile e cervello",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hierro",
+      "hint": "Goleador in difesa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Di Maria",
+      "hint": "Trasferte in Europa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lampard",
+      "hint": "Mai in ritardo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vieira",
+      "hint": "Muscoli d'acciaio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seedorf",
+      "hint": "Sempre in viaggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ševčenko",
+      "hint": "Carriera in salita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mano de Dios",
+      "hint": "Furbizia in area",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gol del secolo",
+      "hint": "Replay infinito",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rovesciata",
+      "hint": "Gol da cartolina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triplete",
+      "hint": "Anno da incorniciare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Doppietta",
+      "hint": "Pomeriggio perfetto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hat-trick",
+      "hint": "Peluche in campo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Calcio di punizione",
+      "hint": "Silenzio in tribuna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Espulsione",
+      "hint": "Doccia anticipata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gol di tacco",
+      "hint": "Colpo di classe",
+      "difficulty": "hard"
+    }
+  ]
+}

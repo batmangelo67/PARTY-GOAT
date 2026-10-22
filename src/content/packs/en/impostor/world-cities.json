@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-world-cities",
+  "title": "World Cities & Landmarks",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Paris",
+      "hint": "Long weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "London",
+      "hint": "Rainy commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "New York",
+      "hint": "Big dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tokyo",
+      "hint": "Jet lag",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rome",
+      "hint": "Coin toss",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sydney",
+      "hint": "Sunny weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Berlin",
+      "hint": "Late-night club",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Las Vegas",
+      "hint": "Lucky break",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Los Angeles",
+      "hint": "Traffic jam",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amsterdam",
+      "hint": "Canal boat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dubai",
+      "hint": "Luxury yacht",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Madrid",
+      "hint": "Night owls",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bangkok",
+      "hint": "Tropical sweat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moscow",
+      "hint": "Winter coat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cape Town",
+      "hint": "Ocean view",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Athens",
+      "hint": "Ancient debate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mumbai",
+      "hint": "Rush hour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Istanbul",
+      "hint": "Cat cafe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hong Kong",
+      "hint": "Night market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Singapore",
+      "hint": "Strict rules",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seoul",
+      "hint": "Karaoke night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mexico City",
+      "hint": "Altitude headache",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buenos Aires",
+      "hint": "Old-school cafe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vienna",
+      "hint": "Coffee house",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Prague",
+      "hint": "Stag weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Budapest",
+      "hint": "Wellness break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lisbon",
+      "hint": "Sunset viewpoint",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dublin",
+      "hint": "Lucky charm",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Edinburgh",
+      "hint": "Ghost tour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Glasgow",
+      "hint": "Friendly banter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stockholm",
+      "hint": "Winter dark",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oslo",
+      "hint": "Quiet harbour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Melbourne",
+      "hint": "Laid-back city",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Montreal",
+      "hint": "Bilingual street",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Toronto",
+      "hint": "Lakeside walk",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Reykjavík",
+      "hint": "Frosty pool",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Warsaw",
+      "hint": "War history",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kraków",
+      "hint": "University town",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nairobi",
+      "hint": "Urban jungle",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Havana",
+      "hint": "Time capsule",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shanghai",
+      "hint": "Fast pace",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Delhi",
+      "hint": "Cramped metro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Johannesburg",
+      "hint": "Big money",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lima",
+      "hint": "Sunless sky",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hanoi",
+      "hint": "Motorbike rush",
+      "difficulty": "hard"
+    }
+  ]
+}

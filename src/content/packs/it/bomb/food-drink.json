@@ -1,0 +1,780 @@
+{
+  "id": "it-bomb-food-drink",
+  "title": "Cibo e bevande",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "food-drink",
+  "items": [
+    {
+      "text": "Tipi di pasta ripiena",
+      "examples": [
+        "Ravioli",
+        "Tortellini",
+        "Agnolotti",
+        "Cappelletti",
+        "Mezzelune",
+        "Sacchettini"
+      ]
+    },
+    {
+      "text": "Formati di pasta corta",
+      "examples": [
+        "Penne",
+        "Fusilli",
+        "Rigatoni",
+        "Farfalle",
+        "Orecchiette",
+        "Casarecce"
+      ]
+    },
+    {
+      "text": "Formati di pasta lunga",
+      "examples": [
+        "Spaghetti",
+        "Linguine",
+        "Tagliolini",
+        "Bucatini",
+        "Vermicelli",
+        "Fettuccine"
+      ]
+    },
+    {
+      "text": "Formaggi a pasta dura",
+      "examples": [
+        "Parmigiano",
+        "Grana Padano",
+        "Pecorino",
+        "Asiago",
+        "Montasio",
+        "Caciocavallo"
+      ]
+    },
+    {
+      "text": "Formaggi a pasta molle",
+      "examples": [
+        "Mozzarella",
+        "Stracchino",
+        "Taleggio",
+        "Burrata",
+        "Robiola",
+        "Ricotta"
+      ]
+    },
+    {
+      "text": "Ingredienti dei cocktail",
+      "examples": [
+        "Limone",
+        "Menta",
+        "Zucchero di canna",
+        "Angostura",
+        "Vermouth",
+        "Ghiaccio"
+      ]
+    },
+    {
+      "text": "Cocktail famosi",
+      "examples": [
+        "Negroni",
+        "Mojito",
+        "Margarita",
+        "Daiquiri",
+        "Caipirinha",
+        "Cosmopolitan"
+      ]
+    },
+    {
+      "text": "Frutti che iniziano con B",
+      "examples": [
+        "Banana",
+        "Bergamotto",
+        "Brugna",
+        "Bacca di goji",
+        "Blueberry"
+      ]
+    },
+    {
+      "text": "Frutti estivi",
+      "examples": [
+        "Anguria",
+        "Melone",
+        "Pesca",
+        "Albicocca",
+        "Fico",
+        "Ciliegia"
+      ]
+    },
+    {
+      "text": "Verdure dell'orto",
+      "examples": [
+        "Zucchina",
+        "Melanzana",
+        "Peperone",
+        "Carciofo",
+        "Radicchio",
+        "Finocchio"
+      ]
+    },
+    {
+      "text": "Dolci al cucchiaio",
+      "examples": [
+        "Tiramisù",
+        "Zabaglione",
+        "Panna cotta",
+        "Budino",
+        "Semifreddo",
+        "Mousse"
+      ]
+    },
+    {
+      "text": "Dolci napoletani",
+      "examples": [
+        "Sfogliatella",
+        "Babà",
+        "Pastiera",
+        "Struffoli",
+        "Zeppole",
+        "Mostaccioli"
+      ]
+    },
+    {
+      "text": "Dolci siciliani",
+      "examples": [
+        "Cannolo",
+        "Cassata",
+        "Granita",
+        "Biancomangiare",
+        "Frutta martorana",
+        "Torrone"
+      ]
+    },
+    {
+      "text": "Salumi italiani",
+      "examples": [
+        "Prosciutto",
+        "Mortadella",
+        "Salame",
+        "Bresaola",
+        "Coppa",
+        "Speck"
+      ]
+    },
+    {
+      "text": "Pesci da cucinare",
+      "examples": [
+        "Branzino",
+        "Orata",
+        "Triglia",
+        "Sogliola",
+        "Spigola",
+        "Tonno"
+      ]
+    },
+    {
+      "text": "Pane e focacce",
+      "examples": [
+        "Ciabatta",
+        "Pane carasau",
+        "Focaccia",
+        "Michetta",
+        "Grissini",
+        "Piadina"
+      ]
+    },
+    {
+      "text": "Tipi di caffè",
+      "examples": [
+        "Espresso",
+        "Macchiato",
+        "Ristretto",
+        "Lungo",
+        "Corretto",
+        "Marocchino"
+      ]
+    },
+    {
+      "text": "Liquori italiani",
+      "examples": [
+        "Limoncello",
+        "Amaro",
+        "Grappa",
+        "Sambuca",
+        "Strega",
+        "Averna"
+      ]
+    },
+    {
+      "text": "Bevande analcoliche",
+      "examples": [
+        "Aranciata",
+        "Chinotto",
+        "Spuma",
+        "Gazzosa",
+        "Orzata",
+        "Tè freddo"
+      ]
+    },
+    {
+      "text": "Vini italiani",
+      "examples": [
+        "Chianti",
+        "Barolo",
+        "Brunello",
+        "Prosecco",
+        "Amarone",
+        "Lambrusco"
+      ]
+    },
+    {
+      "text": "Vitigni",
+      "examples": [
+        "Sangiovese",
+        "Nebbiolo",
+        "Trebbiano",
+        "Vermentino",
+        "Glera",
+        "Primitivo"
+      ]
+    },
+    {
+      "text": "Birre famose",
+      "examples": [
+        "Heineken",
+        "Guinness",
+        "Corona",
+        "Budweiser",
+        "Stella Artois",
+        "Carlsberg"
+      ]
+    },
+    {
+      "text": "Spezie",
+      "examples": [
+        "Curcuma",
+        "Zafferano",
+        "Cannella",
+        "Cumino",
+        "Paprika",
+        "Pepe nero"
+      ]
+    },
+    {
+      "text": "Erbe aromatiche",
+      "examples": [
+        "Basilico",
+        "Rosmarino",
+        "Salvia",
+        "Timo",
+        "Origano",
+        "Maggiorana"
+      ]
+    },
+    {
+      "text": "Condimenti",
+      "examples": [
+        "Aceto balsamico",
+        "Olio",
+        "Senape",
+        "Maionese",
+        "Pesto",
+        "Ketchup"
+      ]
+    },
+    {
+      "text": "Piatti di patate",
+      "examples": [
+        "Purè",
+        "Patatine fritte",
+        "Gnocchi",
+        "Rösti",
+        "Croquette",
+        "Patate al forno"
+      ]
+    },
+    {
+      "text": "Legumi",
+      "examples": [
+        "Ceci",
+        "Lenticchie",
+        "Fagioli",
+        "Piselli",
+        "Fave",
+        "Soia"
+      ]
+    },
+    {
+      "text": "Cereali",
+      "examples": [
+        "Riso",
+        "Farro",
+        "Orzo",
+        "Avena",
+        "Mais",
+        "Grano saraceno"
+      ]
+    },
+    {
+      "text": "Piatti con le uova",
+      "examples": [
+        "Frittata",
+        "Uova al tegamino",
+        "Omelette",
+        "Uova strapazzate",
+        "Uova alla coque"
+      ]
+    },
+    {
+      "text": "Cose da mangiare a colazione",
+      "examples": [
+        "Cornetto",
+        "Brioche",
+        "Biscotti",
+        "Yogurt",
+        "Muesli",
+        "Fette biscottate"
+      ]
+    },
+    {
+      "text": "Stuzzichini da aperitivo",
+      "examples": [
+        "Olive ascolane",
+        "Tramezzini",
+        "Crostini",
+        "Patatine",
+        "Taralli",
+        "Arachidi"
+      ]
+    },
+    {
+      "text": "Termini da sommelier",
+      "examples": [
+        "Tannino",
+        "Corpo",
+        "Retrogusto",
+        "Aroma",
+        "Acidità",
+        "Persistenza"
+      ]
+    },
+    {
+      "text": "Cocktail a base di Prosecco",
+      "examples": [
+        "Bellini",
+        "Spritz",
+        "Mimosa",
+        "Hugo",
+        "Rossini",
+        "Puccini"
+      ]
+    },
+    {
+      "text": "Cibi da street food",
+      "examples": [
+        "Supplì",
+        "Arancini",
+        "Cuoppo",
+        "Panzerotto",
+        "Pizza al taglio",
+        "Trapizzino"
+      ]
+    },
+    {
+      "text": "Frutta secca",
+      "examples": [
+        "Mandorle",
+        "Nocciole",
+        "Noci",
+        "Pistacchi",
+        "Pinoli",
+        "Anacardi"
+      ]
+    },
+    {
+      "text": "Frutta tropicale",
+      "examples": [
+        "Mango",
+        "Papaya",
+        "Ananas",
+        "Litchi",
+        "Maracuja",
+        "Guava"
+      ]
+    },
+    {
+      "text": "Frutta che inizia con C",
+      "examples": [
+        "Ciliegia",
+        "Cachi",
+        "Cocco",
+        "Clementina",
+        "Cedro",
+        "Cotogna"
+      ]
+    },
+    {
+      "text": "Ortaggi che iniziano con C",
+      "examples": [
+        "Carota",
+        "Cavolo",
+        "Cetriolo",
+        "Cipolla",
+        "Cicoria",
+        "Cavolfiore"
+      ]
+    },
+    {
+      "text": "Pesci di lago",
+      "examples": [
+        "Trota",
+        "Luccio",
+        "Persico",
+        "Lavarello",
+        "Coregone",
+        "Carpa"
+      ]
+    },
+    {
+      "text": "Tagli di manzo",
+      "examples": [
+        "Filetto",
+        "Costata",
+        "Scamone",
+        "Fesa",
+        "Girello",
+        "Lombata"
+      ]
+    },
+    {
+      "text": "Frutti di mare",
+      "examples": [
+        "Cozze",
+        "Vongole",
+        "Gamberi",
+        "Calamari",
+        "Ricci",
+        "Capesante"
+      ]
+    },
+    {
+      "text": "Pizze famose",
+      "examples": [
+        "Margherita",
+        "Marinara",
+        "Diavola",
+        "Capricciosa",
+        "Quattro stagioni",
+        "Calzone"
+      ]
+    },
+    {
+      "text": "Condimenti per la pasta",
+      "examples": [
+        "Pesto",
+        "Arrabbiata",
+        "Bolognese",
+        "Ragù",
+        "Gricia",
+        "Aglio olio e peperoncino"
+      ]
+    },
+    {
+      "text": "Carni di pollame",
+      "examples": [
+        "Pollo",
+        "Tacchino",
+        "Faraona",
+        "Anatra",
+        "Oca",
+        "Quaglia"
+      ]
+    },
+    {
+      "text": "Cose da mettere nel panino",
+      "examples": [
+        "Pancetta",
+        "Porchetta",
+        "Lattuga",
+        "Pomodoro",
+        "Maionese",
+        "Scamorza"
+      ]
+    },
+    {
+      "text": "Erbe da tisana",
+      "examples": [
+        "Camomilla",
+        "Tiglio",
+        "Menta",
+        "Malva",
+        "Melissa",
+        "Verbena"
+      ]
+    },
+    {
+      "text": "Marmellate",
+      "examples": [
+        "Fragola",
+        "Arancia amara",
+        "Mela cotogna",
+        "Prugna",
+        "Amarena",
+        "Fico"
+      ]
+    },
+    {
+      "text": "Pasta fresca",
+      "examples": [
+        "Gnocchi",
+        "Pici",
+        "Garganelli",
+        "Strozzapreti",
+        "Maltagliati",
+        "Cavatelli"
+      ]
+    },
+    {
+      "text": "Cose che si mettono nel tè",
+      "examples": [
+        "Limone",
+        "Miele",
+        "Latte",
+        "Zucchero",
+        "Cannella",
+        "Zenzero"
+      ]
+    },
+    {
+      "text": "Frutti che iniziano con P",
+      "examples": [
+        "Pesca",
+        "Pera",
+        "Prugna",
+        "Papaya",
+        "Pompelmo",
+        "Pesca noce"
+      ]
+    },
+    {
+      "text": "Ingredienti della caprese",
+      "examples": [
+        "Pomodoro",
+        "Mozzarella",
+        "Basilico",
+        "Olio",
+        "Sale",
+        "Origano"
+      ]
+    },
+    {
+      "text": "Dolci di Pasqua",
+      "examples": [
+        "Colomba",
+        "Uova di cioccolato",
+        "Pastiera",
+        "Casatiello",
+        "Pinza",
+        "Agnello dolce"
+      ]
+    },
+    {
+      "text": "Dolci di Natale",
+      "examples": [
+        "Panettone",
+        "Pandoro",
+        "Torrone",
+        "Mostaccioli",
+        "Panforte",
+        "Cenci"
+      ]
+    },
+    {
+      "text": "Dolci fritti",
+      "examples": [
+        "Frittelle",
+        "Bomboloni",
+        "Zeppole",
+        "Chiacchiere",
+        "Crostoli",
+        "Castagnole"
+      ]
+    },
+    {
+      "text": "Carni di maiale",
+      "examples": [
+        "Salsiccia",
+        "Pancetta",
+        "Guanciale",
+        "Lardo",
+        "Costine",
+        "Porchetta"
+      ]
+    },
+    {
+      "text": "Oli d'oliva",
+      "examples": [
+        "Extravergine",
+        "Delicato",
+        "Fruttato",
+        "Taggiasca",
+        "Leccino",
+        "Frantoio"
+      ]
+    },
+    {
+      "text": "Tipi di riso",
+      "examples": [
+        "Carnaroli",
+        "Arborio",
+        "Vialone nano",
+        "Baldo",
+        "Ribe",
+        "Originario"
+      ]
+    },
+    {
+      "text": "Frutta che inizia con F",
+      "examples": [
+        "Fragola",
+        "Fico",
+        "Feijoa",
+        "Frutto della passione",
+        "Fichi secchi"
+      ]
+    },
+    {
+      "text": "Verdure a foglia",
+      "examples": [
+        "Lattuga",
+        "Spinaci",
+        "Bietole",
+        "Rucola",
+        "Cavolo nero",
+        "Valerianella"
+      ]
+    },
+    {
+      "text": "Dolci al cioccolato",
+      "examples": [
+        "Brownie",
+        "Cioccolatini",
+        "Tartufo",
+        "Nutella",
+        "Cioccolata calda",
+        "Mousse al cioccolato"
+      ]
+    },
+    {
+      "text": "Cibi fermentati",
+      "examples": [
+        "Yogurt",
+        "Kefir",
+        "Crauti",
+        "Kimchi",
+        "Miso",
+        "Aceto di mele"
+      ]
+    },
+    {
+      "text": "Piatti a base di riso",
+      "examples": [
+        "Risotto",
+        "Arancini",
+        "Supplì",
+        "Sushi",
+        "Paella",
+        "Riso al salto"
+      ]
+    },
+    {
+      "text": "Cucine straniere",
+      "examples": [
+        "Sushi",
+        "Tacos",
+        "Kebab",
+        "Pad thai",
+        "Curry",
+        "Hamburger"
+      ]
+    },
+    {
+      "text": "Gusti di gelato",
+      "examples": [
+        "Stracciatella",
+        "Pistacchio",
+        "Nocciola",
+        "Fiordilatte",
+        "Bacio",
+        "Cioccolato fondente"
+      ]
+    },
+    {
+      "text": "Caramelle",
+      "examples": [
+        "Caramelle gommose",
+        "Liquirizia",
+        "Mentine",
+        "Confetti",
+        "Gianduiotti",
+        "Torroncini"
+      ]
+    },
+    {
+      "text": "Snack salati",
+      "examples": [
+        "Patatine",
+        "Cracker",
+        "Taralli",
+        "Popcorn",
+        "Pistacchi tostati",
+        "Grissini"
+      ]
+    },
+    {
+      "text": "Cose che si spalmano",
+      "examples": [
+        "Nutella",
+        "Burro di arachidi",
+        "Marmellata",
+        "Crema di nocciole",
+        "Miele",
+        "Burro"
+      ]
+    },
+    {
+      "text": "Tipi di tè",
+      "examples": [
+        "Tè verde",
+        "Tè nero",
+        "Tè bianco",
+        "Tè oolong",
+        "Tè matcha",
+        "Rooibos"
+      ]
+    },
+    {
+      "text": "Piatti greci",
+      "examples": [
+        "Souvlaki",
+        "Moussaka",
+        "Tzatziki",
+        "Gyros",
+        "Dolmades",
+        "Baklava"
+      ]
+    },
+    {
+      "text": "Dolci con la frutta",
+      "examples": [
+        "Crostata",
+        "Strudel",
+        "Torta di mele",
+        "Cheesecake",
+        "Macedonia",
+        "Crumble"
+      ]
+    }
+  ]
+}

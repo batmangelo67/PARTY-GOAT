@@ -12,7 +12,7 @@ export function BombSetupScreen() {
   const t = useT();
   const players = usePlayersStore((state) => state.players);
   const config = useBombConfig();
-  const packs = useSelectedPacks(BOMB_ID, "words", config.packIds);
+  const packs = useSelectedPacks(BOMB_ID, "prompts", config.packIds);
   const [min, max] = FUSE_RANGES_SECONDS[config.fuseLength];
 
   return (

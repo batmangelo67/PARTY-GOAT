@@ -15,12 +15,11 @@ import { useLeaveGame } from "../../engine/use-leave-game";
 import { useT } from "../../i18n/use-t";
 import { useMindConfig } from "./config-store";
 import { MIND_ID } from "./constants";
-import { cleanWord, findMatches, matchPoints, nextPromptWords, normalizeWord, type MatchGroup } from "./logic";
+import { cleanWord, findMatches, matchPoints, nextPromptWords, type MatchGroup } from "./logic";
 import { MindSecret } from "./mind-secret";
 import { PromptWords } from "./prompt-words";
 
 const SETUP_PATH = `/play/${MIND_ID}/setup`;
-const STARTER_ATTEMPTS = 3;
 
 type Phase = "write" | "reveal" | "spoken" | "result";
 
@@ -30,7 +29,7 @@ export function MindPlayScreen() {
   const players = usePlayersStore((state) => state.players);
   const addPoints = useScoreboardStore((state) => state.addPoints);
   const config = useMindConfig();
-  const packs = useSelectedPacks(MIND_ID, "words", config.packIds);
+  const packs = useSelectedPacks(MIND_ID, "prompts", config.packIds);
   const typed = config.mode === "typed";
   const valid = packs.length > 0 && (!typed || players.length >= MIN_PLAYERS);
 
@@ -42,12 +41,7 @@ export function MindPlayScreen() {
   const [roundPoints, setRoundPoints] = useState<Record<string, number>>({});
 
   const { state, failure, reload } = useRoundLoader(valid, async () => {
-    const first = (await drawItem(packs)).item.word;
-    let second = first;
-    for (let attempt = 0; attempt < STARTER_ATTEMPTS && normalizeWord(second) === normalizeWord(first); attempt++) {
-      second = (await drawItem(packs)).item.word;
-    }
-    setPromptWords([first, second]);
+    setPromptWords([(await drawItem(packs)).item.text]);
   });
 
   if (!valid) return <Navigate to={SETUP_PATH} replace />;

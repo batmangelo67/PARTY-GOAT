@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-law-justice",
+  "title": "Law, Justice & Criminology",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Jury",
+      "hint": "Group decisions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Verdict",
+      "hint": "Nervous pause",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Evidence",
+      "hint": "Puzzle pieces",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Witness",
+      "hint": "Bad timing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Appeal",
+      "hint": "Last hope",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bail",
+      "hint": "Friend with cash",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parole",
+      "hint": "Clean slate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prosecution",
+      "hint": "Stern faces",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alibi",
+      "hint": "Pure coincidence",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fingerprint",
+      "hint": "Sticky fingers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Detective",
+      "hint": "Crime novels",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Handcuffs",
+      "hint": "Stuck together",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lineup",
+      "hint": "Shifty eyes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mugshot",
+      "hint": "Awkward snaps",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warrant",
+      "hint": "Early visitors",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Contract",
+      "hint": "Small print",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lawsuit",
+      "hint": "Garden fences",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Court",
+      "hint": "Long waits",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Subpoena",
+      "hint": "Unwelcome mail",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Perjury",
+      "hint": "Crossed fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Loophole",
+      "hint": "Clever tricks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Injunction",
+      "hint": "Red lights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Affidavit",
+      "hint": "Pinky promise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Probation",
+      "hint": "Second chances",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cross-examination",
+      "hint": "Tense pauses",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Misdemeanour",
+      "hint": "Minor slip-ups",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Felony",
+      "hint": "Big mistakes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Testimony",
+      "hint": "Heartfelt stories",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Extradition",
+      "hint": "Passport problems",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Acquittal",
+      "hint": "Happy tears",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plea bargain",
+      "hint": "Cutting corners",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arraignment",
+      "hint": "Shaky start",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Interrogation",
+      "hint": "Cold coffee",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Restraining order",
+      "hint": "Ex drama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Forensics",
+      "hint": "Tiny clues",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Defendant",
+      "hint": "Hot seat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smuggling",
+      "hint": "Secret stashes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ransom",
+      "hint": "Shaky phone calls",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Indictment",
+      "hint": "Big accusations",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jurisdiction",
+      "hint": "Overlapping rules",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Precedent",
+      "hint": "Repeat mistakes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tort",
+      "hint": "Slippery floors",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Negligence",
+      "hint": "Oops moments",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Burglary",
+      "hint": "Dark windows",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Habeas corpus",
+      "hint": "Ancient rights",
+      "difficulty": "hard"
+    }
+  ]
+}

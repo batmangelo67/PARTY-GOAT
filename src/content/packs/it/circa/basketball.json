@@ -1,0 +1,305 @@
+{
+  "id": "it-circa-basketball",
+  "title": "Basket",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "question": "Quanti minuti dura una partita di basket NBA?",
+      "answer": 48,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura una partita di basket FIBA?",
+      "decoyAnswer": 40
+    },
+    {
+      "question": "Quanti minuti dura un quarto di una partita NBA?",
+      "answer": 12,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura un quarto di una partita FIBA?",
+      "decoyAnswer": 10
+    },
+    {
+      "question": "Quanti giocatori per squadra sono in campo nel basket?",
+      "answer": 5,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nella pallavolo?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "In che anno fu inventata la pallacanestro?",
+      "answer": 1891,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la FIBA?",
+      "decoyAnswer": 1932
+    },
+    {
+      "question": "Quante squadre partecipano alla NBA?",
+      "answer": 30,
+      "unit": "squadre",
+      "format": "number",
+      "decoyQuestion": "Quante squadre partecipano alla NFL?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "Quanti titoli NBA ha vinto Michael Jordan?",
+      "answer": 6,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti titoli NBA ha vinto LeBron James?",
+      "decoyAnswer": 4,
+      "asOf": 2025
+    },
+    {
+      "question": "Quanti punti ha segnato Wilt Chamberlain in una singola partita NBA?",
+      "answer": 100,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti ha segnato Kobe Bryant in una singola partita NBA nel 2006?",
+      "decoyAnswer": 81
+    },
+    {
+      "question": "Quanti metri è lungo un campo da basket NBA?",
+      "answer": 28.65,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è lungo un campo da pallavolo?",
+      "decoyAnswer": 18
+    },
+    {
+      "question": "Quanti metri è alto un canestro da basket dal suolo?",
+      "answer": 3.05,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alta la porta della pallamano?",
+      "decoyAnswer": 2
+    },
+    {
+      "question": "Quanti falli personali può commettere un giocatore NBA prima dell'espulsione?",
+      "answer": 6,
+      "unit": "falli",
+      "format": "number",
+      "decoyQuestion": "Quanti falli personali può commettere un giocatore FIBA prima dell'espulsione?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quante volte Kareem Abdul-Jabbar ha vinto il premio di MVP della regular season NBA?",
+      "answer": 6,
+      "unit": "volte",
+      "format": "number",
+      "decoyQuestion": "Quante volte LeBron James ha vinto il premio di MVP della regular season NBA?",
+      "decoyAnswer": 4,
+      "asOf": 2025
+    },
+    {
+      "question": "In che anno il basket maschile entrò alle Olimpiadi?",
+      "answer": 1936,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno il basket femminile entrò alle Olimpiadi?",
+      "decoyAnswer": 1976
+    },
+    {
+      "question": "In che anno l'Italia vinse per la prima volta il Campionato Europeo di basket?",
+      "answer": 1983,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno l'Italia vinse per la prima volta il Campionato Europeo di calcio?",
+      "decoyAnswer": 1968
+    },
+    {
+      "question": "In che anno Michael Jordan vinse il suo primo titolo NBA?",
+      "answer": 1991,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno LeBron James vinse il suo primo titolo NBA?",
+      "decoyAnswer": 2012
+    },
+    {
+      "question": "Quanti anni aveva Michael Jordan quando vinse il suo primo titolo NBA?",
+      "answer": 28,
+      "unit": "anni",
+      "format": "number",
+      "decoyQuestion": "Quanti anni aveva LeBron James quando vinse il suo primo titolo NBA?",
+      "decoyAnswer": 27
+    },
+    {
+      "question": "Quante partite massime ha una finale NBA?",
+      "answer": 7,
+      "unit": "partite",
+      "format": "number",
+      "decoyQuestion": "Quante vittorie servono per vincere una serie di playoff NBA?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "Quante partite ha una stagione regolare NBA per squadra?",
+      "answer": 82,
+      "unit": "partite",
+      "format": "number",
+      "decoyQuestion": "Quante partite ha una stagione regolare di Serie A di calcio per squadra?",
+      "decoyAnswer": 38
+    },
+    {
+      "question": "Quanti punti occorrono per vincere una partita di 3x3?",
+      "answer": 21,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti occorrono per vincere un set di pallavolo, salvo il tie-break?",
+      "decoyAnswer": 25
+    },
+    {
+      "question": "Quanti minuti dura una partita di 3x3?",
+      "answer": 10,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura una partita di pallanuoto?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "Quanti campionati NBA ha vinto Bill Russell?",
+      "answer": 11,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti campionati NBA ha vinto Kobe Bryant?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In che anno il Dream Team partecipò alle Olimpiadi?",
+      "answer": 1992,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno la pallacanestro entrò alle Olimpiadi maschili?",
+      "decoyAnswer": 1936
+    },
+    {
+      "question": "In che anno fu fondata l'Euroleague?",
+      "answer": 2000,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la NFL?",
+      "decoyAnswer": 1920
+    },
+    {
+      "question": "Quanti punti segnò Michael Jordan nei playoff NBA del 1986 contro i Boston Celtics?",
+      "answer": 63,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti segnò in media Wilt Chamberlain nella stagione NBA 1961-62?",
+      "decoyAnswer": 50.4
+    },
+    {
+      "question": "Quanti titoli NBA ha vinto i Boston Celtics?",
+      "answer": 18,
+      "unit": "titoli",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti titoli NBA ha vinto i Los Angeles Lakers?",
+      "decoyAnswer": 17
+    },
+    {
+      "question": "In che anno fu introdotta la linea dei tre punti in NBA?",
+      "answer": 1979,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu introdotto il cronometro dei 24 secondi (shot clock) in NBA?",
+      "decoyAnswer": 1954
+    },
+    {
+      "question": "Quanti giocatori per squadra sono in campo nel 3x3?",
+      "answer": 3,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nel calcio a 7?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "Quanti minuti dura un tempo supplementare (overtime) in NBA?",
+      "answer": 5,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti durano i tempi supplementari di una partita di calcio?",
+      "decoyAnswer": 30
+    },
+    {
+      "question": "Quanti punti vale un tiro libero?",
+      "answer": 1,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti vale un tiro da tre punti?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "In che anno Michael Jordan vinse per la prima volta l'oro olimpico?",
+      "answer": 1984,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno LeBron James vinse il primo oro olimpico?",
+      "decoyAnswer": 2008
+    },
+    {
+      "question": "Quanti campionati NBA ha vinto Magic Johnson?",
+      "answer": 5,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti campionati NBA ha vinto Larry Bird?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "Quanti titoli NBA ha vinto Tim Duncan?",
+      "answer": 5,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti titoli NBA ha vinto Shaquille O'Neal?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "Quanti anni aveva Kobe Bryant quando vinse il suo primo titolo NBA?",
+      "answer": 21,
+      "unit": "anni",
+      "format": "number",
+      "decoyQuestion": "Quanti anni aveva Shaquille O'Neal quando vinse il suo primo titolo NBA?",
+      "decoyAnswer": 28
+    },
+    {
+      "question": "Quanti titoli NBA ha vinto Hakeem Olajuwon?",
+      "answer": 2,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti titoli NBA ha vinto Dirk Nowitzki?",
+      "decoyAnswer": 1
+    },
+    {
+      "question": "Quanti giocatori può avere a roster una squadra NBA?",
+      "answer": 15,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nel rugby a sette?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "In che anno Michael Jordan debuttò in NBA?",
+      "answer": 1984,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno LeBron James debuttò in NBA?",
+      "decoyAnswer": 2003
+    },
+    {
+      "question": "In che anno Kobe Bryant debuttò in NBA?",
+      "answer": 1996,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno Shaquille O'Neal debuttò in NBA?",
+      "decoyAnswer": 1992
+    }
+  ]
+}

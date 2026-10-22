@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-food-asian",
+  "title": "Cucina asiatica",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Sushi",
+      "hint": "Serata di pesce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ramen",
+      "hint": "Notte fredda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pad thai",
+      "hint": "Mercato notturno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dim sum",
+      "hint": "Pranzo tra colleghi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gyoza",
+      "hint": "Dopo il lavoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tempura",
+      "hint": "Sera d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pho",
+      "hint": "Brodo al mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bao",
+      "hint": "Cena in centro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yakitori",
+      "hint": "Cena di mezzanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Curry",
+      "hint": "Cena con amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gỏi cuốn",
+      "hint": "Pausa di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Edamame",
+      "hint": "Birra fredda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chow mein",
+      "hint": "Cena da asporto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samosa",
+      "hint": "Festa in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pollo in agrodolce",
+      "hint": "Cena fuori",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manzo al pepe",
+      "hint": "Cena di lavoro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "California roll",
+      "hint": "Cena a due",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bubble tea",
+      "hint": "Pausa dalle lezioni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sashimi",
+      "hint": "Pranzo di lusso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kimchi",
+      "hint": "Scorta d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Udon",
+      "hint": "Freddo di novembre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wonton",
+      "hint": "Serata di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Teriyaki",
+      "hint": "Cena alla griglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mapo tofu",
+      "hint": "Sfida al palato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Onigiri",
+      "hint": "Pranzo al sacco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mochi",
+      "hint": "Dolce di gennaio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Naan",
+      "hint": "Pane della cena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pollo kung pao",
+      "hint": "Cena in compagnia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Butter chicken",
+      "hint": "Cena del sabato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hot pot",
+      "hint": "Fondue d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dal",
+      "hint": "Cena vegetariana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tandoori chicken",
+      "hint": "Cena in giardino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Okonomiyaki",
+      "hint": "Serata di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pad see ew",
+      "hint": "Pranzo di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Miso",
+      "hint": "Zuppa del mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tonkatsu",
+      "hint": "Pranzo di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bibimbap",
+      "hint": "Pranzo del weekend",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Japchae",
+      "hint": "Cena tranquilla",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bulgogi",
+      "hint": "Barbecue tra amici",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Soba",
+      "hint": "Pranzo di luglio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tom yum",
+      "hint": "Raffreddore d'inverno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nasi goreng",
+      "hint": "Pranzo dell'indomani",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Banh mi",
+      "hint": "Pranzo al sole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Massaman",
+      "hint": "Lungo viaggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gochujang",
+      "hint": "Assaggio audace",
+      "difficulty": "hard"
+    }
+  ]
+}

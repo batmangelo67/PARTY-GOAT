@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-amusement-park",
+  "title": "Amusement Park Rides & Attractions",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Roller Coaster",
+      "hint": "Stomach flip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferris Wheel",
+      "hint": "Date night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carousel",
+      "hint": "Dizzy kids",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bumper Cars",
+      "hint": "Sparks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Haunted House",
+      "hint": "Holding hands",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cotton Candy",
+      "hint": "Parent's wallet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ticket Booth",
+      "hint": "Sunburn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Water Slide",
+      "hint": "Wet laughter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mini Golf",
+      "hint": "Lost ball",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Balloon Darts",
+      "hint": "Showing off",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tilt-a-Whirl",
+      "hint": "Queasy grin",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fun House Mirror",
+      "hint": "Silly faces",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Log Flume",
+      "hint": "Wet sneakers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Go-Karts",
+      "hint": "Pit stop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teacups",
+      "hint": "Gentle rides",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Popcorn Bucket",
+      "hint": "Movie night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lazy River",
+      "hint": "Sunscreen",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drop Tower",
+      "hint": "Hold your breath",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pendulum Ride",
+      "hint": "Heavy stomach",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost Train",
+      "hint": "Late October",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gravitron",
+      "hint": "Spin dryer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scrambler",
+      "hint": "Lost keys",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Whack-a-Mole",
+      "hint": "Arcade strength",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shooting Gallery",
+      "hint": "Cowboy movies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wooden Coaster",
+      "hint": "Creaky nerves",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mirror Maze",
+      "hint": "Lost sunglasses",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Octopus Ride",
+      "hint": "Eyes closed",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dark Ride",
+      "hint": "Quiet cart",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zip Line",
+      "hint": "Brave hearts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Observation Tower",
+      "hint": "Tiny cars",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bumper Boats",
+      "hint": "Summer rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ring Toss",
+      "hint": "Impatient queue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirate Ship",
+      "hint": "Scream chorus",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kiddie Coaster",
+      "hint": "First big ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pedal Boats",
+      "hint": "Lake sunset",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chairoplane",
+      "hint": "Lazy spin",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sling Shot",
+      "hint": "Heart in throat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Matterhorn Bobsleds",
+      "hint": "Icy tunnels",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wave Swinger",
+      "hint": "Hands up",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rotor",
+      "hint": "Gravity fail",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skycoaster",
+      "hint": "Dangling feet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Expedition Everest",
+      "hint": "Chilly queue",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tower of Terror",
+      "hint": "Shaky knees",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Snow Cone",
+      "hint": "Hot afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giant Swing",
+      "hint": "Brave shoulders",
+      "difficulty": "hard"
+    }
+  ]
+}

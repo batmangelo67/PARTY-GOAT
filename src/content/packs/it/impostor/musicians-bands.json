@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-musicians-bands",
+  "title": "Band e musicisti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "The Beatles",
+      "hint": "Fan urlanti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Rolling Stones",
+      "hint": "Ancora in tour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "ABBA",
+      "hint": "Festa anni settanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Queen",
+      "hint": "Coro da stadio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nirvana",
+      "hint": "Ribellione anni novanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coldplay",
+      "hint": "Cantare in massa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oasis",
+      "hint": "Litigi in tour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pink Floyd",
+      "hint": "Concerto stellato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "U2",
+      "hint": "Causa umanitaria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kiss",
+      "hint": "Show esagerato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Doors",
+      "hint": "Anni sessanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guns N' Roses",
+      "hint": "Concerti turbolenti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spice Girls",
+      "hint": "Mania anni novanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bee Gees",
+      "hint": "Anni settanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Daft Punk",
+      "hint": "Anonimi in scena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Radiohead",
+      "hint": "Ansia da cuffie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arctic Monkeys",
+      "hint": "Serate nei pub",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Killers",
+      "hint": "Fortuna al tavolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Cure",
+      "hint": "Nebbia e tristezza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eagles",
+      "hint": "Ballata sulla strada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Journey",
+      "hint": "Coro da karaoke",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bon Jovi",
+      "hint": "Rock da balera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Strokes",
+      "hint": "Giovani e annoiati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bob Marley",
+      "hint": "Pace e amore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foo Fighters",
+      "hint": "Rock in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dire Straits",
+      "hint": "Ballata elegante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Police",
+      "hint": "Rock minimalista",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fleetwood Mac",
+      "hint": "Dramma sentimentale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aerosmith",
+      "hint": "Ritorni trionfali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Depeche Mode",
+      "hint": "Pop sintetico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Genesis",
+      "hint": "Suite lunghissime",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Muse",
+      "hint": "Concerti spaziali",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pearl Jam",
+      "hint": "Rabbia silenziosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Motörhead",
+      "hint": "Rock brutale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scorpions",
+      "hint": "Accendini alzati",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Linkin Park",
+      "hint": "Adolescenza anni duemila",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Red Hot Chili Peppers",
+      "hint": "Ritmi scatenati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Green Day",
+      "hint": "Punk da cameretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Metallica",
+      "hint": "Riff pesantissimi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Blink-182",
+      "hint": "Scherzi da liceale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "AC/DC",
+      "hint": "Concerti rumorosi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Led Zeppelin",
+      "hint": "Ballate epiche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maroon 5",
+      "hint": "Radio in auto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sex Pistols",
+      "hint": "Urla di rabbia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Clash",
+      "hint": "Rivolta da cantina",
+      "difficulty": "hard"
+    }
+  ]
+}
