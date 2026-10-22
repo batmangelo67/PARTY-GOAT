@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-household-appliances-tools",
+  "title": "Household Appliances & Tools",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Toaster",
+      "hint": "Rushed breakfast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vacuum cleaner",
+      "hint": "Sunday tidy-up",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Refrigerator",
+      "hint": "Shopping day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Microwave",
+      "hint": "Office lunch break",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Iron",
+      "hint": "Job interview",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dishwasher",
+      "hint": "After the feast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kettle",
+      "hint": "Rainy afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hammer",
+      "hint": "Bank holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ladder",
+      "hint": "Fresh paint",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fan",
+      "hint": "Sunday siesta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Washing machine",
+      "hint": "Monday laundry pile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Blender",
+      "hint": "New year resolution",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lawn mower",
+      "hint": "Neighbour's complaint",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oven",
+      "hint": "Date night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drill",
+      "hint": "Moving day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scissors",
+      "hint": "Hair salon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lamp",
+      "hint": "Cosy evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hairdryer",
+      "hint": "Big night out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Air conditioner",
+      "hint": "Hotel stay",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Screwdriver",
+      "hint": "Wobbly chair",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dehumidifier",
+      "hint": "Mouldy bathroom",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coffee machine",
+      "hint": "Early meeting",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Food processor",
+      "hint": "Kitchen makeover",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stapler",
+      "hint": "Quarterly report",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sewing machine",
+      "hint": "Broken zip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tumble dryer",
+      "hint": "Forgot the washing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Juicer",
+      "hint": "Hot summer day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Freezer",
+      "hint": "Storm prep",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doorbell",
+      "hint": "Unexpected visitor",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smoke alarm",
+      "hint": "Dead battery",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pressure cooker",
+      "hint": "Busy weeknight",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Extension cord",
+      "hint": "Rearranging the lounge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wrench",
+      "hint": "Emergency callout",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pliers",
+      "hint": "Garage sale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Glue gun",
+      "hint": "School project night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tape measure",
+      "hint": "Flat move-in",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mangle",
+      "hint": "Servant's chores",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Plunger",
+      "hint": "Bathroom emergency",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crowbar",
+      "hint": "Locked shed",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mop",
+      "hint": "Party aftermath",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Clothes steamer",
+      "hint": "Fashion week",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Water heater",
+      "hint": "Cold morning",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Thermostat",
+      "hint": "Arguing over temperature",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caulking gun",
+      "hint": "Draughty window",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Soldering iron",
+      "hint": "Dead remote",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-fine-dining",
+  "title": "Cucina gourmet e ricercata",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Caviale",
+      "hint": "Serata di gala",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ostriche",
+      "hint": "Mattina di mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aragosta",
+      "hint": "Cena di anniversario",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burrata",
+      "hint": "Pranzo in campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Filetto Wellington",
+      "hint": "Festa di laurea",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wagyu",
+      "hint": "Cena da intenditori",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Branzino",
+      "hint": "Pesce del weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tartare",
+      "hint": "Aperitivo al volo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Insalata di mare",
+      "hint": "Spiaggia d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coniglio farcito",
+      "hint": "Piatto da domenica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Capesante",
+      "hint": "Festa di fidanzamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vongole veraci",
+      "hint": "Sabato al mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Salmone affumicato",
+      "hint": "Brunch elegante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scampi",
+      "hint": "Festa in barca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chateaubriand",
+      "hint": "Cena d'affari",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gratin dauphinois",
+      "hint": "Festa in casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pâté",
+      "hint": "Antipasto di lusso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sogliola alla mugnaia",
+      "hint": "Cena di mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pollo alla Kiev",
+      "hint": "Piatto da trattoria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Soufflé",
+      "hint": "Attesa di mezz'ora",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tartufo bianco",
+      "hint": "Viaggio autunnale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carne frollata",
+      "hint": "Ristorante stellato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carré d'agnello",
+      "hint": "Cena di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Duck confit",
+      "hint": "Pranzo di riguardo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terrina di fegato",
+      "hint": "Cena di vigilia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crudo di pesce",
+      "hint": "Mare d'agosto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lumache alla bourguignonne",
+      "hint": "Cena da coraggiosi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quaglia ripiena",
+      "hint": "Autunno in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anatra all'arancia",
+      "hint": "Cena di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Croque monsieur",
+      "hint": "Pranzo veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ossobuco",
+      "hint": "Cena d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tagliata di manzo",
+      "hint": "Serata di carne",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pesce San Pietro",
+      "hint": "Leggenda del mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gougères",
+      "hint": "Aperitivo con vino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sella di capriolo",
+      "hint": "Cena d'autunno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impepata di cozze",
+      "hint": "Pranzo di mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Riccio di mare",
+      "hint": "Mattina in barca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bottarga",
+      "hint": "Sapore di sale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tournedos Rossini",
+      "hint": "Cena all'opera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Foie gras",
+      "hint": "Aperitivo di gala",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pata negra",
+      "hint": "Tavola di lusso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pluma iberica",
+      "hint": "Serata alla brace",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Velouté",
+      "hint": "Cena da chef",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nduja",
+      "hint": "Colazione piccante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gamberi rossi",
+      "hint": "Cena di porto",
+      "difficulty": "hard"
+    }
+  ]
+}

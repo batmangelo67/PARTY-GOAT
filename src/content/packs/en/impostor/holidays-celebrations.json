@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-holidays-celebrations",
+  "title": "Holiday & Seasonal Celebrations",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Christmas",
+      "hint": "Last-minute shopping",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloween",
+      "hint": "Autumn dusk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Birthday",
+      "hint": "Another year",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Easter",
+      "hint": "Spring Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thanksgiving",
+      "hint": "Food coma",
+      "difficulty": "easy"
+    },
+    {
+      "word": "New Year's Eve",
+      "hint": "Late cab rides",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valentine's Day",
+      "hint": "Dinner for two",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mother's Day",
+      "hint": "Brunch table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Father's Day",
+      "hint": "Sunday lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fourth of July",
+      "hint": "Sunburnt backs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wedding",
+      "hint": "Speeches and tears",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anniversary",
+      "hint": "Old photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Graduation",
+      "hint": "Job offers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Groundhog Day",
+      "hint": "Repeating mornings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "April Fools' Day",
+      "hint": "Fake news",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carnival",
+      "hint": "Parade weather",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pancake Day",
+      "hint": "Kitchen mess",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boxing Day",
+      "hint": "Leftovers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bonfire Night",
+      "hint": "Cold November",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diwali",
+      "hint": "Sweet tooth",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chinese New Year",
+      "hint": "Lucky start",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oktoberfest",
+      "hint": "Crowded benches",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Midsummer",
+      "hint": "Sleepless sunlight",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Summer Solstice",
+      "hint": "Late sunsets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mardi Gras",
+      "hint": "Last big night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hanukkah",
+      "hint": "Glowing windows",
+      "difficulty": "medium"
+    },
+    {
+      "word": "St. Patrick's Day",
+      "hint": "Morning after",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cinco de Mayo",
+      "hint": "Warm patio nights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Labor Day",
+      "hint": "Last summer weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Memorial Day",
+      "hint": "Silent moment",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hogmanay",
+      "hint": "Frosty dash",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holi",
+      "hint": "Messy clothes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spring Break",
+      "hint": "Beach trips",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mid-Autumn Festival",
+      "hint": "Moonlit picnic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pongal",
+      "hint": "Kitchen steam",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Juneteenth",
+      "hint": "Summer cookouts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nowruz",
+      "hint": "Fresh start",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Day of the Dead",
+      "hint": "Remembering loved ones",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Burns Night",
+      "hint": "Cold January",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tet",
+      "hint": "Family homecoming",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Saint Lucia Day",
+      "hint": "Dark mornings",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Walpurgis Night",
+      "hint": "Late April chill",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Yule",
+      "hint": "Feast and fire",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lantern Festival",
+      "hint": "Glowing crowds",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kwanzaa",
+      "hint": "Harvest feast",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "id": "it-impostor-supermarket-groceries",
+  "title": "Spesa al supermercato",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Latte",
+      "hint": "Colazione veloce",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pane",
+      "hint": "Tavola imbandita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uova",
+      "hint": "Palestra al mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasta",
+      "hint": "Domenica in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mozzarella",
+      "hint": "Pranzo di Ferragosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burro",
+      "hint": "Sapore di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Banane",
+      "hint": "Spuntino sportivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pomodori",
+      "hint": "Estate in terrazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parmigiano",
+      "hint": "Tocco finale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cioccolato",
+      "hint": "Dopo cena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Acqua minerale",
+      "hint": "Zaino da escursione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Riso",
+      "hint": "Spesa mensile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Farina",
+      "hint": "Pasticci in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zucchero",
+      "hint": "Tè delle cinque",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Olio d'oliva",
+      "hint": "Insalata estiva",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Prosciutto cotto",
+      "hint": "Pranzo al volo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tonno in scatola",
+      "hint": "Pranzo in spiaggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piselli surgelati",
+      "hint": "Freezer pieno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Patatine in busta",
+      "hint": "Serata in pigiama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panna da cucina",
+      "hint": "Cena improvvisata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lattuga",
+      "hint": "Pranzo leggero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carote",
+      "hint": "Orto in primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mele",
+      "hint": "Merenda a scuola",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cipolle",
+      "hint": "Lacrime in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Funghi champignon",
+      "hint": "Giornata di pioggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Detersivo",
+      "hint": "Pulizie di sabato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carta igienica",
+      "hint": "Ultima scorta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fette biscottate",
+      "hint": "Mattino di fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marmellata",
+      "hint": "Colazione di campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Passata di pomodoro",
+      "hint": "Cantina d'autunno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lievito per dolci",
+      "hint": "Torta del sabato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lenticchie",
+      "hint": "Buona fortuna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alici sott'olio",
+      "hint": "Sapore di mare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hummus",
+      "hint": "Dieta vegetariana",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Latte di cocco",
+      "hint": "Estate tropicale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cavolfiore",
+      "hint": "Odore in cucina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pangrattato",
+      "hint": "Avanzi del pranzo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sale grosso",
+      "hint": "Acqua che bolle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biscotti frollini",
+      "hint": "Pausa del pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caffè macinato",
+      "hint": "Prima sveglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spugnette",
+      "hint": "Sabato delle pulizie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Succo d'arancia",
+      "hint": "Vitamina d'inverno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tè in bustina",
+      "hint": "Pomeriggio tranquillo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pannolini",
+      "hint": "Notti insonni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carta da forno",
+      "hint": "Cottura senza sporco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yogurt bianco",
+      "hint": "Spuntino serale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sciroppo d'acero",
+      "hint": "Brunch lento",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fiocchi d'avena",
+      "hint": "Colazione sana",
+      "difficulty": "hard"
+    }
+  ]
+}

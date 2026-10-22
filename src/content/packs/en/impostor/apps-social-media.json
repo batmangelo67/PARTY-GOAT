@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-apps-social-media",
+  "title": "Apps & Social Media",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "Instagram",
+      "hint": "Holiday pics",
+      "difficulty": "easy"
+    },
+    {
+      "word": "TikTok",
+      "hint": "Late-night scrolling",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Facebook",
+      "hint": "Aunt's comments",
+      "difficulty": "easy"
+    },
+    {
+      "word": "WhatsApp",
+      "hint": "Mum's messages",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snapchat",
+      "hint": "Teenage secrets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "YouTube",
+      "hint": "Rabbit holes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spotify",
+      "hint": "Commute soundtrack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Netflix",
+      "hint": "Sunday night sofa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uber",
+      "hint": "Friday night out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tinder",
+      "hint": "Awkward first date",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Google Maps",
+      "hint": "Lost in town",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zoom",
+      "hint": "Forgot to mute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reddit",
+      "hint": "Hot takes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pinterest",
+      "hint": "Wedding planning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Twitch",
+      "hint": "Gamer snacks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shazam",
+      "hint": "Long car rides",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Duolingo",
+      "hint": "New year resolution",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venmo",
+      "hint": "Pub bill",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telegram",
+      "hint": "Forwarded jokes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Discord",
+      "hint": "Late-night calls",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Signal",
+      "hint": "Secret agents",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Waze",
+      "hint": "Traffic jam",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Slack",
+      "hint": "Office Monday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notion",
+      "hint": "Study planner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dropbox",
+      "hint": "Lost USB",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Threads",
+      "hint": "Copycat app",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BeReal",
+      "hint": "Morning selfies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clubhouse",
+      "hint": "Dinner party chat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bumble",
+      "hint": "Hopeful romance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hinge",
+      "hint": "Coffee date",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Airbnb",
+      "hint": "Holiday rental",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Strava",
+      "hint": "New trainers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tumblr",
+      "hint": "Angsty poems",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Myspace",
+      "hint": "Early 2000s",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vine",
+      "hint": "Short and silly",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gmail",
+      "hint": "Work emails",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foursquare",
+      "hint": "Big night out",
+      "difficulty": "hard"
+    },
+    {
+      "word": "MSN Messenger",
+      "hint": "Dial-up tone",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Orkut",
+      "hint": "Old school friends",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Google+",
+      "hint": "Ghost town",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Yik Yak",
+      "hint": "Campus gossip",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Evernote",
+      "hint": "Shopping list",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Friendster",
+      "hint": "Dot-com bubble",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pocket",
+      "hint": "Saved articles",
+      "difficulty": "hard"
+    },
+    {
+      "word": "StumbleUpon",
+      "hint": "Lucky dip",
+      "difficulty": "hard"
+    }
+  ]
+}

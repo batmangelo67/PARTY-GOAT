@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-animals-wildlife",
+  "title": "Animals & Wildlife",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Dog",
+      "hint": "Doorstep wait",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cat",
+      "hint": "Sunny windowsill",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elephant",
+      "hint": "Wildlife documentary",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Penguin",
+      "hint": "Cold feet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giraffe",
+      "hint": "Top shelf",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kangaroo",
+      "hint": "Rugby fans",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dolphin",
+      "hint": "Holiday boat trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Owl",
+      "hint": "Library quiet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snake",
+      "hint": "Sudden shiver",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Horse",
+      "hint": "Pony club",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monkey",
+      "hint": "Mischief maker",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bee",
+      "hint": "Spelling test",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rabbit",
+      "hint": "Magic hat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frog",
+      "hint": "Wet wellies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shark",
+      "hint": "Wetsuit day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bear",
+      "hint": "Picnic raid",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pig",
+      "hint": "Fancy truffle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lion",
+      "hint": "Sunset",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Octopus",
+      "hint": "Clever puzzle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sloth",
+      "hint": "Snooze button",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flamingo",
+      "hint": "Pool float",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panda",
+      "hint": "Cuddly toys",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hedgehog",
+      "hint": "Autumn leaves",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Woodpecker",
+      "hint": "Early riser",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chameleon",
+      "hint": "Costume party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seahorse",
+      "hint": "Fairground ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Koala",
+      "hint": "Cuddle session",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wolf",
+      "hint": "Howling neighbour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gorilla",
+      "hint": "Big hugs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Otter",
+      "hint": "Holding hands",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hummingbird",
+      "hint": "Speed demon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jellyfish",
+      "hint": "Lava lamp",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Starfish",
+      "hint": "Seaside gift shop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Turtle",
+      "hint": "Slow race",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lobster",
+      "hint": "Posh restaurant",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hyena",
+      "hint": "Comedy night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Platypus",
+      "hint": "Odd one out",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Armadillo",
+      "hint": "Tough day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Narwhal",
+      "hint": "Ocean mystery",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Meerkat",
+      "hint": "Sunrise patrol",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Axolotl",
+      "hint": "Rare pet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lemur",
+      "hint": "Treetop cheer",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tapir",
+      "hint": "Zoo oddball",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pangolin",
+      "hint": "Ant picnic",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Capybara",
+      "hint": "Friendly neighbours",
+      "difficulty": "hard"
+    }
+  ]
+}

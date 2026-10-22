@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-beauty-grooming",
+  "title": "Bellezza e cura di sé",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Rossetto",
+      "hint": "Serata di gala",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mascara",
+      "hint": "Notte di festa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lacca",
+      "hint": "Anni Ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Profumo",
+      "hint": "Regalo di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crema solare",
+      "hint": "Giorno di vacanza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spazzolino",
+      "hint": "Sveglia presto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shampoo",
+      "hint": "Mattina in fretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fondotinta",
+      "hint": "Foto importante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smalto",
+      "hint": "Domenica in poltrona",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lozione",
+      "hint": "Sera di vacanza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eyeliner",
+      "hint": "Look drammatico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deodorante",
+      "hint": "Primo appuntamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dentifricio",
+      "hint": "Prima di uscire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barba",
+      "hint": "Novembre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Balsamo",
+      "hint": "Capelli ribelli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lucidalabbra",
+      "hint": "Borsetta piena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ombretto",
+      "hint": "Trucco da festa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tinta per capelli",
+      "hint": "Ricrescita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rasoio",
+      "hint": "Lunedì mattina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Phon",
+      "hint": "Ritardo per uscire",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maschera viso",
+      "hint": "Sabato sera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pinzette",
+      "hint": "Dettagli fastidiosi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Esfoliante",
+      "hint": "Cambio di stagione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piastra",
+      "hint": "Giornata importante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bagnoschiuma",
+      "hint": "Bagno caldo serale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schiuma da barba",
+      "hint": "Mattina di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maschera per capelli",
+      "hint": "Pomeriggio di relax",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lampada abbronzante",
+      "hint": "Vacanza in arrivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Acqua micellare",
+      "hint": "Notte stanca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pennello da trucco",
+      "hint": "Mano ferma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bigodini",
+      "hint": "Prima del ballo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuffia da doccia",
+      "hint": "Capelli da proteggere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gel doccia",
+      "hint": "Preparativi per partire",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pomata",
+      "hint": "Cassetta del pronto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ciglia finte",
+      "hint": "Serata glamour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crema per le mani",
+      "hint": "Fredda mattina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Siero",
+      "hint": "Scienza in boccetta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tonico",
+      "hint": "Routine antica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Olio di argan",
+      "hint": "Pelle come seta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Acqua termale",
+      "hint": "Pomeriggio di lusso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crema antirughe",
+      "hint": "Compleanno importante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brillantina",
+      "hint": "Ballo del liceo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fard",
+      "hint": "Prima dell'aperitivo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cera depilatoria",
+      "hint": "Giorno di spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Spugna",
+      "hint": "Applicazione perfetta",
+      "difficulty": "hard"
+    }
+  ]
+}

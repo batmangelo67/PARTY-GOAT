@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-premier-league-la-liga",
+  "title": "Premier League & La Liga",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Arsenal",
+      "hint": "Pre-match pint",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chelsea",
+      "hint": "Big spending",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Liverpool",
+      "hint": "Anthem singalong",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manchester United",
+      "hint": "Glory years",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manchester City",
+      "hint": "Treble season",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tottenham Hotspur",
+      "hint": "Last-minute winner",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Everton",
+      "hint": "Local rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Newcastle United",
+      "hint": "Night out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aston Villa",
+      "hint": "Old-school crowd",
+      "difficulty": "medium"
+    },
+    {
+      "word": "West Ham United",
+      "hint": "Late drama",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Leicester City",
+      "hint": "Long odds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nottingham Forest",
+      "hint": "Medieval tales",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wolverhampton Wanderers",
+      "hint": "Packed pub",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brighton & Hove Albion",
+      "hint": "Weekend getaway",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Real Madrid",
+      "hint": "Champions night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barcelona",
+      "hint": "Tapas crawl",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atlético Madrid",
+      "hint": "Gritty fight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sevilla",
+      "hint": "Hot summer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valencia",
+      "hint": "Sunday market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Real Sociedad",
+      "hint": "Chilled out",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Villarreal",
+      "hint": "Pottery class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Athletic Bilbao",
+      "hint": "Tradition rules",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Real Betis",
+      "hint": "Sunny day out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thierry Henry",
+      "hint": "Commentary box",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alan Shearer",
+      "hint": "Pundit's chair",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Steven Gerrard",
+      "hint": "Long-range shot",
+      "difficulty": "easy"
+    },
+    {
+      "word": "David Beckham",
+      "hint": "Designer shades",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cristiano Ronaldo",
+      "hint": "Gym mirror",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Didier Drogba",
+      "hint": "Sunday hero",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sergio Agüero",
+      "hint": "Final whistle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mohamed Salah",
+      "hint": "Post-match interview",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jamie Vardy",
+      "hint": "Late bloomer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gary Lineker",
+      "hint": "Highlights show",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peter Schmeichel",
+      "hint": "Bold leap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lionel Messi",
+      "hint": "Midnight dribble",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zinedine Zidane",
+      "hint": "Quiet genius",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ronaldinho",
+      "hint": "Party photos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Andrés Iniesta",
+      "hint": "Quiet hero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Luis Suárez",
+      "hint": "Dramatic exit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fernando Torres",
+      "hint": "Injury worries",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Michael Owen",
+      "hint": "Wonder kid",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anfield",
+      "hint": "Cold night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Old Trafford",
+      "hint": "Tour bus",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Camp Nou",
+      "hint": "Massive crowds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crystal Palace",
+      "hint": "Sunday roar",
+      "difficulty": "medium"
+    }
+  ]
+}

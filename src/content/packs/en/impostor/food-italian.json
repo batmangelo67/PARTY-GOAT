@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-food-italian",
+  "title": "Italian Food",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Pizza",
+      "hint": "Friday night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spaghetti",
+      "hint": "Messy shirt",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lasagne",
+      "hint": "Big family table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gelato",
+      "hint": "Summer stroll",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiramisù",
+      "hint": "Sweet ending",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carbonara",
+      "hint": "Cosy Tuesday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bolognese",
+      "hint": "Weeknight rush",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panini",
+      "hint": "Quick bite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prosciutto",
+      "hint": "Fancy platter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ravioli",
+      "hint": "Family reunion",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Risotto",
+      "hint": "Patient cook",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parmesan",
+      "hint": "Pasta night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mozzarella",
+      "hint": "Summer lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bruschetta",
+      "hint": "Pre-dinner drinks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minestrone",
+      "hint": "Chilly evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biscotti",
+      "hint": "Sweet crunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crostini",
+      "hint": "Cocktail hour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grissini",
+      "hint": "Waiting for mains",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cornetto",
+      "hint": "Sunrise commute",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panna cotta",
+      "hint": "Dinner finish",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Frittata",
+      "hint": "Fridge clear-out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ricotta",
+      "hint": "Sweet or savoury",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Polenta",
+      "hint": "Cold winter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pesto",
+      "hint": "Sunny balcony",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ciabatta",
+      "hint": "Lunch break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cannoli",
+      "hint": "Carnival treat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pancetta",
+      "hint": "Weekend fry-up",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Affogato",
+      "hint": "Date night dessert",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pasta e fagioli",
+      "hint": "Budget supper",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pandoro",
+      "hint": "Festive tin",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mascarpone",
+      "hint": "Sweet dessert",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calzone",
+      "hint": "Folded surprise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porchetta",
+      "hint": "Summer festival",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Focaccia",
+      "hint": "Picnic basket",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Limoncello",
+      "hint": "After dinner glass",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gorgonzola",
+      "hint": "Strong flavour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Salami",
+      "hint": "Deli sandwich",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caprese",
+      "hint": "Summer salad",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pappardelle",
+      "hint": "Thick sauce night",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Amaretti",
+      "hint": "Gift box",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cacio e pepe",
+      "hint": "Simple genius",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zabaglione",
+      "hint": "Late breakfast",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gnocchi",
+      "hint": "Thursday tradition",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tortellini",
+      "hint": "Winter lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bresaola",
+      "hint": "Lean snack",
+      "difficulty": "hard"
+    }
+  ]
+}

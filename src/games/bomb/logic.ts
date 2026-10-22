@@ -64,15 +64,17 @@ export function undoPass(state: HolderState): HolderState {
 }
 
 export interface Category {
-  packId: string;
+  itemId: string;
   title: string;
-  example: string;
+  example?: string;
 }
 
-export function pickCategory(packs: readonly PackOf<"words">[], currentPackId?: string): Category {
-  const others = packs.filter((pack) => pack.id !== currentPackId);
-  const pack = pick(others.length > 0 ? others : packs);
-  return { packId: pack.id, title: pack.title, example: pick(pack.items).word };
+// Each prompt is one category; skipping never lands on the same prompt when another exists.
+export function pickCategory(packs: readonly PackOf<"prompts">[], currentItemId?: string): Category {
+  const items = packs.flatMap((pack) => pack.items);
+  const others = items.filter((item) => item.id !== currentItemId);
+  const item = pick(others.length > 0 ? others : items);
+  return { itemId: item.id, title: item.text, example: item.examples ? pick(item.examples) : undefined };
 }
 
 export function explosionRanking<T extends { id: string }>(players: readonly T[], explosions: Readonly<Record<string, number>>) {

@@ -1,0 +1,453 @@
+{
+  "id": "it-forbidden-words-food-drink",
+  "title": "Cibo e bevande",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Pizza",
+      "banned": [
+        "Margherita",
+        "Forno",
+        "Mozzarella",
+        "Napoletana"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gelato",
+      "banned": [
+        "Cono",
+        "Coppetta",
+        "Freddo",
+        "Panna"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spaghetti",
+      "banned": [
+        "Pasta",
+        "Carbonara",
+        "Forchetta",
+        "Sugo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caffè",
+      "banned": [
+        "Espresso",
+        "Tazzina",
+        "Moka",
+        "Bar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiramisù",
+      "banned": [
+        "Mascarpone",
+        "Savoiardi",
+        "Cacao",
+        "Dolce"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prosciutto",
+      "banned": [
+        "Crudo",
+        "Salumi",
+        "Affettato",
+        "Parma"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parmigiano",
+      "banned": [
+        "Grana",
+        "Forma",
+        "Reggiano",
+        "Stagionato"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lasagne",
+      "banned": [
+        "Ragù",
+        "Besciamella",
+        "Sfoglia",
+        "Forno"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cornetto",
+      "banned": [
+        "Brioche",
+        "Colazione",
+        "Crema",
+        "Bar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Birra",
+      "banned": [
+        "Luppolo",
+        "Boccale",
+        "Schiuma",
+        "Lager"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vino",
+      "banned": [
+        "Uva",
+        "Bottiglia",
+        "Calice",
+        "Enoteca"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panino",
+      "banned": [
+        "Farcito",
+        "Imbottito",
+        "Sandwich",
+        "Mortadella"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Risotto",
+      "banned": [
+        "Mantecato",
+        "Milanese",
+        "Zafferano",
+        "Arborio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pane",
+      "banned": [
+        "Forno",
+        "Farina",
+        "Baguette",
+        "Crosta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Limonata",
+      "banned": [
+        "Agrumi",
+        "Estate",
+        "Zucchero",
+        "Bibita"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cappuccino",
+      "banned": [
+        "Schiuma",
+        "Latte",
+        "Cacao",
+        "Mattina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Focaccia",
+      "banned": [
+        "Genova",
+        "Olio",
+        "Rosmarino",
+        "Ligure"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aperitivo",
+      "banned": [
+        "Spritz",
+        "Stuzzichini",
+        "Ore diciotto",
+        "Bar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carbonara",
+      "banned": [
+        "Guanciale",
+        "Uovo",
+        "Pecorino",
+        "Roma"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bruschetta",
+      "banned": [
+        "Pomodoro",
+        "Aglio",
+        "Fetta",
+        "Olio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cannoli",
+      "banned": [
+        "Sicilia",
+        "Ricotta",
+        "Pistacchio",
+        "Dolce"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Supplì",
+      "banned": [
+        "Filo",
+        "Mozzarella",
+        "Roma",
+        "Fritto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arancino",
+      "banned": [
+        "Sicilia",
+        "Ragù",
+        "Palla",
+        "Zafferano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ribollita",
+      "banned": [
+        "Toscana",
+        "Pane raffermo",
+        "Fagioli",
+        "Cavolo nero"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cotoletta",
+      "banned": [
+        "Milanese",
+        "Impanata",
+        "Burro",
+        "Vitello"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bresaola",
+      "banned": [
+        "Valtellina",
+        "Carne secca",
+        "Magra",
+        "Rucola"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gnocchi",
+      "banned": [
+        "Patate",
+        "Ricci",
+        "Sugo",
+        "Burro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tortellini",
+      "banned": [
+        "Brodo",
+        "Natale",
+        "Emilia",
+        "Ripieno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pesto",
+      "banned": [
+        "Basilico",
+        "Genova",
+        "Pinoli",
+        "Mortaio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Grissini",
+      "banned": [
+        "Torino",
+        "Stecchino",
+        "Pane",
+        "Sgranocchiare"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cacio e pepe",
+      "banned": [
+        "Tonda",
+        "Tonnarelli",
+        "Roma",
+        "Formaggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Amaro",
+      "banned": [
+        "Digestivo",
+        "Erbe",
+        "Dopo cena",
+        "Sorso"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spritz",
+      "banned": [
+        "Prosecco",
+        "Soda",
+        "Arancione",
+        "Veneto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mozzarella",
+      "banned": [
+        "Bufala",
+        "Latticino",
+        "Campania",
+        "Fresca"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Minestrone",
+      "banned": [
+        "Verdure",
+        "Zuppa",
+        "Fagioli",
+        "Brodo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burrata",
+      "banned": [
+        "Pugliese",
+        "Stracciatella",
+        "Andria",
+        "Crema"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bottarga",
+      "banned": [
+        "Sardegna",
+        "Uova di pesce",
+        "Muggine",
+        "Salata"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lardo",
+      "banned": [
+        "Colonnata",
+        "Maiale",
+        "Bianco",
+        "Marmo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pecorino",
+      "banned": [
+        "Formaggio",
+        "Pastore",
+        "Sardo",
+        "Romano"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ossobuco",
+      "banned": [
+        "Milanese",
+        "Midollo",
+        "Gremolata",
+        "Stinco"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zabaione",
+      "banned": [
+        "Marsala",
+        "Uova",
+        "Tuorli",
+        "Crema"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Finocchiona",
+      "banned": [
+        "Salame",
+        "Toscana",
+        "Semi",
+        "Maiale"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pizzoccheri",
+      "banned": [
+        "Valtellina",
+        "Grano saraceno",
+        "Verza",
+        "Burro"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mascarpone",
+      "banned": [
+        "Crema",
+        "Lombardia",
+        "Dolce",
+        "Savoiardi"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

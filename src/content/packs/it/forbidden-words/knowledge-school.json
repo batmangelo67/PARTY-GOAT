@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-knowledge-school",
+  "title": "Scuola e sapere",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Matematica",
+      "banned": [
+        "Numeri",
+        "Calcoli",
+        "Equazione",
+        "Formula"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Storia",
+      "banned": [
+        "Passato",
+        "Date",
+        "Guerra",
+        "Antichi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Geografia",
+      "banned": [
+        "Carte",
+        "Mappamondo",
+        "Continenti",
+        "Mondo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biologia",
+      "banned": [
+        "Cellule",
+        "Organismi",
+        "Specie",
+        "Evoluzione"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chimica",
+      "banned": [
+        "Elementi",
+        "Tavola periodica",
+        "Reazione",
+        "Laboratorio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fisica",
+      "banned": [
+        "Forza",
+        "Gravità",
+        "Newton",
+        "Energia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Italiano",
+      "banned": [
+        "Dante",
+        "Parole",
+        "Lingua",
+        "Poesia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Esame",
+      "banned": [
+        "Prova",
+        "Ansia",
+        "Orale",
+        "Voto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Compito in classe",
+      "banned": [
+        "Verifica",
+        "Foglio",
+        "Banco",
+        "Consegna"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lavagna",
+      "banned": [
+        "Gesso",
+        "Cancellino",
+        "Aula",
+        "Nero"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quaderno",
+      "banned": [
+        "Pagine",
+        "Appunti",
+        "Righe",
+        "Spirale"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biblioteca",
+      "banned": [
+        "Libri",
+        "Silenzio",
+        "Prestito",
+        "Scaffali"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dizionario",
+      "banned": [
+        "Significato",
+        "Definizioni",
+        "Alfabeto",
+        "Traduzione"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Università",
+      "banned": [
+        "Laurea",
+        "Esami",
+        "Facoltà",
+        "Campus"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Professore",
+      "banned": [
+        "Cattedra",
+        "Lezione",
+        "Registro",
+        "Voti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matita",
+      "banned": [
+        "Gomma",
+        "Grafite",
+        "Disegno",
+        "Temperino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Penna",
+      "banned": [
+        "Inchiostro",
+        "Scrivere",
+        "Biro",
+        "Pennino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calcolatrice",
+      "banned": [
+        "Tasti",
+        "Somma",
+        "Display",
+        "Batterie"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pitagora",
+      "banned": [
+        "Triangolo",
+        "Ipotenusa",
+        "Teorema",
+        "Greco"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rivoluzione francese",
+      "banned": [
+        "1789",
+        "Bastiglia",
+        "Ghigliottina",
+        "Napoleone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Darwin",
+      "banned": [
+        "Galapagos",
+        "Naturalista",
+        "Beagle",
+        "Origine"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alfabeto",
+      "banned": [
+        "Lettere",
+        "ABC",
+        "Ordine",
+        "Sequenza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sinonimo",
+      "banned": [
+        "Stesso significato",
+        "Parola",
+        "Contrario",
+        "Lessico"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Grammatica",
+      "banned": [
+        "Verbi",
+        "Regole",
+        "Soggetto",
+        "Frasi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Filosofia",
+      "banned": [
+        "Pensiero",
+        "Socrate",
+        "Platone",
+        "Domande"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Latino",
+      "banned": [
+        "Roma",
+        "Cesare",
+        "Declinazioni",
+        "Antica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Liceo",
+      "banned": [
+        "Scientifico",
+        "Classico",
+        "Diploma",
+        "Maturità"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maturità",
+      "banned": [
+        "Tesina",
+        "Commissione",
+        "Seconda prova",
+        "Ammissione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tesi",
+      "banned": [
+        "Relatore",
+        "Capitoli",
+        "Bibliografia",
+        "Discussione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bidello",
+      "banned": [
+        "Custode",
+        "Scuola",
+        "Campanella",
+        "Pulizie"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ricreazione",
+      "banned": [
+        "Intervallo",
+        "Merenda",
+        "Cortile",
+        "Pausa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Compiti a casa",
+      "banned": [
+        "Esercizi",
+        "Pomeriggio",
+        "Ripasso",
+        "Sera"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Interrogazione",
+      "banned": [
+        "Domanda",
+        "Alla lavagna",
+        "Sorpresa",
+        "Impreparato"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scienze",
+      "banned": [
+        "Esperimenti",
+        "Natura",
+        "Osservare",
+        "Provette"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Atlante",
+      "banned": [
+        "Mappe",
+        "Libro",
+        "Cartografia",
+        "Cartine"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Erasmus",
+      "banned": [
+        "Estero",
+        "Scambio",
+        "Valigia",
+        "Lingua straniera"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Epistemologia",
+      "banned": [
+        "Conoscenza",
+        "Filosofia",
+        "Verità",
+        "Metodo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ipotenusa",
+      "banned": [
+        "Cateto",
+        "Lato",
+        "Angolo retto",
+        "Pitagora"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fotosintesi",
+      "banned": [
+        "Clorofilla",
+        "Sole",
+        "Piante",
+        "Ossigeno"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Entropia",
+      "banned": [
+        "Disordine",
+        "Termodinamica",
+        "Calore",
+        "Caos"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anagramma",
+      "banned": [
+        "Parole",
+        "Mescolare",
+        "Gioco",
+        "Rebus"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sillogismo",
+      "banned": [
+        "Logica",
+        "Premesse",
+        "Conclusione",
+        "Aristotele"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mitocondri",
+      "banned": [
+        "Respirazione",
+        "Organulo",
+        "ATP",
+        "Centrale"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Neuroni",
+      "banned": [
+        "Cervello",
+        "Sinapsi",
+        "Impulso",
+        "Assone"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pergamena",
+      "banned": [
+        "Papiro",
+        "Pelle",
+        "Scrittura",
+        "Manoscritto"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

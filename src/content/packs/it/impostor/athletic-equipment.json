@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-athletic-equipment",
+  "title": "Attrezzatura sportiva",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Pallone da calcio",
+      "hint": "Domenica pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Racchetta da tennis",
+      "hint": "Caldo di luglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Guantoni da boxe",
+      "hint": "Rabbia da sfogare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tappetino yoga",
+      "hint": "Silenzio prima dell'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Corda per saltare",
+      "hint": "Giochi di strada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Palla da basket",
+      "hint": "Sfida tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pallone da pallavolo",
+      "hint": "Vacanze in spiaggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tavola da surf",
+      "hint": "Alba sul mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sci",
+      "hint": "Cioccolata calda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mazza da golf",
+      "hint": "Passeggiata sul prato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Porta da calcio",
+      "hint": "Rigore decisivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Casco da bici",
+      "hint": "Mamma preoccupata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manubrio",
+      "hint": "Ginnastica a casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scarpe da corsa",
+      "hint": "Sveglia all'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tapis roulant",
+      "hint": "Giorno di pioggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cyclette",
+      "hint": "Serie tv",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pattini a rotelle",
+      "hint": "Anni Ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kettlebell",
+      "hint": "Forza bruta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bilanciere",
+      "hint": "Palestra affollata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pallone da rugby",
+      "hint": "Fango e urla",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bastone da hockey",
+      "hint": "Freddo pungente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Racchetta da badminton",
+      "hint": "Estate in giardino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Racchetta da squash",
+      "hint": "Pausa pranzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pallina da ping pong",
+      "hint": "Sfida in cantina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sacco da boxe",
+      "hint": "Allenamento duro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trampolino elastico",
+      "hint": "Giornata di festa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bastoncini da trekking",
+      "hint": "Camminata in salita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Snowboard",
+      "hint": "Discesa veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elastici di resistenza",
+      "hint": "Pigrizia da vincere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panca piana",
+      "hint": "Sollevamento sudato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guanti da portiere",
+      "hint": "Tuffo a terra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anello da ginnastica",
+      "hint": "Equilibrio sospeso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pallone medicinale",
+      "hint": "Allenamento di forza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fioretto",
+      "hint": "Duello d'altri tempi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giavellotto",
+      "hint": "Lancio lontano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Remo",
+      "hint": "Lago tranquillo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sciabola",
+      "hint": "Sfida teatrale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Corda da arrampicata",
+      "hint": "Coraggio in alto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Disco da lancio",
+      "hint": "Prato e sole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arco e frecce",
+      "hint": "Bosco e silenzio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Freccette",
+      "hint": "Birre al tavolo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kayak",
+      "hint": "Acqua calma all'alba",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bocce",
+      "hint": "Nonni in piazza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skateboard",
+      "hint": "Caduta sull'asfalto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palla da baseball",
+      "hint": "Partita al parco",
+      "difficulty": "easy"
+    }
+  ]
+}

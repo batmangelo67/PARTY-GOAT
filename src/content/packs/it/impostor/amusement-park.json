@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-amusement-park",
+  "title": "Parco divertimenti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Montagne russe",
+      "hint": "Gita tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ruota panoramica",
+      "hint": "Sera sulla città",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Autoscontro",
+      "hint": "Primo appuntamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zucchero filato",
+      "hint": "Dita colorate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiro al bersaglio",
+      "hint": "Gara di mira",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giostra",
+      "hint": "Bambini col gelato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Casa stregata",
+      "hint": "Pelle d'oca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tazze rotanti",
+      "hint": "Pancia piena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Castello gonfiabile",
+      "hint": "Festa di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barca vichinga",
+      "hint": "Mal di mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Torre della caduta",
+      "hint": "Coraggio da mostrare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pop-corn",
+      "hint": "Sacchetto caldo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mini golf",
+      "hint": "Pomeriggio pigro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biglietto d'ingresso",
+      "hint": "Sabato affollato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bungee jumping",
+      "hint": "Adrenalina pura",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuccagna",
+      "hint": "Risate in piazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bruco",
+      "hint": "Giro a sorpresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Barche a pedali",
+      "hint": "Gita sul fiume",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scivolo d'acqua",
+      "hint": "Costume bagnato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Labirinto di specchi",
+      "hint": "Passi incerti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Treno fantasma",
+      "hint": "Sussurri nel buio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ruota della fortuna",
+      "hint": "Soldi in tasca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Far West",
+      "hint": "Duelli per gioco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tirolese",
+      "hint": "Cielo e bosco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ciclone",
+      "hint": "Capelli arruffati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Laser tag",
+      "hint": "Giochi di squadra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pesca dei peluche",
+      "hint": "Monete finite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trampolini",
+      "hint": "Atterraggio morbido",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cavalcata",
+      "hint": "Sole sui campi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rafting",
+      "hint": "Gruppo di amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bumper boat",
+      "hint": "Ragazzi scatenati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ponte tibetano",
+      "hint": "Passo leggero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Autodromo per bambini",
+      "hint": "Primo guidatore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vagoncino minerario",
+      "hint": "Sottoterra",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pista di ghiaccio",
+      "hint": "Caduta a sorpresa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Teatro dei mostri",
+      "hint": "Brividi da palcoscenico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Giro in gondola",
+      "hint": "Lentezza serale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pesca miracolosa",
+      "hint": "Mano fortunata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cinema 4D",
+      "hint": "Sorpresa in sala",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sala giochi",
+      "hint": "Luci lampeggianti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tappeto volante",
+      "hint": "Viaggio in aria",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiro alla fune",
+      "hint": "Squadre rivali",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Simulatore di volo",
+      "hint": "Cabina che vibra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Parete di arrampicata",
+      "hint": "Gambe stanche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calcinculo",
+      "hint": "Giro di testa",
+      "difficulty": "hard"
+    }
+  ]
+}

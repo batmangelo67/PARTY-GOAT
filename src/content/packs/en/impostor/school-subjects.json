@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-school-subjects",
+  "title": "School Subjects & Academic Fields",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Maths",
+      "hint": "Homework stress",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biology",
+      "hint": "Nature documentaries",
+      "difficulty": "easy"
+    },
+    {
+      "word": "History",
+      "hint": "Grandad's stories",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Geography",
+      "hint": "Holiday postcards",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Physics",
+      "hint": "Roller coasters",
+      "difficulty": "easy"
+    },
+    {
+      "word": "English",
+      "hint": "Grammar police",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Music",
+      "hint": "Earworms",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Art",
+      "hint": "Gallery queues",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PE",
+      "hint": "Team spirit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Economics",
+      "hint": "Pocket money",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Philosophy",
+      "hint": "Late-night debates",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drama",
+      "hint": "Costume mishaps",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Computing",
+      "hint": "Laggy wifi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Literature",
+      "hint": "Book club snacks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Psychology",
+      "hint": "Overthinking",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astronomy",
+      "hint": "Wishing stars",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Woodwork",
+      "hint": "Dad's garage",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Statistics",
+      "hint": "Average Joe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geology",
+      "hint": "Pebble hunts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ecology",
+      "hint": "Recycling bins",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sociology",
+      "hint": "People watching",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anthropology",
+      "hint": "Strange customs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Robotics",
+      "hint": "Sci-fi movies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sport science",
+      "hint": "Protein shakes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Latin",
+      "hint": "Church bells",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Film studies",
+      "hint": "Popcorn crunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Textiles",
+      "hint": "Grandma's jumpers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sign language",
+      "hint": "Silent movies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spanish",
+      "hint": "Summer breaks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "French",
+      "hint": "Romantic getaways",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oceanography",
+      "hint": "Sea monsters",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Logic",
+      "hint": "Puzzle boxes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geometry",
+      "hint": "Pizza slices",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algebra",
+      "hint": "Secret codes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Japanese",
+      "hint": "Late-night gaming",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Linguistics",
+      "hint": "Accent teasing",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Epidemiology",
+      "hint": "Pandemic movies",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Archaeology",
+      "hint": "Muddy boots",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Calligraphy",
+      "hint": "Wedding invitations",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hydrology",
+      "hint": "Waterfall hikes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mycology",
+      "hint": "Forest picnics",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Entomology",
+      "hint": "Buzzing summers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zoology",
+      "hint": "Safari dreams",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Thermodynamics",
+      "hint": "Hot chocolate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cooking",
+      "hint": "Kitchen smells",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-blockbuster-movies",
+  "title": "Grandi film e saghe",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Titanic",
+      "hint": "Fazzoletti di carta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avatar",
+      "hint": "Code al botteghino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jurassic Park",
+      "hint": "Gita fuori porta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Re Leone",
+      "hint": "Eredità di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frozen",
+      "hint": "Divano e coperta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Coda in libreria",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shrek",
+      "hint": "Cena dai suoceri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Padrino",
+      "hint": "Affari di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lo squalo",
+      "hint": "Vacanza rovinata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matrix",
+      "hint": "Dubbi esistenziali",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mamma mia!",
+      "hint": "Karaoke di gruppo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Star Wars",
+      "hint": "Festa dei fan",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghostbusters",
+      "hint": "Notte di Halloween",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghost",
+      "hint": "Serata romantica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mary Poppins",
+      "hint": "Pulizie di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Mago di Oz",
+      "hint": "Viaggio di gruppo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cars",
+      "hint": "Pausa in motel",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Grinch",
+      "hint": "Vigilia di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Signore degli Anelli",
+      "hint": "Viaggio lunghissimo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirati dei Caraibi",
+      "hint": "Mare in tempesta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ritorno al futuro",
+      "hint": "Festa in garage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Indiana Jones",
+      "hint": "Lezione universitaria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Toy Story",
+      "hint": "Notte in cameretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mission: Impossible",
+      "hint": "Festa in ambasciata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fast & Furious",
+      "hint": "Amici di sempre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Top Gun",
+      "hint": "Sfida tra rivali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pulp Fiction",
+      "hint": "Incontri strani",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il Gladiatore",
+      "hint": "Vendetta lenta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jumanji",
+      "hint": "Pomeriggio di pioggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piovono polpette",
+      "hint": "Pranzo a sorpresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ratatouille",
+      "hint": "Assaggio di ricordi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il diavolo veste Prada",
+      "hint": "Colloquio di lavoro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dune",
+      "hint": "Visioni ipnotiche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "La La Land",
+      "hint": "Tramonto romantico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il Sesto Senso",
+      "hint": "Notte di paura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mad Max",
+      "hint": "Corsa pazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fight Club",
+      "hint": "Nottata di rabbia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Blade Runner",
+      "hint": "Domande sull'anima",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Inception",
+      "hint": "Mal di testa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gremlins",
+      "hint": "Regalo sotto l'albero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tron",
+      "hint": "Gioco di luce",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Get Out",
+      "hint": "Weekend in campagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alien",
+      "hint": "Buio profondo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Terminator",
+      "hint": "Giudizio finale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shining",
+      "hint": "Isolamento invernale",
+      "difficulty": "hard"
+    }
+  ]
+}

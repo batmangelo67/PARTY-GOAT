@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-sports-leisure",
+  "title": "Sport e tempo libero",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Tennis",
+      "banned": [
+        "Wimbledon",
+        "Racchetta",
+        "Rete",
+        "Set"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nuoto",
+      "banned": [
+        "Piscina",
+        "Acqua",
+        "Costume",
+        "Stile libero"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ciclismo",
+      "banned": [
+        "Bicicletta",
+        "Pedalare",
+        "Maglia",
+        "Giro d'Italia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sci",
+      "banned": [
+        "Neve",
+        "Piste",
+        "Montagna",
+        "Scarponi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pallavolo",
+      "banned": [
+        "Bagher",
+        "Schiacciata",
+        "Muro",
+        "Palleggio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Corsa",
+      "banned": [
+        "Maratona",
+        "Scarpe da running",
+        "Atletica",
+        "Traguardo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yoga",
+      "banned": [
+        "Tappetino",
+        "Posizioni",
+        "Meditazione",
+        "Respirare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scacchi",
+      "banned": [
+        "Re",
+        "Torre",
+        "Alfiere",
+        "Regina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Golf",
+      "banned": [
+        "Mazza",
+        "Green",
+        "Caddie",
+        "Bandiera"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surf",
+      "banned": [
+        "Muta",
+        "Spiaggia",
+        "Corrente",
+        "Tavola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boxe",
+      "banned": [
+        "Ring",
+        "Guantoni",
+        "Pugno",
+        "Round"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karate",
+      "banned": [
+        "Cintura nera",
+        "Kimono",
+        "Arti marziali",
+        "Calci"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pesca",
+      "banned": [
+        "Canna",
+        "Lenza",
+        "Esca",
+        "Lago"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ginnastica",
+      "banned": [
+        "Palestra",
+        "Stretching",
+        "Flessioni",
+        "Sudore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Equitazione",
+      "banned": [
+        "Cavallo",
+        "Sella",
+        "Ippica",
+        "Fantino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Skate",
+      "banned": [
+        "Rampa",
+        "Ruote",
+        "Trick",
+        "Pattini"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fotografia",
+      "banned": [
+        "Obiettivo",
+        "Scatto",
+        "Flash",
+        "Pellicola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giardinaggio",
+      "banned": [
+        "Pianta",
+        "Vaso",
+        "Terra",
+        "Annaffiare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rugby",
+      "banned": [
+        "Ovale",
+        "Mischia",
+        "Meta",
+        "Placcaggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pilates",
+      "banned": [
+        "Core",
+        "Addominali",
+        "Elastici",
+        "Schiena"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arrampicata",
+      "banned": [
+        "Parete",
+        "Corde",
+        "Roccia",
+        "Imbragatura"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paracadutismo",
+      "banned": [
+        "Aereo",
+        "Lancio",
+        "Cielo",
+        "Quota"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Triathlon",
+      "banned": [
+        "Tre prove",
+        "Ferro",
+        "Iron man",
+        "Resistenza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Freccette",
+      "banned": [
+        "Bersaglio",
+        "Pub",
+        "Dardi",
+        "Centro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Biliardo",
+      "banned": [
+        "Stecca",
+        "Palla",
+        "Buca",
+        "Panno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bowling",
+      "banned": [
+        "Birilli",
+        "Corsia",
+        "Strike",
+        "Sfera"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paintball",
+      "banned": [
+        "Vernice",
+        "Mimetica",
+        "Campo",
+        "Marcatore"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scherma",
+      "banned": [
+        "Spada",
+        "Fioretto",
+        "Maschera",
+        "Pedana"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kitesurf",
+      "banned": [
+        "Aquilone",
+        "Vento",
+        "Vela",
+        "Onda"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canottaggio",
+      "banned": [
+        "Remi",
+        "Barca",
+        "Fiume",
+        "Vogare"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Motocross",
+      "banned": [
+        "Fango",
+        "Moto",
+        "Salti",
+        "Enduro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kart",
+      "banned": [
+        "Pista",
+        "Volante",
+        "Gara",
+        "Casco"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alpinismo",
+      "banned": [
+        "Montagna",
+        "Vetta",
+        "Ghiaccio",
+        "Ramponi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pattinaggio",
+      "banned": [
+        "Lame",
+        "Piroetta",
+        "Pattini",
+        "Giravolta"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bungee jumping",
+      "banned": [
+        "Elastico",
+        "Ponte",
+        "Vuoto",
+        "Caduta"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hockey",
+      "banned": [
+        "Disco",
+        "Bastone",
+        "Porta",
+        "Canadese"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Curling",
+      "banned": [
+        "Scopa",
+        "Stone",
+        "Manico",
+        "Spazzolare"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Orienteering",
+      "banned": [
+        "Mappa",
+        "Bussola",
+        "Boschi",
+        "Punti"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bocce",
+      "banned": [
+        "Pallino",
+        "Petanque",
+        "Rotolare",
+        "Boule"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Parkour",
+      "banned": [
+        "Muri",
+        "Città",
+        "Acrobazie",
+        "Traceur"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wakeboard",
+      "banned": [
+        "Trainato",
+        "Scia",
+        "Cavo",
+        "Motoscafo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Apnea",
+      "banned": [
+        "Immersione",
+        "Respiro",
+        "Fondo",
+        "Pesce"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sumo",
+      "banned": [
+        "Giappone",
+        "Lottatore",
+        "Grasso",
+        "Spingere"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Parapendio",
+      "banned": [
+        "Ali",
+        "Volo",
+        "Deltaplano",
+        "Brezza"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Biathlon",
+      "banned": [
+        "Sci",
+        "Carabina",
+        "Poligono",
+        "Fucile"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

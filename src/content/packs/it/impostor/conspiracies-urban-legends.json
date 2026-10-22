@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-conspiracies-urban-legends",
+  "title": "Leggende metropolitane",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Gatto nero",
+      "hint": "Vicolo buio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Specchio rotto",
+      "hint": "Riflesso sbagliato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coccodrilli nelle fogne",
+      "hint": "Strada allagata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Autostoppista fantasma",
+      "hint": "Curva di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uomo con l'uncino",
+      "hint": "Auto in corsa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fatina dei denti",
+      "hint": "Sorriso sdentato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coniglio pasquale",
+      "hint": "Sorpresa in giardino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dipinto maledetto",
+      "hint": "Parete del corridoio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pagliacci assassini",
+      "hint": "Bosco di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uomo nell'armadio",
+      "hint": "Notte silenziosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ombrello aperto in casa",
+      "hint": "Nuvole basse",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Passare sotto una scala",
+      "hint": "Lavori in corso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bocca della Verità",
+      "hint": "Bugie in agguato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bambino fantasma",
+      "hint": "Altalena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Auto fantasma",
+      "hint": "Parcheggio vuoto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cantina maledetta",
+      "hint": "Botola nel pavimento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pianoforte maledetto",
+      "hint": "Salotto di nonna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paura al faro",
+      "hint": "Nebbia sul mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Strega",
+      "hint": "Fumo verde",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ascensore fantasma",
+      "hint": "Luce che tremola",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gemelli cattivi",
+      "hint": "Ombra che imita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Telefonata dai morti",
+      "hint": "Numero sconosciuto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bambola posseduta",
+      "hint": "Sguardo di vetro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tomba che si apre",
+      "hint": "Lapide scheggiata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metropolitana fantasma",
+      "hint": "Binari deserti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cane che parla",
+      "hint": "Consigli da cucciolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Uomo nero",
+      "hint": "Notte senza luna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gatto che ruba il pesce",
+      "hint": "Cucina vuota",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cioccolato avvelenato",
+      "hint": "Regalo sospetto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mano nella scarpa",
+      "hint": "Letto sfatto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lettera mai spedita",
+      "hint": "Parole non dette",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scatola dei sogni",
+      "hint": "Oggetti dimenticati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Città sotterranea",
+      "hint": "Passi sotto terra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Villaggio abbandonato",
+      "hint": "Campanile silenzioso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Specchio di Bloody Mary",
+      "hint": "Gioco di amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fantasma dell'ospedale",
+      "hint": "Turno di notte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tombino maledetto",
+      "hint": "Pioggia notturna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vecchia villa",
+      "hint": "Finestre sbarrate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Canzone maledetta",
+      "hint": "Radio spenta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Numero del diavolo",
+      "hint": "Ore piccole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Film vietato",
+      "hint": "Proiettore rotto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Casa del silenzio",
+      "hint": "Ospiti mai tornati",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Il sussurro dei morti",
+      "hint": "Cuffie accese",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Porta che non si apre",
+      "hint": "Maniglia gelida",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Foto con un'ombra",
+      "hint": "Album di nonna",
+      "difficulty": "hard"
+    }
+  ]
+}

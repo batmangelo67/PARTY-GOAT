@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-childhood-toys",
+  "title": "Childhood Toys & Nostalgia",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Teddy Bear",
+      "hint": "Lonely nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yo-yo",
+      "hint": "Carnival prize",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hula Hoop",
+      "hint": "Summer lawn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rubber Duck",
+      "hint": "Splash zone",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jack-in-the-Box",
+      "hint": "Birthday wish",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kite",
+      "hint": "Spring breeze",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Play-Doh",
+      "hint": "Kindergarten",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Action Figure",
+      "hint": "Collector's pride",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dollhouse",
+      "hint": "Tea party guests",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rocking Horse",
+      "hint": "Christmas morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crayons",
+      "hint": "Lunchtime doodles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Water Pistol",
+      "hint": "Summer heat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sticker Album",
+      "hint": "Swapping at school",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rubik's Cube",
+      "hint": "Idle fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Etch A Sketch",
+      "hint": "Doodling in class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spirograph",
+      "hint": "Bored Sunday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Slinky",
+      "hint": "Grandpa's attic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scooter",
+      "hint": "Morning school run",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Game Boy",
+      "hint": "Long car trips",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Magic 8 Ball",
+      "hint": "Sleepover truths",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stacking Cups",
+      "hint": "Baby shower",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pogo Stick",
+      "hint": "Bruised knees",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hot Wheels",
+      "hint": "Garage floor",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beyblade",
+      "hint": "Lunchbox stickers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Furby",
+      "hint": "Gift wrap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lite-Brite",
+      "hint": "Lights out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Silly Putty",
+      "hint": "Newspaper comics",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mr. Potato Head",
+      "hint": "Dinner plates",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lincoln Logs",
+      "hint": "Snowbound weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Speak & Spell",
+      "hint": "Homework hour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "View-Master",
+      "hint": "Rainy afternoons",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Clackers",
+      "hint": "Wrist workout",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cootie Catcher",
+      "hint": "Passing notes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jacks",
+      "hint": "Sixties recess",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Spinning Top",
+      "hint": "Recess rivalry",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tin Can Telephone",
+      "hint": "Whispered secrets",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kaleidoscope",
+      "hint": "Lazy daydreams",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pick-up Sticks",
+      "hint": "Quiet tension",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lego Bricks",
+      "hint": "Barefoot pain",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Slap Bracelets",
+      "hint": "Sleepover dares",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rag Doll",
+      "hint": "Hugged too hard",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hacky Sack",
+      "hint": "Park bench",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bubble Wand",
+      "hint": "Park picnic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pogs",
+      "hint": "Lunch money",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kendama",
+      "hint": "Weekend tournaments",
+      "difficulty": "hard"
+    }
+  ]
+}

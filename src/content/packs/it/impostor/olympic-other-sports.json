@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-olympic-other-sports",
+  "title": "Olimpiadi e altri sport",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "other",
+  "items": [
+    {
+      "word": "Wimbledon",
+      "hint": "Pomeriggio d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roland Garros",
+      "hint": "Scarpe sporche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferrari",
+      "hint": "Sogno di lusso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monza",
+      "hint": "Rombo nel parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giro d'Italia",
+      "hint": "Salite infinite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tour de France",
+      "hint": "Vacanze in bici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maratona",
+      "hint": "Scarpe consumate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Usain Bolt",
+      "hint": "Passo lungo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Phelps",
+      "hint": "Spalle larghe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marcell Jacobs",
+      "hint": "Scatto sorprendente",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sara Simeoni",
+      "hint": "Anni ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jannik Sinner",
+      "hint": "Nuova generazione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roger Federer",
+      "hint": "Carriera infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rafael Nadal",
+      "hint": "Sempre in lotta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Novak Djokovic",
+      "hint": "Infinita resistenza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lewis Hamilton",
+      "hint": "Pioggia in pista",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Schumacher",
+      "hint": "Anni novanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Formula 1",
+      "hint": "Caldo nell'abitacolo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Judo",
+      "hint": "Rispetto sopra tutto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scherma",
+      "hint": "Sfida in punta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pugilato",
+      "hint": "Notte di sfida",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Karate",
+      "hint": "Respiro profondo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiro con l'arco",
+      "hint": "Silenzio e mira",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canottaggio",
+      "hint": "Alba sul lago",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ginnastica artistica",
+      "hint": "Equilibrio perfetto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Salto con l'asta",
+      "hint": "Ultimo sprint",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lancio del disco",
+      "hint": "Giravolta rapida",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rugby",
+      "hint": "Terzo tempo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hockey su ghiaccio",
+      "hint": "Gelo e urla",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cricket",
+      "hint": "Giornate lunghissime",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuffi",
+      "hint": "Entrata senza schizzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baseball",
+      "hint": "Pomeriggio lento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pallavolo",
+      "hint": "Spiaggia d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Triathlon",
+      "hint": "Fatica senza fine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Equitazione",
+      "hint": "Mano leggera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Golf",
+      "hint": "Pomeriggio tranquillo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maglia gialla",
+      "hint": "Primo ogni giorno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cronometro",
+      "hint": "Corsa solitaria",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pole position",
+      "hint": "Qualifica di sabato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gran Premio",
+      "hint": "Lunedì mattina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pentathlon moderno",
+      "hint": "Atleta tuttofare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Decathlon",
+      "hint": "Fatica totale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mezzofondo",
+      "hint": "Fiato da vendere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pattinaggio di figura",
+      "hint": "Ghiaccio e musica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Curling",
+      "hint": "Lento e strategico",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "id": "en-forbidden-words-around-the-world",
+  "title": "Around the World",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Eiffel Tower",
+      "banned": [
+        "Paris",
+        "France",
+        "Iron",
+        "Landmark"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pyramid",
+      "banned": [
+        "Egypt",
+        "Giza",
+        "Desert",
+        "Pharaoh"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kangaroo",
+      "banned": [
+        "Australia",
+        "Pouch",
+        "Hopping",
+        "Marsupial"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Penguin",
+      "banned": [
+        "Antarctica",
+        "Tuxedo",
+        "Waddle",
+        "Ice"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tango",
+      "banned": [
+        "Argentina",
+        "Dance",
+        "Buenos Aires",
+        "Partner"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kilt",
+      "banned": [
+        "Scotland",
+        "Tartan",
+        "Skirt",
+        "Highlands"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maple Syrup",
+      "banned": [
+        "Canada",
+        "Pancake",
+        "Sweet",
+        "Tree"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kiwi",
+      "banned": [
+        "New Zealand",
+        "Fuzzy",
+        "Flightless",
+        "Fruit"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samba",
+      "banned": [
+        "Brazil",
+        "Carnival",
+        "Feathers",
+        "Rio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Big Ben",
+      "banned": [
+        "London",
+        "Clock",
+        "Westminster",
+        "Chimes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tulip",
+      "banned": [
+        "Netherlands",
+        "Holland",
+        "Bulb",
+        "Spring"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bratwurst",
+      "banned": [
+        "Sausage",
+        "Grill",
+        "Mustard",
+        "Bun"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kebab",
+      "banned": [
+        "Turkey",
+        "Skewer",
+        "Grill",
+        "Doner"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kimono",
+      "banned": [
+        "Silk",
+        "Sash",
+        "Obi",
+        "Robe"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Taj Mahal",
+      "banned": [
+        "India",
+        "Marble",
+        "Mausoleum",
+        "Agra"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sombrero",
+      "banned": [
+        "Mexico",
+        "Brim",
+        "Fiesta",
+        "Cowboy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hula",
+      "banned": [
+        "Hawaii",
+        "Lei",
+        "Ukulele",
+        "Grass Skirt"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yak",
+      "banned": [
+        "Himalaya",
+        "Tibet",
+        "Ox",
+        "Hairy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flamenco",
+      "banned": [
+        "Spain",
+        "Castanets",
+        "Ruffled",
+        "Andalusia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oktoberfest",
+      "banned": [
+        "Germany",
+        "Beer",
+        "Munich",
+        "Lederhosen"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ballet",
+      "banned": [
+        "Russia",
+        "Tutu",
+        "Pointe",
+        "Pirouette"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Great Wall",
+      "banned": [
+        "China",
+        "Beijing",
+        "Bricks",
+        "Dynasty"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geisha",
+      "banned": [
+        "Kyoto",
+        "Makeup",
+        "Tea House",
+        "Fan"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fjord",
+      "banned": [
+        "Norway",
+        "Glacier",
+        "Ferry",
+        "Cliffs"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Igloo",
+      "banned": [
+        "Inuit",
+        "Snow",
+        "Dome",
+        "Arctic"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Koala",
+      "banned": [
+        "Eucalyptus",
+        "Sleepy",
+        "Cuddly",
+        "Gum Leaves"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carnival",
+      "banned": [
+        "Mardi Gras",
+        "Parade",
+        "Masks",
+        "Confetti"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gondola",
+      "banned": [
+        "Venice",
+        "Canal",
+        "Oar",
+        "Boatman"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Machu Picchu",
+      "banned": [
+        "Peru",
+        "Inca",
+        "Andes",
+        "Ruins"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colosseum",
+      "banned": [
+        "Rome",
+        "Gladiators",
+        "Arena",
+        "Amphitheatre"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sauna",
+      "banned": [
+        "Finland",
+        "Steam",
+        "Birch Whisk",
+        "Heat"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuk-tuk",
+      "banned": [
+        "Thailand",
+        "Rickshaw",
+        "Three Wheels",
+        "Bangkok"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bullfighting",
+      "banned": [
+        "Matador",
+        "Cape",
+        "Toro",
+        "Ring"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Haggis",
+      "banned": [
+        "Sheep",
+        "Offal",
+        "Neeps",
+        "Burns Night"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mariachi",
+      "banned": [
+        "Trumpet",
+        "Guitarist",
+        "Serenade",
+        "Charro"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Moai",
+      "banned": [
+        "Easter Island",
+        "Statues",
+        "Stone Heads",
+        "Rapa Nui"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Matryoshka",
+      "banned": [
+        "Nesting",
+        "Babushka",
+        "Painted",
+        "Wooden Doll"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kremlin",
+      "banned": [
+        "Moscow",
+        "Red Square",
+        "Walls",
+        "Fortress"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Didgeridoo",
+      "banned": [
+        "Aboriginal",
+        "Drone",
+        "Hollow Log",
+        "Outback"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fondue",
+      "banned": [
+        "Switzerland",
+        "Cheese Pot",
+        "Skewer",
+        "Melted"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

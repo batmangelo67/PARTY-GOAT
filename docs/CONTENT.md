@@ -3,24 +3,26 @@
 Read this when creating or editing packs, the schema, or the loader.
 
 ## Pack shape
-Discriminated union on `kind`. One JSON file per pack in `src/content/packs/{en,it}/`.
+Discriminated union on `kind`. One JSON file per pack in `src/content/packs/<lang>/<game>/<slug>.json`. Which packs exist is listed in `docs/TAXONOMY.md`.
 
 ```json
 {
-  "id": "en-food",
-  "title": "Food",
+  "id": "en-impostor-fast-food-chains",
+  "title": "Fast Food & Chain Restaurants",
   "language": "en",
   "spice": 0,
   "kind": "words",
   "games": ["impostor"],
-  "items": [{ "word": "Pizza", "hint": "Italian" }]
+  "group": "general",
+  "items": [{ "word": "Pizza", "hint": "Friday night", "difficulty": "easy" }]
 }
 ```
 
-- `id`: `<lang>-<slug>`, unique, kebab-case. File name = `<slug>.json`.
+- `id`: `<lang>-<game>-<slug>`, unique, kebab-case. File: `packs/<lang>/<game>/<slug>.json`.
 - `language`: `"en" | "it"`.
 - `spice`: 0 clean, 1 mild/cheeky, 2 spicy, 3 very spicy. Default UI filter shows 0-1.
-- `games`: ids of games that can use the pack.
+- `games`: exactly one game id for builtin packs (a pack belongs to one game).
+- `group`: the folder in the picker (kebab-case, required for builtin packs). `section`: optional sub-folder (Sports: `football`, `basketball`, `other`).
 - `source`: `"builtin"` (set by loader) or `"custom"` (user-made, stored in IndexedDB).
 - Item IDs are derived (pack id + index/hash), never hand-written, and must stay stable.
 
@@ -28,11 +30,11 @@ Discriminated union on `kind`. One JSON file per pack in `src/content/packs/{en,
 
 | kind | item shape | used by |
 |---|---|---|
-| `words` | `{ word, hint? }` | Impostor, Who's got the bomb, Mind match (starter words) |
+| `words` | `{ word, hint?, difficulty? }` | Impostor |
 | `question-pairs` | `{ question, liarQuestion }` | Who's the Liar |
-| `prompts` | `{ text, type?: "truth" \| "dare" }` | Never have I ever, Truth or dare, Most likely to, 10/10 but... |
-| `cards` | `{ word, banned: string[3-6] }` | Forbidden words |
-| `numeric` | `{ question, answer, unit, asOf?, decoyQuestion?, decoyAnswer? }` | Circa (impostor twist needs the decoy fields) |
+| `prompts` | `{ text, type?: "truth" \| "dare", examples? }` | Who's got the bomb (one prompt = one category, 3-6 `examples`), Mind match (one-word prompts), Never have I ever, Truth or dare, Most likely to, 10/10 but... |
+| `cards` | `{ word, banned: string[3-6], difficulty? }` | Forbidden words |
+| `numeric` | `{ question, answer, unit, format?: "number" \| "year", asOf?, decoyQuestion?, decoyAnswer? }` | Circa (impostor twist needs the decoy fields) |
 
 Adding a kind = new zod schema in the union + loader support + tests. Don't change existing kinds in a breaking way.
 
@@ -40,8 +42,8 @@ Adding a kind = new zod schema in the union + loader support + tests. Don't chan
 
 **words**
 - The pack title is the category. Every item fits it clearly.
-- `hint`: 1-3 words, related to the word but never containing it or a direct synonym. A good hint narrows it down without giving it away (Pizza -> "Italian", Messi -> "Argentina").
-- 40+ items per pack, no duplicates, mix of easy and medium.
+- `hint`: 1-3 words, an association one step removed (Pizza -> "Friday night", not "Italian"). Full rules in `docs/TAXONOMY.md` ("Impostor hint rules"): further, not closer.
+- `difficulty` on every builtin word, about 40% easy, 40% medium, 20% hard. 40+ items per pack, no duplicates, no word in two packs of the same language.
 
 **question-pairs**
 - Both questions must be answerable with similar-looking answers (same answer type: number, name, short phrase).

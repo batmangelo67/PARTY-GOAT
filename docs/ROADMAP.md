@@ -16,6 +16,7 @@ Update the Status column at the end of every stage.
 | 7 | Circa + Circa Impostor | done (one game, impostor is a setup toggle) |
 | 8 | Polish: animations, sounds, themes, spice filters | done (settings: accent colour, sound, animations, global spice limit) |
 | 9 | UX audit + fixes: quick start, pack picker, exit anywhere, visual identity | done (audit harness in `tests/audit`, findings and before/after in `docs/UX-AUDIT.md`, style in `docs/DESIGN.md`) |
+| 10 | Taxonomy refactor + full content: per-game packs from `docs/TAXONOMY.md` (EN + IT) | done (schema has `group`, `section`, `difficulty`, `examples`, `format`; Bomb and Mind match use prompt packs; 343 packs, about 15,000 items; picker folders and difficulty filter still open) |
 
 ## Decisions already made
 - Single-phone, pass-the-phone play only. No realtime backend.
@@ -47,7 +48,7 @@ Update the Status column at the end of every stage.
 
 **Who's the Liar** (question-pairs): non-liars get question A, liar gets similar question B. Answers revealed side by side (typed) or said aloud (spoken). Discuss, vote, reveal both questions.
 
-**Who's got the bomb** (words as categories): a category appears, a hidden random timer runs (configurable range, e.g. 20-60s), players name an item and pass the phone. Whoever holds it at the explosion loses the round. Sound and flash instead of vibration.
+**Who's got the bomb** (prompts, one prompt = one category, with 3-6 examples): a category appears, a hidden random timer runs (configurable range, e.g. 20-60s), players name an item and pass the phone. Whoever holds it at the explosion loses the round. Sound and flash instead of vibration.
 
 **Never have I ever** (prompts): prompt cards with spice filter. Optional "fingers" mode with per-player counters.
 
@@ -59,7 +60,7 @@ Update the Status column at the end of every stage.
 
 **Forbidden words** (cards): describe the target word without saying it or the banned words. Two random teams (4+ players), timed turns, Correct and Skip buttons plus a "Banned word!" button (-1) for the other team, describer rotates inside each team.
 
-**Mind match** (words): two random starter words from the selected packs; everyone says (spoken mode) or secretly writes (typed mode) a word that links them, and the words of each round become the next prompt until two players match. Typed mode finds matches ignoring case and accents and awards a point per matching player.
+**Mind match** (prompts): the first round opens with a one-word prompt ("A breakfast food"); everyone says (spoken mode) or secretly writes (typed mode) a word that links them, and the words of each round become the next prompt until two players match. Typed mode finds matches ignoring case and accents and awards a point per matching player.
 
 **Circa** (numeric): everyone secretly enters a number, closest wins. **Circa Impostor** (a setup toggle on the same game): one player gets the decoy question and must bluff, then the group discusses and votes; only items with a decoy are used. Needs verified answers.
 
@@ -67,9 +68,8 @@ Update the Status column at the end of every stage.
 Every game exports `{ id, nameKey, descriptionKey, icon, acceptsKinds, SetupScreen, PlayScreen }` and is registered in one registry file. Games reuse: players, PassPhone, Timer, Voting, random, history, content picker. If a game needs something new in the engine, add it generically, not per game.
 
 ## Next up
-All nine stages are done. Open items:
-- Bulk pack generation from stage 3 (packs are still starter-sized, 20 to 40 items each).
-- Folders and sections from TAXONOMY.md in the pack data; then folder chips in the picker.
+All ten stages are done. Open items:
+- Folder and section chips in the pack picker (the data now has `group` and `section`), and the Impostor / Forbidden words difficulty filter.
 - Deferred from the UX audit (details in `docs/UX-AUDIT.md`): a Done control for the iOS number keypad in Circa,
   a message when renaming a player to a taken name, a smaller shared vendor chunk, and including remembered
   options, recents and starred packs in backups.

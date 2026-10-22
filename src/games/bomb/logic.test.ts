@@ -70,12 +70,23 @@ describe("bomb holder", () => {
 });
 
 describe("bomb categories and ranking", () => {
-  const pack = (id: string) =>
-    withItemIds({ id, title: id, language: "en", spice: 0, kind: "words", games: ["bomb"], items: [{ word: `${id} word` }] }, "builtin") as PackOf<"words">;
+  const pack = (id: string, examples?: string[]) =>
+    withItemIds(
+      { id, title: id, language: "en", spice: 0, kind: "prompts", games: ["bomb"], items: [{ text: `${id} prompt`, examples }] },
+      "builtin",
+    ) as PackOf<"prompts">;
 
   it("picks a different category when it can", () => {
-    for (let i = 0; i < 50; i++) expect(pickCategory([pack("a"), pack("b")], "a").packId).toBe("b");
-    expect(pickCategory([pack("a")], "a")).toEqual({ packId: "a", title: "a", example: "a word" });
+    const packs = [pack("a"), pack("b")];
+    const current = pickCategory(packs);
+    for (let i = 0; i < 50; i++) expect(pickCategory(packs, current.itemId).itemId).not.toBe(current.itemId);
+    const only = pack("a");
+    expect(pickCategory([only], only.items[0]!.id)).toEqual({ itemId: only.items[0]!.id, title: "a prompt", example: undefined });
+  });
+
+  it("shows one of the prompt's examples", () => {
+    const examples = ["one", "two", "three"];
+    for (let i = 0; i < 20; i++) expect(examples).toContain(pickCategory([pack("a", examples)]).example);
   });
 
   it("ranks fewest explosions first", () => {

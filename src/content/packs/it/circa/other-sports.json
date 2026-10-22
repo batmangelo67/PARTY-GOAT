@@ -1,0 +1,295 @@
+{
+  "id": "it-circa-other-sports",
+  "title": "Olimpiadi e altri sport",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "sports",
+  "section": "other",
+  "items": [
+    {
+      "question": "In che anno si tennero i primi Giochi olimpici moderni?",
+      "answer": 1896,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tennero le prime Olimpiadi invernali?",
+      "decoyAnswer": 1924
+    },
+    {
+      "question": "Quanti metri è lunga una piscina olimpica?",
+      "answer": 50,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è larga una corsia di una piscina olimpica?",
+      "decoyAnswer": 2.5
+    },
+    {
+      "question": "Quanti metri misura un giro di pista di atletica standard?",
+      "answer": 400,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è la lunghezza di una maratona?",
+      "decoyAnswer": 42195
+    },
+    {
+      "question": "Quanti secondi ci vogliono per il record del mondo maschile dei 100 metri piani?",
+      "answer": 9.58,
+      "unit": "secondi",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti secondi ci vogliono per il record del mondo femminile dei 100 metri piani?",
+      "decoyAnswer": 10.49
+    },
+    {
+      "question": "Quanti metri è alta la rete della pallavolo maschile?",
+      "answer": 2.43,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alta la rete della pallavolo femminile?",
+      "decoyAnswer": 2.24
+    },
+    {
+      "question": "Quanti punti occorrono per vincere un set di pallavolo?",
+      "answer": 25,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti occorrono per vincere un set di badminton?",
+      "decoyAnswer": 21
+    },
+    {
+      "question": "Quanti giocatori per squadra sono in campo nel rugby union?",
+      "answer": 15,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nell'hockey su ghiaccio?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "Quanti minuti dura una partita di rugby a 15?",
+      "answer": 80,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura una partita di hockey su ghiaccio?",
+      "decoyAnswer": 60
+    },
+    {
+      "question": "Quante medaglie d'oro olimpiche ha vinto Michael Phelps?",
+      "answer": 23,
+      "unit": "medaglie",
+      "format": "number",
+      "decoyQuestion": "Quante medaglie olimpiche in totale ha vinto Michael Phelps?",
+      "decoyAnswer": 28
+    },
+    {
+      "question": "In che anno si disputò il primo campionato mondiale di Formula 1?",
+      "answer": 1950,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si disputò la prima 24 Ore di Le Mans?",
+      "decoyAnswer": 1923
+    },
+    {
+      "question": "Quanti titoli mondiali di Formula 1 ha vinto Michael Schumacher?",
+      "answer": 7,
+      "unit": "titoli",
+      "format": "number",
+      "decoyQuestion": "Quanti titoli mondiali di Formula 1 ha vinto Juan Manuel Fangio?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In che anno si disputò il primo Tour de France?",
+      "answer": 1903,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si disputò il primo Giro d'Italia?",
+      "decoyAnswer": 1909
+    },
+    {
+      "question": "Quante volte ha vinto il Tour de France Eddy Merckx?",
+      "answer": 5,
+      "unit": "volte",
+      "format": "number",
+      "decoyQuestion": "Quante volte ha vinto il Tour de France Chris Froome?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "In che anno fu fondato il CIO, il Comitato Olimpico Internazionale?",
+      "answer": 1894,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il CONI?",
+      "decoyAnswer": 1914
+    },
+    {
+      "question": "In che anno si svolsero i Giochi olimpici estivi di Roma?",
+      "answer": 1960,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si svolsero i Giochi olimpici invernali di Torino?",
+      "decoyAnswer": 2006
+    },
+    {
+      "question": "In che anno si svolsero i Giochi olimpici estivi di Londra?",
+      "answer": 2012,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si svolsero i Giochi olimpici invernali di Sochi?",
+      "decoyAnswer": 2014
+    },
+    {
+      "question": "Quanti round ha un incontro di pugilato mondiale maschile?",
+      "answer": 12,
+      "unit": "round",
+      "format": "number",
+      "decoyQuestion": "Quanti round ha un incontro di pugilato olimpico?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "Quanti inning ha una partita di baseball?",
+      "answer": 9,
+      "unit": "inning",
+      "format": "number",
+      "decoyQuestion": "Quanti inning ha una partita di softball?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "Quanti giocatori per squadra sono in campo nel calcio a 5 (futsal)?",
+      "answer": 5,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nel calcio a 7?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "Quanti anni aveva Michael Phelps alla sua prima Olimpiade?",
+      "answer": 15,
+      "unit": "anni",
+      "format": "number",
+      "decoyQuestion": "Quanti anni aveva Federica Pellegrini alla sua prima Olimpiade?",
+      "decoyAnswer": 16
+    },
+    {
+      "question": "In che anno si tenne il primo torneo di Wimbledon?",
+      "answer": 1877,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione del campionato francese di tennis?",
+      "decoyAnswer": 1891
+    },
+    {
+      "question": "In che anno fu fondata la Coppa Davis?",
+      "answer": 1900,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Ryder Cup?",
+      "decoyAnswer": 1927
+    },
+    {
+      "question": "Quante medaglie d'oro ha vinto Jesse Owens in tutta la carriera olimpica?",
+      "answer": 4,
+      "unit": "medaglie",
+      "format": "number",
+      "decoyQuestion": "Quante medaglie d'oro olimpiche ha vinto Carl Lewis?",
+      "decoyAnswer": 9
+    },
+    {
+      "question": "Quante squadre compongono il Torneo delle Sei Nazioni di rugby?",
+      "answer": 6,
+      "unit": "squadre",
+      "format": "number",
+      "decoyQuestion": "Quante squadre parteciparono alla Coppa del Mondo di rugby 2023?",
+      "decoyAnswer": 20
+    },
+    {
+      "question": "In che anno si disputò la prima Coppa del Mondo di rugby?",
+      "answer": 1987,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si disputò la prima Coppa del Mondo di cricket?",
+      "decoyAnswer": 1975
+    },
+    {
+      "question": "Quanti punti vale una meta nel rugby, senza trasformazione?",
+      "answer": 5,
+      "unit": "punti",
+      "format": "number",
+      "decoyQuestion": "Quanti punti vale una meta nel rugby trasformata?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "Quanti metri è lungo un campo da tennis per il singolo?",
+      "answer": 23.77,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è lungo un campo da badminton?",
+      "decoyAnswer": 13.4
+    },
+    {
+      "question": "Quanti minuti dura una partita di pallanuoto?",
+      "answer": 32,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura una partita di pallamano?",
+      "decoyAnswer": 60
+    },
+    {
+      "question": "Quante gare fanno parte del decathlon?",
+      "answer": 10,
+      "unit": "gare",
+      "format": "number",
+      "decoyQuestion": "Quante gare fanno parte dell'heptathlon?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "Quanti chilometri è la frazione di nuoto del triathlon olimpico?",
+      "answer": 1.5,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti chilometri è la frazione di corsa del triathlon olimpico?",
+      "decoyAnswer": 10
+    },
+    {
+      "question": "In che anno la pallavolo entrò nel programma olimpico maschile?",
+      "answer": 1964,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno la pallanuoto entrò nel programma olimpico?",
+      "decoyAnswer": 1900
+    },
+    {
+      "question": "In che anno fu fondata la Federazione internazionale di ciclismo (UCI)?",
+      "answer": 1900,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Federazione internazionale di nuoto (FINA)?",
+      "decoyAnswer": 1908
+    },
+    {
+      "question": "Quante medaglie d'oro ha vinto Michael Phelps ai Giochi di Pechino 2008?",
+      "answer": 8,
+      "unit": "medaglie",
+      "format": "number",
+      "decoyQuestion": "Quante medaglie d'oro vinse Mark Spitz ai Giochi di Monaco 1972?",
+      "decoyAnswer": 7
+    },
+    {
+      "question": "In che anno il beach volley entrò nel programma olimpico?",
+      "answer": 1996,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno il badminton entrò nel programma olimpico?",
+      "decoyAnswer": 1992
+    },
+    {
+      "question": "In che anno si tennero i primi Giochi paralimpici moderni?",
+      "answer": 1960,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tennero i primi Giochi paralimpici invernali?",
+      "decoyAnswer": 1976
+    }
+  ]
+}

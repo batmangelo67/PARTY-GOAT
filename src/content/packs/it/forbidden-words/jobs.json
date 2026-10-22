@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-jobs",
+  "title": "Lavori",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Medico",
+      "banned": [
+        "Ospedale",
+        "Stetoscopio",
+        "Camice",
+        "Ricetta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Insegnante",
+      "banned": [
+        "Scuola",
+        "Lavagna",
+        "Classe",
+        "Voti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pompiere",
+      "banned": [
+        "Incendio",
+        "Autopompa",
+        "Estintore",
+        "Casco"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poliziotto",
+      "banned": [
+        "Distintivo",
+        "Volante",
+        "Questura",
+        "Manette"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuoco",
+      "banned": [
+        "Cucina",
+        "Grembiule",
+        "Chef",
+        "Mestolo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cameriere",
+      "banned": [
+        "Ristorante",
+        "Vassoio",
+        "Mancia",
+        "Tavolo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barista",
+      "banned": [
+        "Bancone",
+        "Caffè",
+        "Macchina",
+        "Cappuccino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Meccanico",
+      "banned": [
+        "Officina",
+        "Chiave inglese",
+        "Tuta",
+        "Motore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parrucchiere",
+      "banned": [
+        "Forbici",
+        "Phon",
+        "Salone",
+        "Pettine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avvocato",
+      "banned": [
+        "Toga",
+        "Tribunale",
+        "Causa",
+        "Parcella"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pilota",
+      "banned": [
+        "Aereo",
+        "Cabina",
+        "Cloche",
+        "Aeroporto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fotografo",
+      "banned": [
+        "Obiettivo",
+        "Flash",
+        "Scatto",
+        "Ritratti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Muratore",
+      "banned": [
+        "Cantiere",
+        "Cemento",
+        "Cazzuola",
+        "Mattone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Infermiere",
+      "banned": [
+        "Corsia",
+        "Flebo",
+        "Divisa bianca",
+        "Turno"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Postino",
+      "banned": [
+        "Lettere",
+        "Bicicletta",
+        "Cassetta",
+        "Francobollo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Commessa",
+      "banned": [
+        "Negozio",
+        "Cassa",
+        "Scontrino",
+        "Vetrina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Idraulico",
+      "banned": [
+        "Tubi",
+        "Rubinetto",
+        "Sciacquone",
+        "Chiave"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dentista",
+      "banned": [
+        "Trapano",
+        "Carie",
+        "Poltrona",
+        "Sorriso"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Architetto",
+      "banned": [
+        "Progetti",
+        "Disegno",
+        "Plastico",
+        "Casa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ingegnere",
+      "banned": [
+        "Ponti",
+        "Calcoli",
+        "Progetto",
+        "Strade"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giornalista",
+      "banned": [
+        "Articoli",
+        "Redazione",
+        "Notizie",
+        "Inchiesta"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Commercialista",
+      "banned": [
+        "Tasse",
+        "Partita IVA",
+        "Bilancio",
+        "F24"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Veterinario",
+      "banned": [
+        "Animali",
+        "Cani",
+        "Gatti",
+        "Clinica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Farmacista",
+      "banned": [
+        "Pillole",
+        "Ricetta",
+        "Banco",
+        "Sciroppo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bibliotecario",
+      "banned": [
+        "Libri",
+        "Prestito",
+        "Silenzio",
+        "Scaffali"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Falegname",
+      "banned": [
+        "Legno",
+        "Segatura",
+        "Sega",
+        "Trucioli"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elettricista",
+      "banned": [
+        "Corrente",
+        "Cavi",
+        "Quadro",
+        "Interruttore"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fioraio",
+      "banned": [
+        "Fiori",
+        "Bouquet",
+        "Serra",
+        "Rose"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Macellaio",
+      "banned": [
+        "Carne",
+        "Bancone",
+        "Salumi",
+        "Coltello"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panettiere",
+      "banned": [
+        "Forno",
+        "Impasto",
+        "Alba",
+        "Lievito"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tassista",
+      "banned": [
+        "Taxi",
+        "Tariffa",
+        "Strada",
+        "Clacson"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Benzinaio",
+      "banned": [
+        "Distributore",
+        "Pompa",
+        "Carburante",
+        "Pieno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Attore",
+      "banned": [
+        "Copione",
+        "Palco",
+        "Set",
+        "Ciak"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sarto",
+      "banned": [
+        "Ago",
+        "Filo",
+        "Metro",
+        "Stoffa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vigile",
+      "banned": [
+        "Multa",
+        "Strisce",
+        "Divisa",
+        "Traffico"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Agricoltore",
+      "banned": [
+        "Campi",
+        "Trattore",
+        "Raccolto",
+        "Serra"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notaio",
+      "banned": [
+        "Atto",
+        "Firma",
+        "Timbro",
+        "Testamento"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Psicologo",
+      "banned": [
+        "Divano",
+        "Lettino",
+        "Mente",
+        "Parla"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Geometra",
+      "banned": [
+        "Catasto",
+        "Planimetria",
+        "Cantiere",
+        "Tavola"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Speleologo",
+      "banned": [
+        "Grotte",
+        "Caverne",
+        "Lampada frontale",
+        "Corde"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Entomologo",
+      "banned": [
+        "Insetti",
+        "Farfalle",
+        "Api",
+        "Lente"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cartografo",
+      "banned": [
+        "Mappe",
+        "Atlante",
+        "Carte",
+        "Scala"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Orafo",
+      "banned": [
+        "Gioielli",
+        "Oro",
+        "Anelli",
+        "Lente"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ferroviere",
+      "banned": [
+        "Treno",
+        "Binari",
+        "Stazione",
+        "Capotreno"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Restauratore",
+      "banned": [
+        "Affreschi",
+        "Museo",
+        "Pennelli",
+        "Tela"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

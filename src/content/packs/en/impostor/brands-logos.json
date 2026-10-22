@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-brands-logos",
+  "title": "Brands & Logos",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "Nike",
+      "hint": "Gym socks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apple",
+      "hint": "Queues outside",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coca-Cola",
+      "hint": "Christmas trucks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pepsi",
+      "hint": "Taste test",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lego",
+      "hint": "Barefoot pain",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ikea",
+      "hint": "Saturday shopping",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amazon",
+      "hint": "Impulse buys",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mercedes-Benz",
+      "hint": "Business travel",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tesla",
+      "hint": "Electricity bill",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Puma",
+      "hint": "Morning jog",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nutella",
+      "hint": "Breakfast toast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Samsung",
+      "hint": "Phone upgrades",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sony",
+      "hint": "Teenage music",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nokia",
+      "hint": "Indestructible phone",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lacoste",
+      "hint": "Preppy style",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Red Bull",
+      "hint": "Extreme sports",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volkswagen",
+      "hint": "Family van",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferrero Rocher",
+      "hint": "Christmas gift",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moleskine",
+      "hint": "Writing sessions",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fiat",
+      "hint": "Tiny parking spot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peroni",
+      "hint": "Sunny terrace",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Campari",
+      "hint": "Aperitivo hour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ben & Jerry's",
+      "hint": "Freezer drawer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Heinz",
+      "hint": "Breakfast tray",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oreo",
+      "hint": "Milk glass",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kinder",
+      "hint": "Kids' pocket money",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Haribo",
+      "hint": "Cinema snacks",
+      "difficulty": "medium"
+    },
+    {
+      "word": "BMW",
+      "hint": "Midlife crisis",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Adidas",
+      "hint": "Gym class",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shell",
+      "hint": "Road trip stop",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alessi",
+      "hint": "Modern art",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Barilla",
+      "hint": "Sunday lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vespa",
+      "hint": "Summer breeze",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bialetti",
+      "hint": "Morning coffee",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Benetton",
+      "hint": "Nineties shopping",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nintendo",
+      "hint": "Rainy holidays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gillette",
+      "hint": "Bathroom shelf",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kit Kat",
+      "hint": "Office break",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dove",
+      "hint": "Shower time",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gatorade",
+      "hint": "Halftime break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kellogg's",
+      "hint": "Sunday cereal",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smirnoff",
+      "hint": "Night out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Häagen-Dazs",
+      "hint": "Date night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Olivetti",
+      "hint": "Quiet typing",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lavazza",
+      "hint": "Morning ritual",
+      "difficulty": "hard"
+    }
+  ]
+}

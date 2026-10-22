@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-tech-gadgets",
+  "title": "Tech & Gadgets",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "tech-internet",
+  "items": [
+    {
+      "word": "iPhone",
+      "hint": "Teen gift",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Laptop",
+      "hint": "Coffee shop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Smartwatch",
+      "hint": "Gym goals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Drone",
+      "hint": "Holiday videos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Printer",
+      "hint": "Office panic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Keyboard",
+      "hint": "Typing tests",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Computer mouse",
+      "hint": "Desk clutter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Headphones",
+      "hint": "Quiet place",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kindle",
+      "hint": "Beach holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "GoPro",
+      "hint": "Extreme holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tablet",
+      "hint": "Lazy sofa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Power bank",
+      "hint": "Festival panic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fitbit",
+      "hint": "January resolutions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alexa",
+      "hint": "Timer chaos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Siri",
+      "hint": "Bad jokes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Floppy disk",
+      "hint": "Dusty drawers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calculator",
+      "hint": "Exam hall",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Walkie-talkie",
+      "hint": "Stakeout",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bluetooth",
+      "hint": "Pairing fail",
+      "difficulty": "medium"
+    },
+    {
+      "word": "USB cable",
+      "hint": "Tangled drawer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Router",
+      "hint": "Slow internet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Webcam",
+      "hint": "Work from home",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hard drive",
+      "hint": "Full storage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chromebook",
+      "hint": "School project",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Motherboard",
+      "hint": "Late-night build",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Graphics card",
+      "hint": "Upgrade dreams",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Modem",
+      "hint": "Nineties internet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fax machine",
+      "hint": "Office relic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dashcam",
+      "hint": "Insurance claims",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stylus",
+      "hint": "Art class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Smart plug",
+      "hint": "Timed lamp",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Projector",
+      "hint": "Movie night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scanner",
+      "hint": "Tax season",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Memory stick",
+      "hint": "Lost homework",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ring doorbell",
+      "hint": "Neighbour gossip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Raspberry Pi",
+      "hint": "School coding",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arduino",
+      "hint": "Hobby kits",
+      "difficulty": "hard"
+    },
+    {
+      "word": "SSD",
+      "hint": "Speed upgrade",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Joystick",
+      "hint": "Flight simulator",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Robot vacuum",
+      "hint": "Lazy chores",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gyroscope",
+      "hint": "Physics class",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lidar",
+      "hint": "Future cars",
+      "difficulty": "hard"
+    },
+    {
+      "word": "QR code",
+      "hint": "Restaurant table",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Digital camera",
+      "hint": "Holiday snaps",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Solar panel",
+      "hint": "Eco guilt",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-brands",
+  "title": "Brands",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Nike",
+      "banned": [
+        "Swoosh",
+        "Trainers",
+        "Sportswear",
+        "Athletes"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lego",
+      "banned": [
+        "Bricks",
+        "Toy",
+        "Danish",
+        "Building blocks"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ikea",
+      "banned": [
+        "Flat-pack",
+        "Meatballs",
+        "Swedish",
+        "Allen key"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nutella",
+      "banned": [
+        "Hazelnut",
+        "Spread",
+        "Breakfast",
+        "Chocolate spread"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Google",
+      "banned": [
+        "Search",
+        "Chrome",
+        "Gmail",
+        "Look it up"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Netflix",
+      "banned": [
+        "Streaming",
+        "Binge",
+        "Series",
+        "Subscription"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spotify",
+      "banned": [
+        "Playlists",
+        "Streaming",
+        "Podcasts",
+        "Premium"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Starbucks",
+      "banned": [
+        "Coffee chain",
+        "Mermaid logo",
+        "Frappuccino",
+        "Latte"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferrari",
+      "banned": [
+        "Prancing horse",
+        "Red car",
+        "Italian supercar",
+        "Maranello"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oreo",
+      "banned": [
+        "Cookie",
+        "Twist",
+        "Milk dunk",
+        "Black and white"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pringles",
+      "banned": [
+        "Crisps",
+        "Tube",
+        "Stacked",
+        "Can"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Haribo",
+      "banned": [
+        "Gummy bears",
+        "Sweets",
+        "Jelly",
+        "Bears"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Converse",
+      "banned": [
+        "Chuck Taylor",
+        "Sneakers",
+        "All Stars",
+        "High tops"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tesla",
+      "banned": [
+        "Electric",
+        "Musk",
+        "Cybertruck",
+        "Battery car"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amazon",
+      "banned": [
+        "Prime",
+        "Bezos",
+        "Delivery",
+        "Rainforest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Instagram",
+      "banned": [
+        "Photos",
+        "Filters",
+        "Stories",
+        "Reels"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coca-Cola",
+      "banned": [
+        "Fizzy drink",
+        "Soda",
+        "Red can",
+        "Vintage bottle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disney",
+      "banned": [
+        "Mickey Mouse",
+        "Castle",
+        "Animation",
+        "Magic Kingdom"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heineken",
+      "banned": [
+        "Dutch beer",
+        "Green bottle",
+        "Lager",
+        "Red star"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Adidas",
+      "banned": [
+        "Three stripes",
+        "German sportswear",
+        "Football boots",
+        "Trefoil"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rolex",
+      "banned": [
+        "Watch",
+        "Crown",
+        "Oyster",
+        "Luxury time"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gucci",
+      "banned": [
+        "Fashion house",
+        "Double G",
+        "Florence",
+        "Handbag"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ray-Ban",
+      "banned": [
+        "Sunglasses",
+        "Aviator",
+        "Wayfarer",
+        "Shades"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Red Bull",
+      "banned": [
+        "Energy drink",
+        "Can",
+        "Wings",
+        "Formula 1"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferrero Rocher",
+      "banned": [
+        "Hazelnut chocolate",
+        "Gold wrapper",
+        "Golden ball",
+        "Pyramid"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Levi's",
+      "banned": [
+        "Jeans",
+        "Denim",
+        "501",
+        "Rivets"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dyson",
+      "banned": [
+        "Vacuum",
+        "Bagless",
+        "Hair dryer",
+        "Cyclone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nokia",
+      "banned": [
+        "Finnish",
+        "Brick phone",
+        "Snake game",
+        "Mobile"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "PlayStation",
+      "banned": [
+        "Sony",
+        "Console",
+        "Controller",
+        "Games console"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Samsung",
+      "banned": [
+        "Korean",
+        "Galaxy",
+        "Phone",
+        "Electronics"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Barilla",
+      "banned": [
+        "Pasta",
+        "Italian",
+        "Blue box",
+        "Spaghetti"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fiat",
+      "banned": [
+        "Italian car",
+        "500",
+        "Turin",
+        "Panda"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lindt",
+      "banned": [
+        "Swiss",
+        "Chocolate",
+        "Truffles",
+        "Gold foil"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zara",
+      "banned": [
+        "Fast fashion",
+        "Spanish",
+        "Inditex",
+        "Clothes shop"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Uber",
+      "banned": [
+        "Taxi app",
+        "Ride",
+        "Driver",
+        "Surge"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Airbnb",
+      "banned": [
+        "Holiday rentals",
+        "Spare room",
+        "Host",
+        "Stay"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burberry",
+      "banned": [
+        "Trench coat",
+        "Check pattern",
+        "British",
+        "Scarf"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prada",
+      "banned": [
+        "Italian fashion",
+        "Milan",
+        "Nylon bag",
+        "Luxury"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lamborghini",
+      "banned": [
+        "Bull logo",
+        "Supercar",
+        "Sant'Agata",
+        "Wedge"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pinterest",
+      "banned": [
+        "Pins",
+        "Boards",
+        "Inspiration",
+        "Mood board"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ryanair",
+      "banned": [
+        "Low-cost airline",
+        "Irish",
+        "Baggage fees",
+        "Bargain flights"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skoda",
+      "banned": [
+        "Czech",
+        "Octavia",
+        "Superb",
+        "Car brand"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tupperware",
+      "banned": [
+        "Plastic containers",
+        "Lids",
+        "Kitchen",
+        "Party sealing"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kellogg's",
+      "banned": [
+        "Cereal",
+        "Corn Flakes",
+        "Breakfast",
+        "Tony the Tiger"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Patagonia",
+      "banned": [
+        "Outdoor clothing",
+        "Fleece",
+        "Argentina",
+        "Chile"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

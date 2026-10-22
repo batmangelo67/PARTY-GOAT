@@ -1,0 +1,765 @@
+{
+  "id": "it-bomb-word-rules",
+  "title": "Giochi di parole",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "word-rules",
+  "items": [
+    {
+      "text": "Parole che finiscono in -ZIONE",
+      "examples": [
+        "Azione",
+        "Nazione",
+        "Stazione",
+        "Lezione",
+        "Emozione"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -MENTE",
+      "examples": [
+        "Velocemente",
+        "Facilmente",
+        "Lentamente",
+        "Chiaramente",
+        "Sinceramente",
+        "Improvvisamente"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ISTA",
+      "examples": [
+        "Pianista",
+        "Dentista",
+        "Giornalista",
+        "Artista",
+        "Turista",
+        "Barista"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -TORE",
+      "examples": [
+        "Attore",
+        "Dottore",
+        "Pittore",
+        "Motore",
+        "Autore"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -EZZA",
+      "examples": [
+        "Bellezza",
+        "Tristezza",
+        "Dolcezza",
+        "Ricchezza",
+        "Certezza",
+        "Giovinezza"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ENTE",
+      "examples": [
+        "Presidente",
+        "Studente",
+        "Dente",
+        "Serpente",
+        "Parente",
+        "Gente"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ITÀ",
+      "examples": [
+        "Felicità",
+        "Università",
+        "Società",
+        "Velocità",
+        "Curiosità"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -OSO",
+      "examples": [
+        "Famoso",
+        "Curioso",
+        "Delizioso",
+        "Noioso",
+        "Pauroso",
+        "Furioso"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -GGIO",
+      "examples": [
+        "Viaggio",
+        "Raggio",
+        "Formaggio",
+        "Passeggio",
+        "Assaggio",
+        "Maggio"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ELLO",
+      "examples": [
+        "Cappello",
+        "Fratello",
+        "Coltello",
+        "Uccello",
+        "Cervello",
+        "Castello"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ETTA",
+      "examples": [
+        "Maglietta",
+        "Bicicletta",
+        "Racchetta",
+        "Polpetta",
+        "Sigaretta"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -IERA",
+      "examples": [
+        "Cameriera",
+        "Infermiera",
+        "Bandiera",
+        "Pasticciera",
+        "Portiera",
+        "Cassiera"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ICO",
+      "examples": [
+        "Amico",
+        "Pubblico",
+        "Tecnico",
+        "Pratico",
+        "Comico",
+        "Magico"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ONE",
+      "examples": [
+        "Balcone",
+        "Leone",
+        "Pantalone",
+        "Cannone"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con SCR",
+      "examples": [
+        "Scrivania",
+        "Scrittore",
+        "Scrigno",
+        "Scremare",
+        "Scrupolo",
+        "Scrosciare"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con PRE",
+      "examples": [
+        "Prenotare",
+        "Prezzo",
+        "Prefisso",
+        "Preside",
+        "Prestito",
+        "Prefetto"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con SPA",
+      "examples": [
+        "Spaghetti",
+        "Spazio",
+        "Spalla",
+        "Spada",
+        "Spartito",
+        "Sparare"
+      ]
+    },
+    {
+      "text": "Parole con la GN dentro",
+      "examples": [
+        "Ragno",
+        "Sogno",
+        "Montagna",
+        "Lavagna",
+        "Bagno",
+        "Compagno"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con FIL",
+      "examples": [
+        "Filo",
+        "Filtro",
+        "Filastrocca",
+        "Filmare",
+        "Filosofia",
+        "Filare"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con ANTI",
+      "examples": [
+        "Antipasto",
+        "Antibiotico",
+        "Antifurto",
+        "Antivirus",
+        "Antichità"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con CON",
+      "examples": [
+        "Contento",
+        "Controllo",
+        "Consiglio",
+        "Concerto",
+        "Condominio",
+        "Confetto"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con AR",
+      "examples": [
+        "Arte",
+        "Armadio",
+        "Arancia",
+        "Armonia",
+        "Arco",
+        "Argento"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con GIO",
+      "examples": [
+        "Giocattolo",
+        "Giornale",
+        "Giorno",
+        "Gioiello",
+        "Giovane",
+        "Giostra"
+      ]
+    },
+    {
+      "text": "Parole con la doppia Z",
+      "examples": [
+        "Pizza",
+        "Razza",
+        "Mezzo",
+        "Pazzo",
+        "Grazie",
+        "Ragazzo"
+      ]
+    },
+    {
+      "text": "Parole con la doppia T",
+      "examples": [
+        "Gatto",
+        "Mattone",
+        "Bottiglia",
+        "Tutto",
+        "Matto",
+        "Gettone"
+      ]
+    },
+    {
+      "text": "Parole con la doppia S",
+      "examples": [
+        "Rosso",
+        "Massa",
+        "Vissuto",
+        "Assoluto",
+        "Tossire",
+        "Sasso"
+      ]
+    },
+    {
+      "text": "Parole con la doppia C",
+      "examples": [
+        "Bocca",
+        "Cacciatore",
+        "Ricco",
+        "Acciuga",
+        "Pacco",
+        "Ciocca"
+      ]
+    },
+    {
+      "text": "Verbi che finiscono in -ARE",
+      "examples": [
+        "Mangiare",
+        "Cantare",
+        "Ballare",
+        "Parlare",
+        "Lavorare",
+        "Giocare"
+      ]
+    },
+    {
+      "text": "Verbi che finiscono in -ERE",
+      "examples": [
+        "Vedere",
+        "Credere",
+        "Leggere",
+        "Scrivere",
+        "Prendere",
+        "Chiudere"
+      ]
+    },
+    {
+      "text": "Verbi che finiscono in -IRE",
+      "examples": [
+        "Dormire",
+        "Sentire",
+        "Partire",
+        "Finire",
+        "Capire",
+        "Aprire"
+      ]
+    },
+    {
+      "text": "Parole composte con CAPO",
+      "examples": [
+        "Capolinea",
+        "Capoluogo",
+        "Capostazione",
+        "Capogiro",
+        "Capotavola",
+        "Capoufficio"
+      ]
+    },
+    {
+      "text": "Parole composte con PORTA",
+      "examples": [
+        "Portafoglio",
+        "Portachiavi",
+        "Portacenere",
+        "Portaombrelli",
+        "Portalettere",
+        "Portatile"
+      ]
+    },
+    {
+      "text": "Parole composte con FUORI",
+      "examples": [
+        "Fuoribordo",
+        "Fuoristrada",
+        "Fuorilegge",
+        "Fuoriserie",
+        "Fuoricampo",
+        "Fuoriuscita"
+      ]
+    },
+    {
+      "text": "Parole composte con SOPRA",
+      "examples": [
+        "Sopracciglia",
+        "Soprannome",
+        "Soprabito",
+        "Soprammobile",
+        "Soprappensiero"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con MAN",
+      "examples": [
+        "Mantello",
+        "Manico",
+        "Manifesto",
+        "Manovra",
+        "Manuale",
+        "Manopola"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con CAS",
+      "examples": [
+        "Casa",
+        "Cassetto",
+        "Castello",
+        "Caso",
+        "Casco",
+        "Casta"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con BAR",
+      "examples": [
+        "Barca",
+        "Barba",
+        "Barile",
+        "Barzelletta",
+        "Barocco",
+        "Baruffa"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ETTO",
+      "examples": [
+        "Biglietto",
+        "Cassetto",
+        "Berretto",
+        "Gabinetto",
+        "Panchetto"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con TRA",
+      "examples": [
+        "Trattore",
+        "Tramonto",
+        "Trasporto",
+        "Trasloco",
+        "Tradizione"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con STR",
+      "examples": [
+        "Strada",
+        "Strumento",
+        "Striscia",
+        "Stregone",
+        "Stracciatella",
+        "Strega"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ISMO",
+      "examples": [
+        "Turismo",
+        "Egoismo",
+        "Ottimismo",
+        "Realismo",
+        "Pessimismo",
+        "Campanilismo"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -IONE",
+      "examples": [
+        "Pensione",
+        "Prigione",
+        "Colazione",
+        "Ragione",
+        "Stagione",
+        "Spedizione"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ALE",
+      "examples": [
+        "Animale",
+        "Naturale",
+        "Ideale",
+        "Canale",
+        "Speciale",
+        "Locale"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ORE",
+      "examples": [
+        "Dolore",
+        "Amore",
+        "Colore",
+        "Fiore",
+        "Calore",
+        "Valore"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ANO",
+      "examples": [
+        "Italiano",
+        "Strano",
+        "Umano",
+        "Lontano",
+        "Piano",
+        "Vulcano"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -INO",
+      "examples": [
+        "Bambino",
+        "Vicino",
+        "Cucchiaino",
+        "Destino",
+        "Vino",
+        "Cugino"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ILE",
+      "examples": [
+        "Facile",
+        "Difficile",
+        "Stile",
+        "Utile",
+        "Mobile",
+        "Fragile"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ENZA",
+      "examples": [
+        "Presenza",
+        "Pazienza",
+        "Scienza",
+        "Esperienza",
+        "Influenza",
+        "Coscienza"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -AIO",
+      "examples": [
+        "Calzolaio",
+        "Fornaio",
+        "Libraio",
+        "Macellaio",
+        "Ferraio",
+        "Giornalaio"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -OLA",
+      "examples": [
+        "Scuola",
+        "Viola",
+        "Aiuola",
+        "Parola",
+        "Gola",
+        "Ciondola"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con SU",
+      "examples": [
+        "Subito",
+        "Succo",
+        "Suono",
+        "Suocera",
+        "Sugo",
+        "Superare"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con DIS",
+      "examples": [
+        "Discorso",
+        "Disco",
+        "Distanza",
+        "Disastro",
+        "Disegno",
+        "Distruzione"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con CHI",
+      "examples": [
+        "Chiave",
+        "Chiesa",
+        "Chiodo",
+        "Chiocciola",
+        "Chitarra",
+        "Chilo"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con LA",
+      "examples": [
+        "Lavoro",
+        "Lampada",
+        "Lattuga",
+        "Lago",
+        "Lana",
+        "Lacrima"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ERIA",
+      "examples": [
+        "Pasticceria",
+        "Gelateria",
+        "Libreria",
+        "Pizzeria",
+        "Cartoleria"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ENTO",
+      "examples": [
+        "Momento",
+        "Vento",
+        "Cento",
+        "Accento",
+        "Movimento",
+        "Talento"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ACCIA",
+      "examples": [
+        "Faccia",
+        "Caccia",
+        "Traccia",
+        "Minaccia",
+        "Braccia"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ANZA",
+      "examples": [
+        "Speranza",
+        "Danza",
+        "Stanza",
+        "Vacanza",
+        "Distanza",
+        "Usanza"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -IZIA",
+      "examples": [
+        "Pigrizia",
+        "Amicizia",
+        "Malizia",
+        "Letizia",
+        "Giustizia",
+        "Avarizia"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -SCO",
+      "examples": [
+        "Fresco",
+        "Tedesco",
+        "Bosco",
+        "Fiasco",
+        "Pesco"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -ONDO",
+      "examples": [
+        "Mondo",
+        "Secondo",
+        "Profondo",
+        "Fondo",
+        "Giocondo",
+        "Rotondo"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con PO",
+      "examples": [
+        "Porta",
+        "Pomodoro",
+        "Polpo",
+        "Pozzo",
+        "Pollo",
+        "Poesia"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con VIA",
+      "examples": [
+        "Viaggio",
+        "Viale",
+        "Viadotto",
+        "Viavai",
+        "Viaggiatore"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con RI",
+      "examples": [
+        "Riso",
+        "Ricetta",
+        "Ritmo",
+        "Rivista",
+        "Risata",
+        "Ricordo"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con MO",
+      "examples": [
+        "Monte",
+        "Modo",
+        "Mostro",
+        "Morbido",
+        "Moda",
+        "Motivo"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con TE",
+      "examples": [
+        "Tempo",
+        "Televisore",
+        "Tesoro",
+        "Teatro",
+        "Terra",
+        "Tenda"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con FA",
+      "examples": [
+        "Fare",
+        "Fabbrica",
+        "Famiglia",
+        "Farfalla",
+        "Fagiolo",
+        "Fattoria"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con CAR",
+      "examples": [
+        "Carota",
+        "Carta",
+        "Carro",
+        "Carbone",
+        "Carovana",
+        "Carrozza"
+      ]
+    },
+    {
+      "text": "Parole che iniziano con ZUC",
+      "examples": [
+        "Zucchero",
+        "Zucca",
+        "Zucchina",
+        "Zuccotto",
+        "Zuccheriera"
+      ]
+    },
+    {
+      "text": "Parole che finiscono in -OGNA",
+      "examples": [
+        "Vergogna",
+        "Cicogna",
+        "Menzogna"
+      ]
+    }
+  ]
+}

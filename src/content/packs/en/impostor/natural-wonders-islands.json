@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-natural-wonders-islands",
+  "title": "Natural Wonders & Islands",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Mount Everest",
+      "hint": "Brave climbers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grand Canyon",
+      "hint": "Sunset selfie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Niagara Falls",
+      "hint": "Soaking wet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Great Barrier Reef",
+      "hint": "Dive trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amazon River",
+      "hint": "Muddy boat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mount Fuji",
+      "hint": "Sunrise climb",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Death Valley",
+      "hint": "Heat wave",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dead Sea",
+      "hint": "Easy floating",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galápagos",
+      "hint": "Science trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yellowstone",
+      "hint": "Camping trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hawaii",
+      "hint": "Sunny wedding",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bora Bora",
+      "hint": "Billionaire retreat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bermuda",
+      "hint": "Shorts and socks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alcatraz",
+      "hint": "Ferry ride",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mount Olympus",
+      "hint": "Mythical home",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Victoria Falls",
+      "hint": "Wet selfies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Seychelles",
+      "hint": "Secret beach",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sahara",
+      "hint": "Lost in sand",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mount Kilimanjaro",
+      "hint": "Big summit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Northern Lights",
+      "hint": "Night sky photo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ibiza",
+      "hint": "Summer party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Santorini",
+      "hint": "Postcard view",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sicily",
+      "hint": "Family roots",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sardinia",
+      "hint": "Long lives",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crete",
+      "hint": "Hidden cove",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Corsica",
+      "hint": "Holiday villa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tasmania",
+      "hint": "Quiet forest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sri Lanka",
+      "hint": "Monsoon rain",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zanzibar",
+      "hint": "Beach wedding",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maui",
+      "hint": "Surf lesson",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lake Como",
+      "hint": "Glam holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lake Baikal",
+      "hint": "Ice fishing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Iguazu Falls",
+      "hint": "Jungle boat tour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ben Nevis",
+      "hint": "Long hike",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mariana Trench",
+      "hint": "Under pressure",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Easter Island",
+      "hint": "Lost civilisation",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Caspian Sea",
+      "hint": "Oil rigs",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Milford Sound",
+      "hint": "Rainy cruise",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Svalbard",
+      "hint": "Frozen town",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Socotra",
+      "hint": "Alien planet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Wadi Rum",
+      "hint": "Rocky sunset",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Madeira",
+      "hint": "Wine cellar",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lofoten",
+      "hint": "Cosy cabin",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mount Erebus",
+      "hint": "Lost in ice",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lake Titicaca",
+      "hint": "Altitude sickness",
+      "difficulty": "medium"
+    }
+  ]
+}

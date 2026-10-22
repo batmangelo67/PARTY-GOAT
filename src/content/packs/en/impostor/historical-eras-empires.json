@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-historical-eras-empires",
+  "title": "Historical Eras & Famous Empires",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Ancient Rome",
+      "hint": "Big feasts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ancient Egypt",
+      "hint": "Hot sand",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Medieval Times",
+      "hint": "Feast days",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Renaissance",
+      "hint": "Fresh starts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Viking Age",
+      "hint": "Raiding parties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stone Age",
+      "hint": "Rock solid",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Industrial Revolution",
+      "hint": "Factory whistles",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ancient Greece",
+      "hint": "Olympic dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cold War",
+      "hint": "Spy novels",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Victorian Era",
+      "hint": "Strict manners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gold Rush",
+      "hint": "Lucky strikes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice Age",
+      "hint": "Frozen dinners",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bronze Age",
+      "hint": "Medal ceremonies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Inca Empire",
+      "hint": "Mountain picnics",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aztec Empire",
+      "hint": "Jade treasures",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ming Dynasty",
+      "hint": "Museum visits",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ottoman Empire",
+      "hint": "Crossroads trade",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mongol Empire",
+      "hint": "Horseback adventures",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Byzantine Empire",
+      "hint": "Hidden gold",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Persian Empire",
+      "hint": "Desert journeys",
+      "difficulty": "medium"
+    },
+    {
+      "word": "British Empire",
+      "hint": "Weather jokes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Han Dynasty",
+      "hint": "Kite flying",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mesopotamia",
+      "hint": "Muddy rivers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Age of Sail",
+      "hint": "Pirate movies",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Enlightenment",
+      "hint": "Wig fashion",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baroque",
+      "hint": "Over the top",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mughal Empire",
+      "hint": "Royal banquets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Feudal Japan",
+      "hint": "Honour and duty",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roaring Twenties",
+      "hint": "Fizzy cocktails",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maya Civilization",
+      "hint": "Jungle mysteries",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holy Roman Empire",
+      "hint": "Tangled alliances",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colonial America",
+      "hint": "Homesick letters",
+      "difficulty": "medium"
+    },
+    {
+      "word": "French Revolution",
+      "hint": "Angry crowds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Edo Period",
+      "hint": "Peaceful centuries",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wild West",
+      "hint": "Wagon journeys",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Great Depression",
+      "hint": "Penny pinching",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paleolithic",
+      "hint": "Old bones",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Neolithic",
+      "hint": "Settling down",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jomon Period",
+      "hint": "Forest hunters",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Akkadian Empire",
+      "hint": "Dusty scrolls",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Khmer Empire",
+      "hint": "Tropical holidays",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Songhai Empire",
+      "hint": "Camel trips",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kingdom of Kush",
+      "hint": "Forgotten sands",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hittite Empire",
+      "hint": "Sword fights",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ashanti Empire",
+      "hint": "Royal umbrellas",
+      "difficulty": "hard"
+    }
+  ]
+}

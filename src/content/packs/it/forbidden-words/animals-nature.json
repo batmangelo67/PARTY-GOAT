@@ -1,0 +1,463 @@
+{
+  "id": "it-forbidden-words-animals-nature",
+  "title": "Animali e natura",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Gatto",
+      "banned": [
+        "Miao",
+        "Baffi",
+        "Fusa",
+        "Pelo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cane",
+      "banned": [
+        "Abbaiare",
+        "Osso",
+        "Fedele",
+        "Guinzaglio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leone",
+      "banned": [
+        "Ruggito",
+        "Re della savana",
+        "Felino",
+        "Zampe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elefante",
+      "banned": [
+        "Proboscide",
+        "Zanne",
+        "Avorio",
+        "Dumbo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pinguino",
+      "banned": [
+        "Antartide",
+        "Frac",
+        "Ghiaccio",
+        "Volare"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Serpente",
+      "banned": [
+        "Veleno",
+        "Strisciare",
+        "Sibilo",
+        "Mela"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coniglio",
+      "banned": [
+        "Carote",
+        "Orecchie",
+        "Pasquetta",
+        "Lepre"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tartaruga",
+      "banned": [
+        "Carapace",
+        "Lenta",
+        "Acqua",
+        "Lago"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Delfino",
+      "banned": [
+        "Mare",
+        "Pinna",
+        "Ultrasuoni",
+        "Sfiatatoio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Farfalla",
+      "banned": [
+        "Bruco",
+        "Crisalide",
+        "Fiore",
+        "Metamorfosi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ape",
+      "banned": [
+        "Miele",
+        "Alveare",
+        "Pungiglione",
+        "Ronzio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gallina",
+      "banned": [
+        "Uova",
+        "Pollaio",
+        "Chioccia",
+        "Crista"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mucca",
+      "banned": [
+        "Latte",
+        "Stalla",
+        "Muggito",
+        "Campo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pecora",
+      "banned": [
+        "Lana",
+        "Ovini",
+        "Belato",
+        "Pastore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gufo",
+      "banned": [
+        "Notte",
+        "Civetta",
+        "Becco",
+        "Piume"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scimmia",
+      "banned": [
+        "Banana",
+        "Giungla",
+        "Primate",
+        "Zoo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maiale",
+      "banned": [
+        "Porcile",
+        "Bacon",
+        "Grugnito",
+        "Fango"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rana",
+      "banned": [
+        "Girino",
+        "Gracidare",
+        "Palude",
+        "Verde"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cactus",
+      "banned": [
+        "Deserto",
+        "Spine",
+        "Succulenta",
+        "Siccità"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orso",
+      "banned": [
+        "Miele",
+        "Pelo",
+        "Ibernazione",
+        "Peluche"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volpe",
+      "banned": [
+        "Tana",
+        "Pelliccia",
+        "Rossa",
+        "Astuta"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lupo",
+      "banned": [
+        "Branco",
+        "Luna",
+        "Ululato",
+        "Cappuccetto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cavallo",
+      "banned": [
+        "Galoppo",
+        "Fantino",
+        "Ferro",
+        "Fattoria"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scoiattolo",
+      "banned": [
+        "Ghiande",
+        "Noce",
+        "Albero",
+        "Parco"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Castoro",
+      "banned": [
+        "Dighe",
+        "Legno",
+        "Fiume",
+        "Roditore"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Riccio",
+      "banned": [
+        "Aculei",
+        "Palla",
+        "Foglie",
+        "Istrice"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pipistrello",
+      "banned": [
+        "Vampiro",
+        "Grotta",
+        "Buio",
+        "Ali"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cigno",
+      "banned": [
+        "Eleganza",
+        "Collo lungo",
+        "Bianco",
+        "Stagno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lombrico",
+      "banned": [
+        "Terra",
+        "Compost",
+        "Giardino",
+        "Pesca"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ragno",
+      "banned": [
+        "Ragnatela",
+        "Otto zampe",
+        "Tela",
+        "Aracnide"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Formica",
+      "banned": [
+        "Colonia",
+        "Briciole",
+        "Lavoro di squadra",
+        "Zucchero"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lumaca",
+      "banned": [
+        "Bava",
+        "Guscio",
+        "Lenta",
+        "Orto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cicala",
+      "banned": [
+        "Estate",
+        "Frinire",
+        "Canto",
+        "Ghiaccio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lucertola",
+      "banned": [
+        "Sole",
+        "Coda",
+        "Rettile",
+        "Muro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pappagallo",
+      "banned": [
+        "Parlare",
+        "Colorato",
+        "Ripetere",
+        "Pennuto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vulcano",
+      "banned": [
+        "Lava",
+        "Magma",
+        "Eruzione",
+        "Cratere"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ornitorinco",
+      "banned": [
+        "Uova",
+        "Mammifero",
+        "Australia",
+        "Castoro"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Narvalo",
+      "banned": [
+        "Dente",
+        "Artico",
+        "Unicorno",
+        "Balena"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Libellula",
+      "banned": [
+        "Stagno",
+        "Elicottero",
+        "Ali trasparenti",
+        "Insetto"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pangolino",
+      "banned": [
+        "Squame",
+        "Formiche",
+        "Africa",
+        "Armatura"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Axolotl",
+      "banned": [
+        "Messicano",
+        "Rigenerare",
+        "Anfibio",
+        "Acquario"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lamantino",
+      "banned": [
+        "Manatee",
+        "Sirena",
+        "Erbivoro",
+        "Acque dolci"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gazzella",
+      "banned": [
+        "Velocità",
+        "Corsa",
+        "Corna",
+        "Savana"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bradipo",
+      "banned": [
+        "Lentezza",
+        "Foglie",
+        "Sonnellino",
+        "Ramo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Salamandra",
+      "banned": [
+        "Fuoco",
+        "Macchie gialle",
+        "Umido",
+        "Muschio"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

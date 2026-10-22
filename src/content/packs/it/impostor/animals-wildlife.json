@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-animals-wildlife",
+  "title": "Animali selvatici",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Leone",
+      "hint": "Pigro pomeriggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elefante",
+      "hint": "Circo antico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giraffa",
+      "hint": "Foto in safari",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Delfino",
+      "hint": "Estate sul molo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pinguino",
+      "hint": "Serata di gala",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panda",
+      "hint": "Peluche in camera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orso",
+      "hint": "Gita in montagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lupo",
+      "hint": "Notte di paura",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aquila",
+      "hint": "Stemma di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Serpente",
+      "hint": "Giardino di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coccodrillo",
+      "hint": "Palude di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zebra",
+      "hint": "Documentario in TV",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canguro",
+      "hint": "Fuga improvvisa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Koala",
+      "hint": "Foto da cartolina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tigre",
+      "hint": "Zampe silenziose",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scimmia",
+      "hint": "Smorfie alla foto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Balena",
+      "hint": "Gita in barca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Volpe",
+      "hint": "Fiaba della buonanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gufo",
+      "hint": "Notte in biblioteca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cinghiale",
+      "hint": "Passeggiata nel bosco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cervo",
+      "hint": "Luce del mattino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pipistrello",
+      "hint": "Soffitto della cantina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Procione",
+      "hint": "Sgattaiolare di notte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Castoro",
+      "hint": "Lavoro di squadra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghepardo",
+      "hint": "Caccia all'alba",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gorilla",
+      "hint": "Sguardo serio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ippopotamo",
+      "hint": "Piscina d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rinoceronte",
+      "hint": "Testa dura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ornitorinco",
+      "hint": "Animale da quiz",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lontra",
+      "hint": "Relax sul fiume",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Riccio",
+      "hint": "Notte in giardino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lince",
+      "hint": "Caccia notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Furetto",
+      "hint": "Gioco in tunnel",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foca",
+      "hint": "Applausi in spiaggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bisonte",
+      "hint": "Strada polverosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alce",
+      "hint": "Cartolina di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Okapi",
+      "hint": "Tesoro nascosto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tapiro",
+      "hint": "Notte di pioggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Suricata",
+      "hint": "Guardia del corpo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dugongo",
+      "hint": "Leggenda dei marinai",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Narvalo",
+      "hint": "Nuoto sotto ghiaccio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ocelot",
+      "hint": "Pelliccia di lusso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quokka",
+      "hint": "Influencer in vacanza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pangolino",
+      "hint": "Pasto notturno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vombato",
+      "hint": "Mezzanotte in fattoria",
+      "difficulty": "hard"
+    }
+  ]
+}

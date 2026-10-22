@@ -1,0 +1,470 @@
+{
+  "id": "it-forbidden-words-italian-theme",
+  "title": "Tutto italiano",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "italy",
+  "items": [
+    {
+      "word": "Colosseo",
+      "banned": [
+        "Roma",
+        "Gladiatori",
+        "Anfiteatro",
+        "Imperatori"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Torre di Pisa",
+      "banned": [
+        "Toscana",
+        "Pendente",
+        "Inclinata",
+        "Piazza dei Miracoli"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venezia",
+      "banned": [
+        "Canali",
+        "Laguna",
+        "Gondole",
+        "Carnevale"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "David",
+      "banned": [
+        "Michelangelo",
+        "Firenze",
+        "Marmo",
+        "Statua"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fontana di Trevi",
+      "banned": [
+        "Monetine",
+        "Roma",
+        "Desiderio",
+        "Acqua"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Firenze",
+      "banned": [
+        "Uffizi",
+        "Giglio",
+        "Duomo",
+        "Arno"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vesuvio",
+      "banned": [
+        "Vulcano",
+        "Napoli",
+        "Lava",
+        "Cenere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tricolore",
+      "banned": [
+        "Bandiera",
+        "Verde",
+        "Rosso",
+        "Bianco"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sicilia",
+      "banned": [
+        "Isola",
+        "Etna",
+        "Palermo",
+        "Trinacria"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dante",
+      "banned": [
+        "Divina Commedia",
+        "Inferno",
+        "Firenze",
+        "Poeta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pompei",
+      "banned": [
+        "Scavi",
+        "Ceneri",
+        "Romani",
+        "Affreschi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sardegna",
+      "banned": [
+        "Mare",
+        "Costa Smeralda",
+        "Isola",
+        "Nuraghe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alpi",
+      "banned": [
+        "Montagne",
+        "Neve",
+        "Sci",
+        "Dolomiti"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dolce Vita",
+      "banned": [
+        "Fellini",
+        "Roma",
+        "Anni Cinquanta",
+        "Aperitivo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pinocchio",
+      "banned": [
+        "Geppetto",
+        "Burattino",
+        "Naso",
+        "Lucignolo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ponte Vecchio",
+      "banned": [
+        "Firenze",
+        "Orafi",
+        "Arno",
+        "Botteghe"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Michelangelo",
+      "banned": [
+        "Cappella Sistina",
+        "Scultore",
+        "Pittore",
+        "Rinascimento"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Leonardo da Vinci",
+      "banned": [
+        "Gioconda",
+        "Rinascimento",
+        "Inventore",
+        "Milano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Galileo",
+      "banned": [
+        "Cannocchiale",
+        "Pisa",
+        "Eretico",
+        "Telescopio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Verona",
+      "banned": [
+        "Giulietta",
+        "Arena",
+        "Balcone",
+        "Scaligeri"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carosello",
+      "banned": [
+        "Pubblicità",
+        "Anni Sessanta",
+        "Televisione",
+        "Rai"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Autostrada",
+      "banned": [
+        "Pedaggio",
+        "Casello",
+        "Esodo",
+        "Code"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Autogrill",
+      "banned": [
+        "Panino",
+        "Caffè",
+        "Area di servizio",
+        "Viaggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mamma",
+      "banned": [
+        "Sugo",
+        "Casa",
+        "Abbraccio",
+        "Lasagne"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nonna",
+      "banned": [
+        "Ragù",
+        "Grembiule",
+        "Pranzo della domenica",
+        "Ricette"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Campanile",
+      "banned": [
+        "Torre",
+        "Chiesa",
+        "Campane",
+        "Piazza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Passeggiata",
+      "banned": [
+        "Corso",
+        "Sera",
+        "Gelato",
+        "Piazza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cinecittà",
+      "banned": [
+        "Film",
+        "Roma",
+        "Studi",
+        "Fellini"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Napoli",
+      "banned": [
+        "Pizza",
+        "Vesuvio",
+        "Golfo",
+        "Mare"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cinque Terre",
+      "banned": [
+        "Liguria",
+        "Sentiero",
+        "Colorate",
+        "Mare"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Campanilismo",
+      "banned": [
+        "Rivalità",
+        "Paese",
+        "Orgoglio",
+        "Dialetto"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bella figura",
+      "banned": [
+        "Apparenza",
+        "Vestiti",
+        "Impressione",
+        "Stile"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dolce far niente",
+      "banned": [
+        "Riposo",
+        "Pigrizia",
+        "Ozio",
+        "Siesta"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scopone",
+      "banned": [
+        "Carte",
+        "Napoletano",
+        "Briscola",
+        "Asso"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ragù",
+      "banned": [
+        "Bolognese",
+        "Sugo",
+        "Carne",
+        "Soffritto"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mezzogiorno",
+      "banned": [
+        "Sud",
+        "Stivale",
+        "Sole",
+        "Meridione"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sfogliatella",
+      "banned": [
+        "Napoli",
+        "Ricci",
+        "Ricotta",
+        "Pasticceria"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lampredotto",
+      "banned": [
+        "Firenze",
+        "Trippa",
+        "Panino",
+        "Interiora"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Palio di Siena",
+      "banned": [
+        "Cavalli",
+        "Piazza del Campo",
+        "Contrade",
+        "Corsa",
+        "Toscana"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Befana",
+      "banned": [
+        "Epifania",
+        "Calza",
+        "Scopa",
+        "Carbone",
+        "Vecchia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gondola",
+      "banned": [
+        "Barca",
+        "Venezia",
+        "Gondoliere",
+        "Canale",
+        "Remo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aperitivo",
+      "banned": [
+        "Spritz",
+        "Stuzzichini",
+        "Sera",
+        "Bere",
+        "Bar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ferragosto",
+      "banned": [
+        "Agosto",
+        "Vacanza",
+        "Mare",
+        "Quindici",
+        "Grigliata"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Duomo di Milano",
+      "banned": [
+        "Cattedrale",
+        "Madonnina",
+        "Piazza",
+        "Guglie",
+        "Lombardia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Presepe",
+      "banned": [
+        "Natale",
+        "Gesù",
+        "Statuine",
+        "Grotta",
+        "Bue"
+      ],
+      "difficulty": "medium"
+    }
+  ]
+}

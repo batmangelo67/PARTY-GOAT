@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-student-life",
+  "title": "Vita da studente",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Esame",
+      "hint": "Notti in bianco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Erasmus",
+      "hint": "Lingua straniera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aula",
+      "hint": "Prima fila",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biblioteca",
+      "hint": "Giacca sulla sedia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dispensa",
+      "hint": "Pdf condiviso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Libretto",
+      "hint": "Mamma che controlla",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mensa",
+      "hint": "Coda alle dodici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Appunti",
+      "hint": "Foto alla lavagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sessione",
+      "hint": "Estate rovinata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tesi",
+      "hint": "Notti al computer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lezione",
+      "hint": "Professore monotono",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caffettiera",
+      "hint": "Sveglia alle sette",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aperitivo",
+      "hint": "Giovedì sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Matricola",
+      "hint": "Giorno dell'iscrizione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fuorisede",
+      "hint": "Frigo quasi vuoto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Borsa di studio",
+      "hint": "Attesa dell'esito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Colloquio",
+      "hint": "Stretta di mano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stage",
+      "hint": "Speranza di assunzione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crediti",
+      "hint": "Lista di esami",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piano di studio",
+      "hint": "Modulo da firmare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ricevimento",
+      "hint": "Attesa in corridoio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seminario",
+      "hint": "Pubblico addormentato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Procrastinare",
+      "hint": "Tutto all'ultimo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dottorato",
+      "hint": "Anni di ricerca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fotocopie",
+      "hint": "Scanner rotto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tutor",
+      "hint": "Consigli non richiesti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pendolare",
+      "hint": "Ritardo cronico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Affitto",
+      "hint": "Piatti nel lavandino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orario",
+      "hint": "Sveglia lunedì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gruppo WhatsApp",
+      "hint": "Messaggi a mezzanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nottata",
+      "hint": "Alba sui libri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cineforum",
+      "hint": "Popcorn e discussione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Propedeutica",
+      "hint": "Scalini da salire",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fuoricorso",
+      "hint": "Tempo che scorre",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tesina",
+      "hint": "Collage di idee",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triennale",
+      "hint": "Prima tappa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Magistrale",
+      "hint": "Ancora un giro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Relatore",
+      "hint": "Ultimo parere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Controrelatore",
+      "hint": "Secondo giudizio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sbarramento",
+      "hint": "Corsa a ostacoli",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cineteca",
+      "hint": "Pomeriggio di pioggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dormitorio",
+      "hint": "Vicini rumorosi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Laboratorio",
+      "hint": "Esperimento fallito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calcolatrice",
+      "hint": "Conti all'ultimo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pausa caffè",
+      "hint": "Corsa tra lezioni",
+      "difficulty": "easy"
+    }
+  ]
+}

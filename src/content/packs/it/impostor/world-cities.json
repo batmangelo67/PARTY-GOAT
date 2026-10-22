@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-world-cities",
+  "title": "Città del mondo",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Parigi",
+      "hint": "Weekend romantico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Londra",
+      "hint": "Pioggia e ombrello",
+      "difficulty": "easy"
+    },
+    {
+      "word": "New York",
+      "hint": "Notte insonne",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hong Kong",
+      "hint": "Grattacieli affollati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rio de Janeiro",
+      "hint": "Sole tutto l'anno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atene",
+      "hint": "Storia millenaria",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tokyo",
+      "hint": "Notte nei neon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Madrid",
+      "hint": "Pranzo alle tre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Berlino",
+      "hint": "Club notturni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Amsterdam",
+      "hint": "Pedali ovunque",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vienna",
+      "hint": "Eleganza di palazzo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Istanbul",
+      "hint": "Bazar e gatti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dubai",
+      "hint": "Lusso sfrenato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sydney",
+      "hint": "Surf e sole",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Singapore",
+      "hint": "Multe e regole",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Los Angeles",
+      "hint": "Auto e autostrada",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toronto",
+      "hint": "Inverno gelido",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Praga",
+      "hint": "Città di favole",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Budapest",
+      "hint": "Ponti illuminati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mosca",
+      "hint": "Freddo da brivido",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il Cairo",
+      "hint": "Caos nel traffico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bangkok",
+      "hint": "Traffico infinito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buenos Aires",
+      "hint": "Cena a mezzanotte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lima",
+      "hint": "Nebbia sull'oceano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Melbourne",
+      "hint": "Caffè in vicolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marrakech",
+      "hint": "Labirinto di vicoli",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Casablanca",
+      "hint": "Amore e addio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Delhi",
+      "hint": "Caos e clacson",
+      "difficulty": "medium"
+    },
+    {
+      "word": "San Francisco",
+      "hint": "Salite ripidissime",
+      "difficulty": "medium"
+    },
+    {
+      "word": "L'Avana",
+      "hint": "Musica nei bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vancouver",
+      "hint": "Montagne e oceano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stoccolma",
+      "hint": "Isole sul mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seoul",
+      "hint": "Caffè notturno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oslo",
+      "hint": "Salto dal trampolino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lisbona",
+      "hint": "Colline colorate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "San Pietroburgo",
+      "hint": "Canali e palazzi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shanghai",
+      "hint": "Skyline di luci",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Città del Messico",
+      "hint": "Altitudine e smog",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Auckland",
+      "hint": "Città di vulcani",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Città del Capo",
+      "hint": "Pinguini in spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nairobi",
+      "hint": "Traffico vivace",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mumbai",
+      "hint": "Folla infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Copenaghen",
+      "hint": "Porto colorato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dublino",
+      "hint": "Serate di musica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Varsavia",
+      "hint": "Città risorta",
+      "difficulty": "hard"
+    }
+  ]
+}

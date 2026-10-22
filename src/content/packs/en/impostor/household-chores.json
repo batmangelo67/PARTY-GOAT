@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-household-chores",
+  "title": "Household Chores & Routines",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Making the bed",
+      "hint": "Sleepy start",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Washing up",
+      "hint": "Forgotten plates",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dusting",
+      "hint": "Sneezing fit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sweeping",
+      "hint": "Muddy boots",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Folding laundry",
+      "hint": "Rainy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grocery shopping",
+      "hint": "Empty cupboards",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cooking dinner",
+      "hint": "Sweaty kitchen",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doing the school run",
+      "hint": "Morning traffic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Walking the dog",
+      "hint": "Park chat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Watering plants",
+      "hint": "Holiday cover",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paying bills",
+      "hint": "Monthly stress",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Changing bed sheets",
+      "hint": "Sleepover morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sorting recycling",
+      "hint": "Bin rivalry",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cleaning the windows",
+      "hint": "Nosy neighbours",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Replacing light bulbs",
+      "hint": "Stubbed toe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Setting the table",
+      "hint": "Hungry kids",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taking out the bins",
+      "hint": "Seagulls",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scrubbing the bath",
+      "hint": "Bubble trouble",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Decluttering",
+      "hint": "Unused gadgets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Weeding the garden",
+      "hint": "Sunday backache",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Painting the fence",
+      "hint": "Sunburn",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mending clothes",
+      "hint": "Favourite jumper",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shovelling snow",
+      "hint": "Frozen fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Raking leaves",
+      "hint": "Bonfire smoke",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cleaning the gutters",
+      "hint": "Scary heights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Polishing silver",
+      "hint": "Posh guests",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tidying wardrobe",
+      "hint": "Cramped hangers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Checking the post",
+      "hint": "Morning ritual",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cleaning the car",
+      "hint": "Wiper blades",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Restocking the fridge",
+      "hint": "Hungry teenagers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cleaning the toilet",
+      "hint": "Least favourite job",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Filling the car with petrol",
+      "hint": "Last-minute stop",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scrubbing the grill",
+      "hint": "Charred memories",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Descaling the showerhead",
+      "hint": "Cold showers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Making packed lunches",
+      "hint": "Early alarm",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Checking tyre pressure",
+      "hint": "Holiday dash",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clearing the loft",
+      "hint": "Childhood memories",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bleeding radiators",
+      "hint": "Chilly mornings",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Unblocking the drain",
+      "hint": "Mysterious gunk",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Re-grouting tiles",
+      "hint": "Weekend challenge",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hanging wallpaper",
+      "hint": "Sticky fingers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Organising the garage",
+      "hint": "Lost keys",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pruning the hedge",
+      "hint": "Neighbour dispute",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sealing the windows",
+      "hint": "Cold toes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Doing the taxes",
+      "hint": "Quiet panic",
+      "difficulty": "hard"
+    }
+  ]
+}

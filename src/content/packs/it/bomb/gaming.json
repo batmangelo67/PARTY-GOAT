@@ -1,0 +1,713 @@
+{
+  "id": "it-bomb-gaming",
+  "title": "Videogiochi",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "text": "Personaggi di Super Mario",
+      "examples": [
+        "Luigi",
+        "Peach",
+        "Bowser",
+        "Yoshi",
+        "Toad"
+      ]
+    },
+    {
+      "text": "Sparatutto multiplayer",
+      "examples": [
+        "Call of Duty",
+        "Valorant",
+        "Counter-Strike",
+        "Overwatch",
+        "Halo"
+      ]
+    },
+    {
+      "text": "Personaggi di Pokémon",
+      "examples": [
+        "Pikachu",
+        "Charmander",
+        "Bulbasaur",
+        "Squirtle",
+        "Eevee"
+      ]
+    },
+    {
+      "text": "Console da gioco",
+      "examples": [
+        "PlayStation",
+        "Xbox",
+        "Nintendo Switch",
+        "Game Boy",
+        "Sega Mega Drive"
+      ]
+    },
+    {
+      "text": "Giochi per il cellulare",
+      "examples": [
+        "Candy Crush",
+        "Pokémon GO",
+        "Subway Surfers",
+        "Angry Birds",
+        "Flappy Bird"
+      ]
+    },
+    {
+      "text": "Giochi di ruolo al computer",
+      "examples": [
+        "Skyrim",
+        "Dragon Age",
+        "The Witcher",
+        "Baldur's Gate",
+        "Final Fantasy"
+      ]
+    },
+    {
+      "text": "Giochi di calcio virtuale",
+      "examples": [
+        "EA FC",
+        "Pro Evolution Soccer",
+        "Football Manager",
+        "Rocket League",
+        "Mario Strikers"
+      ]
+    },
+    {
+      "text": "Battle royale",
+      "examples": [
+        "Fortnite",
+        "PUBG",
+        "Apex Legends",
+        "Free Fire",
+        "Warzone"
+      ]
+    },
+    {
+      "text": "Mostri di Minecraft",
+      "examples": [
+        "Creeper",
+        "Enderman",
+        "Zombie",
+        "Ghast",
+        "Piglin"
+      ]
+    },
+    {
+      "text": "Mascotte dei videogiochi",
+      "examples": [
+        "Sonic",
+        "Crash Bandicoot",
+        "Spyro",
+        "Kirby",
+        "Rayman"
+      ]
+    },
+    {
+      "text": "Giochi indie famosi",
+      "examples": [
+        "Stardew Valley",
+        "Hollow Knight",
+        "Celeste",
+        "Undertale",
+        "Cuphead"
+      ]
+    },
+    {
+      "text": "Generi di videogiochi",
+      "examples": [
+        "Platform",
+        "GDR",
+        "Picchiaduro",
+        "Puzzle",
+        "Survival horror"
+      ]
+    },
+    {
+      "text": "Giochi di corse",
+      "examples": [
+        "Mario Kart",
+        "Need for Speed",
+        "Forza Horizon",
+        "Gran Turismo",
+        "Burnout"
+      ]
+    },
+    {
+      "text": "Picchiaduro famosi",
+      "examples": [
+        "Street Fighter",
+        "Tekken",
+        "Mortal Kombat",
+        "Super Smash Bros.",
+        "Dragon Ball FighterZ"
+      ]
+    },
+    {
+      "text": "Mosse dei picchiaduro",
+      "examples": [
+        "Hadouken",
+        "Shoryuken",
+        "Fatality",
+        "Combo",
+        "Super"
+      ]
+    },
+    {
+      "text": "Giochi di simulazione",
+      "examples": [
+        "The Sims",
+        "Cities: Skylines",
+        "Flight Simulator",
+        "Planet Coaster",
+        "Farming Simulator"
+      ]
+    },
+    {
+      "text": "Giochi horror",
+      "examples": [
+        "Resident Evil",
+        "Silent Hill",
+        "Alan Wake",
+        "Amnesia",
+        "Outlast"
+      ]
+    },
+    {
+      "text": "Giochi di strategia",
+      "examples": [
+        "Age of Empires",
+        "StarCraft",
+        "Civilization",
+        "Total War",
+        "Command & Conquer"
+      ]
+    },
+    {
+      "text": "Personaggi di Zelda",
+      "examples": [
+        "Link",
+        "Zelda",
+        "Ganondorf",
+        "Navi",
+        "Impa"
+      ]
+    },
+    {
+      "text": "Termini da gamer",
+      "examples": [
+        "Lag",
+        "Respawn",
+        "Noob",
+        "Boss finale",
+        "Easter egg"
+      ]
+    },
+    {
+      "text": "Giochi da tavolo",
+      "examples": [
+        "Monopoly",
+        "Risiko",
+        "Cluedo",
+        "Scarabeo",
+        "Dixit"
+      ]
+    },
+    {
+      "text": "Giochi MOBA",
+      "examples": [
+        "League of Legends",
+        "Dota 2",
+        "Smite",
+        "Heroes of the Storm",
+        "Arena of Valor"
+      ]
+    },
+    {
+      "text": "Franchise Nintendo",
+      "examples": [
+        "Donkey Kong",
+        "Metroid",
+        "Star Fox",
+        "F-Zero",
+        "Animal Crossing"
+      ]
+    },
+    {
+      "text": "Parti di un controller",
+      "examples": [
+        "Levetta analogica",
+        "Grilletto",
+        "Croce direzionale",
+        "Pulsante A",
+        "Tasto Start"
+      ]
+    },
+    {
+      "text": "Giochi di carte collezionabili",
+      "examples": [
+        "Magic",
+        "Yu-Gi-Oh!",
+        "Hearthstone",
+        "Lorcana",
+        "Digimon Card Game"
+      ]
+    },
+    {
+      "text": "Periferiche per il gaming",
+      "examples": [
+        "Mouse",
+        "Tastiera meccanica",
+        "Cuffie",
+        "Volante",
+        "Webcam"
+      ]
+    },
+    {
+      "text": "Franchise Ubisoft",
+      "examples": [
+        "Assassin's Creed",
+        "Far Cry",
+        "Watch Dogs",
+        "The Division",
+        "Prince of Persia"
+      ]
+    },
+    {
+      "text": "Franchise Rockstar",
+      "examples": [
+        "GTA",
+        "Red Dead Redemption",
+        "Max Payne",
+        "Bully",
+        "L.A. Noire"
+      ]
+    },
+    {
+      "text": "Arcade degli anni '80",
+      "examples": [
+        "Pac-Man",
+        "Space Invaders",
+        "Frogger",
+        "Galaga",
+        "Asteroids"
+      ]
+    },
+    {
+      "text": "Giochi LEGO",
+      "examples": [
+        "LEGO Star Wars",
+        "LEGO Batman",
+        "LEGO Marvel",
+        "LEGO Harry Potter",
+        "LEGO Indiana Jones"
+      ]
+    },
+    {
+      "text": "Giochi puzzle",
+      "examples": [
+        "Tetris",
+        "Portal",
+        "Lemmings",
+        "Bejeweled",
+        "Monument Valley"
+      ]
+    },
+    {
+      "text": "Giochi di ritmo",
+      "examples": [
+        "Guitar Hero",
+        "Rock Band",
+        "Beat Saber",
+        "Just Dance",
+        "Osu!"
+      ]
+    },
+    {
+      "text": "Console retrò",
+      "examples": [
+        "Atari 2600",
+        "Commodore 64",
+        "Amiga",
+        "NES",
+        "Game Gear"
+      ]
+    },
+    {
+      "text": "Giochi di sopravvivenza",
+      "examples": [
+        "Subnautica",
+        "Don't Starve",
+        "The Forest",
+        "Raft",
+        "Rust"
+      ]
+    },
+    {
+      "text": "Avventure grafiche",
+      "examples": [
+        "Monkey Island",
+        "Broken Sword",
+        "Grim Fandango",
+        "Machinarium",
+        "Day of the Tentacle"
+      ]
+    },
+    {
+      "text": "Parole da streaming",
+      "examples": [
+        "Diretta",
+        "Chat",
+        "Donazione",
+        "Emote",
+        "Sub"
+      ]
+    },
+    {
+      "text": "Mondi dei videogiochi",
+      "examples": [
+        "Hyrule",
+        "Azeroth",
+        "Night City",
+        "Rapture",
+        "Tamriel"
+      ]
+    },
+    {
+      "text": "Cose da collezionare nei giochi",
+      "examples": [
+        "Trofei",
+        "Achievement",
+        "Skin",
+        "Figurine",
+        "Monete d'oro"
+      ]
+    },
+    {
+      "text": "Giochi di fisica",
+      "examples": [
+        "Kerbal Space Program",
+        "Human Fall Flat",
+        "Gang Beasts",
+        "Untitled Goose Game",
+        "Totally Accurate Battle Simulator"
+      ]
+    },
+    {
+      "text": "Armi nei videogiochi",
+      "examples": [
+        "Spada",
+        "Arco",
+        "Fucile",
+        "Lancia",
+        "Bazooka"
+      ]
+    },
+    {
+      "text": "Cose da portare a una LAN party",
+      "examples": [
+        "Ciabatta multipresa",
+        "Energy drink",
+        "Cavo di rete",
+        "Cuffie",
+        "Pizza"
+      ]
+    },
+    {
+      "text": "Eroi di Overwatch",
+      "examples": [
+        "Tracer",
+        "Reinhardt",
+        "Mercy",
+        "Genji",
+        "Ana"
+      ]
+    },
+    {
+      "text": "Giochi roguelike",
+      "examples": [
+        "Hades",
+        "Slay the Spire",
+        "The Binding of Isaac",
+        "Dead Cells",
+        "Enter the Gungeon"
+      ]
+    },
+    {
+      "text": "Cattivi dei videogiochi",
+      "examples": [
+        "Wario",
+        "Sephiroth",
+        "Dr. Robotnik",
+        "Dr. Wily",
+        "Vaas"
+      ]
+    },
+    {
+      "text": "Giochi di basket",
+      "examples": [
+        "NBA 2K",
+        "NBA Jam",
+        "NBA Live",
+        "Space Jam",
+        "Dunk Lab"
+      ]
+    },
+    {
+      "text": "Cose che si costruiscono in Minecraft",
+      "examples": [
+        "Casa sull'albero",
+        "Portale del Nether",
+        "Ferrovia",
+        "Fattoria",
+        "Castello"
+      ]
+    },
+    {
+      "text": "Giochi di ruolo da tavolo",
+      "examples": [
+        "Dungeons & Dragons",
+        "Pathfinder",
+        "Vampiri",
+        "Call of Cthulhu",
+        "Shadowrun"
+      ]
+    },
+    {
+      "text": "Protagonisti dei videogiochi",
+      "examples": [
+        "Lara Croft",
+        "Kratos",
+        "Master Chief",
+        "Geralt",
+        "Solid Snake"
+      ]
+    },
+    {
+      "text": "Giochi con i draghi",
+      "examples": [
+        "Skyrim",
+        "Dragon Quest",
+        "Dragon's Dogma",
+        "Monster Hunter",
+        "Spyro"
+      ]
+    },
+    {
+      "text": "Giochi di sport estremi",
+      "examples": [
+        "Tony Hawk's",
+        "SSX",
+        "Skate",
+        "Wipeout",
+        "Trials"
+      ]
+    },
+    {
+      "text": "Giochi in realtà virtuale",
+      "examples": [
+        "Half-Life: Alyx",
+        "Pistol Whip",
+        "Superhot VR",
+        "Asgard's Wrath",
+        "Beat Saber"
+      ]
+    },
+    {
+      "text": "Creature da catturare",
+      "examples": [
+        "Digimon",
+        "Temtem",
+        "Palworld",
+        "Nexomon",
+        "Cassette Beasts"
+      ]
+    },
+    {
+      "text": "Nemici tipici dei fantasy",
+      "examples": [
+        "Goblin",
+        "Scheletro",
+        "Orco",
+        "Slime",
+        "Golem"
+      ]
+    },
+    {
+      "text": "Power-up dei videogiochi",
+      "examples": [
+        "Stella",
+        "Fiore di fuoco",
+        "Scudo",
+        "Scarpe alate",
+        "Moneta"
+      ]
+    },
+    {
+      "text": "Giochi di deduzione",
+      "examples": [
+        "Among Us",
+        "Outer Wilds",
+        "Return of the Obra Dinn",
+        "Phasmophobia",
+        "Gone Home"
+      ]
+    },
+    {
+      "text": "Hobby nei videogiochi",
+      "examples": [
+        "Pesca",
+        "Giardinaggio",
+        "Cucina",
+        "Pittura",
+        "Fotografia"
+      ]
+    },
+    {
+      "text": "Cose che si piantano nei giochi",
+      "examples": [
+        "Patate",
+        "Grano",
+        "Zucche",
+        "Fiori",
+        "Carote"
+      ]
+    },
+    {
+      "text": "Simulatori di guida",
+      "examples": [
+        "Euro Truck Simulator",
+        "SnowRunner",
+        "Bus Simulator",
+        "Assetto Corsa",
+        "American Truck Simulator"
+      ]
+    },
+    {
+      "text": "Piattaforme per comprare giochi",
+      "examples": [
+        "Steam",
+        "Epic Games",
+        "GOG",
+        "Origin",
+        "Battle.net"
+      ]
+    },
+    {
+      "text": "Console portatili",
+      "examples": [
+        "PSP",
+        "Nintendo DS",
+        "Steam Deck",
+        "Game Boy Advance",
+        "Neo Geo Pocket"
+      ]
+    },
+    {
+      "text": "Mondi aperti famosi",
+      "examples": [
+        "Breath of the Wild",
+        "Elden Ring",
+        "Horizon Zero Dawn",
+        "Ghost of Tsushima",
+        "The Witcher 3"
+      ]
+    },
+    {
+      "text": "Tornei di esport",
+      "examples": [
+        "The International",
+        "Worlds",
+        "EVO",
+        "Major",
+        "Gamescom"
+      ]
+    },
+    {
+      "text": "Concetti dei giochi di ruolo",
+      "examples": [
+        "Classe",
+        "Livello",
+        "Inventario",
+        "Mana",
+        "Esperienza"
+      ]
+    },
+    {
+      "text": "Giochi da giocare in cooperativa",
+      "examples": [
+        "It Takes Two",
+        "Overcooked",
+        "Portal 2",
+        "Left 4 Dead",
+        "A Way Out"
+      ]
+    },
+    {
+      "text": "Stati alterati nei giochi",
+      "examples": [
+        "Veleno",
+        "Paralisi",
+        "Fuoco",
+        "Sonno",
+        "Confusione"
+      ]
+    },
+    {
+      "text": "Giochi di Star Wars",
+      "examples": [
+        "Jedi: Fallen Order",
+        "Battlefront",
+        "Knights of the Old Republic",
+        "Squadrons",
+        "Republic Commando"
+      ]
+    },
+    {
+      "text": "Pokémon di tipo fuoco",
+      "examples": [
+        "Vulpix",
+        "Growlithe",
+        "Ponyta",
+        "Magmar",
+        "Arcanine"
+      ]
+    },
+    {
+      "text": "Franchise Bethesda",
+      "examples": [
+        "Fallout",
+        "The Elder Scrolls",
+        "Doom",
+        "Wolfenstein",
+        "Dishonored"
+      ]
+    },
+    {
+      "text": "Franchise Capcom",
+      "examples": [
+        "Devil May Cry",
+        "Mega Man",
+        "Ace Attorney",
+        "Dead Rising",
+        "Monster Hunter"
+      ]
+    },
+    {
+      "text": "Protagonisti di Final Fantasy",
+      "examples": [
+        "Cloud",
+        "Tidus",
+        "Squall",
+        "Aerith",
+        "Zidane"
+      ]
+    }
+  ]
+}

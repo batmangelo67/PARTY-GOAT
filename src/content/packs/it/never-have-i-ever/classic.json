@@ -1,0 +1,148 @@
+{
+  "id": "it-never-have-i-ever-classic",
+  "title": "Classico",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "never-have-i-ever"
+  ],
+  "group": "classics",
+  "items": [
+    {
+      "text": "Non ho mai dormito durante un viaggio in treno."
+    },
+    {
+      "text": "Non ho mai pianto guardando un film."
+    },
+    {
+      "text": "Non ho mai cantato a squarciagola in macchina con i finestrini aperti."
+    },
+    {
+      "text": "Non ho mai fatto finta di essere malato per saltare la scuola."
+    },
+    {
+      "text": "Non ho mai rubato una caramella da un supermercato."
+    },
+    {
+      "text": "Non ho mai scritto un messaggio alla persona sbagliata."
+    },
+    {
+      "text": "Non ho mai dimenticato il compleanno di un amico."
+    },
+    {
+      "text": "Non ho mai perso le chiavi di casa."
+    },
+    {
+      "text": "Non ho mai imparato una coreografia a memoria."
+    },
+    {
+      "text": "Non ho mai guidato con la musica a tutto volume."
+    },
+    {
+      "text": "Non ho mai chiesto un bis di gelato."
+    },
+    {
+      "text": "Non ho mai fatto il bagno nel mare di notte."
+    },
+    {
+      "text": "Non ho mai rotto un telefono cadendolo."
+    },
+    {
+      "text": "Non ho mai mangiato le patatine dal pacchetto di qualcun altro senza chiedere."
+    },
+    {
+      "text": "Non sono mai salito su un albero."
+    },
+    {
+      "text": "Non ho mai saltato una fermata del tram per distrazione."
+    },
+    {
+      "text": "Non ho mai cercato il mio nome su Google."
+    },
+    {
+      "text": "Non ho mai letto un libro intero in una sola notte."
+    },
+    {
+      "text": "Non ho mai preso un voto alto senza studiare."
+    },
+    {
+      "text": "Non ho mai ballato al matrimonio di qualcuno che non conoscevo."
+    },
+    {
+      "text": "Non ho mai perso un treno per un minuto."
+    },
+    {
+      "text": "Non ho mai dato un nome a una pianta."
+    },
+    {
+      "text": "Non ho mai riletto un messaggio venti volte prima di inviarlo."
+    },
+    {
+      "text": "Non ho mai pianificato una vacanza in meno di ventiquattro ore."
+    },
+    {
+      "text": "Non ho mai cucinato la pasta senza sale."
+    },
+    {
+      "text": "Non ho mai parlato da solo in pubblico senza accorgermene."
+    },
+    {
+      "text": "Non ho mai scambiato uno sconosciuto per un amico."
+    },
+    {
+      "text": "Non ho mai dormito in una tenda."
+    },
+    {
+      "text": "Non ho mai nascosto un regalo così bene da non ritrovarlo più."
+    },
+    {
+      "text": "Non ho mai pagato una multa per divieto di sosta."
+    },
+    {
+      "text": "Non ho mai detto «ci sentiamo presto» senza pensarlo davvero."
+    },
+    {
+      "text": "Non ho mai mangiato il dolce prima di cena."
+    },
+    {
+      "text": "Non ho mai preso un autobus nella direzione sbagliata."
+    },
+    {
+      "text": "Non ho mai fatto la fila per un concerto la notte prima."
+    },
+    {
+      "text": "Non ho mai attraversato la strada con il semaforo rosso."
+    },
+    {
+      "text": "Non ho mai imparato a fare un nodo con una sola mano."
+    },
+    {
+      "text": "Non ho mai dormito più di dodici ore di fila."
+    },
+    {
+      "text": "Non ho mai lasciato un film a metà senza finirlo."
+    },
+    {
+      "text": "Non ho mai colorato i capelli."
+    },
+    {
+      "text": "Non ho mai fatto una torta da zero."
+    },
+    {
+      "text": "Non ho mai indossato per sbaglio la giacca di un altro."
+    },
+    {
+      "text": "Non ho mai visto il mare d'inverno."
+    },
+    {
+      "text": "Non ho mai giocato a carte per soldi."
+    },
+    {
+      "text": "Non sono mai rimasto chiuso fuori di casa."
+    },
+    {
+      "text": "Non ho mai regalato un libro senza averlo letto."
+    }
+  ]
+}

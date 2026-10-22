@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-champions-league",
+  "title": "Champions League e club europei",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Ajax",
+      "hint": "Vivaio di talenti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Benfica",
+      "hint": "Tradizione d'Europa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Porto",
+      "hint": "Cena e chiacchiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bayern Monaco",
+      "hint": "Vincente da sempre",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Borussia Dortmund",
+      "hint": "Muro di tifosi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "PSG",
+      "hint": "Grandi acquisti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Celtic",
+      "hint": "Cori a squarciagola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galatasaray",
+      "hint": "Serata incandescente",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marsiglia",
+      "hint": "Sole e vento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lione",
+      "hint": "Pranzo tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shakhtar Donetsk",
+      "hint": "Lavoro duro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zenit",
+      "hint": "Gelo d'inverno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olympiacos",
+      "hint": "Tifo rovente",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anderlecht",
+      "hint": "Festa di quartiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Club Brugge",
+      "hint": "Calma d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Basilea",
+      "hint": "Pioggia di aprile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Salisburgo",
+      "hint": "Sole di montagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dinamo Kiev",
+      "hint": "Anni d'oro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lewandowski",
+      "hint": "Ore di allenamento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mbappé",
+      "hint": "Giovane e veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Neymar",
+      "hint": "Festa sfrenata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Messi",
+      "hint": "Fame di trofei",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Maradona",
+      "hint": "Eroe di quartiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kaká",
+      "hint": "Sorriso sincero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Benzema",
+      "hint": "Eleganza in area",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pelé",
+      "hint": "Bianco e nero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Robben",
+      "hint": "Mai stanco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Van Basten",
+      "hint": "Gol in cielo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eto'o",
+      "hint": "Tanta fame",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ronaldinho",
+      "hint": "Festa in spiaggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zidane",
+      "hint": "Ultimo gesto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schmeichel",
+      "hint": "Notte di parate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Casillas",
+      "hint": "Guanti puliti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ballack",
+      "hint": "Sguardo serio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sergio Ramos",
+      "hint": "Sempre in area",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Xabi Alonso",
+      "hint": "Calcio ragionato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gol in trasferta",
+      "hint": "Vecchia regola",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Remontada",
+      "hint": "Notte di miracoli",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tabellone",
+      "hint": "Mani nell'urna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gruppo della morte",
+      "hint": "Mesi di fatica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lotteria dei rigori",
+      "hint": "Mani sudate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Heynckes",
+      "hint": "Carriera lunga",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coppa dalle grandi orecchie",
+      "hint": "Notte di maggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ottavi di finale",
+      "hint": "Anticipo di primavera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Supercoppa Europea",
+      "hint": "Inizio di stagione",
+      "difficulty": "hard"
+    }
+  ]
+}

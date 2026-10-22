@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-fine-dining",
+  "title": "Fine Dining & Gourmet Foods",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Caviar",
+      "hint": "Champagne toast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oysters",
+      "hint": "Sea breeze",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Microgreens",
+      "hint": "Chef's flourish",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Soufflé",
+      "hint": "Collapse risk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crème fraîche",
+      "hint": "Fridge staple",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scallops",
+      "hint": "Ocean treasure",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halibut",
+      "hint": "Fishing trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lamb rack",
+      "hint": "Special anniversary",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venison",
+      "hint": "Hunting season",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foie gras",
+      "hint": "Debate starter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Edible flowers",
+      "hint": "Instagram lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Black truffle",
+      "hint": "Forest floor",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bisque",
+      "hint": "Winter starter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quail",
+      "hint": "Country lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sea urchin",
+      "hint": "Brave bite",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pâté",
+      "hint": "Picnic board",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Morel mushroom",
+      "hint": "Early spring",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wagyu",
+      "hint": "Steak splurge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lobster thermidor",
+      "hint": "Expensive night out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beef wellington",
+      "hint": "Dramatic entrance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bouillabaisse",
+      "hint": "Rich soup",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Consommé",
+      "hint": "Pure flavour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Amuse-bouche",
+      "hint": "Free bite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Escargot",
+      "hint": "Fancy bistro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sous vide",
+      "hint": "Patient chef",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foam",
+      "hint": "Chef's trick",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porcini",
+      "hint": "Woodland walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chanterelle",
+      "hint": "Golden hunt",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sweetbreads",
+      "hint": "Brave diner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gold leaf",
+      "hint": "Showoff plate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mille-feuille",
+      "hint": "Pastry pride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terrine",
+      "hint": "Buffet table",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beurre blanc",
+      "hint": "Rich sauce night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Saffron",
+      "hint": "Expensive spice",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Langoustine",
+      "hint": "Pricey platter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Turbot",
+      "hint": "Deep sea",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Duck confit",
+      "hint": "Cosy Sunday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dover sole",
+      "hint": "Fishmonger find",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pithivier",
+      "hint": "Festival pie",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gastrique",
+      "hint": "Chef's secret",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chateaubriand",
+      "hint": "Sunday banquet",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tournedos Rossini",
+      "hint": "Fancy night out",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carpaccio",
+      "hint": "Thin slices",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tartare",
+      "hint": "Raw hunger",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quenelle",
+      "hint": "Fancy spoon",
+      "difficulty": "hard"
+    }
+  ]
+}

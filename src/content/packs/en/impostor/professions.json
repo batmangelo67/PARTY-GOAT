@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-professions",
+  "title": "Professions & Career Paths",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Doctor",
+      "hint": "Bad news",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teacher",
+      "hint": "Long holidays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Firefighter",
+      "hint": "Sirens at dawn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pilot",
+      "hint": "Early alarms",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nurse",
+      "hint": "Tired feet",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chef",
+      "hint": "Lunch rush",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Farmer",
+      "hint": "Sunrise coffee",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plumber",
+      "hint": "Soggy weekends",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dentist",
+      "hint": "Awkward small talk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lawyer",
+      "hint": "Expensive advice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astronaut",
+      "hint": "Childhood posters",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Electrician",
+      "hint": "Lightbulb moment",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mechanic",
+      "hint": "Road trip stress",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Journalist",
+      "hint": "Nosy neighbours",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Architect",
+      "hint": "Lifelong dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waiter",
+      "hint": "Busy Saturdays",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Accountant",
+      "hint": "Coffee refills",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Police officer",
+      "hint": "Neighbourhood gossip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surgeon",
+      "hint": "Holding breath",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Librarian",
+      "hint": "Overdue notices",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Barber",
+      "hint": "Fresh starts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Judge",
+      "hint": "Strict mood",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Veterinarian",
+      "hint": "Grumpy customers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pharmacist",
+      "hint": "Cough season",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sommelier",
+      "hint": "Fancy dinners",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hairdresser",
+      "hint": "Big reveals",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Photographer",
+      "hint": "Family reunions",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Babysitter",
+      "hint": "Pizza and cartoons",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cashier",
+      "hint": "Long queues",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bartender",
+      "hint": "Loud Fridays",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Actor",
+      "hint": "Dramatic sighs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Musician",
+      "hint": "Long van rides",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Engineer",
+      "hint": "Puzzle nerds",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Programmer",
+      "hint": "Late-night coffee",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lifeguard",
+      "hint": "Sunburnt noses",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Translator",
+      "hint": "Mixed signals",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cartographer",
+      "hint": "Lost hikers",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Notary",
+      "hint": "Stern signatures",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Actuary",
+      "hint": "Crystal balls",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Blacksmith",
+      "hint": "Strong arms",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Taxidermist",
+      "hint": "Dusty museums",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Locksmith",
+      "hint": "Midnight emergencies",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stonemason",
+      "hint": "Sore knees",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Glassblower",
+      "hint": "Careful hands",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Diplomat",
+      "hint": "Awkward toasts",
+      "difficulty": "hard"
+    }
+  ]
+}

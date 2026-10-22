@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-student-life",
+  "title": "Student Life",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Exam",
+      "hint": "Sleepless nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Library",
+      "hint": "Overdue fines",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lecture",
+      "hint": "Late arrivals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deadline",
+      "hint": "Ticking clocks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canteen",
+      "hint": "Cheap meals",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dorm",
+      "hint": "Loud neighbours",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roommate",
+      "hint": "Bathroom queues",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Essay",
+      "hint": "Blank pages",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campus",
+      "hint": "Sprawling grounds",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Syllabus",
+      "hint": "Bold promises",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tutorial",
+      "hint": "Awkward silences",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flatmate",
+      "hint": "Fridge rules",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Student ID",
+      "hint": "Bargain hunts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hangover",
+      "hint": "Pub crawls",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Freshers' Week",
+      "hint": "Loud welcomes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caffeine",
+      "hint": "Shaky hands",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dissertation",
+      "hint": "Endless drafts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scholarship",
+      "hint": "Good grades",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bursary",
+      "hint": "Tight budget",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plagiarism",
+      "hint": "Honest mistakes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Study group",
+      "hint": "Phone buzzes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pop quiz",
+      "hint": "Shock tactics",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Group project",
+      "hint": "Team drama",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cram session",
+      "hint": "Pizza boxes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Student loan",
+      "hint": "Future worries",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Office hours",
+      "hint": "Awkward visits",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seminar",
+      "hint": "Hand raising",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orientation",
+      "hint": "First impressions",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Registration",
+      "hint": "Long lines",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Study abroad",
+      "hint": "Language mix-ups",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lab partner",
+      "hint": "Awkward pairings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gap year",
+      "hint": "Delayed plans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alumni",
+      "hint": "Nostalgic emails",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuition",
+      "hint": "Parental sighs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dean's list",
+      "hint": "Proud parents",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Academic probation",
+      "hint": "Shaky confidence",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Transcript",
+      "hint": "Job applications",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Peer review",
+      "hint": "Harsh feedback",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mock exam",
+      "hint": "Test drive",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Credit hours",
+      "hint": "Timetable clashes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prerequisite",
+      "hint": "Hard rules",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quad",
+      "hint": "Frisbee throws",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sabbatical",
+      "hint": "Paid leave",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Textbook",
+      "hint": "Heavy backpacks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Notebook",
+      "hint": "Doodle margins",
+      "difficulty": "easy"
+    }
+  ]
+}

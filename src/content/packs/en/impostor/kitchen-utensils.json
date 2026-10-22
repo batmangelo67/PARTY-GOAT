@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-kitchen-utensils",
+  "title": "Kitchen Utensils & Cookware",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Spatula",
+      "hint": "Sizzling drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ladle",
+      "hint": "Family feast",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Whisk",
+      "hint": "Kitchen showdown",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rolling pin",
+      "hint": "Pizza night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Colander",
+      "hint": "Pasta night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tongs",
+      "hint": "Garden party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Peeler",
+      "hint": "Peeling paint",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wooden spoon",
+      "hint": "Family argument",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cutting board",
+      "hint": "Messy worktop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frying pan",
+      "hint": "Hangover cure",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Saucepan",
+      "hint": "Boiling point",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wok",
+      "hint": "Chopstick battle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mixing bowl",
+      "hint": "Party dessert",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Corkscrew",
+      "hint": "Happy hour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Can opener",
+      "hint": "Power cut",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teapot",
+      "hint": "Polite chat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oven mitt",
+      "hint": "Bread rescue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pepper mill",
+      "hint": "Restaurant waiter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grater",
+      "hint": "Knuckle scrapes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Garlic press",
+      "hint": "Smelly fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Measuring jug",
+      "hint": "Maths lesson",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sieve",
+      "hint": "Gardening soil",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Meat thermometer",
+      "hint": "Food poisoning fear",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cake tin",
+      "hint": "Office fundraiser",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Muffin tin",
+      "hint": "School fete",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baking tray",
+      "hint": "Festive sprinkles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Casserole dish",
+      "hint": "Sharing with neighbours",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chopping knife",
+      "hint": "Sushi bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Salad spinner",
+      "hint": "Dieting challenge",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Egg timer",
+      "hint": "Ticking clock",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pizza cutter",
+      "hint": "Movie marathon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ice cream scoop",
+      "hint": "Seaside queue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pastry brush",
+      "hint": "Fancy bakery",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kitchen scales",
+      "hint": "Diet diary",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nutcracker",
+      "hint": "Christmas stocking",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cheese slicer",
+      "hint": "Pub lunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mandoline",
+      "hint": "Fingertip care",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fish kettle",
+      "hint": "Big catch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bain-marie",
+      "hint": "Gentle heating",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ramekin",
+      "hint": "Dessert for two",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dutch oven",
+      "hint": "Slow Sunday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Skimmer",
+      "hint": "Oily chaos",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pestle",
+      "hint": "Potion class",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zester",
+      "hint": "Gin and tonic",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Potato ricer",
+      "hint": "Posh chef",
+      "difficulty": "hard"
+    }
+  ]
+}

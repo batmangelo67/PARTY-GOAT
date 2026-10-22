@@ -1,0 +1,473 @@
+{
+  "id": "en-forbidden-words-animals-nature",
+  "title": "Animals & Nature",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Dolphin",
+      "banned": [
+        "Ocean",
+        "Flipper",
+        "Sonar",
+        "Pod"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Owl",
+      "banned": [
+        "Night",
+        "Hoot",
+        "Wise",
+        "Feathers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Octopus",
+      "banned": [
+        "Eight",
+        "Tentacles",
+        "Ink",
+        "Sea"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Camel",
+      "banned": [
+        "Desert",
+        "Hump",
+        "Sahara",
+        "Caravan"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bee",
+      "banned": [
+        "Honey",
+        "Hive",
+        "Buzz",
+        "Pollen"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giraffe",
+      "banned": [
+        "Neck",
+        "Tall",
+        "Spots",
+        "Savanna"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snail",
+      "banned": [
+        "Shell",
+        "Slime",
+        "Slow",
+        "Garden"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bat",
+      "banned": [
+        "Cave",
+        "Vampire",
+        "Wings",
+        "Echolocation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Frog",
+      "banned": [
+        "Pond",
+        "Croak",
+        "Tadpole",
+        "Lily Pad"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panda",
+      "banned": [
+        "Bamboo",
+        "China",
+        "Black and White",
+        "Cuddly"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hedgehog",
+      "banned": [
+        "Spikes",
+        "Prickly",
+        "Sonic",
+        "Ball"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mosquito",
+      "banned": [
+        "Bite",
+        "Itch",
+        "Summer",
+        "Buzzing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rainforest",
+      "banned": [
+        "Trees",
+        "Jungle",
+        "Amazon",
+        "Humid"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volcano",
+      "banned": [
+        "Lava",
+        "Eruption",
+        "Magma",
+        "Crater"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tornado",
+      "banned": [
+        "Wind",
+        "Twister",
+        "Storm",
+        "Funnel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rhinoceros",
+      "banned": [
+        "Horn",
+        "Africa",
+        "Thick Skin",
+        "Safari"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seahorse",
+      "banned": [
+        "Curly Tail",
+        "Male Pregnancy",
+        "Tiny",
+        "Ocean"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Iceberg",
+      "banned": [
+        "Titanic",
+        "Tip",
+        "Arctic",
+        "Floating"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cactus",
+      "banned": [
+        "Spines",
+        "Saguaro",
+        "Thorns",
+        "Succulent"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sloth",
+      "banned": [
+        "Lazy",
+        "Hanging",
+        "Upside-down",
+        "Leaves"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lobster",
+      "banned": [
+        "Claws",
+        "Crustacean",
+        "Pot",
+        "Butter"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moth",
+      "banned": [
+        "Flame",
+        "Wings",
+        "Night",
+        "Wardrobe"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peacock",
+      "banned": [
+        "Tail",
+        "Plumage",
+        "Display",
+        "Colourful"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Woodpecker",
+      "banned": [
+        "Tree",
+        "Beak",
+        "Drumming",
+        "Bark"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pine Tree",
+      "banned": [
+        "Christmas",
+        "Needles",
+        "Conifer",
+        "Cone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oak",
+      "banned": [
+        "Acorn",
+        "Mighty",
+        "Wood",
+        "Sturdy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wolf",
+      "banned": [
+        "Pack",
+        "Howl",
+        "Moon",
+        "Forest"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiger",
+      "banned": [
+        "Stripes",
+        "Cat",
+        "Jungle",
+        "Bengal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zebra",
+      "banned": [
+        "Horse",
+        "Africa",
+        "Crossing",
+        "Herd"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crocodile",
+      "banned": [
+        "Swamp",
+        "Snapping",
+        "Reptile",
+        "Teeth"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seagull",
+      "banned": [
+        "Chips",
+        "Beach",
+        "Squawk",
+        "Pier"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Earthquake",
+      "banned": [
+        "Shake",
+        "Tremor",
+        "Fault",
+        "Richter"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rainbow",
+      "banned": [
+        "Colours",
+        "Sky",
+        "Arc",
+        "Pot of Gold"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avalanche",
+      "banned": [
+        "Snow",
+        "Slide",
+        "Mountain",
+        "Skiing"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hurricane",
+      "banned": [
+        "Storm",
+        "Caribbean",
+        "Eye",
+        "Category"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Waterfall",
+      "banned": [
+        "Niagara",
+        "Cascade",
+        "Plunge",
+        "Spray"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Desert",
+      "banned": [
+        "Sand",
+        "Dunes",
+        "Dry",
+        "Oasis"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ant",
+      "banned": [
+        "Colony",
+        "Queen",
+        "Tiny",
+        "Picnic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Starfish",
+      "banned": [
+        "Ocean",
+        "Arms",
+        "Tide Pool",
+        "Five"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jellyfish",
+      "banned": [
+        "Sting",
+        "Translucent",
+        "Medusa",
+        "Drifting"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Flamingo",
+      "banned": [
+        "Pink",
+        "Lake",
+        "Standing",
+        "Kenya"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eagle",
+      "banned": [
+        "Talons",
+        "Prey",
+        "Soaring",
+        "Hunter"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Beaver",
+      "banned": [
+        "Dam",
+        "Gnaw",
+        "Lodge",
+        "Stream"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chameleon",
+      "banned": [
+        "Colour Change",
+        "Lizard",
+        "Tongue",
+        "Camouflage"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Termite",
+      "banned": [
+        "Mound",
+        "Insect",
+        "Nest",
+        "Chew"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pebble",
+      "banned": [
+        "Stone",
+        "Beach",
+        "Smooth",
+        "Rock"
+      ],
+      "difficulty": "easy"
+    }
+  ]
+}

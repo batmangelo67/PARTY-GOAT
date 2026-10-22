@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-vacation-destinations",
+  "title": "Mete di vacanza",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Ibiza",
+      "hint": "Notte fino all'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mykonos",
+      "hint": "Ferie tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Santorini",
+      "hint": "Foto da postare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maldive",
+      "hint": "Fuga romantica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disneyland",
+      "hint": "Code interminabili",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portofino",
+      "hint": "Aperitivo sul molo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Capri",
+      "hint": "Gita in barca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Positano",
+      "hint": "Terrazze in salita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taormina",
+      "hint": "Serate estive",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cancún",
+      "hint": "Festa senza fine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sharm el-Sheikh",
+      "hint": "Snorkeling al mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Club Med",
+      "hint": "Tutto incluso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jesolo",
+      "hint": "Ombrellone affollato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mallorca",
+      "hint": "Ragazzi in vacanza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bora Bora",
+      "hint": "Anniversario speciale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Phuket",
+      "hint": "Mercato notturno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tropea",
+      "hint": "Scogliera a picco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aruba",
+      "hint": "Vacanza senza pensieri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lago di Como",
+      "hint": "Gita in battello",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ischia",
+      "hint": "Giornate a mollo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hurghada",
+      "hint": "Sabbia e piscina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Punta Cana",
+      "hint": "Cocktail in piscina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zanzibar",
+      "hint": "Mare turchese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rodi",
+      "hint": "Ruderi antichi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hvar",
+      "hint": "Vita da barca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bibione",
+      "hint": "Campeggio in famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algarve",
+      "hint": "Scogliere e vento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tenerife",
+      "hint": "Vacanza di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tulum",
+      "hint": "Yoga sulla spiaggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chamonix",
+      "hint": "Vacanza invernale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cervinia",
+      "hint": "Settimana bianca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lapponia",
+      "hint": "Notte senza fine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Saint-Tropez",
+      "hint": "Yacht e champagne",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cefalonia",
+      "hint": "Acqua limpidissima",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Corfù",
+      "hint": "Mare e silenzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Madeira",
+      "hint": "Fiori ovunque",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cinque Terre",
+      "hint": "Treno lento",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Costa Smeralda",
+      "hint": "Villa sul mare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gardaland",
+      "hint": "Urla di gioia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ko Samui",
+      "hint": "Festa sulla spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Creta",
+      "hint": "Gita nel passato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zacinto",
+      "hint": "Scogliere di notte",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lanzarote",
+      "hint": "Paesaggio lunare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ayia Napa",
+      "hint": "Vacanza degli universitari",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kos",
+      "hint": "Taverna sul mare",
+      "difficulty": "hard"
+    }
+  ]
+}

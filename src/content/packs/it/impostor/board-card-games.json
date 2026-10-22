@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-board-card-games",
+  "title": "Giochi da tavolo e di carte",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Monopoli",
+      "hint": "Litigi in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Risiko",
+      "hint": "Partita di sabato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scarabeo",
+      "hint": "Serata dalla nonna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cluedo",
+      "hint": "Festa di Capodanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uno",
+      "hint": "Partita rapida",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scopa",
+      "hint": "Zii a tavola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Briscola",
+      "hint": "Pranzo di Ferragosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scacchi",
+      "hint": "Pomeriggio in biblioteca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dama",
+      "hint": "Pomeriggio con nonno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jenga",
+      "hint": "Respiro trattenuto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Twister",
+      "hint": "Risate forzate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Backgammon",
+      "hint": "Vacanze al mare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mikado",
+      "hint": "Mano tremante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pictionary",
+      "hint": "Risate in squadra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dobble",
+      "hint": "Sfida tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tombola",
+      "hint": "Vigilia di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Memory",
+      "hint": "Pausa in cameretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Battaglia navale",
+      "hint": "Pausa in classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catan",
+      "hint": "Cena di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carcassonne",
+      "hint": "Pausa in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ticket to Ride",
+      "hint": "Viaggio in treno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trivial Pursuit",
+      "hint": "Dopo cena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pandemic",
+      "hint": "Notiziario di sera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dixit",
+      "hint": "Pensieri in vacanza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Codenames",
+      "hint": "Indovinelli al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Machiavelli",
+      "hint": "Compleanno di zia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bang!",
+      "hint": "Notte di sospetti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sushi Go",
+      "hint": "Pranzo veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Azul",
+      "hint": "Pomeriggio di sole",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Splendor",
+      "hint": "Mano d'oro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dominion",
+      "hint": "Piano lungimirante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coup",
+      "hint": "Sguardo furbo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tressette",
+      "hint": "Domenica dei nonni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burraco",
+      "hint": "Estate al lago",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ramino",
+      "hint": "Serata in terrazza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cribbage",
+      "hint": "Vecchio mazzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gloomhaven",
+      "hint": "Partita infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Twilight Struggle",
+      "hint": "Tensione a tavola",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dune Imperium",
+      "hint": "Visione lontana",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Terra Mystica",
+      "hint": "Lunga strategia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Agricola",
+      "hint": "Estate di lavoro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brass: Birmingham",
+      "hint": "Stress da lavoro",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mage Knight",
+      "hint": "Strada senza fine",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Puerto Rico",
+      "hint": "Sole e sabbia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eclipse",
+      "hint": "Buio pomeridiano",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "id": "it-circa-spicy-facts",
+  "title": "Fatti per adulti",
+  "language": "it",
+  "spice": 2,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "adults",
+  "items": [
+    {
+      "question": "Qual è la gradazione minima della vodka nell'UE (in %)?",
+      "answer": 37.5,
+      "unit": "%",
+      "format": "number",
+      "decoyQuestion": "Qual è la gradazione minima del whisky scozzese (in %)?",
+      "decoyAnswer": 40
+    },
+    {
+      "question": "Quanti gradi alcolici ha l'Aperol (in %)?",
+      "answer": 11,
+      "unit": "%",
+      "format": "number",
+      "decoyQuestion": "Quanti gradi alcolici ha il Campari (in %)?",
+      "decoyAnswer": 25
+    },
+    {
+      "question": "Quanti gradi alcolici ha una birra Heineken (in %)?",
+      "answer": 5,
+      "unit": "%",
+      "format": "number",
+      "decoyQuestion": "Quanti gradi alcolici ha una Guinness Draught (in %)?",
+      "decoyAnswer": 4.2
+    },
+    {
+      "question": "Quanti gradi alcolici ha il Jägermeister (in %)?",
+      "answer": 35,
+      "unit": "%",
+      "format": "number",
+      "decoyQuestion": "Quanti gradi alcolici ha il Baileys (in %)?",
+      "decoyAnswer": 17
+    },
+    {
+      "question": "Qual è la soglia massima di alcol per definire una bevanda 'analcolica' nell'UE (in %)?",
+      "answer": 0.5,
+      "unit": "%",
+      "format": "number",
+      "decoyQuestion": "Qual è la gradazione minima del brandy nell'UE (in %)?",
+      "decoyAnswer": 36
+    },
+    {
+      "question": "In che anno fu fondata la maison di champagne Moët & Chandon?",
+      "answer": 1743,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la maison di champagne Ruinart?",
+      "decoyAnswer": 1729
+    },
+    {
+      "question": "In che anno fu fondata la Heineken?",
+      "answer": 1864,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Carlsberg?",
+      "decoyAnswer": 1847
+    },
+    {
+      "question": "In che anno fu fondata la Martini?",
+      "answer": 1863,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Campari?",
+      "decoyAnswer": 1860
+    },
+    {
+      "question": "In che anno si tenne la prima edizione del Glastonbury Festival?",
+      "answer": 1970,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione del Coachella?",
+      "decoyAnswer": 1999
+    },
+    {
+      "question": "In che anno si tenne il primo Woodstock?",
+      "answer": 1969,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione del Lollapalooza?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno si tenne la prima edizione del Festival di Sanremo?",
+      "answer": 1951,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne il primo Festival di Cannes?",
+      "decoyAnswer": 1946
+    },
+    {
+      "question": "In che anno si tenne il primo Eurovision Song Contest?",
+      "answer": 1956,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne il primo Oktoberfest?",
+      "decoyAnswer": 1810
+    },
+    {
+      "question": "In che anno aprì lo Studio 54 di New York?",
+      "answer": 1977,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno aprì il Moulin Rouge di Parigi?",
+      "decoyAnswer": 1889
+    },
+    {
+      "question": "In che anno aprì il Pacha di Ibiza?",
+      "answer": 1973,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno aprì il Berghain di Berlino?",
+      "decoyAnswer": 2004
+    },
+    {
+      "question": "In che anno fu fondata l'app Tinder?",
+      "answer": 2012,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu lanciata l'app Bumble?",
+      "decoyAnswer": 2014
+    },
+    {
+      "question": "In che anno fu fondata l'app Grindr?",
+      "answer": 2009,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato Match.com?",
+      "decoyAnswer": 1995
+    },
+    {
+      "question": "Quanti centilitri contiene una bottiglia standard di vino?",
+      "answer": 75,
+      "unit": "cl",
+      "format": "number",
+      "decoyQuestion": "Quanti centilitri contiene una magnum di champagne?",
+      "decoyAnswer": 150
+    },
+    {
+      "question": "In che anno aprì il Cavern Club di Liverpool?",
+      "answer": 1957,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno aprì il Cotton Club di Harlem?",
+      "decoyAnswer": 1923
+    },
+    {
+      "question": "In che anno si tenne la prima edizione del Festival di Edimburgo?",
+      "answer": 1947,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne il primo Festival di Salisburgo?",
+      "decoyAnswer": 1920
+    },
+    {
+      "question": "In che anno fu fondata la Mostra del cinema di Venezia?",
+      "answer": 1932,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il Festival di Berlino?",
+      "decoyAnswer": 1951
+    },
+    {
+      "question": "In che anno fu fondata l'azienda che produce lo Jägermeister?",
+      "answer": 1878,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu lanciato Baileys?",
+      "decoyAnswer": 1974
+    },
+    {
+      "question": "In che anno fu fondata Bacardi?",
+      "answer": 1862,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la distilleria Jack Daniel's?",
+      "decoyAnswer": 1866
+    },
+    {
+      "question": "In che anno fu fondata Starbucks?",
+      "answer": 1971,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu creata la Coca-Cola?",
+      "decoyAnswer": 1886
+    },
+    {
+      "question": "In che anno fu fondata la Red Bull?",
+      "answer": 1987,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu lanciata la Nespresso?",
+      "decoyAnswer": 1986
+    },
+    {
+      "question": "In che anno fu fondata la Lavazza?",
+      "answer": 1895,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la illy?",
+      "decoyAnswer": 1933
+    },
+    {
+      "question": "In che anno fu fondata la Cinzano?",
+      "answer": 1757,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Carpano?",
+      "decoyAnswer": 1786
+    },
+    {
+      "question": "In che anno fu fondata la Beefeater?",
+      "answer": 1863,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Tanqueray?",
+      "decoyAnswer": 1830
+    },
+    {
+      "question": "In che anno fu fondata la Johnnie Walker?",
+      "answer": 1820,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Glenfiddich?",
+      "decoyAnswer": 1887
+    },
+    {
+      "question": "In che anno fu fondato il Cointreau?",
+      "answer": 1849,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu creato il marchio Absolut?",
+      "decoyAnswer": 1879
+    },
+    {
+      "question": "In che anno fu fondato il Fernet-Branca?",
+      "answer": 1845,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato l'Averna?",
+      "decoyAnswer": 1868
+    },
+    {
+      "question": "In che anno aprì l'Amnesia di Ibiza?",
+      "answer": 1976,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno aprì il Ministry of Sound di Londra?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno si tenne il primo Burning Man?",
+      "answer": 1986,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne il primo Montreux Jazz Festival?",
+      "decoyAnswer": 1967
+    },
+    {
+      "question": "In che anno si tenne la prima edizione del Tomorrowland?",
+      "answer": 2005,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione dell'Ultra Music Festival?",
+      "decoyAnswer": 1999
+    },
+    {
+      "question": "In che anno si tenne la prima edizione dello Sziget?",
+      "answer": 1993,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione del Roskilde Festival?",
+      "decoyAnswer": 1971
+    },
+    {
+      "question": "In che anno aprì l'Hacienda di Manchester?",
+      "answer": 1982,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno aprì il CBGB di New York?",
+      "decoyAnswer": 1973
+    }
+  ]
+}

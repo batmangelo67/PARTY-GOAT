@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-nba-teams-stars",
+  "title": "NBA Teams & Stars",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Lakers",
+      "hint": "Star-studded seats",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Celtics",
+      "hint": "Banner collection",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bulls",
+      "hint": "Golden nineties",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warriors",
+      "hint": "Shooting drills",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Knicks",
+      "hint": "Taxi cab honks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heat",
+      "hint": "Hot summer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spurs",
+      "hint": "Smooth passing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rockets",
+      "hint": "Lift off",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nets",
+      "hint": "Fishing trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bucks",
+      "hint": "Frosty morning",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Raptors",
+      "hint": "Prehistoric vibes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Suns",
+      "hint": "Lazy afternoons",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mavericks",
+      "hint": "Rebel streak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pistons",
+      "hint": "Factory line",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hawks",
+      "hint": "Early bird",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clippers",
+      "hint": "Sunset drive",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nuggets",
+      "hint": "Thin air",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pacers",
+      "hint": "Pit crew",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pelicans",
+      "hint": "Swamp boat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Magic",
+      "hint": "Fairy tale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kings",
+      "hint": "Castle tour",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trail Blazers",
+      "hint": "Nature hike",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Grizzlies",
+      "hint": "Camping trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "LeBron James",
+      "hint": "Mega contract",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stephen Curry",
+      "hint": "Pregame warmup",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kevin Durant",
+      "hint": "Morning shootaround",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giannis Antetokounmpo",
+      "hint": "Family story",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Luka Dončić",
+      "hint": "Hype train",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nikola Jokić",
+      "hint": "Lazy afternoon",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Victor Wembanyama",
+      "hint": "Rookie year",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jayson Tatum",
+      "hint": "Playoff run",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kawhi Leonard",
+      "hint": "Few words",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shai Gilgeous-Alexander",
+      "hint": "Slow stroll",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anthony Davis",
+      "hint": "Injury report",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Damian Lillard",
+      "hint": "Smooth shot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ja Morant",
+      "hint": "Social media posts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Donovan Mitchell",
+      "hint": "Hot streak",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anthony Edwards",
+      "hint": "Loud hype",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Joel Embiid",
+      "hint": "Late nights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jimmy Butler",
+      "hint": "Tough minutes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paul George",
+      "hint": "California sun",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Devin Booker",
+      "hint": "Late-game call",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trae Young",
+      "hint": "Crowd cheer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Timberwolves",
+      "hint": "Frozen north",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hornets",
+      "hint": "Summer picnic",
+      "difficulty": "easy"
+    }
+  ]
+}

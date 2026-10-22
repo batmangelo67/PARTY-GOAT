@@ -1,0 +1,464 @@
+{
+  "id": "it-forbidden-words-basketball",
+  "title": "Basket",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Canestro",
+      "banned": [
+        "Cesto",
+        "Tabellone",
+        "Ferro",
+        "Retina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Schiacciata",
+      "banned": [
+        "Dunk",
+        "Salto",
+        "Tabellone",
+        "Stoppata"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiro libero",
+      "banned": [
+        "Lunetta",
+        "Fallo",
+        "Due tiri",
+        "Linea della carità"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Palleggio",
+      "banned": [
+        "Dribbling",
+        "Mano",
+        "Rimbalzare",
+        "Battere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rimbalzo",
+      "banned": [
+        "Recupero palla",
+        "Ricaduta",
+        "Presa",
+        "Tabellone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tripla",
+      "banned": [
+        "Arco",
+        "Tre punti",
+        "Lontano",
+        "Tiro da fuori"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Assist",
+      "banned": [
+        "Passaggio decisivo",
+        "Compagno",
+        "Regia",
+        "Passaggio"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Timeout",
+      "banned": [
+        "Pausa",
+        "Panchina",
+        "Allenatore",
+        "Minuto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stoppata",
+      "banned": [
+        "Muro",
+        "Respingere",
+        "Rimbalzo",
+        "Dito"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "NBA",
+      "banned": [
+        "Stati Uniti",
+        "Lega",
+        "Americana",
+        "Campionato"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pivot",
+      "banned": [
+        "Centro",
+        "Lungo",
+        "Area",
+        "Spalle a canestro"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pallacanestro",
+      "banned": [
+        "Basket",
+        "Canestro",
+        "Palla",
+        "Campo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cestista",
+      "banned": [
+        "Maglia",
+        "Scarpe",
+        "Palla arancione",
+        "Atleta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parquet",
+      "banned": [
+        "Campo",
+        "Legno",
+        "Lucido",
+        "Suola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Canotta",
+      "banned": [
+        "Maglia",
+        "Numero",
+        "Divisa",
+        "Sponsor"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Palla arancione",
+      "banned": [
+        "Cuoio",
+        "Pallone",
+        "Parquet",
+        "Gomma"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fischio",
+      "banned": [
+        "Arbitro",
+        "Stop",
+        "Pausa",
+        "Bocca"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Playground",
+      "banned": [
+        "Strada",
+        "Campetto",
+        "Amici",
+        "Asfalto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tabellone",
+      "banned": [
+        "Punteggio",
+        "Schermo",
+        "Cronometro",
+        "Tempo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crossover",
+      "banned": [
+        "Cambio di mano",
+        "Finta",
+        "Palleggio",
+        "Velocità"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alley-oop",
+      "banned": [
+        "Passaggio al volo",
+        "Compagno",
+        "Salto",
+        "Aereo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fadeaway",
+      "banned": [
+        "Tiro in allontanamento",
+        "Spalle",
+        "Arretrare",
+        "Fuga"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penetrazione",
+      "banned": [
+        "Entrare",
+        "Area",
+        "Taglio",
+        "Aggressività"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Buzzer beater",
+      "banned": [
+        "Sirena",
+        "Ultimo secondo",
+        "Tiro vincente",
+        "Fine"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zona",
+      "banned": [
+        "Difesa collettiva",
+        "Schieramento",
+        "Cinque",
+        "Tattica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palla persa",
+      "banned": [
+        "Turnover",
+        "Errore",
+        "Rubata",
+        "Passaggio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gancio",
+      "banned": [
+        "Hook",
+        "Braccio",
+        "Tiro",
+        "Sinistro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Double-double",
+      "banned": [
+        "Doppia cifra",
+        "Punti",
+        "Rimbalzi",
+        "Assist"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stagione regolare",
+      "banned": [
+        "Campionato",
+        "Playoff",
+        "Partite",
+        "Classifica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panchinaro",
+      "banned": [
+        "Riserva",
+        "Ultimo",
+        "Scaldarsi",
+        "Cambio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palla a due",
+      "banned": [
+        "Salto a due",
+        "Inizio",
+        "Arbitro",
+        "Centro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiro in sospensione",
+      "banned": [
+        "Jump shot",
+        "Salto",
+        "Stacco",
+        "Mano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quintetto",
+      "banned": [
+        "Cinque",
+        "Titolari",
+        "Formazione",
+        "Campo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scarpe da basket",
+      "banned": [
+        "Sneakers",
+        "Suola",
+        "Caviglia",
+        "Lacci"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Passaggio no-look",
+      "banned": [
+        "Senza guardare",
+        "Finta",
+        "Trucco",
+        "Magia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schema",
+      "banned": [
+        "Giochi",
+        "Tattica",
+        "Lavagnetta",
+        "Pausa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pick-and-roll",
+      "banned": [
+        "Blocco",
+        "Taglio",
+        "Portatore",
+        "Ricevitore"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shot clock",
+      "banned": [
+        "Ventiquattro secondi",
+        "Cronometro",
+        "Orologio",
+        "Tempo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eurolega",
+      "banned": [
+        "Europa",
+        "Coppa",
+        "Club",
+        "Milano"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tre secondi",
+      "banned": [
+        "Area",
+        "Limite",
+        "Difensore",
+        "Regola"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fallo di sfondamento",
+      "banned": [
+        "Offensivo",
+        "Contatto",
+        "Blocco",
+        "Spinta"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ala piccola",
+      "banned": [
+        "Posizione",
+        "Tiratore",
+        "Numero 3",
+        "Esterno"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Guardia",
+      "banned": [
+        "Play",
+        "Piccolo",
+        "Numero 1",
+        "Difensore"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lungo",
+      "banned": [
+        "Centro",
+        "Alto",
+        "Torre",
+        "Stazza"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ferro",
+      "banned": [
+        "Cerchio",
+        "Arancia",
+        "Rete",
+        "Cestino"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

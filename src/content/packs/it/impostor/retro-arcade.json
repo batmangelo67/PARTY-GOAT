@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-retro-arcade",
+  "title": "Classici retro e arcade",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Pong",
+      "hint": "Sfida tra fratelli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Space Invaders",
+      "hint": "Pausa merenda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pac-Man",
+      "hint": "Cena in ritardo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tetris",
+      "hint": "Valigia da chiudere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Donkey Kong",
+      "hint": "Prima cotta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Asteroids",
+      "hint": "Serata in campeggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frogger",
+      "hint": "Corsa al bus",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galaga",
+      "hint": "Sabato di luglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Breakout",
+      "hint": "Pomeriggio di scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Q*bert",
+      "hint": "Giornata storta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Centipede",
+      "hint": "Coda alla posta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pitfall",
+      "hint": "Avventura al parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dig Dug",
+      "hint": "Sabbia nei sandali",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Defender",
+      "hint": "Sveglio di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Joust",
+      "hint": "Scommessa tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gradius",
+      "hint": "Libretto d'istruzioni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bomberman",
+      "hint": "Fuochi di Capodanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lemmings",
+      "hint": "Gita di classe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Game Boy",
+      "hint": "Viaggi in treno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Atari 2600",
+      "hint": "Salotto anni ottanta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mega Drive",
+      "hint": "Cena di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Commodore 64",
+      "hint": "Lezione di informatica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nintendo 64",
+      "hint": "Regalo di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dreamcast",
+      "hint": "Cassetto dei ricordi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cartuccia",
+      "hint": "Rito scaramantico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Double Dragon",
+      "hint": "Brutto mercoledì",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Prince of Persia",
+      "hint": "Corsa a perdifiato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metroid",
+      "hint": "Missione notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Castlevania",
+      "hint": "Brivido d'ottobre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bubble Bobble",
+      "hint": "Giochi d'infanzia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rampage",
+      "hint": "Serata sbagliata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paperboy",
+      "hint": "Sveglia all'alba",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arkanoid",
+      "hint": "Gara di riflessi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lode Runner",
+      "hint": "Compito in classe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spy Hunter",
+      "hint": "Notte di pioggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "ZX Spectrum",
+      "hint": "Ore di caricamento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Missile Command",
+      "hint": "Prova antincendio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zaxxon",
+      "hint": "Gara a ostacoli",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Berzerk",
+      "hint": "Rimprovero del capo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gauntlet",
+      "hint": "Sala d'aspetto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Robotron",
+      "hint": "Turno in fabbrica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tempest",
+      "hint": "Notte in barca",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kaboom!",
+      "hint": "Piccolo incidente",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lunar Lander",
+      "hint": "Sogno di bambino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ghosts 'n Goblins",
+      "hint": "Ore di fatica",
+      "difficulty": "hard"
+    }
+  ]
+}

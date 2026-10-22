@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-premier-league-la-liga",
+  "title": "Premier League e Liga",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Arsenal",
+      "hint": "Classe e ordine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chelsea",
+      "hint": "Mercato stellare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Liverpool",
+      "hint": "Lacrime di gioia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manchester United",
+      "hint": "Bacheca piena",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Manchester City",
+      "hint": "Fine stagione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tottenham",
+      "hint": "Pranzo domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Everton",
+      "hint": "Vecchio pub",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Newcastle",
+      "hint": "Vento del nord",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leicester",
+      "hint": "Favola di primavera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Real Madrid",
+      "hint": "Lusso e trofei",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barcellona",
+      "hint": "Bel calcio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atlético Madrid",
+      "hint": "Corsa sino all'ultimo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Siviglia",
+      "hint": "Caldo di agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Valencia",
+      "hint": "Vacanza in spiaggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Villarreal",
+      "hint": "Sorpresa in Europa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Athletic Bilbao",
+      "hint": "Vivaio di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Real Sociedad",
+      "hint": "Passeggiata in riva",
+      "difficulty": "easy"
+    },
+    {
+      "word": "El Clásico",
+      "hint": "Tensione alle stelle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Klopp",
+      "hint": "Pressing e sorrisi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Guardiola",
+      "hint": "Mai contento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ancelotti",
+      "hint": "Sempre sereno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wenger",
+      "hint": "Lezione di stile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferguson",
+      "hint": "Vecchio saggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Henry",
+      "hint": "Eleganza in fuga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Beckham",
+      "hint": "Moda e carriera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rooney",
+      "hint": "Ragazzo di quartiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Salah",
+      "hint": "Sorriso sempre",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gerrard",
+      "hint": "Cuore e grinta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Drogba",
+      "hint": "Gigante buono",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Modric",
+      "hint": "Eleganza senza fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Iniesta",
+      "hint": "Piccolo e leggero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Xavi",
+      "hint": "Un passo avanti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Puskás",
+      "hint": "Sempre al tiro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cruyff",
+      "hint": "Idea rivoluzionaria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ronaldo",
+      "hint": "Sorriso e selfie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Suárez",
+      "hint": "Fame di gol",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stamford Bridge",
+      "hint": "Pranzo in tribuna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anfield",
+      "hint": "Tifo da brivido",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kompany",
+      "hint": "Mente lucida",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dani Alves",
+      "hint": "Sempre in corsa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pichichi",
+      "hint": "Vecchio bomber",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tiki-taka",
+      "hint": "Passaggio e pazienza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bernabéu",
+      "hint": "Notte di Champions",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eusebio",
+      "hint": "Anni sessanta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Old Trafford",
+      "hint": "Cori del pomeriggio",
+      "difficulty": "hard"
+    }
+  ]
+}

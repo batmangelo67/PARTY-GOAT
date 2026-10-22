@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-mysteries-unexplained",
+  "title": "Misteri irrisolti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Triangolo delle Bermuda",
+      "hint": "Notte in barca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mostro di Loch Ness",
+      "hint": "Lago nebbioso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yeti",
+      "hint": "Vetta innevata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bigfoot",
+      "hint": "Escursione notturna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fantasma",
+      "hint": "Stanza gelida",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Piramidi di Giza",
+      "hint": "Gita scolastica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sirena",
+      "hint": "Canto al tramonto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Telepatia",
+      "hint": "Stesso pensiero",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cerchi nel grano",
+      "hint": "Campo al mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zombie",
+      "hint": "Corridoi d'ospedale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lupo mannaro",
+      "hint": "Foresta in autunno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vampiro",
+      "hint": "Notte lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disco volante",
+      "hint": "Campagna a mezzanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mummia",
+      "hint": "Vecchio museo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stonehenge",
+      "hint": "Alba d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kraken",
+      "hint": "Mare in tempesta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chupacabra",
+      "hint": "Fattoria di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Golem",
+      "hint": "Passi pesanti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fata Morgana",
+      "hint": "Orizzonte ondulato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Poltergeist",
+      "hint": "Porte che sbattono",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rapimento alieno",
+      "hint": "Cielo in movimento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Linee di Nazca",
+      "hint": "Vista dall'aereo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fenomeno di Tunguska",
+      "hint": "Boato lontano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rocce semoventi",
+      "hint": "Passi lenti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mary Celeste",
+      "hint": "Cena ancora calda",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scomparsa in mare",
+      "hint": "Ultimo messaggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vaso di Pandora",
+      "hint": "Ultima speranza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clessidra del tempo",
+      "hint": "Ore lente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Linee di Ley",
+      "hint": "Sensazione strana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arca perduta",
+      "hint": "Mappa polverosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fuoco di Sant'Elmo",
+      "hint": "Tempesta in arrivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lampi a palla",
+      "hint": "Cielo nero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pietra filosofale",
+      "hint": "Vecchio laboratorio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anello di Salomone",
+      "hint": "Potere segreto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fuochi fatui",
+      "hint": "Passeggiata nella nebbia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oracolo di Delfi",
+      "hint": "Domanda sul domani",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Atlantide",
+      "hint": "Mare che nasconde",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Area 51",
+      "hint": "Segreti di stato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tesoro di Oak Island",
+      "hint": "Scavo nel bosco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Codice di Voynich",
+      "hint": "Cruciverba impossibile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anomalia di Hessdalen",
+      "hint": "Cielo acceso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Passo Dyatlov",
+      "hint": "Tenda nella neve",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Uomo di Somerton",
+      "hint": "Sconosciuto sulla riva",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kaspar Hauser",
+      "hint": "Stanza chiusa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ordine dei Templari",
+      "hint": "Mappe sepolte",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "it-circa-geography",
+  "title": "Mondo e geografia",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "question": "Quanti km è lungo il fiume Po?",
+      "answer": 652,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il fiume Adige?",
+      "decoyAnswer": 410
+    },
+    {
+      "question": "Quanti km è lungo il fiume Arno?",
+      "answer": 241,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il fiume Tamigi?",
+      "decoyAnswer": 346
+    },
+    {
+      "question": "Quanti metri è alto il monte Everest?",
+      "answer": 8849,
+      "unit": "metri",
+      "format": "number",
+      "asOf": 2020,
+      "decoyQuestion": "Quanti metri è alto il K2?",
+      "decoyAnswer": 8611
+    },
+    {
+      "question": "Quanti km² misura l'Italia?",
+      "answer": 301340,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura la Spagna?",
+      "decoyAnswer": 505990
+    },
+    {
+      "question": "Quanti Paesi ci sono in Africa?",
+      "answer": 54,
+      "unit": "Paesi",
+      "format": "number",
+      "decoyQuestion": "Quanti Paesi ci sono in Sudamerica?",
+      "decoyAnswer": 12
+    },
+    {
+      "question": "Quante capitali ha il Sudafrica?",
+      "answer": 3,
+      "unit": "capitali",
+      "format": "number",
+      "decoyQuestion": "Quante capitali ha la Bolivia?",
+      "decoyAnswer": 2
+    },
+    {
+      "question": "Quanti km è lungo il fiume Danubio?",
+      "answer": 2857,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il fiume Reno?",
+      "decoyAnswer": 1233
+    },
+    {
+      "question": "Quanti milioni di km² misura la Cina?",
+      "answer": 9.6,
+      "unit": "milioni di km²",
+      "format": "number",
+      "decoyQuestion": "Quanti milioni di km² misura l'India?",
+      "decoyAnswer": 3.29
+    },
+    {
+      "question": "Quanti milioni di km² misura il Brasile?",
+      "answer": 8.5,
+      "unit": "milioni di km²",
+      "format": "number",
+      "decoyQuestion": "Quanti milioni di km² misura l'Australia?",
+      "decoyAnswer": 7.7
+    },
+    {
+      "question": "Quanti Paesi confinano con la Francia?",
+      "answer": 8,
+      "unit": "Paesi",
+      "format": "number",
+      "decoyQuestion": "Quanti Paesi confinano con la Germania?",
+      "decoyAnswer": 9
+    },
+    {
+      "question": "Quanti stati ha l'India?",
+      "answer": 28,
+      "unit": "stati",
+      "format": "number",
+      "asOf": 2024,
+      "decoyQuestion": "Quanti stati ha la Nigeria?",
+      "decoyAnswer": 36
+    },
+    {
+      "question": "Quanti metri è alto il monte Cervino?",
+      "answer": 4478,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alta la vetta più alta del Monte Rosa?",
+      "decoyAnswer": 4634
+    },
+    {
+      "question": "Quanti metri è alto il Gran Paradiso?",
+      "answer": 4061,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alto il monte Fuji?",
+      "decoyAnswer": 3776
+    },
+    {
+      "question": "Quanti km² misura la Germania?",
+      "answer": 357592,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura la Svezia?",
+      "decoyAnswer": 450295
+    },
+    {
+      "question": "Quanti km² misura la Polonia?",
+      "answer": 312696,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura il Regno Unito?",
+      "decoyAnswer": 242495
+    },
+    {
+      "question": "Quanti km² misura l'Ucraina?",
+      "answer": 603550,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura la Turchia?",
+      "decoyAnswer": 783562
+    },
+    {
+      "question": "Quanti Paesi confinano con l'Austria?",
+      "answer": 8,
+      "unit": "Paesi",
+      "format": "number",
+      "decoyQuestion": "Quanti Paesi confinano con la Svizzera?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti km² misura il Messico?",
+      "answer": 1964375,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura l'Egitto?",
+      "decoyAnswer": 1002450
+    },
+    {
+      "question": "Quanti km² misura l'Argentina?",
+      "answer": 2780400,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura l'Algeria?",
+      "decoyAnswer": 2381741
+    },
+    {
+      "question": "Quanti km² misura il Giappone?",
+      "answer": 377975,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura la Nuova Zelanda?",
+      "decoyAnswer": 268021
+    },
+    {
+      "question": "Quanti km² misura la Svizzera?",
+      "answer": 41285,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura il Belgio?",
+      "decoyAnswer": 30528
+    },
+    {
+      "question": "Quanti km² misura l'Austria?",
+      "answer": 83879,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura la Grecia?",
+      "decoyAnswer": 131957
+    },
+    {
+      "question": "Quanti km² misura il Portogallo?",
+      "answer": 92212,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura l'Irlanda?",
+      "decoyAnswer": 70273
+    },
+    {
+      "question": "Quanti km è lungo il Canale di Suez?",
+      "answer": 193,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il Canale di Panama?",
+      "decoyAnswer": 82
+    },
+    {
+      "question": "Quanti km è lunga la Galleria del Gottardo?",
+      "answer": 57,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il tunnel sotto la Manica?",
+      "decoyAnswer": 50
+    },
+    {
+      "question": "Quanti km misura la circonferenza della Terra all'equatore?",
+      "answer": 40075,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km misura la circonferenza della Terra lungo i meridiani?",
+      "decoyAnswer": 40008
+    },
+    {
+      "question": "Quanti metri è alto il monte Olimpo, in Grecia?",
+      "answer": 2917,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alto il monte Ararat?",
+      "decoyAnswer": 5137
+    },
+    {
+      "question": "Quanti km è lunga la Grande Muraglia cinese?",
+      "answer": 21196,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lunga la Route 66?",
+      "decoyAnswer": 3940
+    },
+    {
+      "question": "Quanti km è lunga la Transiberiana?",
+      "answer": 9289,
+      "unit": "km",
+      "format": "number",
+      "decoyQuestion": "Quanti km è lungo il fiume Nilo?",
+      "decoyAnswer": 6650
+    },
+    {
+      "question": "Quanti km² misura il Mar Mediterraneo?",
+      "answer": 2500000,
+      "unit": "km²",
+      "format": "number",
+      "decoyQuestion": "Quanti km² misura il Mar Nero?",
+      "decoyAnswer": 436400
+    },
+    {
+      "question": "Quanti metri è la profondità massima del Mar Mediterraneo?",
+      "answer": 5267,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è la profondità massima del Mar Nero?",
+      "decoyAnswer": 2212
+    },
+    {
+      "question": "Quanti membri ha il G7?",
+      "answer": 7,
+      "unit": "membri",
+      "format": "number",
+      "decoyQuestion": "Quanti membri permanenti ha il Consiglio di Sicurezza dell'ONU?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti metri è alto il monte Sinai?",
+      "answer": 2285,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alto il Corno Grande del Gran Sasso?",
+      "decoyAnswer": 2912
+    },
+    {
+      "question": "Quanti metri è la profondità massima del lago Tanganica?",
+      "answer": 1470,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri di altitudine ha il lago Titicaca?",
+      "decoyAnswer": 3812
+    },
+    {
+      "question": "Con quanti Paesi sovrani confinano gli Stati Uniti?",
+      "answer": 2,
+      "unit": "Paesi",
+      "format": "number",
+      "decoyQuestion": "Quanti Paesi sovrani ha l'America Centrale?",
+      "decoyAnswer": 7
+    }
+  ]
+}

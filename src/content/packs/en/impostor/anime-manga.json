@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-anime-manga",
+  "title": "Anime & Manga",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Naruto",
+      "hint": "Underdog spirit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "One Piece",
+      "hint": "Never-ending saga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dragon Ball",
+      "hint": "Training montage",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pokémon",
+      "hint": "Playground trading",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sailor Moon",
+      "hint": "Afterschool magic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Death Note",
+      "hint": "Cat-and-mouse games",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Attack on Titan",
+      "hint": "Brutal survival",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doraemon",
+      "hint": "Wish fulfilment",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Demon Slayer",
+      "hint": "Sibling bond",
+      "difficulty": "easy"
+    },
+    {
+      "word": "My Hero Academia",
+      "hint": "Late bloomer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sword Art Online",
+      "hint": "Gamer marathon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hunter x Hunter",
+      "hint": "Test of nerves",
+      "difficulty": "easy"
+    },
+    {
+      "word": "One Punch Man",
+      "hint": "Easy victory",
+      "difficulty": "easy"
+    },
+    {
+      "word": "My Neighbor Totoro",
+      "hint": "Cosy countryside",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tokyo Ghoul",
+      "hint": "Double life",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bleach",
+      "hint": "Grim reaper gig",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spirited Away",
+      "hint": "Oscar-winning magic",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fairy Tail",
+      "hint": "Hot-headed buddies",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yu-Gi-Oh!",
+      "hint": "Lunchtime showdown",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Digimon",
+      "hint": "Pocket pals",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fullmetal Alchemist",
+      "hint": "Brotherly quest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cowboy Bebop",
+      "hint": "Laid-back space drifter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jujutsu Kaisen",
+      "hint": "Haunted school days",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Haikyu!!",
+      "hint": "Team comeback",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Slam Dunk",
+      "hint": "Last-second shot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Neon Genesis Evangelion",
+      "hint": "Lonely teen angst",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chainsaw Man",
+      "hint": "Messy part-time job",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spy x Family",
+      "hint": "Undercover dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Frieren",
+      "hint": "Slow-paced journey",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Berserk",
+      "hint": "Grim revenge saga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Inuyasha",
+      "hint": "Forever rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Akira",
+      "hint": "Psychic chaos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ranma ½",
+      "hint": "Accidental mishap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cardcaptor Sakura",
+      "hint": "Pastel sparkle friendship",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Astro Boy",
+      "hint": "Bright future",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dr. Stone",
+      "hint": "Mad inventor dreams",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost in the Shell",
+      "hint": "Robot self-doubt",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mob Psycho 100",
+      "hint": "Quiet power growth",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vinland Saga",
+      "hint": "Long journey home",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gintama",
+      "hint": "Lazy sugar addiction",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mushishi",
+      "hint": "Forest mist mood",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monster",
+      "hint": "Moral dilemma",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Samurai Champloo",
+      "hint": "Mismatched road trip",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Princess Mononoke",
+      "hint": "Nature vs progress",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Paranoia Agent",
+      "hint": "Mass hysteria",
+      "difficulty": "hard"
+    }
+  ]
+}

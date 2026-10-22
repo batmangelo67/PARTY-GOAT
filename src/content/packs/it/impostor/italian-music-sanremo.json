@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-italian-music-sanremo",
+  "title": "Musica italiana e Sanremo",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Volare",
+      "hint": "Sogno in alto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Azzurro",
+      "hint": "Malinconia estiva",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vita spericolata",
+      "hint": "Ritornello gridato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caruso",
+      "hint": "Amore lontano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ti amo",
+      "hint": "Cuore in gola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Felicità",
+      "hint": "Giornata di sole",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuore matto",
+      "hint": "Anni sessanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sarà perché ti amo",
+      "hint": "Festa di paese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Non ho l'età",
+      "hint": "Primo amore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ci vuole un fiore",
+      "hint": "Regalo romantico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quando quando quando",
+      "hint": "Corteggiamento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Grazie dei fiori",
+      "hint": "Gesto gentile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lucio Battisti",
+      "hint": "Cantautore riservato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mina",
+      "hint": "Diva schiva",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Adriano Celentano",
+      "hint": "Ironia rock",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Laura Pausini",
+      "hint": "Lacrime in diretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eros Ramazzotti",
+      "hint": "Amori estivi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tiziano Ferro",
+      "hint": "Cantautore emotivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ligabue",
+      "hint": "Rock di campagna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gianluca Grignani",
+      "hint": "Ribelle sentimentale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Negramaro",
+      "hint": "Estate da sogno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Måneskin",
+      "hint": "Rock stravagante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toto Cutugno",
+      "hint": "Orgoglio nazionale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Renato Zero",
+      "hint": "Fuori dagli schemi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pooh",
+      "hint": "Gruppo storico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elisa",
+      "hint": "Voce cristallina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Raf",
+      "hint": "Ricordi da adolescente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jovanotti",
+      "hint": "Ottimismo contagioso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gianni Morandi",
+      "hint": "Bravo ragazzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Domenico Modugno",
+      "hint": "Nostalgia d'epoca",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nek",
+      "hint": "Canzone da fidanzati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gigi D'Alessio",
+      "hint": "Melodia sentimentale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiorella Mannoia",
+      "hint": "Interprete intensa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antonello Venditti",
+      "hint": "Sole di mezzogiorno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Francesco De Gregori",
+      "hint": "Testi enigmatici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Franco Battiato",
+      "hint": "Sonorità esoteriche",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Riccardo Cocciante",
+      "hint": "Concerti in arena",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lucio Dalla",
+      "hint": "Anima di strada",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ricchi e Poveri",
+      "hint": "Canzone da matrimonio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vasco Rossi",
+      "hint": "Rock da stadio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cesare Cremonini",
+      "hint": "Ballata nostalgica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Irene Grandi",
+      "hint": "Cantante ribelle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marco Mengoni",
+      "hint": "Talento giovane",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Max Pezzali",
+      "hint": "Nostalgia anni novanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giorgia",
+      "hint": "Brividi sulla pelle",
+      "difficulty": "easy"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-superheroes-villains",
+  "title": "Superheroes & Comic Book Villains",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Superman",
+      "hint": "Saving the day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Batman",
+      "hint": "Midnight patrol",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spider-Man",
+      "hint": "Homework and heroics",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wonder Woman",
+      "hint": "Ancient wisdom",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Iron Man",
+      "hint": "Late-night workshop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hulk",
+      "hint": "Anger management",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Captain America",
+      "hint": "Woke up late",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Joker",
+      "hint": "Very bad day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wolverine",
+      "hint": "Short fuse",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deadpool",
+      "hint": "Too many jokes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Aquaman",
+      "hint": "Deep-sea date",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catwoman",
+      "hint": "Stealthy thief",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Black Widow",
+      "hint": "Double agent",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venom",
+      "hint": "Clingy partner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harley Quinn",
+      "hint": "Chaotic ex",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thanos",
+      "hint": "Overwhelming power",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Flash",
+      "hint": "Running late",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lex Luthor",
+      "hint": "Corporate greed",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Green Goblin",
+      "hint": "Halloween party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bane",
+      "hint": "Breaking point",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Magneto",
+      "hint": "Old grudges",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doctor Doom",
+      "hint": "Power-hungry ruler",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cyclops",
+      "hint": "Stern leader",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Storm",
+      "hint": "Moody sky",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hawkeye",
+      "hint": "Hit-and-miss",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Black Panther",
+      "hint": "Royal succession",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nightcrawler",
+      "hint": "Fast disappearance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Green Lantern",
+      "hint": "Brave flight crew",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ultron",
+      "hint": "Update gone wrong",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vision",
+      "hint": "Lonely robot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Supergirl",
+      "hint": "Family reunion",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Riddler",
+      "hint": "Quiz night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Silver Surfer",
+      "hint": "Cosmic cruise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hellboy",
+      "hint": "Grumpy monster",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Spawn",
+      "hint": "Gothic gloom",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Blade",
+      "hint": "Nightclub brawl",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ant-Man",
+      "hint": "Lab mishap",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rogue",
+      "hint": "Bittersweet hugs",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Darkseid",
+      "hint": "Doomsday tyrant",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Daredevil",
+      "hint": "Courtroom justice",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mystique",
+      "hint": "Identity crisis",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nightwing",
+      "hint": "Gymnast pride",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Captain Marvel",
+      "hint": "Rising star",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scarlet Witch",
+      "hint": "Sitcom surprise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghost Rider",
+      "hint": "Flaming motorbike",
+      "difficulty": "hard"
+    }
+  ]
+}

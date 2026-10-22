@@ -1,0 +1,306 @@
+{
+  "id": "it-circa-football",
+  "title": "Calcio",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "question": "In che anno fu fondata la FIFA?",
+      "answer": 1904,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la UEFA?",
+      "decoyAnswer": 1954
+    },
+    {
+      "question": "In che anno si disputò la prima Coppa del Mondo FIFA?",
+      "answer": 1930,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si disputò il primo Campionato Europeo UEFA per nazioni?",
+      "decoyAnswer": 1960
+    },
+    {
+      "question": "In che anno fu fondato il Milan?",
+      "answer": 1899,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata l'Inter?",
+      "decoyAnswer": 1908
+    },
+    {
+      "question": "In che anno fu fondata la Juventus?",
+      "answer": 1897,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Roma?",
+      "decoyAnswer": 1927
+    },
+    {
+      "question": "In che anno fu fondato il Napoli?",
+      "answer": 1926,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata la Lazio?",
+      "decoyAnswer": 1900
+    },
+    {
+      "question": "In che anno fu fondato il Torino?",
+      "answer": 1906,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il Genoa?",
+      "decoyAnswer": 1893
+    },
+    {
+      "question": "In che anno fu fondato il Bologna?",
+      "answer": 1909,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondata l'Atalanta?",
+      "decoyAnswer": 1907
+    },
+    {
+      "question": "In che anno fu fondato il Real Madrid?",
+      "answer": 1902,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il Barcellona?",
+      "decoyAnswer": 1899
+    },
+    {
+      "question": "In che anno fu fondata la Fiorentina?",
+      "answer": 1926,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu fondato il Palermo?",
+      "decoyAnswer": 1900
+    },
+    {
+      "question": "Quante Coppe del Mondo ha vinto l'Italia?",
+      "answer": 4,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante Coppe del Mondo ha vinto il Brasile?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti Campionati Europei ha vinto l'Italia?",
+      "answer": 2,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti Campionati Europei ha vinto la Spagna?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "Quante Coppe del Mondo ha vinto la Francia?",
+      "answer": 2,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante Coppe del Mondo ha vinto l'Inghilterra?",
+      "decoyAnswer": 1
+    },
+    {
+      "question": "Quante Champions League ha vinto il Milan?",
+      "answer": 7,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante Champions League ha vinto l'Inter?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "Quante Champions League ha vinto il Real Madrid?",
+      "answer": 15,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante Champions League ha vinto il Barcellona?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "Quanti Scudetti ha vinto il Milan?",
+      "answer": 19,
+      "unit": "scudetti",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti Scudetti ha vinto la Juventus?",
+      "decoyAnswer": 36
+    },
+    {
+      "question": "Quanti Scudetti ha vinto la Roma?",
+      "answer": 3,
+      "unit": "scudetti",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti Scudetti ha vinto la Lazio?",
+      "decoyAnswer": 2
+    },
+    {
+      "question": "Quanti anni aveva Pelé quando vinse il suo primo Mondiale?",
+      "answer": 17,
+      "unit": "anni",
+      "format": "number",
+      "decoyQuestion": "Quanti anni aveva Maradona quando vinse il Mondiale del 1986?",
+      "decoyAnswer": 25
+    },
+    {
+      "question": "Quanti Palloni d'Oro ha vinto Lionel Messi?",
+      "answer": 8,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2023,
+      "decoyQuestion": "Quanti Palloni d'Oro ha vinto Cristiano Ronaldo?",
+      "decoyAnswer": 5
+    },
+    {
+      "question": "In che anno l'Italia vinse il suo primo Mondiale?",
+      "answer": 1934,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno l'Italia vinse il Mondiale giocato in Germania?",
+      "decoyAnswer": 2006
+    },
+    {
+      "question": "Quanti minuti dura una partita di calcio con i tempi regolamentari?",
+      "answer": 90,
+      "unit": "minuti",
+      "format": "number",
+      "decoyQuestion": "Quanti minuti dura un tempo di una partita di calcio?",
+      "decoyAnswer": 45
+    },
+    {
+      "question": "Quanti giocatori per squadra sono in campo in una partita di calcio?",
+      "answer": 11,
+      "unit": "giocatori",
+      "format": "number",
+      "decoyQuestion": "Quanti giocatori per squadra sono in campo nella pallavolo?",
+      "decoyAnswer": 6
+    },
+    {
+      "question": "Quanti metri è larga la porta da calcio regolamentare?",
+      "answer": 7.32,
+      "unit": "metri",
+      "format": "number",
+      "decoyQuestion": "Quanti metri è alta la traversa della porta da calcio?",
+      "decoyAnswer": 2.44
+    },
+    {
+      "question": "Quante squadre partecipano alla Serie A?",
+      "answer": 20,
+      "unit": "squadre",
+      "format": "number",
+      "decoyQuestion": "Quante squadre partecipano alla Bundesliga?",
+      "decoyAnswer": 18
+    },
+    {
+      "question": "Quante squadre hanno partecipato alla Coppa del Mondo FIFA 2026?",
+      "answer": 48,
+      "unit": "squadre",
+      "format": "number",
+      "decoyQuestion": "Quante squadre parteciparono ai Mondiali del 1998?",
+      "decoyAnswer": 32
+    },
+    {
+      "question": "In che anno ebbe inizio la prima edizione della Coppa dei Campioni?",
+      "answer": 1955,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si disputò la prima Coppa Intercontinentale?",
+      "decoyAnswer": 1960
+    },
+    {
+      "question": "In che anno fu introdotta per la prima volta la VAR in una Coppa del Mondo?",
+      "answer": 2018,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu introdotta la tecnologia della linea di porta in una Coppa del Mondo?",
+      "decoyAnswer": 2014
+    },
+    {
+      "question": "In che anno l'Italia ospitò per la seconda volta i Mondiali di calcio?",
+      "answer": 1990,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno l'Italia vinse il Mondiale giocato in Spagna?",
+      "decoyAnswer": 1982
+    },
+    {
+      "question": "In che anno fu introdotto il Pallone d'Oro?",
+      "answer": 1956,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno fu introdotto il premio The Best della FIFA?",
+      "decoyAnswer": 2016
+    },
+    {
+      "question": "Quanti Palloni d'Oro ha vinto Michel Platini?",
+      "answer": 3,
+      "unit": "volte",
+      "format": "number",
+      "decoyQuestion": "Quanti Palloni d'Oro ha vinto Zinedine Zidane?",
+      "decoyAnswer": 1
+    },
+    {
+      "question": "Quanti Scudetti ha vinto il Torino?",
+      "answer": 7,
+      "unit": "scudetti",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti Scudetti ha vinto il Genoa?",
+      "decoyAnswer": 9
+    },
+    {
+      "question": "Quanti Mondiali ha vinto l'Argentina?",
+      "answer": 3,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante volte ha vinto il Mondiale la Germania?",
+      "decoyAnswer": 4
+    },
+    {
+      "question": "Quanti Campionati Europei ha vinto la Germania?",
+      "answer": 3,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quanti Campionati Europei ha vinto la Francia?",
+      "decoyAnswer": 2
+    },
+    {
+      "question": "In che anno il Brasile vinse il suo primo Mondiale?",
+      "answer": 1958,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno l'Uruguay vinse il primo Mondiale?",
+      "decoyAnswer": 1930
+    },
+    {
+      "question": "Quante volte ha vinto il Mondiale la Spagna?",
+      "answer": 1,
+      "unit": "volte",
+      "format": "number",
+      "asOf": 2025,
+      "decoyQuestion": "Quante volte ha raggiunto la finale del Mondiale l'Olanda?",
+      "decoyAnswer": 3
+    },
+    {
+      "question": "Quante squadre parteciparono al primo Mondiale nel 1930?",
+      "answer": 13,
+      "unit": "squadre",
+      "format": "number",
+      "decoyQuestion": "Quante squadre parteciparono alla Coppa del Mondo del 1934 in Italia?",
+      "decoyAnswer": 16
+    }
+  ]
+}

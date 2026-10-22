@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-food-mexican-latin",
+  "title": "Mexican & Latin Food",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Taco",
+      "hint": "Lazy dinner plan",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Churros",
+      "hint": "Night out sugar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Guacamole",
+      "hint": "Game day spread",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fajitas",
+      "hint": "Loud restaurant",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elote",
+      "hint": "Summer evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Quesadilla",
+      "hint": "Quick midnight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Enchiladas",
+      "hint": "Oven night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burrito",
+      "hint": "Takeaway lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tostada",
+      "hint": "Cheap lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flan",
+      "hint": "Grandma's table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pozole",
+      "hint": "Big family gathering",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plantains",
+      "hint": "Sweet side",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Al pastor",
+      "hint": "Street food queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Birria",
+      "hint": "Viral trend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tres leches cake",
+      "hint": "Weekend celebration",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Salsa verde",
+      "hint": "Green jar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Horchata",
+      "hint": "Hot afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Empanada",
+      "hint": "Lunch box treat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pupusa",
+      "hint": "Weekend market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carnitas",
+      "hint": "Slow cooker",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chilaquiles",
+      "hint": "Brunch rescue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ceviche",
+      "hint": "Sunny seaside",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dulce de leche",
+      "hint": "Sweet spread",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arepa",
+      "hint": "Weekend brunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chicharrón",
+      "hint": "Pub snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Queso fundido",
+      "hint": "Movie night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Caldo de pollo",
+      "hint": "Cold weather",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ropa vieja",
+      "hint": "Slow Sunday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mofongo",
+      "hint": "Island holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tlayudas",
+      "hint": "Street market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Molletes",
+      "hint": "Late breakfast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sopes",
+      "hint": "Corn comfort",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cochinita pibil",
+      "hint": "Smoky pit",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Panuchos",
+      "hint": "Stuffed surprise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Quesillo",
+      "hint": "Stringy snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Huevos rancheros",
+      "hint": "Early cafe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tamale",
+      "hint": "Festive feast",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mole",
+      "hint": "Long simmer",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chimichanga",
+      "hint": "Deep-fried dare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lomo saltado",
+      "hint": "Stir-fry sizzle",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Feijoada",
+      "hint": "Long lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pão de queijo",
+      "hint": "Snack counter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sancocho",
+      "hint": "Big pot soup",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Aguachile",
+      "hint": "Summer heat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chiles en nogada",
+      "hint": "Special occasion",
+      "difficulty": "hard"
+    }
+  ]
+}

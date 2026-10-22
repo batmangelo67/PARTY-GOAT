@@ -1,0 +1,443 @@
+{
+  "id": "it-forbidden-words-spicy-taboo",
+  "title": "Piccante e proibito",
+  "language": "it",
+  "spice": 3,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "adults",
+  "items": [
+    {
+      "word": "Bacio",
+      "banned": [
+        "Labbra",
+        "Innamorati",
+        "Romantico",
+        "Guancia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flirt",
+      "banned": [
+        "Corteggiamento",
+        "Occhiolino",
+        "Civetteria",
+        "Complimento"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ubriaco",
+      "banned": [
+        "Sbronza",
+        "Barcollare",
+        "Vino",
+        "Bicchiere"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pigiama",
+      "banned": [
+        "Notte",
+        "Letto",
+        "Pantaloni",
+        "Dormire"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reggiseno",
+      "banned": [
+        "Seno",
+        "Bretelle",
+        "Coppa",
+        "Gancetto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mutande",
+      "banned": [
+        "Boxer",
+        "Slip",
+        "Elastico",
+        "Intimo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gelosia",
+      "banned": [
+        "Invidia",
+        "Sospetto",
+        "Possesso",
+        "Occhio verde"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tradimento",
+      "banned": [
+        "Infedeltà",
+        "Corna",
+        "Bugia",
+        "Amante"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Striptease",
+      "banned": [
+        "Ballerina",
+        "Palo",
+        "Lap dance",
+        "Lustrini"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lingerie",
+      "banned": [
+        "Pizzo",
+        "Seta",
+        "Trasparente",
+        "Reggicalze"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sbornia",
+      "banned": [
+        "Mal di testa",
+        "Postumi",
+        "Aspirina",
+        "Acqua"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fidanzato",
+      "banned": [
+        "Anello",
+        "Coppia",
+        "Promessa",
+        "Sposarsi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scapolo",
+      "banned": [
+        "Libero",
+        "Single",
+        "Matrimonio",
+        "Anello"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bugia",
+      "banned": [
+        "Menzogna",
+        "Naso di Pinocchio",
+        "Inganno",
+        "Verità"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ex fidanzato",
+      "banned": [
+        "Passato",
+        "Lasciarsi",
+        "Vecchio amore",
+        "Ricordi"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Preservativo",
+      "banned": [
+        "Profilattico",
+        "Farmacia",
+        "Protezione",
+        "Gomma"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Abbraccio",
+      "banned": [
+        "Calore",
+        "Coccole",
+        "Carezza",
+        "Stretta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Innamorarsi",
+      "banned": [
+        "Cuore",
+        "Farfalle",
+        "Primo sguardo",
+        "Batticuore"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Seduzione",
+      "banned": [
+        "Fascino",
+        "Sguardo",
+        "Cena a lume di candela",
+        "Mossa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Appuntamento",
+      "banned": [
+        "Primo incontro",
+        "Cena",
+        "Serata",
+        "Ristorante"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notte brava",
+      "banned": [
+        "Discoteca",
+        "Alba",
+        "Festa",
+        "Stanchezza"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bacio sul collo",
+      "banned": [
+        "Vampiro",
+        "Brivido",
+        "Pelle",
+        "Sussurro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Libertino",
+      "banned": [
+        "Vizio",
+        "Scapestrato",
+        "Seduttore",
+        "Donnaiolo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ammiccare",
+      "banned": [
+        "Strizzare l'occhio",
+        "Sorriso",
+        "Malizia",
+        "Ciglia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Luna di miele",
+      "banned": [
+        "Viaggio",
+        "Sposi",
+        "Hotel",
+        "Mese"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scommessa",
+      "banned": [
+        "Gara",
+        "Puntata",
+        "Azzardo",
+        "Soldi"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vergogna",
+      "banned": [
+        "Imbarazzo",
+        "Rossore",
+        "Guance rosse",
+        "Figuraccia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tatuaggio",
+      "banned": [
+        "Inchiostro",
+        "Pelle",
+        "Ago",
+        "Disegno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sudore",
+      "banned": [
+        "Caldo",
+        "Palestra",
+        "Fatica",
+        "Asciugamano"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuore spezzato",
+      "banned": [
+        "Delusione",
+        "Pianto",
+        "Lacrime",
+        "Malinconia"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Romeo e Giulietta",
+      "banned": [
+        "Shakespeare",
+        "Verona",
+        "Tragedia",
+        "Balcone"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Festa in maschera",
+      "banned": [
+        "Carnevale",
+        "Mascherina",
+        "Costume",
+        "Ballo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tentazione",
+      "banned": [
+        "Peccato",
+        "Cioccolato",
+        "Dolce",
+        "Sirena"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notte in bianco",
+      "banned": [
+        "Insonnia",
+        "Sveglia",
+        "Cuscino",
+        "Caffè"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Feromoni",
+      "banned": [
+        "Attrazione",
+        "Chimica",
+        "Odore",
+        "Profumo"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cupido",
+      "banned": [
+        "Arco",
+        "Venere",
+        "Ali",
+        "Bendato"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Afrodisiaco",
+      "banned": [
+        "Ostrica",
+        "Cioccolato",
+        "Peperoncino",
+        "Eros"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triangolo amoroso",
+      "banned": [
+        "Tre",
+        "Gelosia",
+        "Terzo incomodo",
+        "Quadrato"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sfrontato",
+      "banned": [
+        "Sfacciato",
+        "Audace",
+        "Impertinente",
+        "Spudorato"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Smaliziato",
+      "banned": [
+        "Furbo",
+        "Esperto",
+        "Navigato",
+        "Scaltro"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pudore",
+      "banned": [
+        "Vergogna",
+        "Riservatezza",
+        "Modestia",
+        "Ritegno"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pettegolezzo",
+      "banned": [
+        "Gossip",
+        "Voci",
+        "Chiacchiera",
+        "Indiscrezione"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Disinvolto",
+      "banned": [
+        "Sicuro",
+        "Spigliato",
+        "Padrone",
+        "Scioltezza"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

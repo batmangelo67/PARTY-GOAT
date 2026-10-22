@@ -1,0 +1,713 @@
+{
+  "id": "it-bomb-lifestyle",
+  "title": "Stile di vita",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "text": "Brand di sneakers",
+      "examples": [
+        "Nike",
+        "Adidas",
+        "Puma",
+        "New Balance",
+        "Converse"
+      ]
+    },
+    {
+      "text": "Cose da bere all'aperitivo",
+      "examples": [
+        "Spritz",
+        "Negroni",
+        "Campari",
+        "Aperol",
+        "Americano"
+      ]
+    },
+    {
+      "text": "Esercizi in palestra",
+      "examples": [
+        "Panca piana",
+        "Squat",
+        "Stacco da terra",
+        "Trazioni",
+        "Plank"
+      ]
+    },
+    {
+      "text": "Case di moda di lusso",
+      "examples": [
+        "Gucci",
+        "Prada",
+        "Armani",
+        "Valentino",
+        "Versace"
+      ]
+    },
+    {
+      "text": "Snack da portare in auto",
+      "examples": [
+        "Patatine",
+        "Barrette",
+        "Frutta secca",
+        "Pop corn",
+        "Biscotti"
+      ]
+    },
+    {
+      "text": "Cose da portare in palestra",
+      "examples": [
+        "Borraccia",
+        "Asciugamano",
+        "Cuffie",
+        "Guanti",
+        "Shaker"
+      ]
+    },
+    {
+      "text": "Città per un weekend fuori porta",
+      "examples": [
+        "Firenze",
+        "Venezia",
+        "Bologna",
+        "Lucca",
+        "Matera"
+      ]
+    },
+    {
+      "text": "Cose da fare nel weekend",
+      "examples": [
+        "Brunch",
+        "Passeggiata",
+        "Cinema",
+        "Mercatino",
+        "Pulizie di casa"
+      ]
+    },
+    {
+      "text": "Piatti della domenica",
+      "examples": [
+        "Lasagne",
+        "Arrosto",
+        "Ragù",
+        "Tortellini",
+        "Polpette"
+      ]
+    },
+    {
+      "text": "Cose tipiche dell'Erasmus",
+      "examples": [
+        "Coinquilini",
+        "Ostello",
+        "Lezione in inglese",
+        "Viaggio low cost",
+        "Festa di benvenuto"
+      ]
+    },
+    {
+      "text": "Tipi di pizza",
+      "examples": [
+        "Margherita",
+        "Diavola",
+        "Capricciosa",
+        "Quattro stagioni",
+        "Napoletana"
+      ]
+    },
+    {
+      "text": "Cose da mettere nel bagaglio a mano",
+      "examples": [
+        "Caricabatterie",
+        "Passaporto",
+        "Auricolari",
+        "Liquidi in flacone piccolo",
+        "Snack"
+      ]
+    },
+    {
+      "text": "Trattamenti di bellezza",
+      "examples": [
+        "Balayage",
+        "Piega",
+        "Contouring",
+        "Manicure",
+        "Ceretta"
+      ]
+    },
+    {
+      "text": "Cose per dormire meglio",
+      "examples": [
+        "Tapparelle",
+        "Camomilla",
+        "Meditazione",
+        "Lenzuola fresche",
+        "Niente schermi"
+      ]
+    },
+    {
+      "text": "Tipi di caffè",
+      "examples": [
+        "Espresso",
+        "Macchiato",
+        "Ristretto",
+        "Caffè d'orzo",
+        "Marocchino"
+      ]
+    },
+    {
+      "text": "Cibo da street food",
+      "examples": [
+        "Arancini",
+        "Panino con la milza",
+        "Pizza al taglio",
+        "Crocchè",
+        "Cuoppo"
+      ]
+    },
+    {
+      "text": "Frutta d'estate",
+      "examples": [
+        "Anguria",
+        "Pesca",
+        "Albicocca",
+        "Melone",
+        "Fico"
+      ]
+    },
+    {
+      "text": "Verdure d'inverno",
+      "examples": [
+        "Cavolo nero",
+        "Broccoli",
+        "Zucca",
+        "Carciofo",
+        "Finocchio"
+      ]
+    },
+    {
+      "text": "Accessori moda",
+      "examples": [
+        "Cintura",
+        "Orologio",
+        "Borsa",
+        "Occhiali da sole",
+        "Sciarpa"
+      ]
+    },
+    {
+      "text": "Discipline di fitness",
+      "examples": [
+        "Yoga",
+        "Pilates",
+        "Crossfit",
+        "Zumba",
+        "Boxe"
+      ]
+    },
+    {
+      "text": "Cose tipiche dell'autunno",
+      "examples": [
+        "Castagne",
+        "Vendemmia",
+        "Halloween",
+        "Maglioni",
+        "Pioggia"
+      ]
+    },
+    {
+      "text": "Cose tipiche del Natale italiano",
+      "examples": [
+        "Panettone",
+        "Pandoro",
+        "Presepe",
+        "Tombola",
+        "Cenone"
+      ]
+    },
+    {
+      "text": "Feste italiane",
+      "examples": [
+        "Ferragosto",
+        "Pasqua",
+        "Carnevale",
+        "Epifania",
+        "Festa della Repubblica"
+      ]
+    },
+    {
+      "text": "Specialità di Napoli",
+      "examples": [
+        "Pastiera",
+        "Babà",
+        "Ragù",
+        "Pizza fritta",
+        "Genovese"
+      ]
+    },
+    {
+      "text": "Piatti romani",
+      "examples": [
+        "Carbonara",
+        "Cacio e pepe",
+        "Supplì",
+        "Amatriciana",
+        "Gricia"
+      ]
+    },
+    {
+      "text": "Cose da portare a una cena",
+      "examples": [
+        "Vino",
+        "Dolce",
+        "Fiori",
+        "Cioccolatini",
+        "Pane"
+      ]
+    },
+    {
+      "text": "Cose da fare prima di uscire",
+      "examples": [
+        "Doccia",
+        "Profumo",
+        "Trucco",
+        "Scegliere la playlist",
+        "Pettinarsi"
+      ]
+    },
+    {
+      "text": "Cose da comprare al supermercato",
+      "examples": [
+        "Latte",
+        "Pane",
+        "Detersivo",
+        "Pasta",
+        "Uova"
+      ]
+    },
+    {
+      "text": "Accessori per il cellulare",
+      "examples": [
+        "Cover",
+        "Pellicola",
+        "Auricolari",
+        "Power bank",
+        "Supporto"
+      ]
+    },
+    {
+      "text": "Modi di risparmiare in viaggio",
+      "examples": [
+        "Ostello",
+        "Couchsurfing",
+        "Volo low cost",
+        "Autostop",
+        "Pranzo al sacco"
+      ]
+    },
+    {
+      "text": "Cose che si fanno in una spa",
+      "examples": [
+        "Sauna",
+        "Massaggio",
+        "Bagno turco",
+        "Idromassaggio",
+        "Fango"
+      ]
+    },
+    {
+      "text": "Catene di fast food",
+      "examples": [
+        "McDonald's",
+        "Burger King",
+        "KFC",
+        "Subway",
+        "Five Guys"
+      ]
+    },
+    {
+      "text": "Acque minerali",
+      "examples": [
+        "San Pellegrino",
+        "Ferrarelle",
+        "Levissima",
+        "Uliveto",
+        "Sant'Anna"
+      ]
+    },
+    {
+      "text": "Stili di capelli",
+      "examples": [
+        "Caschetto",
+        "Pixie",
+        "Mullet",
+        "Undercut",
+        "Bob"
+      ]
+    },
+    {
+      "text": "Stili di barba",
+      "examples": [
+        "Pizzetto",
+        "Barba di tre giorni",
+        "Baffi",
+        "Barba a pizzo",
+        "Barbetta"
+      ]
+    },
+    {
+      "text": "Mobili di casa",
+      "examples": [
+        "Divano",
+        "Libreria",
+        "Comodino",
+        "Poltrona",
+        "Tavolino"
+      ]
+    },
+    {
+      "text": "Tipi di appartamento",
+      "examples": [
+        "Monolocale",
+        "Bilocale",
+        "Trilocale",
+        "Attico",
+        "Mansarda"
+      ]
+    },
+    {
+      "text": "Regali per la laurea",
+      "examples": [
+        "Orologio",
+        "Penna",
+        "Mazzo di fiori",
+        "Biglietto",
+        "Libro"
+      ]
+    },
+    {
+      "text": "Cose da fare prima di partire per l'estero",
+      "examples": [
+        "Assicurazione",
+        "Passaporto",
+        "Valuta",
+        "Adattatore",
+        "Carta di credito"
+      ]
+    },
+    {
+      "text": "Tipi di tè",
+      "examples": [
+        "Earl grey",
+        "Matcha",
+        "Verde",
+        "Chai",
+        "Rooibos"
+      ]
+    },
+    {
+      "text": "Tipi di vino",
+      "examples": [
+        "Chianti",
+        "Prosecco",
+        "Barolo",
+        "Nero d'Avola",
+        "Lambrusco"
+      ]
+    },
+    {
+      "text": "Gusti di gelato",
+      "examples": [
+        "Pistacchio",
+        "Nocciola",
+        "Stracciatella",
+        "Fior di latte",
+        "Cioccolato"
+      ]
+    },
+    {
+      "text": "Cose che si portano all'università",
+      "examples": [
+        "Zaino",
+        "Quaderno",
+        "Portatile",
+        "Thermos",
+        "Pennarelli"
+      ]
+    },
+    {
+      "text": "Cose del mattino",
+      "examples": [
+        "Sveglia",
+        "Caffè",
+        "Doccia",
+        "Colazione",
+        "Notifiche"
+      ]
+    },
+    {
+      "text": "Cose da fare con gli amici",
+      "examples": [
+        "Karaoke",
+        "Cena",
+        "Aperitivo",
+        "Serata film",
+        "Bowling"
+      ]
+    },
+    {
+      "text": "Cose da fare in treno",
+      "examples": [
+        "Leggere",
+        "Dormire",
+        "Guardare il paesaggio",
+        "Mangiare",
+        "Ascoltare musica"
+      ]
+    },
+    {
+      "text": "Tipi di scarpe",
+      "examples": [
+        "Anfibi",
+        "Mocassini",
+        "Stivaletti",
+        "Ballerine",
+        "Espadrillas"
+      ]
+    },
+    {
+      "text": "Tessuti",
+      "examples": [
+        "Cotone",
+        "Lino",
+        "Seta",
+        "Lana",
+        "Denim"
+      ]
+    },
+    {
+      "text": "Cose da fare in palestra per la schiena",
+      "examples": [
+        "Rematore",
+        "Lat machine",
+        "Hyperextension",
+        "Pulley",
+        "Good morning"
+      ]
+    },
+    {
+      "text": "Tipi di tatuaggi",
+      "examples": [
+        "Tribale",
+        "Old school",
+        "Minimal",
+        "Realistico",
+        "Acquerello"
+      ]
+    },
+    {
+      "text": "Cose che si comprano in farmacia",
+      "examples": [
+        "Cerotti",
+        "Crema idratante",
+        "Vitamina C",
+        "Sciroppo",
+        "Termometro"
+      ]
+    },
+    {
+      "text": "Cose che si piegano con cura",
+      "examples": [
+        "Magliette",
+        "Jeans",
+        "Asciugamani",
+        "Lenzuola",
+        "Pigiama"
+      ]
+    },
+    {
+      "text": "Mete per la luna di miele",
+      "examples": [
+        "Maldive",
+        "Santorini",
+        "Bali",
+        "Islanda",
+        "Polinesia"
+      ]
+    },
+    {
+      "text": "Animali da compagnia esotici",
+      "examples": [
+        "Pappagallo",
+        "Serpente",
+        "Furetto",
+        "Porcellino d'India",
+        "Scoiattolo"
+      ]
+    },
+    {
+      "text": "Cose da fare durante una pausa caffè",
+      "examples": [
+        "Chiacchierare",
+        "Scorrere il telefono",
+        "Sgranchirsi",
+        "Leggere le notizie",
+        "Fare due passi"
+      ]
+    },
+    {
+      "text": "Cose tipiche della vita da coinquilini",
+      "examples": [
+        "Spesa condivisa",
+        "Piatto nel lavandino",
+        "Cucina sporca",
+        "Bolletta",
+        "Chat di gruppo"
+      ]
+    },
+    {
+      "text": "Cibi da mangiare con le mani",
+      "examples": [
+        "Pizza",
+        "Hamburger",
+        "Piadina",
+        "Kebab",
+        "Arancini"
+      ]
+    },
+    {
+      "text": "Cose che si fanno in montagna",
+      "examples": [
+        "Rifugio",
+        "Escursione",
+        "Polenta",
+        "Baita",
+        "Panorama"
+      ]
+    },
+    {
+      "text": "Piante da appartamento",
+      "examples": [
+        "Monstera",
+        "Ficus",
+        "Sansevieria",
+        "Pothos",
+        "Calathea"
+      ]
+    },
+    {
+      "text": "Cose che si usano per il trucco",
+      "examples": [
+        "Matita",
+        "Fondotinta",
+        "Mascara",
+        "Rossetto",
+        "Pennello"
+      ]
+    },
+    {
+      "text": "Cose da indossare in piscina",
+      "examples": [
+        "Costume",
+        "Ciabatte",
+        "Cuffia",
+        "Occhialini",
+        "Accappatoio"
+      ]
+    },
+    {
+      "text": "Parole del caffè al bar",
+      "examples": [
+        "Corretto",
+        "Shakerato",
+        "Deca",
+        "Con panna",
+        "Caldo"
+      ]
+    },
+    {
+      "text": "Sport da fare all'aperto",
+      "examples": [
+        "Corsa",
+        "Ciclismo",
+        "Arrampicata",
+        "Surf",
+        "Canottaggio"
+      ]
+    },
+    {
+      "text": "Cose che si collezionano",
+      "examples": [
+        "Francobolli",
+        "Vinili",
+        "Figurine",
+        "Monete",
+        "Cartoline"
+      ]
+    },
+    {
+      "text": "Tendenze di abbigliamento",
+      "examples": [
+        "Oversize",
+        "Cargo",
+        "Pantaloni a palazzo",
+        "Tuta",
+        "Canotta"
+      ]
+    },
+    {
+      "text": "Cose da regalare a San Valentino",
+      "examples": [
+        "Cioccolatini",
+        "Rose",
+        "Cena fuori",
+        "Peluche",
+        "Profumo"
+      ]
+    },
+    {
+      "text": "Tipi di pasta fresca",
+      "examples": [
+        "Tagliatelle",
+        "Pappardelle",
+        "Ravioli",
+        "Gnocchi",
+        "Maltagliati"
+      ]
+    },
+    {
+      "text": "Profumi di moda",
+      "examples": [
+        "Acqua di Gio",
+        "Chanel N°5",
+        "Light Blue",
+        "Miss Dior",
+        "Black Opium"
+      ]
+    },
+    {
+      "text": "Hobby creativi",
+      "examples": [
+        "Uncinetto",
+        "Decoupage",
+        "Ceramica",
+        "Origami",
+        "Acquerello"
+      ]
+    },
+    {
+      "text": "Cucine del mondo",
+      "examples": [
+        "Giapponese",
+        "Messicana",
+        "Thailandese",
+        "Indiana",
+        "Greca"
+      ]
+    }
+  ]
+}

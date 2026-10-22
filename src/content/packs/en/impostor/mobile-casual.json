@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-mobile-casual",
+  "title": "Mobile & Casual Games",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Candy Crush Saga",
+      "hint": "Waiting room",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Angry Birds",
+      "hint": "Grumpy mornings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flappy Bird",
+      "hint": "Endless attempts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Among Us",
+      "hint": "Trust issues",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Subway Surfers",
+      "hint": "Teenage rebel",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Solitaire",
+      "hint": "Solo evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sudoku",
+      "hint": "Newspaper",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tamagotchi",
+      "hint": "Playground fad",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minesweeper",
+      "hint": "Office boredom",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fruit Ninja",
+      "hint": "Smoothie bar",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Temple Run",
+      "hint": "Being chased",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plants vs. Zombies",
+      "hint": "Lawn party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "2048",
+      "hint": "Sleepless nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clash Royale",
+      "hint": "Spending spree",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crossy Road",
+      "hint": "Morning dash",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doodle Jump",
+      "hint": "Maths lesson",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wordle",
+      "hint": "Morning coffee",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hay Day",
+      "hint": "Early mornings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brawl Stars",
+      "hint": "Friday squad",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hungry Shark",
+      "hint": "Beach holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bubble Shooter",
+      "hint": "Sugar rush",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piano Tiles",
+      "hint": "Music lessons",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Words With Friends",
+      "hint": "Long-distance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cut the Rope",
+      "hint": "Sweet tooth",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Royal Match",
+      "hint": "Fancy dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hill Climb Racing",
+      "hint": "Bumpy holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ludo King",
+      "hint": "Dad's board",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bejeweled",
+      "hint": "Window shopping",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jetpack Joyride",
+      "hint": "Cheeky getaway",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clash of Clans",
+      "hint": "Long upgrades",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trivia Crack",
+      "hint": "Bragging rights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dots",
+      "hint": "Bus ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gardenscapes",
+      "hint": "Weekend chores",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Roblox",
+      "hint": "Kids' sleepover",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Agar.io",
+      "hint": "Biology class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monument Valley",
+      "hint": "Art gallery",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fall Guys",
+      "hint": "Clumsy fun",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Genshin Impact",
+      "hint": "Late-night grind",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Plague Inc.",
+      "hint": "Hand washing",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cookie Clicker",
+      "hint": "Sore finger",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Osu!",
+      "hint": "Headphones on",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Threes",
+      "hint": "Number crunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Limbo",
+      "hint": "Dark forest",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alto's Adventure",
+      "hint": "Winter holiday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pou",
+      "hint": "Sunday chores",
+      "difficulty": "easy"
+    }
+  ]
+}

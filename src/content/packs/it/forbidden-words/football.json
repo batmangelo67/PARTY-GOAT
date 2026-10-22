@@ -1,0 +1,464 @@
+{
+  "id": "it-forbidden-words-football",
+  "title": "Calcio",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Rigore",
+      "banned": [
+        "Dischetto",
+        "Fallo",
+        "Tiro dal limite",
+        "Parata"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portiere",
+      "banned": [
+        "Guanti",
+        "Parata",
+        "Porta",
+        "Area"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gol",
+      "banned": [
+        "Segnare",
+        "Esultanza",
+        "Marcatore",
+        "Tabellino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arbitro",
+      "banned": [
+        "Fischietto",
+        "Direttore di gara",
+        "Giacchetta nera",
+        "Moviola"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cartellino giallo",
+      "banned": [
+        "Ammonizione",
+        "Fallo",
+        "Sanzione",
+        "Arbitro"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fuorigioco",
+      "banned": [
+        "Bandierina",
+        "Linea difensiva",
+        "Assistente",
+        "Ultimo uomo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pallone",
+      "banned": [
+        "Sfera",
+        "Cuoio",
+        "Calcio d'inizio",
+        "Campo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stadio",
+      "banned": [
+        "Curva",
+        "Tribuna",
+        "Gradinata",
+        "Botteghino"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tifoso",
+      "banned": [
+        "Sciarpa",
+        "Cori",
+        "Bandiera",
+        "Trombetta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Derby",
+      "banned": [
+        "Milano",
+        "Roma",
+        "Stracittadina",
+        "Rivalità"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Allenatore",
+      "banned": [
+        "Mister",
+        "Panchina",
+        "Schemi",
+        "Tattica"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spogliatoio",
+      "banned": [
+        "Doccia",
+        "Armadietto",
+        "Chiave",
+        "Borsone"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Attaccante",
+      "banned": [
+        "Punta",
+        "Centravanti",
+        "Goleador",
+        "Bomber"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Difensore",
+      "banned": [
+        "Marcatura",
+        "Stopper",
+        "Terzino",
+        "Contrasto"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panchina",
+      "banned": [
+        "Riserve",
+        "Cambio",
+        "Allenatore",
+        "Seduta"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calcio d'angolo",
+      "banned": [
+        "Corner",
+        "Cross",
+        "Traversone",
+        "Bandierina"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rete",
+      "banned": [
+        "Porta",
+        "Gol",
+        "Traversa",
+        "Palo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scudetto",
+      "banned": [
+        "Campionato",
+        "Tricolore",
+        "Coppa",
+        "Titolo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Contropiede",
+      "banned": [
+        "Ripartenza",
+        "Velocità",
+        "Rapido",
+        "Recuperare palla"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rovesciata",
+      "banned": [
+        "Acrobazia",
+        "Bicicletta",
+        "Spalle alla porta",
+        "Salto"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Traversa",
+      "banned": [
+        "Palo",
+        "Legno",
+        "Porta",
+        "Colpo di testa"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ultrà",
+      "banned": [
+        "Curva",
+        "Striscione",
+        "Fumogeni",
+        "Cori"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dribbling",
+      "banned": [
+        "Finta",
+        "Slalom",
+        "Palleggio",
+        "Tunnel"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pressing",
+      "banned": [
+        "Pressione",
+        "Marcatura a uomo",
+        "Recupero",
+        "Aggressività"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Calcio di punizione",
+      "banned": [
+        "Barriera",
+        "Fallo",
+        "Pallone fermo",
+        "Palla piazzata"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pallonetto",
+      "banned": [
+        "Sopra il portiere",
+        "Alzata",
+        "Pallonata",
+        "Tocco morbido"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiki-taka",
+      "banned": [
+        "Passaggi",
+        "Palleggio",
+        "Spagna",
+        "Barcellona"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiro a giro",
+      "banned": [
+        "Curva",
+        "Effetto",
+        "Sinistro",
+        "Destro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cross",
+      "banned": [
+        "Traversone",
+        "Fascia",
+        "Cerchio",
+        "Esterno"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Retrocessione",
+      "banned": [
+        "Serie B",
+        "Ultimo posto",
+        "Classifica",
+        "Fondo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mondiali",
+      "banned": [
+        "Coppa del Mondo",
+        "Quattro anni",
+        "Nazionale",
+        "Azzurri"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Azzurri",
+      "banned": [
+        "Maglia blu",
+        "Nazionale",
+        "Italia",
+        "Mondiali"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mercato",
+      "banned": [
+        "Trasferimento",
+        "Acquisto",
+        "Sessione",
+        "Estate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Espulsione",
+      "banned": [
+        "Rosso",
+        "Cacciato",
+        "Doccia anticipata",
+        "Campo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pareggio",
+      "banned": [
+        "Due a due",
+        "Zero a zero",
+        "Ex aequo",
+        "Ai rigori"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Doppietta",
+      "banned": [
+        "Due gol",
+        "Stesso giocatore",
+        "Tripletta",
+        "Partita"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Catenaccio",
+      "banned": [
+        "Difesa",
+        "Italia",
+        "Anni Sessanta",
+        "Chiusura"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trequartista",
+      "banned": [
+        "Dieci",
+        "Rifinitore",
+        "Assist",
+        "Tattica"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mezzala",
+      "banned": [
+        "Centrocampo",
+        "Fascia",
+        "Inserimento",
+        "Tagliare"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Regista",
+      "banned": [
+        "Metronomo",
+        "Playmaker",
+        "Cervello",
+        "Lanci"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Anticipo",
+      "banned": [
+        "Partita",
+        "Rinvio",
+        "Turno",
+        "Giornata"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Girone",
+      "banned": [
+        "Gruppo",
+        "Eliminazione",
+        "Squadre",
+        "Andata e ritorno"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zona mista",
+      "banned": [
+        "Interviste",
+        "Giornalisti",
+        "Microfoni",
+        "Dichiarazioni"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Distinta",
+      "banned": [
+        "Formazione",
+        "Titolari",
+        "Modulo",
+        "Panchina"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Marcatura a uomo",
+      "banned": [
+        "Ombra",
+        "Tallonato",
+        "Uno contro uno",
+        "Schema"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

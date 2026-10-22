@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-school-subjects",
+  "title": "Materie scolastiche",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Matematica",
+      "hint": "Compito a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Storia",
+      "hint": "Documentario in TV",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Geografia",
+      "hint": "Valigia in arrivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Italiano",
+      "hint": "Parole in rosso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Inglese",
+      "hint": "Film senza sottotitoli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scienze",
+      "hint": "Perché il cielo?",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arte",
+      "hint": "Museo domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Musica",
+      "hint": "Concerto scolastico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ginnastica",
+      "hint": "Corsa sotto pioggia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Latino",
+      "hint": "Versione a tradimento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Greco",
+      "hint": "Viaggio di ritorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chimica",
+      "hint": "Odore strano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fisica",
+      "hint": "Mela sulla testa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Biologia",
+      "hint": "Mondo invisibile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disegno",
+      "hint": "Foglio bianco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Informatica",
+      "hint": "Schermo blu",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Economia",
+      "hint": "Fine mese difficile",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Filosofia",
+      "hint": "Notte di riflessioni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trigonometria",
+      "hint": "Tabelle da memorizzare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geometria",
+      "hint": "Pazienza sul foglio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algebra",
+      "hint": "Problema senza risposta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Statistica",
+      "hint": "Sondaggio al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Astronomia",
+      "hint": "Stella cadente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geologia",
+      "hint": "Gita in montagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sociologia",
+      "hint": "Gruppi di amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Psicologia",
+      "hint": "Perché l'hai fatto?",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Retorica",
+      "hint": "Venditore insistente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Logica",
+      "hint": "Se e ma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Etica",
+      "hint": "Bugia buona",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antropologia",
+      "hint": "Cosa mangiano lì?",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Letteratura",
+      "hint": "Pagine sottolineate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tecnologia",
+      "hint": "Robot in panne",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pedagogia",
+      "hint": "Educare i figli",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ecologia",
+      "hint": "Foresta da salvare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Anatomia",
+      "hint": "Mano sul cuore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Botanica",
+      "hint": "Passeggiata nel bosco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Epigrafia",
+      "hint": "Scritte per l'eternità",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Numismatica",
+      "hint": "Collezione di famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Paleografia",
+      "hint": "Calligrafia illeggibile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Glottologia",
+      "hint": "Lingue parenti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cristallografia",
+      "hint": "Neve perfetta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Entomologia",
+      "hint": "Zanzare di agosto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ornitologia",
+      "hint": "Alba sul lago",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Idraulica",
+      "hint": "Sciacquone rotto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crittografia",
+      "hint": "Biglietto segreto",
+      "difficulty": "hard"
+    }
+  ]
+}

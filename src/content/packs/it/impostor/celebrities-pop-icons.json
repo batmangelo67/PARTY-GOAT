@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-celebrities-pop-icons",
+  "title": "Celebrità e icone pop",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Madonna",
+      "hint": "Scandalo in tv",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Anni ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Fan in delirio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marilyn Monroe",
+      "hint": "Sorriso malinconico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rihanna",
+      "hint": "Passerella di moda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ariana Grande",
+      "hint": "Premiazione in diretta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lionel Messi",
+      "hint": "Tifo appassionato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cristiano Ronaldo",
+      "hint": "Palestra ogni giorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leonardo DiCaprio",
+      "hint": "Cause ecologiche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taylor Swift",
+      "hint": "Gruppo di amiche",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Beyoncé",
+      "hint": "Coreografia di gruppo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brad Pitt",
+      "hint": "Copertina di rivista",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "hint": "Intervista emozionante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elon Musk",
+      "hint": "Tweet notturni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kim Kardashian",
+      "hint": "Paparazzi all'uscita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lady Gaga",
+      "hint": "Esibizione stravagante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Billie Eilish",
+      "hint": "Sussurri in cameretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zendaya",
+      "hint": "Abiti da copertina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Harry Styles",
+      "hint": "Fan in lacrime",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shakira",
+      "hint": "Serata latina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Justin Bieber",
+      "hint": "Gossip a raffica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mark Zuckerberg",
+      "hint": "Stanza universitaria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bill Gates",
+      "hint": "Donazioni generose",
+      "difficulty": "medium"
+    },
+    {
+      "word": "MrBeast",
+      "hint": "Regali a sorpresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dua Lipa",
+      "hint": "Cocktail party",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eminem",
+      "hint": "Battaglie a rime",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kanye West",
+      "hint": "Tweet impulsivi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bruce Springsteen",
+      "hint": "Concerti lunghissimi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prince",
+      "hint": "Look stravagante",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Freddie Mercury",
+      "hint": "Stadio pieno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tom Cruise",
+      "hint": "Sport estremi",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Andy Warhol",
+      "hint": "Collezionista ossessivo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "David Bowie",
+      "hint": "Cambi d'immagine",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tom Hanks",
+      "hint": "Papà del cinema",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Will Smith",
+      "hint": "Sorriso contagioso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diego Maradona",
+      "hint": "Gol controverso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jennifer Lopez",
+      "hint": "Passi di danza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ed Sheeran",
+      "hint": "Timidezza in scena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Adele",
+      "hint": "Premi a valanga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Drake",
+      "hint": "Cuori e classifiche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bad Bunny",
+      "hint": "Serata in discoteca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bruno Mars",
+      "hint": "Eleganza vintage",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sandra Bullock",
+      "hint": "Sorriso da vicina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Keanu Reeves",
+      "hint": "Gentile e pacato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jim Carrey",
+      "hint": "Smorfie allo specchio",
+      "difficulty": "medium"
+    }
+  ]
+}

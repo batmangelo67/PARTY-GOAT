@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-kitchen-utensils",
+  "title": "Utensili da cucina",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Mestolo",
+      "hint": "Sapore di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Padella",
+      "hint": "Pranzo improvvisato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pentola",
+      "hint": "Fame in arrivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Coltello",
+      "hint": "Notte da thriller",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Forchetta",
+      "hint": "Pausa pranzo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cucchiaio",
+      "hint": "Serata sul divano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mattarello",
+      "hint": "Domenica in cucina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grattugia",
+      "hint": "Ultimo tocco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tagliere",
+      "hint": "Ospiti a sorpresa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teglia",
+      "hint": "Pranzo di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pinze",
+      "hint": "Estate in terrazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apribottiglie",
+      "hint": "Sete d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scolapasta",
+      "hint": "Fretta a mezzogiorno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frusta",
+      "hint": "Festa di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spatola",
+      "hint": "Colazione domenicale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Colino",
+      "hint": "Pomeriggio tranquillo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caraffa",
+      "hint": "Afa d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stampo per dolci",
+      "hint": "Anniversario in casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Schiumarola",
+      "hint": "Cucina da sagra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mandolina",
+      "hint": "Chef televisivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pelapatate",
+      "hint": "Lavoro di pazienza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scodella",
+      "hint": "Freddo di gennaio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vaporiera",
+      "hint": "Fitness in cucina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wok",
+      "hint": "Ricetta del weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Casseruola",
+      "hint": "Domenica piovosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pirofila",
+      "hint": "Cena delle feste",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Raschietto",
+      "hint": "Pulizia serale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tagliapasta",
+      "hint": "Festa d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schiacciapatate",
+      "hint": "Cena dei bambini",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Imbuto",
+      "hint": "Dispensa piena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bricco",
+      "hint": "Colazione al bancone",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Moka",
+      "hint": "Mattina lenta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pentolino",
+      "hint": "Piccolo pasto veloce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coltello da pane",
+      "hint": "Sabato al mercato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Passaverdura",
+      "hint": "Pappa pronta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tagliauova",
+      "hint": "Pic-nic in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Termometro da cucina",
+      "hint": "Chef stellato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sifone",
+      "hint": "Cucina molecolare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Siringa da pasticceria",
+      "hint": "Dolci da vetrina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mortaio",
+      "hint": "Antica cucina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Setaccio",
+      "hint": "Setacciare il passato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Affilacoltelli",
+      "hint": "Mestiere antico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Contaminuti",
+      "hint": "Dimenticanza in cucina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Spiedino",
+      "hint": "Festa di paese",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stampino per ravioli",
+      "hint": "Domenica in famiglia",
+      "difficulty": "hard"
+    }
+  ]
+}

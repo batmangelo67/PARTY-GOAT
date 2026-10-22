@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-anime-manga",
+  "title": "Anime e manga",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Naruto",
+      "hint": "Sfida con l'amico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "One Piece",
+      "hint": "Ciurma allegra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dragon Ball",
+      "hint": "Allenamento estremo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doraemon",
+      "hint": "Miracoli quotidiani",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Goldrake",
+      "hint": "Merenda in tv",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heidi",
+      "hint": "Estate in baita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Candy Candy",
+      "hint": "Amore platonico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sailor Moon",
+      "hint": "Magia da liceale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pokémon",
+      "hint": "Avventura in campagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il mio vicino Totoro",
+      "hint": "Sorelle in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ken il guerriero",
+      "hint": "Fine del mondo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Holly e Benji",
+      "hint": "Notti di allenamento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lady Oscar",
+      "hint": "Ruolo mascherato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "La città incantata",
+      "hint": "Lavoro d'estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fullmetal Alchemist",
+      "hint": "Scambio sbagliato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Haikyu!!",
+      "hint": "Torneo scolastico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chainsaw Man",
+      "hint": "Lavoro sporco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tokyo Ghoul",
+      "hint": "Dieta insolita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Attack on Titan",
+      "hint": "Fuga disperata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Death Note",
+      "hint": "Gatto e topo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Neon Genesis Evangelion",
+      "hint": "Adolescenti in crisi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sword Art Online",
+      "hint": "Gioco senza uscita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Berserk",
+      "hint": "Destino crudele",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Slam Dunk",
+      "hint": "Estate di sudore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Demon Slayer",
+      "hint": "Sorella in pericolo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jujutsu Kaisen",
+      "hint": "Liceo strano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hunter x Hunter",
+      "hint": "Ricerca del padre",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cowboy Bebop",
+      "hint": "Vita da nomade",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Akira",
+      "hint": "Poteri fuori controllo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ghost in the Shell",
+      "hint": "Crisi d'identità",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lupin III",
+      "hint": "Fuga impeccabile",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dr. Slump",
+      "hint": "Invenzioni strane",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Porco Rosso",
+      "hint": "Cielo e nostalgia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Yu-Gi-Oh!",
+      "hint": "Gioco nel gioco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ranma 1/2",
+      "hint": "Trasformazioni improvvise",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cells at Work",
+      "hint": "Dipendenti dell'organismo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vagabond",
+      "hint": "Cammino solitario",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Il castello errante di Howl",
+      "hint": "Sogno di fumo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bleach",
+      "hint": "Dopo la scuola",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mazinga Z",
+      "hint": "Pomeriggio in tv",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rurouni Kenshin",
+      "hint": "Vagabondo pentito",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monster",
+      "hint": "Dilemma morale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kiki - Consegne a domicilio",
+      "hint": "Prima vita adulta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Detective Conan",
+      "hint": "Delitti in gita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Astro Boy",
+      "hint": "Cartoni d'epoca",
+      "difficulty": "easy"
+    }
+  ]
+}

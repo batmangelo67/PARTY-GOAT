@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-jobs",
+  "title": "Jobs",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Pilot",
+      "banned": [
+        "Cockpit",
+        "Plane",
+        "Captain",
+        "Aviator"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chef",
+      "banned": [
+        "Kitchen",
+        "Cook",
+        "Hat",
+        "Restaurant"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nurse",
+      "banned": [
+        "Hospital",
+        "Scrubs",
+        "Patients",
+        "Ward"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teacher",
+      "banned": [
+        "Classroom",
+        "School",
+        "Chalk",
+        "Homework"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dentist",
+      "banned": [
+        "Teeth",
+        "Drill",
+        "Tooth",
+        "Check-up"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Firefighter",
+      "banned": [
+        "Hose",
+        "Rescue",
+        "Helmet",
+        "Blaze"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Farmer",
+      "banned": [
+        "Tractor",
+        "Crops",
+        "Fields",
+        "Barn"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doctor",
+      "banned": [
+        "Stethoscope",
+        "Clinic",
+        "Medicine",
+        "Prescription"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waiter",
+      "banned": [
+        "Tips",
+        "Menu",
+        "Serve",
+        "Tray"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cashier",
+      "banned": [
+        "Till",
+        "Supermarket",
+        "Checkout",
+        "Receipt"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mechanic",
+      "banned": [
+        "Garage",
+        "Spanner",
+        "Engine",
+        "Oil change"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plumber",
+      "banned": [
+        "Pipes",
+        "Wrench",
+        "Leaks",
+        "Toilet"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lawyer",
+      "banned": [
+        "Court",
+        "Briefcase",
+        "Lawsuit",
+        "Advocate"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astronaut",
+      "banned": [
+        "Space",
+        "Moon",
+        "Helmet",
+        "NASA"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barber",
+      "banned": [
+        "Scissors",
+        "Haircut",
+        "Razor",
+        "Shop pole"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Judge",
+      "banned": [
+        "Gavel",
+        "Court",
+        "Verdict",
+        "Robe"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Actor",
+      "banned": [
+        "Film",
+        "Stage",
+        "Script",
+        "Movie star"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Librarian",
+      "banned": [
+        "Books",
+        "Shush",
+        "Quiet",
+        "Dewey Decimal"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Locksmith",
+      "banned": [
+        "Keys",
+        "Lock picks",
+        "Locked out",
+        "Padlock"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sommelier",
+      "banned": [
+        "Wine",
+        "Cellar",
+        "Pairing",
+        "Vintage"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lifeguard",
+      "banned": [
+        "Beach",
+        "Whistle",
+        "Rescue",
+        "Red float"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cartographer",
+      "banned": [
+        "Maps",
+        "Atlas",
+        "Compass",
+        "Geography"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blacksmith",
+      "banned": [
+        "Anvil",
+        "Forge",
+        "Hammer",
+        "Horseshoes"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Janitor",
+      "banned": [
+        "Mop",
+        "Cleaner",
+        "Caretaker",
+        "Bucket"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pharmacist",
+      "banned": [
+        "Pills",
+        "Chemist",
+        "Counter",
+        "Prescription"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bartender",
+      "banned": [
+        "Cocktails",
+        "Pub",
+        "Tips",
+        "Shaker"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Umpire",
+      "banned": [
+        "Referee",
+        "Calls",
+        "Ball and strike",
+        "Stadium"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jeweller",
+      "banned": [
+        "Rings",
+        "Gold",
+        "Diamonds",
+        "Shop"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hairdresser",
+      "banned": [
+        "Salon",
+        "Blow dry",
+        "Scissors",
+        "Highlights"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carpenter",
+      "banned": [
+        "Wood",
+        "Saw",
+        "Joinery",
+        "Timber"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Florist",
+      "banned": [
+        "Bouquet",
+        "Roses",
+        "Petals",
+        "Shop"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Diplomat",
+      "banned": [
+        "Embassy",
+        "Ambassador",
+        "Treaty",
+        "Passport"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Translator",
+      "banned": [
+        "Languages",
+        "Interpreter",
+        "Dictionary",
+        "Babel"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Electrician",
+      "banned": [
+        "Wires",
+        "Fuse",
+        "Sparks",
+        "Circuit"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Architect",
+      "banned": [
+        "Blueprints",
+        "Buildings",
+        "Designer",
+        "Drawing board"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Surgeon",
+      "banned": [
+        "Operation",
+        "Scalpel",
+        "Theatre",
+        "Hospital"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Taxidermist",
+      "banned": [
+        "Stuffed animals",
+        "Museum",
+        "Glass eyes",
+        "Animal preservation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ventriloquist",
+      "banned": [
+        "Dummy",
+        "Puppet",
+        "Lips still",
+        "Talking doll"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lighthouse keeper",
+      "banned": [
+        "Lamp",
+        "Coast",
+        "Rocks",
+        "Beacon"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Archivist",
+      "banned": [
+        "Records",
+        "Documents",
+        "Preserve",
+        "Vault"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Glassblower",
+      "banned": [
+        "Furnace",
+        "Pipe",
+        "Molten",
+        "Venice"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cooper",
+      "banned": [
+        "Barrels",
+        "Wine",
+        "Staves",
+        "Hoops"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Beekeeper",
+      "banned": [
+        "Honey",
+        "Hive",
+        "Bees",
+        "Veil"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cobbler",
+      "banned": [
+        "Shoes",
+        "Heels",
+        "Repair",
+        "Last"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stevedore",
+      "banned": [
+        "Dockworker",
+        "Port",
+        "Cargo",
+        "Harbour"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

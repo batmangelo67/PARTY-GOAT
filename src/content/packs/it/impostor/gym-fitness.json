@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-gym-fitness",
+  "title": "Palestra e fitness",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Zumba",
+      "hint": "Festa in palestra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pilates",
+      "hint": "Respirazione lenta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spinning",
+      "hint": "Musica a palla",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stretching",
+      "hint": "Mattina di pigrizia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Riscaldamento",
+      "hint": "Prima di iniziare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cardio",
+      "hint": "Fiato corto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Addominali",
+      "hint": "Estate in arrivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flessioni",
+      "hint": "Allenamento a casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bodybuilding",
+      "hint": "Specchio e fatica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Personal trainer",
+      "hint": "Sveglia alle sei",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Proteine",
+      "hint": "Dopo l'allenamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sudore",
+      "hint": "Giornata calda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sala pesi",
+      "hint": "Orario di punta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Abbonamento",
+      "hint": "Propositi di gennaio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Step aerobica",
+      "hint": "Tuta anni Ottanta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Crunch",
+      "hint": "Ultimo esercizio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scheda di allenamento",
+      "hint": "Lista della spesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pausa",
+      "hint": "Fiato per ripartire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Massa muscolare",
+      "hint": "Mesi di fatica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sprint",
+      "hint": "Inseguire il treno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Squat",
+      "hint": "Gambe in fiamme",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plank",
+      "hint": "Statua vivente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burpees",
+      "hint": "Lamento urlato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Defaticamento",
+      "hint": "Ultimi minuti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Affondi",
+      "hint": "Gambe tremanti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trazioni",
+      "hint": "Braccia stanche",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shaker",
+      "hint": "Borraccia piena",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dieta chetogenica",
+      "hint": "Niente pasta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spogliatoio",
+      "hint": "Chiacchiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ripetizioni",
+      "hint": "Un altro ancora",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Serie",
+      "hint": "Ancora un po'",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jumping jack",
+      "hint": "Salti a ritmo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mountain climber",
+      "hint": "Ritmo sulle mani",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stacco da terra",
+      "hint": "Peso sollevato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carico di carboidrati",
+      "hint": "Vigilia della gara",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Massaggio sportivo",
+      "hint": "Dolori postumi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ginnastica posturale",
+      "hint": "Scrivania e pausa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pre-allenamento",
+      "hint": "Prima di entrare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crossfit",
+      "hint": "Sfida tra sconosciuti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "HIIT",
+      "hint": "Cuore impazzito",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Carico massimale",
+      "hint": "Limite da superare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tabata",
+      "hint": "Cronometro in mano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ponte glutei",
+      "hint": "Schiena al suolo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Foam roller",
+      "hint": "Massaggio casalingo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Circuit training",
+      "hint": "Ritmo da allenatore",
+      "difficulty": "hard"
+    }
+  ]
+}

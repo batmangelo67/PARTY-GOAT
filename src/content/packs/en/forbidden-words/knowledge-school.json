@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-knowledge-school",
+  "title": "Knowledge & School",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Homework",
+      "banned": [
+        "Assignment",
+        "Teacher",
+        "Deadline",
+        "Essay"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Blackboard",
+      "banned": [
+        "Chalk",
+        "Classroom",
+        "Eraser",
+        "Teacher"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dictionary",
+      "banned": [
+        "Words",
+        "Definitions",
+        "Meaning",
+        "Alphabet"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Library",
+      "banned": [
+        "Books",
+        "Quiet",
+        "Borrow",
+        "Shelves"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Calculator",
+      "banned": [
+        "Maths",
+        "Digits",
+        "Solar",
+        "Keypad"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Exam",
+      "banned": [
+        "Test",
+        "Revision",
+        "Grade",
+        "Invigilator"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Globe",
+      "banned": [
+        "Earth",
+        "Spin",
+        "Continents",
+        "Map"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Atlas",
+      "banned": [
+        "Maps",
+        "Geography",
+        "Pages",
+        "Countries"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Physics",
+      "banned": [
+        "Newton",
+        "Gravity",
+        "Atoms",
+        "Forces"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Locker",
+      "banned": [
+        "Hallway",
+        "Padlock",
+        "Combination",
+        "School Bag"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Graduation",
+      "banned": [
+        "Cap",
+        "Gown",
+        "Diploma",
+        "Ceremony"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Detention",
+      "banned": [
+        "Punishment",
+        "Late",
+        "Staying Behind",
+        "Saturday"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Textbook",
+      "banned": [
+        "Chapters",
+        "Index",
+        "Syllabus",
+        "Lessons"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Notebook",
+      "banned": [
+        "Paper",
+        "Spiral",
+        "Lined",
+        "Jotter"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ruler",
+      "banned": [
+        "Straight",
+        "Measure",
+        "Centimetres",
+        "Plastic"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pencil Case",
+      "banned": [
+        "Stationery",
+        "Zip",
+        "Pens",
+        "Erasers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alphabet",
+      "banned": [
+        "ABC",
+        "Letters",
+        "A to Z",
+        "Order"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Uniform",
+      "banned": [
+        "Blazer",
+        "Tie",
+        "Badge",
+        "Dress Code"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Playground",
+      "banned": [
+        "Swings",
+        "Break Time",
+        "Slide",
+        "Recess"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chemistry",
+      "banned": [
+        "Lab",
+        "Bunsen",
+        "Elements",
+        "Reactions"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Biology",
+      "banned": [
+        "Cells",
+        "Organisms",
+        "Species",
+        "Dissection"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "History",
+      "banned": [
+        "Past",
+        "Timeline",
+        "Dates",
+        "Ancient"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geography",
+      "banned": [
+        "Mountains",
+        "Rivers",
+        "Capitals",
+        "Climate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algebra",
+      "banned": [
+        "Variables",
+        "Equations",
+        "X",
+        "Unknowns"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Poetry",
+      "banned": [
+        "Verse",
+        "Rhyme",
+        "Stanza",
+        "Haiku"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Literature",
+      "banned": [
+        "Novels",
+        "Shakespeare",
+        "Classics",
+        "Authors"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scholarship",
+      "banned": [
+        "Funding",
+        "Bursary",
+        "Prize",
+        "Grant"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Compass",
+      "banned": [
+        "Circles",
+        "Protractor",
+        "Geometry",
+        "Radius"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Protractor",
+      "banned": [
+        "Angles",
+        "Degrees",
+        "Semicircle",
+        "Triangle"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Thesis",
+      "banned": [
+        "Dissertation",
+        "Degree",
+        "Argument",
+        "Research"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lecture",
+      "banned": [
+        "Professor",
+        "Slides",
+        "Talk",
+        "Hall"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seminar",
+      "banned": [
+        "Discussion",
+        "Tutorial",
+        "Small Group",
+        "Presentation"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Campus",
+      "banned": [
+        "University",
+        "Grounds",
+        "Dorm",
+        "Quad"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spelling",
+      "banned": [
+        "Letters",
+        "Mistakes",
+        "Bee",
+        "Syllables"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Multiplication",
+      "banned": [
+        "Times Tables",
+        "Products",
+        "Factors",
+        "Sums"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pythagoras",
+      "banned": [
+        "Triangle",
+        "Hypotenuse",
+        "Greek",
+        "Square"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Photosynthesis",
+      "banned": [
+        "Sunlight",
+        "Leaves",
+        "Chlorophyll",
+        "Oxygen"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Renaissance",
+      "banned": [
+        "Italy",
+        "Painters",
+        "Rebirth",
+        "Da Vinci"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fractions",
+      "banned": [
+        "Half",
+        "Numerator",
+        "Denominator",
+        "Slices"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mitosis",
+      "banned": [
+        "Cell Division",
+        "Nucleus",
+        "Chromosomes",
+        "Splitting"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Quadratic",
+      "banned": [
+        "Parabola",
+        "Formula",
+        "Equation",
+        "Roots"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Archaeology",
+      "banned": [
+        "Dig",
+        "Ruins",
+        "Fossils",
+        "Trowel"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vocabulary",
+      "banned": [
+        "Lexicon",
+        "Synonyms",
+        "Glossary",
+        "Terms"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Metaphor",
+      "banned": [
+        "Simile",
+        "Comparison",
+        "Figurative",
+        "Symbol"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ecosystem",
+      "banned": [
+        "Habitat",
+        "Food Chain",
+        "Predator",
+        "Environment"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -4,7 +4,7 @@ import { withItemIds } from "./items";
 import { packFileSchema, type Pack, type PackFile, type PackSource } from "./schema";
 
 // Lazy so each pack becomes its own chunk; the service worker precaches them for offline use.
-const BUILTIN_PACK_MODULES = import.meta.glob<unknown>("./packs/*/*.json", { import: "default" });
+const BUILTIN_PACK_MODULES = import.meta.glob<unknown>("./packs/*/*/*.json", { import: "default" });
 
 type PackEntry = [origin: string, raw: unknown];
 

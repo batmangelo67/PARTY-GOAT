@@ -1,0 +1,239 @@
+{
+  "id": "it-impostor-euroleague-international",
+  "title": "EuroLega e basket europeo",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "basketball",
+  "items": [
+    {
+      "word": "Olimpia Milano",
+      "hint": "Tifo in tribuna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Virtus Bologna",
+      "hint": "Cena lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trento",
+      "hint": "Aria di montagna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Venezia",
+      "hint": "Passeggiata lenta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sassari",
+      "hint": "Tifo senza freni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brindisi",
+      "hint": "Sole d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pesaro",
+      "hint": "Bagni e ombrelloni",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Caserta",
+      "hint": "Giardini infiniti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fenerbahce",
+      "hint": "Tifo fiammeggiante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panathinaikos",
+      "hint": "Vecchia rivalità",
+      "difficulty": "easy"
+    },
+    {
+      "word": "CSKA Mosca",
+      "hint": "Disciplina ferrea",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maccabi Tel Aviv",
+      "hint": "Tifo e bandiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Anadolu Efes",
+      "hint": "Storia antica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Partizan",
+      "hint": "Notti di fuoco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Žalgiris",
+      "hint": "Spalti colorati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alba Berlino",
+      "hint": "Mattina presto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baskonia",
+      "hint": "Partite infuocate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bamberg",
+      "hint": "Piccolo ma tosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Final Four",
+      "hint": "Serata di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gallinari",
+      "hint": "Lunghe trasferte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Belinelli",
+      "hint": "Tiri in ritardo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sabonis",
+      "hint": "Gigante paziente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mirotić",
+      "hint": "Pazienza in panchina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dončić",
+      "hint": "Ragazzo dal futuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marc Gasol",
+      "hint": "Difesa e pensiero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ricky Rubio",
+      "hint": "Passaggi a sorpresa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Navarro",
+      "hint": "Anni di esperienza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Teodosić",
+      "hint": "Estro e follia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ettore Messina",
+      "hint": "Metodo rigoroso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bargnani",
+      "hint": "Ritorno a casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Divac",
+      "hint": "Basket con cuore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bogdanović",
+      "hint": "Tiri caldi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valančiūnas",
+      "hint": "Cuore sotto canestro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bodiroga",
+      "hint": "Calma e tiro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scola",
+      "hint": "Cuore in campo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dino Radja",
+      "hint": "Passo indietro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eurocup",
+      "hint": "Torneo parallelo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Final Eight",
+      "hint": "Weekend di fuoco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Playout",
+      "hint": "Ultima chance",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Zona 2-3",
+      "hint": "Vecchio trucco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fallo tecnico",
+      "hint": "Sfuriata in panchina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Time-out",
+      "hint": "Pausa strategica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eurobasket",
+      "hint": "Vacanze interrotte",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coppa Korac",
+      "hint": "Anni ottanta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coppa Saporta",
+      "hint": "Trofeo dimenticato",
+      "difficulty": "hard"
+    }
+  ]
+}

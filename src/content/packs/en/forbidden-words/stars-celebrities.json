@@ -1,0 +1,463 @@
+{
+  "id": "en-forbidden-words-stars-celebrities",
+  "title": "Stars & Celebrities",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Paparazzi",
+      "banned": [
+        "Photographers",
+        "Flash",
+        "Camera",
+        "Chasing"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Autograph",
+      "banned": [
+        "Signature",
+        "Fan",
+        "Scribble",
+        "Pen"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Red Carpet",
+      "banned": [
+        "Gala",
+        "Gowns",
+        "Velvet",
+        "Premiere Night"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Selfie",
+      "banned": [
+        "Phone",
+        "Arm's Length",
+        "Pout",
+        "Front Camera"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bodyguard",
+      "banned": [
+        "Security",
+        "Protect",
+        "Muscle",
+        "Shadow"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hollywood",
+      "banned": [
+        "Tinseltown",
+        "Studios",
+        "Movies",
+        "Walk of Fame"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fame",
+      "banned": [
+        "Spotlight",
+        "Recognition",
+        "Stardom",
+        "Notoriety"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Entourage",
+      "banned": [
+        "Group",
+        "Hangers-on",
+        "Assistants",
+        "Posse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stylist",
+      "banned": [
+        "Outfit",
+        "Fashion",
+        "Wardrobe",
+        "Makeover"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tabloid",
+      "banned": [
+        "Headlines",
+        "Scandal",
+        "Gossip",
+        "Newspaper"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gossip",
+      "banned": [
+        "Rumours",
+        "Chatter",
+        "Tea",
+        "Whispers"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Talk Show",
+      "banned": [
+        "Interview",
+        "Host",
+        "Chat",
+        "Guests"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reality TV",
+      "banned": [
+        "Contestants",
+        "Cameras",
+        "Drama",
+        "Eviction"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Influencer",
+      "banned": [
+        "Followers",
+        "Social Media",
+        "Sponsored",
+        "Brand Deals"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fan Club",
+      "banned": [
+        "Membership",
+        "Supporters",
+        "Newsletter",
+        "Merch"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Superstar",
+      "banned": [
+        "Celebrity",
+        "Icon",
+        "Headliner",
+        "Legend"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Catwalk",
+      "banned": [
+        "Runway",
+        "Models",
+        "Fashion Week",
+        "Strut"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Supermodel",
+      "banned": [
+        "Vogue",
+        "Cover",
+        "Heels",
+        "Agency"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marilyn Monroe",
+      "banned": [
+        "Blonde",
+        "Icon",
+        "Seven Year Itch",
+        "Sixties"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Audrey Hepburn",
+      "banned": [
+        "Tiffany's",
+        "Givenchy",
+        "Gamine",
+        "Roman Holiday"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Charlie Chaplin",
+      "banned": [
+        "Tramp",
+        "Silent Films",
+        "Bowler Hat",
+        "Moustache"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "banned": [
+        "Mogul",
+        "Chicago",
+        "Book Club",
+        "Daytime"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Celebrity Chef",
+      "banned": [
+        "Cooking",
+        "Restaurant",
+        "Michelin",
+        "Cookbook"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gala",
+      "banned": [
+        "Ball",
+        "Charity",
+        "Dinner Jacket",
+        "Auction"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stunt Double",
+      "banned": [
+        "Dangerous",
+        "Replacement",
+        "Action Scenes",
+        "Fall"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Walk of Fame",
+      "banned": [
+        "Pavement",
+        "Plaques",
+        "Stars",
+        "Boulevard"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Limousine",
+      "banned": [
+        "Chauffeur",
+        "Stretch",
+        "Driver",
+        "Champagne"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Journalist",
+      "banned": [
+        "Reporter",
+        "Press",
+        "Scoop",
+        "Column"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fan Mail",
+      "banned": [
+        "Letters",
+        "Postbox",
+        "Admirer",
+        "Signed Photo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Standing Ovation",
+      "banned": [
+        "Applause",
+        "Clapping",
+        "Encore",
+        "Crowd"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chauffeur",
+      "banned": [
+        "Suit",
+        "Black Car",
+        "Gloves",
+        "Driver"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Heartthrob",
+      "banned": [
+        "Crush",
+        "Dreamy",
+        "Pin-up",
+        "Idol"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Celebrity",
+      "banned": [
+        "Spotlight",
+        "Public Figure",
+        "Headlines",
+        "Household Name"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Glamour",
+      "banned": [
+        "Glitz",
+        "Sparkle",
+        "Elegance",
+        "Gloss"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scandal",
+      "banned": [
+        "Affair",
+        "Cover-up",
+        "Exposed",
+        "Headlines"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Screen Test",
+      "banned": [
+        "Audition",
+        "Camera",
+        "Actors",
+        "Casting"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spokesperson",
+      "banned": [
+        "Advert",
+        "Endorsement",
+        "Brand",
+        "Mouthpiece"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cult Following",
+      "banned": [
+        "Fans",
+        "Devotion",
+        "Loyal",
+        "Niche"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Casting Director",
+      "banned": [
+        "Auditions",
+        "Roles",
+        "Actors",
+        "Hiring"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stage Door",
+      "banned": [
+        "Green Room",
+        "Exit",
+        "Fans",
+        "Dressing Room"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Method Acting",
+      "banned": [
+        "Immersive",
+        "Stanislavski",
+        "Character",
+        "Preparation"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Behind the Scenes",
+      "banned": [
+        "Crew",
+        "Filming",
+        "Making of",
+        "Outtakes"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Publicist",
+      "banned": [
+        "PR",
+        "Press Releases",
+        "Spin",
+        "Agent"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Afterparty",
+      "banned": [
+        "Late Night",
+        "Drinks",
+        "Club",
+        "VIP"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Starlet",
+      "banned": [
+        "Rising",
+        "Aspiring",
+        "Ingenue",
+        "Young"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

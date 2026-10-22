@@ -1,0 +1,443 @@
+{
+  "id": "it-forbidden-words-stars-celebrities",
+  "title": "Star e celebrità",
+  "language": "it",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Leonardo DiCaprio",
+      "banned": [
+        "Titanic",
+        "Attore",
+        "Gatsby",
+        "Oscar"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Julia Roberts",
+      "banned": [
+        "Pretty Woman",
+        "Attrice",
+        "Sorriso",
+        "Hollywood"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tom Hanks",
+      "banned": [
+        "Forrest Gump",
+        "Attore",
+        "Naufragio",
+        "Cast Away"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brad Pitt",
+      "banned": [
+        "Fight Club",
+        "Angelina",
+        "Hollywood",
+        "Biondo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Johnny Depp",
+      "banned": [
+        "Pirati",
+        "Jack Sparrow",
+        "Attore",
+        "Tim Burton"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sophia Loren",
+      "banned": [
+        "Attrice",
+        "Ciociara",
+        "Diva",
+        "Pizza"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roberto Benigni",
+      "banned": [
+        "La vita è bella",
+        "Attore",
+        "Oscar",
+        "Toscana"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monica Bellucci",
+      "banned": [
+        "Modella",
+        "Attrice",
+        "Italia",
+        "Bond"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Totò",
+      "banned": [
+        "Principe",
+        "Comico",
+        "Miseria",
+        "Napoli"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alberto Sordi",
+      "banned": [
+        "Romano",
+        "Italiano medio",
+        "Film",
+        "Vigile"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Meryl Streep",
+      "banned": [
+        "Attrice",
+        "Premi",
+        "Il diavolo veste Prada",
+        "Dame"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tom Cruise",
+      "banned": [
+        "Mission Impossible",
+        "Top Gun",
+        "Attore",
+        "Maverick"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chris Hemsworth",
+      "banned": [
+        "Thor",
+        "Martello",
+        "Avengers",
+        "Australia"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scarlett Johansson",
+      "banned": [
+        "Vedova Nera",
+        "Attrice",
+        "Lucy",
+        "Marvel"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Margot Robbie",
+      "banned": [
+        "Barbie",
+        "Attrice",
+        "Wolf of Wall Street",
+        "Suicide Squad"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Keanu Reeves",
+      "banned": [
+        "Matrix",
+        "Neo",
+        "John Wick",
+        "Bill & Ted"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Will Smith",
+      "banned": [
+        "Principe di Bel-Air",
+        "Men in Black",
+        "Fresh",
+        "Hitch"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "banned": [
+        "Talk show",
+        "Conduttrice",
+        "Club dei libri",
+        "Intervista"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Jordan",
+      "banned": [
+        "Basket",
+        "Chicago",
+        "Air",
+        "Toro"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Usain Bolt",
+      "banned": [
+        "Velocista",
+        "Giamaica",
+        "Record",
+        "Lampo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paolo Sorrentino",
+      "banned": [
+        "La grande bellezza",
+        "Regista",
+        "Il divo",
+        "Cinema"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Federico Fellini",
+      "banned": [
+        "Regista",
+        "La dolce vita",
+        "Amarcord",
+        "Rimini"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sergio Leone",
+      "banned": [
+        "Western",
+        "Spaghetti",
+        "C'era una volta",
+        "Clint"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giorgio Armani",
+      "banned": [
+        "Stilista",
+        "Moda",
+        "Milano",
+        "Giacca"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valentino",
+      "banned": [
+        "Stilista",
+        "Rosso",
+        "Haute couture",
+        "Roma"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bill Gates",
+      "banned": [
+        "Microsoft",
+        "Windows",
+        "Fondatore",
+        "Ricco"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Steve Jobs",
+      "banned": [
+        "Apple",
+        "Mela",
+        "iPhone",
+        "Pixar"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Albert Einstein",
+      "banned": [
+        "Relatività",
+        "Fisico",
+        "E=mc²",
+        "Capelli"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marie Curie",
+      "banned": [
+        "Radioattività",
+        "Polonia",
+        "Premio Nobel",
+        "Fisica"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stephen Hawking",
+      "banned": [
+        "Buchi neri",
+        "Sedia a rotelle",
+        "Cosmologia",
+        "Cambridge"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dante Alighieri",
+      "banned": [
+        "Divina Commedia",
+        "Poeta",
+        "Firenze",
+        "Beatrice"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Galileo Galilei",
+      "banned": [
+        "Telescopio",
+        "Pisa",
+        "Eppur si muove",
+        "Astronomo"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cristoforo Colombo",
+      "banned": [
+        "America",
+        "Navigatore",
+        "Caravelle",
+        "Genova"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Marco Polo",
+      "banned": [
+        "Via della Seta",
+        "Veneziano",
+        "Viaggiatore",
+        "Milione"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alan Turing",
+      "banned": [
+        "Enigma",
+        "Computer",
+        "Matematico",
+        "Bletchley"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ada Lovelace",
+      "banned": [
+        "Programmazione",
+        "Byron",
+        "Algoritmi",
+        "Prima programmatrice"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Frida Kahlo",
+      "banned": [
+        "Autoritratto",
+        "Messico",
+        "Sopracciglia",
+        "Diego"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Andy Warhol",
+      "banned": [
+        "Pop art",
+        "Campbell",
+        "Factory",
+        "Marilyn"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coco Chanel",
+      "banned": [
+        "Tubino",
+        "Profumo",
+        "Parigi",
+        "Cappello"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Maria Montessori",
+      "banned": [
+        "Metodo",
+        "Bambini",
+        "Pedagogista",
+        "Medico"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Umberto Eco",
+      "banned": [
+        "Il nome della rosa",
+        "Semiotica",
+        "Scrittore",
+        "Bologna"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Liam Neeson",
+      "banned": [
+        "Schindler",
+        "Irlandese",
+        "Taken",
+        "Gladiatore"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rita Levi-Montalcini",
+      "banned": [
+        "Nobel",
+        "Neurologa",
+        "Cellule",
+        "Senatrice"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

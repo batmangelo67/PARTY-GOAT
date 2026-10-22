@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-countries-flags",
+  "title": "Countries & Flags",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "China",
+      "hint": "Takeout night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "India",
+      "hint": "Long train trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "United Kingdom",
+      "hint": "Rainy bank holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "South Africa",
+      "hint": "Sunshine holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Norway",
+      "hint": "Frozen fingers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Thailand",
+      "hint": "Gap year",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peru",
+      "hint": "Ancient trail",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kenya",
+      "hint": "Marathon training",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Iceland",
+      "hint": "Puffy jacket",
+      "difficulty": "easy"
+    },
+    {
+      "word": "New Zealand",
+      "hint": "Long flight",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Indonesia",
+      "hint": "Island hopping",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cuba",
+      "hint": "Tropical hangover",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Austria",
+      "hint": "Snowy resort",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bhutan",
+      "hint": "Hidden valley",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kazakhstan",
+      "hint": "Space launch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Madagascar",
+      "hint": "Island escape",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Uzbekistan",
+      "hint": "Camel caravan",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mongolia",
+      "hint": "Wide open space",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nepal",
+      "hint": "Thin air",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ethiopia",
+      "hint": "Ancient history",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Liechtenstein",
+      "hint": "Pocket size",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Jamaica",
+      "hint": "Relaxed vibes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vietnam",
+      "hint": "Backpacker trail",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Philippines",
+      "hint": "Typhoon season",
+      "difficulty": "easy"
+    },
+    {
+      "word": "United States",
+      "hint": "Cross-country drive",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Malta",
+      "hint": "Sunburnt island",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bahamas",
+      "hint": "Winter escape",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cyprus",
+      "hint": "Sunny resort",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Panama",
+      "hint": "Ship crossing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pakistan",
+      "hint": "Painted lorries",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Malaysia",
+      "hint": "Batik shirts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghana",
+      "hint": "Fair trade",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kuwait",
+      "hint": "Desert heat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zambia",
+      "hint": "Long drive",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Namibia",
+      "hint": "Ghost towns",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tanzania",
+      "hint": "Wild migration",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cambodia",
+      "hint": "Tuk-tuk ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Myanmar",
+      "hint": "Old kingdom",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Algeria",
+      "hint": "Desert sunset",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Uganda",
+      "hint": "Green hills",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bolivia",
+      "hint": "Mountain train",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paraguay",
+      "hint": "Hidden heart",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lebanon",
+      "hint": "Party capital",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oman",
+      "hint": "Gentle pace",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Suriname",
+      "hint": "Far-off corner",
+      "difficulty": "hard"
+    }
+  ]
+}

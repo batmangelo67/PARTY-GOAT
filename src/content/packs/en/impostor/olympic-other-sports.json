@@ -1,0 +1,239 @@
+{
+  "id": "en-impostor-olympic-other-sports",
+  "title": "Olympic & Other Sports",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "sports",
+  "section": "other",
+  "items": [
+    {
+      "word": "Wimbledon",
+      "hint": "Garden party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roland Garros",
+      "hint": "Croissant break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Serena Williams",
+      "hint": "Gym sessions",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rafael Nadal",
+      "hint": "Sunrise run",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Roger Federer",
+      "hint": "Gentle genius",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Novak Djokovic",
+      "hint": "Ice bath",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Andy Murray",
+      "hint": "Long wait",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Australian Open",
+      "hint": "January heat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ferrari",
+      "hint": "Showroom dream",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lewis Hamilton",
+      "hint": "Garage chat",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ayrton Senna",
+      "hint": "Rain race",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Silverstone",
+      "hint": "British summer",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pit stop",
+      "hint": "Rush hour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monaco Grand Prix",
+      "hint": "Glitzy weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Usain Bolt",
+      "hint": "Sprint finish",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jesse Owens",
+      "hint": "Track history",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marathon",
+      "hint": "Endless miles",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pole vault",
+      "hint": "Sky high leap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bob Beamon",
+      "hint": "Stunned crowd",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Muhammad Ali",
+      "hint": "Rhyming taunts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mike Tyson",
+      "hint": "Scary reputation",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bruce Lee",
+      "hint": "Dojo visit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Karate",
+      "hint": "Belt test",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sumo",
+      "hint": "Heavy lifting",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Judo",
+      "hint": "Gentle power",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bobsleigh",
+      "hint": "Icy track",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Biathlon",
+      "hint": "Frosty target",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cycling",
+      "hint": "Morning ride",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Michael Phelps",
+      "hint": "Lap counter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cricket",
+      "hint": "Tea break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baseball",
+      "hint": "Seventh inning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Super Bowl",
+      "hint": "Game day snacks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "NASCAR",
+      "hint": "Loud engines",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Snooker",
+      "hint": "Smoky pub",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nadia Comăneci",
+      "hint": "Scoreboard glitch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Simone Biles",
+      "hint": "Big comeback",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Eliud Kipchoge",
+      "hint": "Pacemaker",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Olympic rings",
+      "hint": "Stadium banner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Olympic torch",
+      "hint": "Relay runner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paralympics",
+      "hint": "Inspiring stories",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Decathlon",
+      "hint": "Versatile athletes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fencing",
+      "hint": "Stage swordplay",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rowing",
+      "hint": "Early river",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ice hockey",
+      "hint": "Winter night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surfing",
+      "hint": "Sunrise session",
+      "difficulty": "easy"
+    }
+  ]
+}

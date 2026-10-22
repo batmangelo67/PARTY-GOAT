@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-celebrities-pop-icons",
+  "title": "Celebrities, Influencers & Pop Icons",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Taylor Swift",
+      "hint": "Breakup playlist",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Beyoncé",
+      "hint": "Stadium-sized swagger",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rihanna",
+      "hint": "Pool party days",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kim Kardashian",
+      "hint": "Reality TV binge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Justin Bieber",
+      "hint": "Teen crush years",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Michael Jackson",
+      "hint": "Dance floor legend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Madonna",
+      "hint": "Controversy headlines",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elvis Presley",
+      "hint": "Vintage jukebox",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oprah Winfrey",
+      "hint": "Daytime TV confession",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brad Pitt",
+      "hint": "Tabloid romance drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dwayne Johnson",
+      "hint": "Friday action night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shakira",
+      "hint": "Latin dance nights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harry Styles",
+      "hint": "Teen bedroom posters",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ed Sheeran",
+      "hint": "Cosy pub night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Adele",
+      "hint": "Late-night sob session",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Zendaya",
+      "hint": "Red carpet glamour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cardi B",
+      "hint": "Viral moment",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Drake",
+      "hint": "Late-night texts",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Billie Eilish",
+      "hint": "Bedroom studio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bruno Mars",
+      "hint": "Throwback party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dua Lipa",
+      "hint": "Club nights out",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lady Gaga",
+      "hint": "Costume changes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bad Bunny",
+      "hint": "Trendy sneakers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Selena Gomez",
+      "hint": "Teen TV years",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Timothée Chalamet",
+      "hint": "Art-house film night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sabrina Carpenter",
+      "hint": "Teen pop era",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tom Holland",
+      "hint": "Fangirl sleepover",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Olivia Rodrigo",
+      "hint": "Angsty teen diary",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Post Malone",
+      "hint": "Chill sunny afternoons",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jennifer Lopez",
+      "hint": "Slick showbiz hustle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Millie Bobby Brown",
+      "hint": "Grown-up child star",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Björk",
+      "hint": "Odd fashion statements",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mariah Carey",
+      "hint": "Christmas season buzz",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tilda Swinton",
+      "hint": "Ghostly calm",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Freddie Mercury",
+      "hint": "Stadium singalong",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Prince",
+      "hint": "Eighties guitar hero",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kendrick Lamar",
+      "hint": "Serious rap debate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lenny Kravitz",
+      "hint": "Cool rocker vibe",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ariana Grande",
+      "hint": "Pastel and sparkle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marilyn Monroe",
+      "hint": "Vintage glamour",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elton John",
+      "hint": "Epic farewell tour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dolly Parton",
+      "hint": "Rags-to-riches story",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eminem",
+      "hint": "Heated comeback",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jay-Z",
+      "hint": "Investor pitch night",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Frank Sinatra",
+      "hint": "Smoky lounge night",
+      "difficulty": "hard"
+    }
+  ]
+}

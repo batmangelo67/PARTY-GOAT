@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-desserts-sweets",
+  "title": "Desserts & Sweets",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Brownie",
+      "hint": "Dessert date",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pancakes",
+      "hint": "Lazy Saturday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Donut",
+      "hint": "Office treat",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Marshmallow",
+      "hint": "Winter cocoa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cupcake",
+      "hint": "Birthday surprise",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Candy floss",
+      "hint": "Seaside sweets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Macarons",
+      "hint": "Fancy cafe",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gummy bears",
+      "hint": "Cinema snack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jelly beans",
+      "hint": "Spring surprise",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ice lolly",
+      "hint": "Hot playground",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Chocolate fountain",
+      "hint": "Party dip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lemon meringue pie",
+      "hint": "Pastry shop",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Strawberries and cream",
+      "hint": "Warm June day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Custard tart",
+      "hint": "Morning snack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Waffles",
+      "hint": "Sleepover start",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheesecake",
+      "hint": "Restaurant dessert",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toffee apple",
+      "hint": "Autumn fair",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lollipop",
+      "hint": "Kid's pocket",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sorbet",
+      "hint": "Light finish",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rice pudding",
+      "hint": "Chilly dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fudge",
+      "hint": "Day trip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pavlova",
+      "hint": "Christmas table",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Victoria sponge",
+      "hint": "Village bake",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Trifle",
+      "hint": "Leftover bowl",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crème brûlée",
+      "hint": "Crackle moment",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rhubarb crumble",
+      "hint": "Garden harvest",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bread and butter pudding",
+      "hint": "Thrifty kitchen",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Turkish delight",
+      "hint": "Fancy box",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tarte tatin",
+      "hint": "Happy accident",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gingerbread",
+      "hint": "Festive baking",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Flapjack",
+      "hint": "Hiking trail",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carrot cake",
+      "hint": "Healthy lie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mince pies",
+      "hint": "December office party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pastel de nata",
+      "hint": "Flaky breakfast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gulab jamun",
+      "hint": "Festival sweets",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kulfi",
+      "hint": "Sticky evening",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mochi",
+      "hint": "Chewy surprise",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nougat",
+      "hint": "Christmas stocking",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sticky toffee pudding",
+      "hint": "Cold winter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Eton mess",
+      "hint": "Fancy pudding",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Baked Alaska",
+      "hint": "Restaurant flambé",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bakewell tart",
+      "hint": "Sunday tea",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Profiteroles",
+      "hint": "Posh dessert",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kheer",
+      "hint": "Grandma's bowl",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Opera cake",
+      "hint": "Fancy patisserie",
+      "difficulty": "hard"
+    }
+  ]
+}

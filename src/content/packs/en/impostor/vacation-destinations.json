@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-vacation-destinations",
+  "title": "Vacation Destinations & Landmarks",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Eiffel Tower",
+      "hint": "Selfie stick",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Taj Mahal",
+      "hint": "Sunrise crowds",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pyramids of Giza",
+      "hint": "Sunburn",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Colosseum",
+      "hint": "History class",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Machu Picchu",
+      "hint": "Cloudy morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Statue of Liberty",
+      "hint": "Ferry ride",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disneyland",
+      "hint": "Long queues",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sydney Opera House",
+      "hint": "Concert night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mount Rushmore",
+      "hint": "Road trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leaning Tower of Pisa",
+      "hint": "Tipsy tourist",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hollywood sign",
+      "hint": "Big dreams",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Big Ben",
+      "hint": "New Year's Eve",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Universal Studios",
+      "hint": "Rollercoaster day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Golden Gate Bridge",
+      "hint": "Sunset drive",
+      "difficulty": "easy"
+    },
+    {
+      "word": "London Eye",
+      "hint": "Fear of heights",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Christ the Redeemer",
+      "hint": "Hilltop hug",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cruise ship",
+      "hint": "Sea legs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Great Wall of China",
+      "hint": "Long walk",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Angkor Wat",
+      "hint": "Sweaty sightseeing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Petra",
+      "hint": "Ancient secret",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sagrada Familia",
+      "hint": "Long construction",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Acropolis",
+      "hint": "Philosophy class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hagia Sophia",
+      "hint": "Sacred silence",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Burj Khalifa",
+      "hint": "Sky high",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Neuschwanstein",
+      "hint": "Castle hunting",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gondola ride",
+      "hint": "Wobbly boat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bondi Beach",
+      "hint": "Sunday swim",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Copacabana",
+      "hint": "Late-night dance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Waikiki",
+      "hint": "Sun lounger",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Legoland",
+      "hint": "Kids' birthday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lapland",
+      "hint": "Christmas wish",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blackpool Tower",
+      "hint": "Rainy seaside day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alhambra",
+      "hint": "Palace tour",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chichen Itza",
+      "hint": "Sunset crowds",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Butlins",
+      "hint": "Cheap break",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Warner Bros Studio Tour",
+      "hint": "Behind the scenes",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sydney Harbour Bridge",
+      "hint": "New Year fireworks",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Forbidden City",
+      "hint": "Crowded courtyard",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dollywood",
+      "hint": "Family tradition",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pompeii",
+      "hint": "Lost city",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cappadocia",
+      "hint": "Early alarm",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cancun",
+      "hint": "Spring break",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Maldives",
+      "hint": "Sunset cocktails",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bali",
+      "hint": "Honeymoon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Atacama Desert",
+      "hint": "Star-filled sky",
+      "difficulty": "hard"
+    }
+  ]
+}

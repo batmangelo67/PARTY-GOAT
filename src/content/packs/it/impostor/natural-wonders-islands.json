@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-natural-wonders-islands",
+  "title": "Meraviglie naturali e isole",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "word": "Grand Canyon",
+      "hint": "Viaggio in auto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sahara",
+      "hint": "Caldo infernale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aurora boreale",
+      "hint": "Notte al freddo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grande Barriera Corallina",
+      "hint": "Immersione mattutina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monte Etna",
+      "hint": "Cenere sulla macchina",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monte Bianco",
+      "hint": "Sciare in alto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kilimanjaro",
+      "hint": "Fatica d'alta quota",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cascate Vittoria",
+      "hint": "Arcobaleno nel vapore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Yellowstone",
+      "hint": "Campeggio nel bosco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mar Morto",
+      "hint": "Galleggiare senza sforzo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cascate dell'Iguazú",
+      "hint": "Rumore assordante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Deserto del Gobi",
+      "hint": "Vento e polvere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monte Fuji",
+      "hint": "Foto da cartolina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Delta del Nilo",
+      "hint": "Fiume a rami",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lago Baikal",
+      "hint": "Acqua gelida",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cascate del Niagara",
+      "hint": "Barca bagnata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foresta amazzonica",
+      "hint": "Verde infinito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Krakatoa",
+      "hint": "Boato antico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Fiordi",
+      "hint": "Acqua tra monti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ghiacciaio Perito Moreno",
+      "hint": "Rumore di crolli",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Namib",
+      "hint": "Dune che cambiano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Angel Falls",
+      "hint": "Caduta dall'alto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gola del Verdon",
+      "hint": "Scogliere di pietra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ngorongoro",
+      "hint": "Cratere brulicante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Madagascar",
+      "hint": "Isola remota",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Groenlandia",
+      "hint": "Notte lunghissima",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Borneo",
+      "hint": "Giungla umida",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tasmania",
+      "hint": "Isola lontana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Isola di Pasqua",
+      "hint": "Ultima terra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Galápagos",
+      "hint": "Mondo a parte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sumatra",
+      "hint": "Giungla e fango",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Okinawa",
+      "hint": "Dieta e sole",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hawaii",
+      "hint": "Vacanza di lusso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiji",
+      "hint": "Isole nel Pacifico",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Seychelles",
+      "hint": "Sabbia candida",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tahiti",
+      "hint": "Tramonti e fiori",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Svalbard",
+      "hint": "Freddo estremo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terra del Fuoco",
+      "hint": "Fine del mondo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lampedusa",
+      "hint": "Mare trasparente",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vanuatu",
+      "hint": "Arcipelago lontano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mauritius",
+      "hint": "Lagune turchesi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bali",
+      "hint": "Surf e yoga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Azzorre",
+      "hint": "Oceano in mezzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stromboli",
+      "hint": "Lava di notte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Everest",
+      "hint": "Notte gelida",
+      "difficulty": "easy"
+    }
+  ]
+}

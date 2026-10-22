@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-tv-shows-sitcoms",
+  "title": "Binge-Worthy TV Shows & Sitcoms",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Friends",
+      "hint": "Group chat energy",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Simpsons",
+      "hint": "Saturday morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Breaking Bad",
+      "hint": "Midlife crisis",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Game of Thrones",
+      "hint": "Sunday night hype",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stranger Things",
+      "hint": "Basement hangout",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Office",
+      "hint": "Awkward Monday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Family Guy",
+      "hint": "Cringe-worthy laughs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sex and the City",
+      "hint": "Girls' brunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Full House",
+      "hint": "Ice cream hugs",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Fresh Prince of Bel-Air",
+      "hint": "Culture shock",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Modern Family",
+      "hint": "Reunion chaos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frasier",
+      "hint": "Therapy session",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Big Bang Theory",
+      "hint": "Game night mishap",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lost",
+      "hint": "Flashbacks and secrets",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Scrubs",
+      "hint": "Silly hospital gags",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheers",
+      "hint": "Last call",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parks and Recreation",
+      "hint": "Town meeting drama",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Sopranos",
+      "hint": "Heavy and bleak",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Seinfeld",
+      "hint": "Waiting in line",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brooklyn Nine-Nine",
+      "hint": "Partner banter",
+      "difficulty": "medium"
+    },
+    {
+      "word": "How I Met Your Mother",
+      "hint": "Story told later",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Curb Your Enthusiasm",
+      "hint": "Social faux pas",
+      "difficulty": "medium"
+    },
+    {
+      "word": "It's Always Sunny in Philadelphia",
+      "hint": "Terrible plans",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Arrested Development",
+      "hint": "Dysfunctional dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Community",
+      "hint": "Campus chaos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "New Girl",
+      "hint": "Quirky best friends",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schitt's Creek",
+      "hint": "Sudden downfall",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ted Lasso",
+      "hint": "Hopeful underdogs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Malcolm in the Middle",
+      "hint": "Report card panic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Everybody Loves Raymond",
+      "hint": "Sibling rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Crown",
+      "hint": "Stiff upper lip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Succession",
+      "hint": "Fighting over money",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peaky Blinders",
+      "hint": "Pints and whisky",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Black Mirror",
+      "hint": "Scroll till dawn",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Squid Game",
+      "hint": "Deadly bet",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Downton Abbey",
+      "hint": "Tea and gossip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Taxi",
+      "hint": "Late-night shift",
+      "difficulty": "hard"
+    },
+    {
+      "word": "M*A*S*H",
+      "hint": "Gallows humour",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Twin Peaks",
+      "hint": "Eerie nights",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Wire",
+      "hint": "Long, slow burn",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sanford and Son",
+      "hint": "Old-school comedy",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Veep",
+      "hint": "Cutting insults",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Good Place",
+      "hint": "Deep moral puzzle",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Freaks and Geeks",
+      "hint": "Brace-face years",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Oz",
+      "hint": "Lockdown",
+      "difficulty": "hard"
+    }
+  ]
+}

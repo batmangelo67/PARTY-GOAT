@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-politics-world-leaders",
+  "title": "Politica e leader",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Parlamento",
+      "hint": "Seduta fiume",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Senato",
+      "hint": "Seconda opinione",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Costituzione",
+      "hint": "Carta di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Elezioni",
+      "hint": "Code alla scuola",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Democrazia",
+      "hint": "Ogni voto conta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Monarchia",
+      "hint": "Reggia in tv",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Repubblica",
+      "hint": "Scelta del dopoguerra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sindaco",
+      "hint": "Inaugurazione del parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Presidente",
+      "hint": "Discorso di Capodanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ministro",
+      "hint": "Conferenza stampa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Governo",
+      "hint": "Crisi estiva",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Referendum",
+      "hint": "Voto del popolo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ambasciatore",
+      "hint": "Cena di gala",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Votazione",
+      "hint": "Mani alzate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deputato",
+      "hint": "Treno del lunedì",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Diplomazia",
+      "hint": "Sorrisi di facciata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cancelliere",
+      "hint": "Abbraccio d'Europa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campagna elettorale",
+      "hint": "Volantini nella cassetta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pericle",
+      "hint": "Discorso ai funerali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lincoln",
+      "hint": "Discorsi di guerra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mandela",
+      "hint": "Pace dalla prigione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gandhi",
+      "hint": "Passi scalzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Churchill",
+      "hint": "Notte di bombe",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cavour",
+      "hint": "Tessere alleanze",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bismarck",
+      "hint": "Guerra lampo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Metternich",
+      "hint": "Ballo a corte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mazzini",
+      "hint": "Lettere dall'esilio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cesare",
+      "hint": "Ammirazione e invidia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Napoleone",
+      "hint": "Sogni di conquista",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cleopatra",
+      "hint": "Fascino da sovrana",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Solone",
+      "hint": "Saggio dei sette",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Garibaldi",
+      "hint": "Notti sul mare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Vittorio Emanuele",
+      "hint": "Corona ereditata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tocqueville",
+      "hint": "Osservatore straniero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Montesquieu",
+      "hint": "Tre porte chiuse",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plebiscito",
+      "hint": "Tutti d'accordo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Oligarchia",
+      "hint": "Club ristretto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Triumvirato",
+      "hint": "Tre alleati",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ostracismo",
+      "hint": "Dieci anni fuori",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Censore",
+      "hint": "Occhio sulla morale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tribunato",
+      "hint": "Protesta in piazza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gerontocrazia",
+      "hint": "Pensione al potere",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Confederazione",
+      "hint": "Alleanza a metà",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Autarchia",
+      "hint": "Tutto in casa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Costituente",
+      "hint": "Lunghe discussioni",
+      "difficulty": "medium"
+    }
+  ]
+}

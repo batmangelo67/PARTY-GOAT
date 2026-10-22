@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-music-genres-instruments",
+  "title": "Generi musicali e strumenti",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Chitarra",
+      "hint": "Serenata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Batteria",
+      "hint": "Garage",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pianoforte",
+      "hint": "Salotto della nonna",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Violino",
+      "hint": "Lezioni dal maestro",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tromba",
+      "hint": "Festa del patrono",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fisarmonica",
+      "hint": "Sagra",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ukulele",
+      "hint": "Falò tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Xilofono",
+      "hint": "Asilo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Triangolo",
+      "hint": "Recita scolastica",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Organo",
+      "hint": "Domenica in chiesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arpa",
+      "hint": "Angeli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flauto",
+      "hint": "Lezione alle elementari",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rock",
+      "hint": "Notte di adrenalina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pop",
+      "hint": "Autoradio in estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Reggae",
+      "hint": "Vacanza rilassata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Disco",
+      "hint": "Ballo fino all'alba",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hip hop",
+      "hint": "Cuffie al parco",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heavy metal",
+      "hint": "Concerto assordante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sassofono",
+      "hint": "Locale fumoso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clarinetto",
+      "hint": "Esame al conservatorio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuba",
+      "hint": "Concertino di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Oboe",
+      "hint": "Accordatura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fagotto",
+      "hint": "Panino dolce",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Contrabbasso",
+      "hint": "Orchestra sinfonica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bongo",
+      "hint": "Festa di quartiere",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Didgeridoo",
+      "hint": "Meditazione profonda",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Banjo",
+      "hint": "Estate in fattoria",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Armonica",
+      "hint": "Viaggio in treno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jazz",
+      "hint": "Ballo al bar",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blues",
+      "hint": "Malinconia notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Samba",
+      "hint": "Lezione di ballo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Funk",
+      "hint": "Ritmo infinito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Techno",
+      "hint": "Serata infinita",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Punk",
+      "hint": "Ribellione da liceo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tango",
+      "hint": "Sguardi intensi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sitar",
+      "hint": "Viaggio spirituale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kazoo",
+      "hint": "Scherzo al compleanno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cornamusa",
+      "hint": "Montagne nebbiose",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bodhrán",
+      "hint": "Pub con birra",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ska",
+      "hint": "Festa in piazza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bossa nova",
+      "hint": "Brezza serale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Trap",
+      "hint": "Notte in città",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gospel",
+      "hint": "Domenica mattina",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Flamenco",
+      "hint": "Battito di mani",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mandolino",
+      "hint": "Sera d'estate",
+      "difficulty": "medium"
+    }
+  ]
+}

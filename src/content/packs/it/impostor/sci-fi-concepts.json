@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-sci-fi-concepts",
+  "title": "Fantascienza",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Robot",
+      "hint": "Lavori di casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Alieni",
+      "hint": "Stranieri in città",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clone",
+      "hint": "Fratelli separati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Astronave",
+      "hint": "Vacanza nello spazio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Macchina del tempo",
+      "hint": "Passato da correggere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Simulazione",
+      "hint": "Dubbi esistenziali",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Teletrasporto",
+      "hint": "Valigia persa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cyborg",
+      "hint": "Battaglia finale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Androide",
+      "hint": "Domande senza risposta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mutante",
+      "hint": "Cambiamenti improvvisi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Realtà virtuale",
+      "hint": "Giochi in salotto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Intelligenza artificiale",
+      "hint": "Domande al computer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stazione spaziale",
+      "hint": "Mesi lontano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Colonia su Marte",
+      "hint": "Nuova casa lontana",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Campo di forza",
+      "hint": "Pietre che rimbalzano",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tunnel spaziale",
+      "hint": "Fila saltata",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Buco nero",
+      "hint": "Calzini scomparsi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Laser",
+      "hint": "Spettacolo di luci",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Terraformazione",
+      "hint": "Clima che cambia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antimateria",
+      "hint": "Scienza di frontiera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ipersonno",
+      "hint": "Sveglia dopo anni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gravità artificiale",
+      "hint": "Piedi per terra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Skynet",
+      "hint": "Paura dei computer",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tuta spaziale",
+      "hint": "Passeggiata fuori",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nanorobot",
+      "hint": "Medicina del futuro",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ologramma",
+      "hint": "Messaggio misterioso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Auto volante",
+      "hint": "Traffico sopra",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Città sottomarina",
+      "hint": "Viaggio sul fondale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cupola lunare",
+      "hint": "Caffè sulla Luna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Antenna galattica",
+      "hint": "Ascolto notturno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Controllo mentale",
+      "hint": "Scelte non tue",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pianeta gemello",
+      "hint": "Cugino lontano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paradosso temporale",
+      "hint": "Errori che tornano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scudo termico",
+      "hint": "Fiamme dal cielo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terra cava",
+      "hint": "Caverne profonde",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Asteroide killer",
+      "hint": "Fine dei dinosauri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Impianto neurale",
+      "hint": "Memoria da aggiornare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nave generazionale",
+      "hint": "Trasloco infinito",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Universo parallelo",
+      "hint": "Scelte diverse",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sfera di Dyson",
+      "hint": "Energia infinita",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pianeta alieno",
+      "hint": "Mondo sconosciuto",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Velocità della luce",
+      "hint": "Ritardo cosmico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sonda interstellare",
+      "hint": "Viaggio senza ritorno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lunga notte cosmica",
+      "hint": "Alba mai vista",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mente collettiva",
+      "hint": "Coro di voci",
+      "difficulty": "hard"
+    }
+  ]
+}

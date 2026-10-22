@@ -3,15 +3,11 @@ import { GAMES } from "../games/registry";
 import { LANGUAGES } from "../i18n/languages";
 import { importBuiltinPacks, loadBuiltinPacks, parsePackFile } from "./loader";
 
-const MIN_WORD_PACKS_PER_LANGUAGE = 8;
-const MIN_PAIR_PACKS_PER_LANGUAGE = 3;
-const MIN_PROMPT_PACKS_PER_LANGUAGE = 3;
-const MIN_BOMB_PACKS_PER_LANGUAGE = 6;
+const MIN_PACKS_PER_GAME_AND_LANGUAGE = 5;
+const MIN_ITEMS_PER_PACK = 25;
 const MAX_HINT_WORDS = 3;
 const MIN_BANNED_WORDS = 4;
 const MAX_BANNED_WORDS = 5;
-const MIN_CARD_PACKS_PER_LANGUAGE = 2;
-const MIN_NUMERIC_PACKS_PER_LANGUAGE = 2;
 
 const { entries } = await importBuiltinPacks();
 const { packs, errors } = await loadBuiltinPacks();
@@ -29,9 +25,14 @@ describe("builtin packs", () => {
     expect(errors).toEqual([]);
   });
 
-  it.each(entries)("%s id matches its folder and file name", (path, raw) => {
-    const [, language, slug] = path.match(/packs\/(\w+)\/([\w-]+)\.json$/) ?? [];
-    expect(raw).toMatchObject({ id: `${language}-${slug}`, language });
+  it.each(entries)("%s id matches its folders and file name", (path, raw) => {
+    const [, language, game, slug] = path.match(/packs\/(\w+)\/([\w-]+)\/([\w-]+)\.json$/) ?? [];
+    expect(raw).toMatchObject({ id: `${language}-${game}-${slug}`, language, games: [game] });
+  });
+
+  it.each(packs.map((p) => [p.id, p] as const))("%s sits in a folder and has enough items", (_id, pack) => {
+    expect(pack.group, pack.id).toBeTruthy();
+    expect(pack.items.length, pack.id).toBeGreaterThanOrEqual(MIN_ITEMS_PER_PACK);
   });
 
   it("have unique ids", () => {
@@ -59,6 +60,7 @@ describe("builtin packs", () => {
       if (pack.kind !== "words") continue;
       for (const item of pack.items) {
         expect(item.hint, `${pack.id}: ${item.word} needs a hint`).toBeTruthy();
+        expect(item.difficulty, `${pack.id}: ${item.word} needs a difficulty`).toBeDefined();
         const hint = item.hint!.toLowerCase();
         expect(hint.includes(item.word.toLowerCase()), `${pack.id}: hint of ${item.word}`).toBe(false);
         expect(hint.split(/\s+/).length, `${pack.id}: hint of ${item.word}`).toBeLessThanOrEqual(MAX_HINT_WORDS);
@@ -114,14 +116,17 @@ describe("builtin packs", () => {
     }
   });
 
-  it.each(LANGUAGES)("cover the starter set in %s", (language) => {
-    const ofLanguage = packs.filter((p) => p.language === language);
-    expect(ofLanguage.filter((p) => p.kind === "words").length).toBeGreaterThanOrEqual(MIN_WORD_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.kind === "question-pairs").length).toBeGreaterThanOrEqual(MIN_PAIR_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.kind === "prompts").length).toBeGreaterThanOrEqual(MIN_PROMPT_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.games.includes("bomb")).length).toBeGreaterThanOrEqual(MIN_BOMB_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.kind === "cards").length).toBeGreaterThanOrEqual(MIN_CARD_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.kind === "numeric").length).toBeGreaterThanOrEqual(MIN_NUMERIC_PACKS_PER_LANGUAGE);
-    expect(ofLanguage.filter((p) => p.games.includes("mind-match")).length).toBeGreaterThanOrEqual(MIN_WORD_PACKS_PER_LANGUAGE);
+  it("give every bomb prompt 3 to 6 examples", () => {
+    for (const pack of packs) {
+      if (pack.kind !== "prompts" || !pack.games.includes("bomb")) continue;
+      for (const item of pack.items) expect(item.examples?.length, `${pack.id}: ${item.text}`).toBeGreaterThanOrEqual(3);
+    }
+  });
+
+  it.each(LANGUAGES)("give every game enough packs in %s", (language) => {
+    for (const game of GAMES) {
+      const count = packs.filter((p) => p.language === language && p.games.includes(game.id)).length;
+      expect(count, `${game.id} in ${language}`).toBeGreaterThanOrEqual(MIN_PACKS_PER_GAME_AND_LANGUAGE);
+    }
   });
 });

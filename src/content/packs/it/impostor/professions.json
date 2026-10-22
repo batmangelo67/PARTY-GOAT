@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-professions",
+  "title": "Professioni e mestieri",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "society",
+  "items": [
+    {
+      "word": "Medico",
+      "hint": "Febbre a mezzanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Insegnante",
+      "hint": "Lunedì mattina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avvocato",
+      "hint": "Fiume di parole",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuoco",
+      "hint": "Cena di Natale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pompiere",
+      "hint": "Gatto sull'albero",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Poliziotto",
+      "hint": "Strada deserta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pilota",
+      "hint": "Valigia sempre pronta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Infermiere",
+      "hint": "Caffè alle sei",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Contadino",
+      "hint": "Estate infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Meccanico",
+      "hint": "Spia accesa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fornaio",
+      "hint": "Profumo al mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Barbiere",
+      "hint": "Prima del matrimonio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Architetto",
+      "hint": "Schizzo sul tovagliolo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ingegnere",
+      "hint": "Crollo evitato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Giornalista",
+      "hint": "Scoop di mezzanotte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cameriere",
+      "hint": "Sabato al ristorante",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Veterinario",
+      "hint": "Gatto nervoso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Falegname",
+      "hint": "Mobile da montare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Farmacista",
+      "hint": "Tosse di gennaio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Notaio",
+      "hint": "Giorno del trasloco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Commercialista",
+      "hint": "Ultimo giorno utile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Idraulico",
+      "hint": "Notte di emergenza",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Elettricista",
+      "hint": "Buio improvviso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Muratore",
+      "hint": "Schiena a pezzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sarto",
+      "hint": "Vestito da sposa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Orefice",
+      "hint": "San Valentino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Macellaio",
+      "hint": "Pasquetta in giardino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bibliotecario",
+      "hint": "Pomeriggio piovoso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Psicologo",
+      "hint": "Notte di pensieri",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geometra",
+      "hint": "Casa da ristrutturare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fotografo",
+      "hint": "Sorrisi forzati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dentista",
+      "hint": "Caramelle proibite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Traduttore",
+      "hint": "Film straniero",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scenografo",
+      "hint": "Sipario ancora chiuso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Restauratore",
+      "hint": "Strato su strato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gondoliere",
+      "hint": "Serenata romantica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cartografo",
+      "hint": "Senza navigatore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Calzolaio",
+      "hint": "Scarpa da salvare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vetraio",
+      "hint": "Fiamma e pazienza",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tipografo",
+      "hint": "Giornale del mattino",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Amanuense",
+      "hint": "Lavoro infinito",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Doratore",
+      "hint": "Lusso di famiglia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brigadiere",
+      "hint": "Ronda serale",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stagnaio",
+      "hint": "Pentola bucata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cesellatore",
+      "hint": "Pazienza da monaci",
+      "difficulty": "hard"
+    }
+  ]
+}

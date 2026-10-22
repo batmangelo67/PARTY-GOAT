@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-food-mediterranean",
+  "title": "Mediterranean & Middle Eastern Food",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Hummus",
+      "hint": "Party platter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Feta",
+      "hint": "Picnic blanket",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tzatziki",
+      "hint": "Dinner dip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Couscous",
+      "hint": "Quick side",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gazpacho",
+      "hint": "Sunny terrace",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Paella",
+      "hint": "Big pan party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tapas",
+      "hint": "Long evening out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shawarma",
+      "hint": "Post-club hunger",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Souvlaki",
+      "hint": "Beach snack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Falafel",
+      "hint": "Lunch hunger",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Baklava",
+      "hint": "Sweet tooth",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pita",
+      "hint": "Stuffed lunch",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moussaka",
+      "hint": "Sunday effort",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shakshuka",
+      "hint": "Lazy weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Kofta",
+      "hint": "Smoky evening",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Mezze",
+      "hint": "Sharing table",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tahini",
+      "hint": "Creamy drizzle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tagine",
+      "hint": "Dinner party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Halloumi",
+      "hint": "Grill night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tabbouleh",
+      "hint": "Summer picnic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pastilla",
+      "hint": "Fancy pie",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Manakish",
+      "hint": "Morning snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ful medames",
+      "hint": "Early market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Harissa",
+      "hint": "Spice rack surprise",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Menemen",
+      "hint": "Tomato morning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Borek",
+      "hint": "Flaky snack",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Labneh",
+      "hint": "Breakfast spread",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baba ganoush",
+      "hint": "Dip battle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mujadara",
+      "hint": "Cheap dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gyros",
+      "hint": "Street wrap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spanakopita",
+      "hint": "Flaky pastry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dolma",
+      "hint": "Garden wrap",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fattoush",
+      "hint": "Crunchy garden",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Simit",
+      "hint": "Quick street breakfast",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Za'atar",
+      "hint": "Breakfast dip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pide",
+      "hint": "Hearty lunch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kleftiko",
+      "hint": "Family Sunday",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kibbeh",
+      "hint": "Party snack",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sabich",
+      "hint": "Late lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Muhammara",
+      "hint": "Smoky spread",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ma'amoul",
+      "hint": "Festive tin",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sfiha",
+      "hint": "Weekend street",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Grilled octopus",
+      "hint": "Long lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Freekeh",
+      "hint": "Health food",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ratatouille",
+      "hint": "Bold garden",
+      "difficulty": "hard"
+    }
+  ]
+}

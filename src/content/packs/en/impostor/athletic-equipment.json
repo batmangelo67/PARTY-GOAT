@@ -1,0 +1,243 @@
+{
+  "id": "en-impostor-athletic-equipment",
+  "title": "Sports & Athletic Equipment",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Football",
+      "hint": "Saturday morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tennis racket",
+      "hint": "Hot afternoon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Basketball",
+      "hint": "Pickup game",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boxing gloves",
+      "hint": "Grudge match",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dartboard",
+      "hint": "Stag do",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Skipping rope",
+      "hint": "Recess fun",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dumbbell",
+      "hint": "Lockdown fitness",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frisbee",
+      "hint": "Summer park",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yoga mat",
+      "hint": "Mindful Monday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Swimming goggles",
+      "hint": "Early morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Golf club",
+      "hint": "Business deal",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Trampoline",
+      "hint": "Birthday party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ski poles",
+      "hint": "Snowy holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Helmet",
+      "hint": "Safety first",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Football boots",
+      "hint": "Muddy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Water polo ball",
+      "hint": "Holiday camp",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Surfboard",
+      "hint": "Summer holiday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ice skates",
+      "hint": "Christmas market",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cricket bat",
+      "hint": "Village green",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Baseball bat",
+      "hint": "Summer evening",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ping pong paddle",
+      "hint": "Office break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kettlebell",
+      "hint": "Tiny flat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fencing foil",
+      "hint": "Duel at dawn",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stopwatch",
+      "hint": "Race day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Climbing harness",
+      "hint": "Adventure weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volleyball",
+      "hint": "Sand in shoes",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rowing oar",
+      "hint": "Lazy river",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Punching bag",
+      "hint": "Bad day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bowling ball",
+      "hint": "Friday fun",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Snooker cue",
+      "hint": "Slow evening",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dodgeball",
+      "hint": "Gym lesson",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Netball",
+      "hint": "Lunch break",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Archery bow",
+      "hint": "Medieval fair",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Javelin",
+      "hint": "Field day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rugby ball",
+      "hint": "Winter weekend",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ice hockey puck",
+      "hint": "Frozen lake",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Croquet mallet",
+      "hint": "Garden party",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Curling stone",
+      "hint": "Cosy winter",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Discus",
+      "hint": "Museum piece",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hammer throw",
+      "hint": "Show-off strength",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Shot put",
+      "hint": "Sports day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bobsled",
+      "hint": "Icy hill",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lacrosse stick",
+      "hint": "Campus rivalry",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Badminton racket",
+      "hint": "Backyard summer",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hurdles",
+      "hint": "Obstacle course",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Paddleboard",
+      "hint": "Calm lake",
+      "difficulty": "medium"
+    }
+  ]
+}

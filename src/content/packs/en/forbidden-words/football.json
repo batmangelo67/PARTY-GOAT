@@ -1,0 +1,454 @@
+{
+  "id": "en-forbidden-words-football",
+  "title": "Football",
+  "language": "en",
+  "spice": 0,
+  "kind": "cards",
+  "games": [
+    "forbidden-words"
+  ],
+  "group": "sports",
+  "section": "football",
+  "items": [
+    {
+      "word": "Goal",
+      "banned": [
+        "Score",
+        "Net",
+        "Keeper",
+        "Shot"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Goalkeeper",
+      "banned": [
+        "Gloves",
+        "Net",
+        "Save",
+        "Shot-stopper"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Penalty",
+      "banned": [
+        "Spot kick",
+        "Foul",
+        "Box",
+        "Twelve yards"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Referee",
+      "banned": [
+        "Whistle",
+        "Cards",
+        "Black shirt",
+        "Judge"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Offside",
+      "banned": [
+        "Flag",
+        "Line",
+        "Attacker",
+        "Behind"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Corner",
+      "banned": [
+        "Kick",
+        "Flagpole",
+        "Pitch edge",
+        "Quarter circle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yellow card",
+      "banned": [
+        "Warning",
+        "Booking",
+        "Referee",
+        "Foul"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Red card",
+      "banned": [
+        "Sending off",
+        "Early bath",
+        "Dismissal",
+        "Ejected"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Striker",
+      "banned": [
+        "Forward",
+        "Goalscorer",
+        "Attacker",
+        "Number nine"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stadium",
+      "banned": [
+        "Arena",
+        "Fans",
+        "Terraces",
+        "Ground"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Free kick",
+      "banned": [
+        "Foul",
+        "Wall",
+        "Set piece",
+        "Dead ball"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Goalpost",
+      "banned": [
+        "Crossbar",
+        "Upright",
+        "Woodwork",
+        "Frame"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Whistle",
+      "banned": [
+        "Referee",
+        "Pea",
+        "Blow",
+        "Shrill"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hat-trick",
+      "banned": [
+        "Three goals",
+        "Triple",
+        "Scorer",
+        "Match ball"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tackle",
+      "banned": [
+        "Foul",
+        "Challenge",
+        "Slide",
+        "Wrestle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Header",
+      "banned": [
+        "Forehead",
+        "Cross",
+        "Air ball",
+        "Nod"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Boots",
+      "banned": [
+        "Studs",
+        "Shoes",
+        "Laces",
+        "Kit"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Derby",
+      "banned": [
+        "Local rivals",
+        "Same city",
+        "Grudge",
+        "Bragging"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Winger",
+      "banned": [
+        "Wide",
+        "Sideline",
+        "Crosser",
+        "Touchline"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Champions League",
+      "banned": [
+        "UEFA",
+        "Europe",
+        "Anthem",
+        "Big ears"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "World Cup",
+      "banned": [
+        "FIFA",
+        "Four years",
+        "Trophy",
+        "Global"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Extra time",
+      "banned": [
+        "Ninety minutes",
+        "Golden goal",
+        "Extension",
+        "Drawn game"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Transfer window",
+      "banned": [
+        "Signing",
+        "Deal",
+        "Summer",
+        "Market"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Own goal",
+      "banned": [
+        "Defender",
+        "Wrong net",
+        "Mistake",
+        "Deflection"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clean sheet",
+      "banned": [
+        "Zero",
+        "Shutout",
+        "Keeper",
+        "Nil"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stoppage time",
+      "banned": [
+        "Added minutes",
+        "Fourth official",
+        "Board",
+        "Physio"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bicycle kick",
+      "banned": [
+        "Overhead",
+        "Acrobatic",
+        "Backflip",
+        "Scissors"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nutmeg",
+      "banned": [
+        "Between the legs",
+        "Heel",
+        "Skill",
+        "Teammate"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dugout",
+      "banned": [
+        "Bench",
+        "Manager",
+        "Subs",
+        "Technical area"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Relegation",
+      "banned": [
+        "Drop",
+        "Bottom three",
+        "Demotion",
+        "Second tier"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Promotion",
+      "banned": [
+        "Climb",
+        "Step up",
+        "Top flight",
+        "Rise"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Terraces",
+      "banned": [
+        "Standing",
+        "Old-school",
+        "Crowd",
+        "Steep"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penalty shootout",
+      "banned": [
+        "Spot kicks",
+        "Tie-break",
+        "Nerves",
+        "Keeper dive"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dummy",
+      "banned": [
+        "Fake pass",
+        "Feint",
+        "Trick",
+        "Shimmy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Volley",
+      "banned": [
+        "Mid-air",
+        "Strike",
+        "Bounce",
+        "Before it lands"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiki-taka",
+      "banned": [
+        "Spain",
+        "Short passes",
+        "Possession",
+        "Barcelona"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gegenpressing",
+      "banned": [
+        "German",
+        "Counter",
+        "Win ball back",
+        "Klopp"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Catenaccio",
+      "banned": [
+        "Defensive",
+        "Italian",
+        "Bolt",
+        "Lock"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "False nine",
+      "banned": [
+        "Deep striker",
+        "Playmaker",
+        "Trick",
+        "Drop back"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Dead rubber",
+      "banned": [
+        "Meaningless match",
+        "Nothing to play for",
+        "Stale",
+        "Unimportant"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rabona",
+      "banned": [
+        "Crossing",
+        "Behind the leg",
+        "Argentine trick",
+        "Kick"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sweeper",
+      "banned": [
+        "Libero",
+        "Defender",
+        "Last man",
+        "Cover"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tunnel",
+      "banned": [
+        "Lineup",
+        "Walkout",
+        "Players' path",
+        "Corridor"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Captain armband",
+      "banned": [
+        "Leader",
+        "Strap",
+        "Skipper",
+        "Badge"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}

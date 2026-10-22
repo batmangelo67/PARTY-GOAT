@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-food-italian",
+  "title": "Piatti italiani di casa",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Pizza",
+      "hint": "Venerdì sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lasagne",
+      "hint": "Festa di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spaghetti",
+      "hint": "Lunedì sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gnocchi",
+      "hint": "Metà settimana",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Risotto",
+      "hint": "Sera di nebbia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Carbonara",
+      "hint": "Cena da single",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bruschetta",
+      "hint": "Sole d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Focaccia",
+      "hint": "Spuntino da passeggio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Minestrone",
+      "hint": "Frigo svuotato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Polpette",
+      "hint": "Cucina di famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frittata",
+      "hint": "Pranzo improvvisato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Insalata caprese",
+      "hint": "Tavola d'estate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cotoletta",
+      "hint": "Cena del sabato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Arrosto",
+      "hint": "Domenica in famiglia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasta al pomodoro",
+      "hint": "Estate in terrazza",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Parmigiana",
+      "hint": "Teglia d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tortellini",
+      "hint": "Cena d'inverno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bistecca",
+      "hint": "Cena da grandi",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pasta e fagioli",
+      "hint": "Piatto d'inverno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tagliatelle al ragù",
+      "hint": "Domenica dai nonni",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ravioli",
+      "hint": "Pranzo con ospiti",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penne all'arrabbiata",
+      "hint": "Cena in fretta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crostini",
+      "hint": "Prima del pasto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pollo alla cacciatora",
+      "hint": "Cena autunnale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pollo al limone",
+      "hint": "Pranzo di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Insalata di pollo",
+      "hint": "Pic-nic in campagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pasta al forno",
+      "hint": "Festa di Ferragosto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Involtini",
+      "hint": "Serata tra amici",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cannelloni",
+      "hint": "Festa di Natale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carpaccio",
+      "hint": "Cena elegante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bresaola",
+      "hint": "Merenda in montagna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Penne al salmone",
+      "hint": "Pranzo del sabato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zucchine ripiene",
+      "hint": "Estate dell'orto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scaloppine",
+      "hint": "Cena di compleanno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zuppa di ceci",
+      "hint": "Cena d'autunno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Braciole",
+      "hint": "Domenica di pioggia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peperonata",
+      "hint": "Cena di luglio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crespelle",
+      "hint": "Colazione di festa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Insalata russa",
+      "hint": "Cenone",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pasta e patate",
+      "hint": "Tempi difficili",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pappardelle",
+      "hint": "Cena di gala",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brodo",
+      "hint": "Giorno di malattia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vellutata",
+      "hint": "Cena leggera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Torta salata",
+      "hint": "Picnic di primavera",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sformato di verdure",
+      "hint": "Cena di riguardo",
+      "difficulty": "hard"
+    }
+  ]
+}

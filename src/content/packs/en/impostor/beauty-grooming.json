@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-beauty-grooming",
+  "title": "Beauty, Skincare & Grooming",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Mascara",
+      "hint": "Night out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lipstick",
+      "hint": "First date",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shampoo",
+      "hint": "Shower mishap",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deodorant",
+      "hint": "Long commute",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Razor",
+      "hint": "Summer shorts",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Face mask",
+      "hint": "Girls' sleepover",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sunscreen",
+      "hint": "Bright day out",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hair dryer",
+      "hint": "Rushed morning",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nail polish",
+      "hint": "Drying fingers",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hand cream",
+      "hint": "Hospital ward",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lip balm",
+      "hint": "Cold walk",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tweezers",
+      "hint": "Eyebrow emergency",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bath bomb",
+      "hint": "Self-care Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Concealer",
+      "hint": "Hangover mask",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Body spray",
+      "hint": "School dance",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hair straightener",
+      "hint": "Frizzy day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cotton pads",
+      "hint": "Cosy night in",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Moisturiser",
+      "hint": "Long flight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Beard trimmer",
+      "hint": "Stubble week",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eyeliner",
+      "hint": "Dramatic look",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bronzer",
+      "hint": "Photo shoot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Highlighter",
+      "hint": "Club night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foundation",
+      "hint": "Art class",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Eyeshadow",
+      "hint": "Glam night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dry shampoo",
+      "hint": "Festival weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hair gel",
+      "hint": "Sticky fingers",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hair clippers",
+      "hint": "Lockdown trim",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Toner",
+      "hint": "Skincare shelf",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Face wash",
+      "hint": "Morning routine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hairspray",
+      "hint": "Stormy weather",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Shaving foam",
+      "hint": "Practical joke",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Perfume",
+      "hint": "Birthday gift",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aftershave",
+      "hint": "Dad at Christmas",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hair mousse",
+      "hint": "Dinner party",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Facial steamer",
+      "hint": "Snuffly cold",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hair curler",
+      "hint": "Party prep",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Retinol",
+      "hint": "Night routine",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Serum",
+      "hint": "Science fair",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lash curler",
+      "hint": "Pinch me",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hair wax",
+      "hint": "Surfer look",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Clay mask",
+      "hint": "Hot tub",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cuticle oil",
+      "hint": "Weekly ritual",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Setting spray",
+      "hint": "Long shift",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Micellar water",
+      "hint": "Quick cleanse",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pumice stone",
+      "hint": "Foot care",
+      "difficulty": "hard"
+    }
+  ]
+}

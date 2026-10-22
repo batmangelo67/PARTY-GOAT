@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-blockbuster-movies",
+  "title": "Blockbuster Movies & Franchises",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Titanic",
+      "hint": "Pass the tissues",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jaws",
+      "hint": "Sunscreen season",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Avatar",
+      "hint": "Popcorn overload",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Lion King",
+      "hint": "Family cinema trip",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Star Wars",
+      "hint": "Nerdy weekend marathon",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Harry Potter",
+      "hint": "Midnight release queue",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Jurassic Park",
+      "hint": "Hold on tight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Frozen",
+      "hint": "Snow day indoors",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Toy Story",
+      "hint": "Childhood memories",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shrek",
+      "hint": "Kids' sleepover",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Top Gun",
+      "hint": "Cocky swagger",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghostbusters",
+      "hint": "Late-night scares",
+      "difficulty": "easy"
+    },
+    {
+      "word": "E.T.",
+      "hint": "Bittersweet goodbye",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Back to the Future",
+      "hint": "Retro nostalgia",
+      "difficulty": "easy"
+    },
+    {
+      "word": "The Matrix",
+      "hint": "Slow motion",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pirates of the Caribbean",
+      "hint": "Treasure hunt weekend",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Finding Nemo",
+      "hint": "Lost and found",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Home Alone",
+      "hint": "Christmas chaos",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gladiator",
+      "hint": "Epic showdown",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Inception",
+      "hint": "Puzzle night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Grease",
+      "hint": "Summer fling",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dirty Dancing",
+      "hint": "Forbidden romance",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Forrest Gump",
+      "hint": "Feel-good story",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mamma Mia!",
+      "hint": "Bachelorette weekend",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mission: Impossible",
+      "hint": "Heist night",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Godfather",
+      "hint": "Family dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Schindler's List",
+      "hint": "Heavy watch",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Goodfellas",
+      "hint": "Cool and dangerous",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rocky",
+      "hint": "Early morning run",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Sound of Music",
+      "hint": "Wholesome classic",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Mary Poppins",
+      "hint": "Old-fashioned charm",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Indiana Jones",
+      "hint": "Action-packed afternoon",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Terminator",
+      "hint": "Nightmare future",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Independence Day",
+      "hint": "Summer blockbuster",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Casablanca",
+      "hint": "Brief farewell",
+      "difficulty": "medium"
+    },
+    {
+      "word": "The Wizard of Oz",
+      "hint": "Tornado warning",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Apocalypse Now",
+      "hint": "Sweaty nightmare",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Chinatown",
+      "hint": "Who's lying?",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Nosferatu",
+      "hint": "Silent movie night",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Metropolis",
+      "hint": "Factory shift",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Blade Runner",
+      "hint": "Existential crisis",
+      "difficulty": "hard"
+    },
+    {
+      "word": "The Thing",
+      "hint": "Snowed-in suspicion",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alien",
+      "hint": "Unwanted guest",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Solaris",
+      "hint": "Haunting memory",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Seven Samurai",
+      "hint": "Hired heroes",
+      "difficulty": "hard"
+    }
+  ]
+}

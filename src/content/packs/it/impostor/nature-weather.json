@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-nature-weather",
+  "title": "Natura, meteo e paesaggi",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "word": "Arcobaleno",
+      "hint": "Lieto fine",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Neve",
+      "hint": "Scuola chiusa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fulmine",
+      "hint": "Spavento improvviso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tuono",
+      "hint": "Cane spaventato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Nebbia",
+      "hint": "Pendolari al freddo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grandine",
+      "hint": "Assicurazione da chiamare",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vento",
+      "hint": "Aquilone in volo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Montagna",
+      "hint": "Vacanza d'agosto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lago",
+      "hint": "Ferragosto in riva",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cascata",
+      "hint": "Foto in gita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Deserto",
+      "hint": "Sete infinita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foresta",
+      "hint": "Passeggiata silenziosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Oceano",
+      "hint": "Traversata lunga",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Vulcano",
+      "hint": "Zona pericolosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spiaggia",
+      "hint": "Ferie di luglio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Isola",
+      "hint": "Tesoro sepolto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fiume",
+      "hint": "Pescatore paziente",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Prato",
+      "hint": "Calcetto tra amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ghiacciaio",
+      "hint": "Passo di lumaca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Caverna",
+      "hint": "Eco nel buio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tornado",
+      "hint": "Sirene di allarme",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cratere",
+      "hint": "Vista dal drone",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Siccità",
+      "hint": "Estate senza fine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Alluvione",
+      "hint": "Stivali di gomma",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Valle",
+      "hint": "Sentiero in discesa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Palude",
+      "hint": "Racconto di paura",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Scogliera",
+      "hint": "Tuffi da ragazzi",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Laguna",
+      "hint": "Passeggiata al tramonto",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Canyon",
+      "hint": "Vacanza in fuoristrada",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Torrente",
+      "hint": "Piedi bagnati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Brughiera",
+      "hint": "Cammino nebbioso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Savana",
+      "hint": "Cielo infinito",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tundra",
+      "hint": "Notti senza fine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Geyser",
+      "hint": "Scoppio improvviso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stalattite",
+      "hint": "Ghiacciolo al contrario",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fiordo",
+      "hint": "Gita nel nord",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Miraggio",
+      "hint": "Inganno del caldo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Rugiada",
+      "hint": "Scarpe bagnate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Brina",
+      "hint": "Mattina di gennaio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Monsone",
+      "hint": "Valigie bagnate",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Scirocco",
+      "hint": "Caldo appiccicoso",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bora",
+      "hint": "Cappello che vola",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tsunami",
+      "hint": "Allarme in spiaggia",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Iceberg",
+      "hint": "Nave in pericolo",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Frana",
+      "hint": "Viaggio rimandato",
+      "difficulty": "hard"
+    }
+  ]
+}

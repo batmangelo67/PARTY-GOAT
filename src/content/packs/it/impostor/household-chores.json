@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-household-chores",
+  "title": "Faccende di casa",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "family",
+  "items": [
+    {
+      "word": "Lavare i piatti",
+      "hint": "Cena di ieri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stendere il bucato",
+      "hint": "Sabato di marzo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Passare la scopa",
+      "hint": "Festa finita",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pulire il bagno",
+      "hint": "Ospiti in arrivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fare la spesa",
+      "hint": "Frigo vuoto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Buttare la spazzatura",
+      "hint": "Sacco che perde",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Rifare il letto",
+      "hint": "Prima di uscire",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stirare le camicie",
+      "hint": "Domenica sera",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spolverare i mobili",
+      "hint": "Sabato di pulizie",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pulire i vetri",
+      "hint": "Primavera in casa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Apparecchiare la tavola",
+      "hint": "Cena di compleanno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Innaffiare le piante",
+      "hint": "Foglie gialle",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Dare da mangiare al gatto",
+      "hint": "Sveglia alle sei",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cambiare le lenzuola",
+      "hint": "Ospiti di notte",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pulire il forno",
+      "hint": "Odore di bruciato",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Svuotare la lavastoviglie",
+      "hint": "Pausa caffè",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Portare fuori il cane",
+      "hint": "Pioggia improvvisa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pulire le scarpe",
+      "hint": "Primo appuntamento",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sbrinare il freezer",
+      "hint": "Cibo dimenticato",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lucidare l'argenteria",
+      "hint": "Festa di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Spazzare il balcone",
+      "hint": "Fine estate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lavare le tende",
+      "hint": "Pulizie generali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Disincrostare il bollitore",
+      "hint": "Pulizia settimanale",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pulire le fughe",
+      "hint": "Lavoro da spazzolino",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lavare il pavimento",
+      "hint": "Bambini che giocano",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ripulire le grondaie",
+      "hint": "Autunno in arrivo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cambiare la lampadina",
+      "hint": "Serata romantica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sistemare la dispensa",
+      "hint": "Spesa del mese",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piegare le magliette",
+      "hint": "Vestiti di stagione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stirare la tovaglia",
+      "hint": "Cena di gala",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pulire il filtro della cappa",
+      "hint": "Cucina affollata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tagliare l'erba",
+      "hint": "Vicino pignolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pulire il tappeto",
+      "hint": "Festa in casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Organizzare il ripostiglio",
+      "hint": "Cose dimenticate",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Riordinare l'armadio",
+      "hint": "Cambio di stagione",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pulire il lavello",
+      "hint": "Fine giornata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sturare lo scarico",
+      "hint": "Sabato in panico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Imbiancare la parete",
+      "hint": "Cambio di colore",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Montare lo scaffale",
+      "hint": "Coppia che litiga",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sostituire il sifone",
+      "hint": "Bolletta dell'acqua",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Stuccare il muro",
+      "hint": "Affitto da restituire",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Togliere la muffa dal soffitto",
+      "hint": "Finestra chiusa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Smacchiare il divano",
+      "hint": "Serata movimentata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Ripassare il parquet",
+      "hint": "Casa di nonna",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Riparare il rubinetto",
+      "hint": "Weekend perso",
+      "difficulty": "hard"
+    }
+  ]
+}

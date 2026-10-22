@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-gym-fitness",
+  "title": "Gym & Fitness Culture",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "lifestyle",
+  "items": [
+    {
+      "word": "Treadmill",
+      "hint": "Netflix binge",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gym membership",
+      "hint": "Direct debit",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Personal trainer",
+      "hint": "Early Saturday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bench press",
+      "hint": "Show-off mate",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Protein shake",
+      "hint": "Smoothie fan",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gym bag",
+      "hint": "Forgotten socks",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gym selfie",
+      "hint": "Likes count",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Leggings",
+      "hint": "Lazy Sunday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Spin class",
+      "hint": "Loud music",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Burpee",
+      "hint": "Punishment",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Six-pack",
+      "hint": "Summer holiday",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pull-up bar",
+      "hint": "Doorframe hack",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cool-down",
+      "hint": "After the party",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Gym towel",
+      "hint": "Sweaty hug",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wristband",
+      "hint": "Club entry",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Heart rate monitor",
+      "hint": "Racing pulse",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stair climber",
+      "hint": "Lift broken",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Warm-up",
+      "hint": "Before the start",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Foam roller",
+      "hint": "Achy Monday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Fitness tracker",
+      "hint": "Bragging rights",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Couch to 5K",
+      "hint": "New beginnings",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Personal best",
+      "hint": "Proud moment",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plank",
+      "hint": "Stuck in place",
+      "difficulty": "medium"
+    },
+    {
+      "word": "HIIT",
+      "hint": "Heart pounding",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Zumba",
+      "hint": "Cheesy songs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bodybuilder",
+      "hint": "Tight tee",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Resistance band",
+      "hint": "Holiday suitcase",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jump box",
+      "hint": "Obstacle race",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lifting belt",
+      "hint": "Back pain",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sauna",
+      "hint": "Hot Sunday",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cardio",
+      "hint": "Heavy breathing",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lunges",
+      "hint": "Leg day",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Deadlift",
+      "hint": "Sweaty grunt",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sports massage",
+      "hint": "Weekend treat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ice bath",
+      "hint": "Brave dip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "CrossFit",
+      "hint": "Tough love",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pilates",
+      "hint": "Quiet studio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Gym chalk",
+      "hint": "Dusty hands",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Bulking",
+      "hint": "Big appetite",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Cutting",
+      "hint": "Diet phase",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Tabata",
+      "hint": "Timer beeping",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Kinesiology",
+      "hint": "Study hall",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Crunches",
+      "hint": "Ouch next day",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Elliptical",
+      "hint": "Going nowhere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Squat rack",
+      "hint": "Loud grunts",
+      "difficulty": "medium"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "en-impostor-everyday-quirks",
+  "title": "Random Everyday Quirks",
+  "language": "en",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "other",
+  "items": [
+    {
+      "word": "Hiccups",
+      "hint": "Water trick",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Stubbed Toe",
+      "hint": "Bedroom corner",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brain Freeze",
+      "hint": "Summer treats",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Pins and Needles",
+      "hint": "Sat too long",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sneezing Fit",
+      "hint": "Bright sunlight",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Yawning",
+      "hint": "Sleepy meeting",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Goosebumps",
+      "hint": "Cold cinema",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Earworm",
+      "hint": "Shower singing",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Phantom Vibration",
+      "hint": "Missed calls",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Knuckle Cracking",
+      "hint": "Mom's disapproval",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Static Shock",
+      "hint": "Dry winter",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sock Lint",
+      "hint": "Laundry day",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tip of the Tongue",
+      "hint": "Quiz night",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Ticklishness",
+      "hint": "Surprise poke",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Keys in the Fridge",
+      "hint": "Morning fog",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Shoelace Knots",
+      "hint": "Running late",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snooze Button",
+      "hint": "Five more minutes",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cold Shower Gasp",
+      "hint": "Winter mornings",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Déjà Vu",
+      "hint": "Familiar corridor",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ear Popping",
+      "hint": "Airplane descent",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Charger Cable Tangle",
+      "hint": "Drawer chaos",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Browser Tab Overload",
+      "hint": "Endless research",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Autocorrect Fail",
+      "hint": "Speedy thumbs",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Steamy Mirror",
+      "hint": "Morning routine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Heartburn",
+      "hint": "Late dinner",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dropped Toast",
+      "hint": "Morning rush",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stuck Zipper",
+      "hint": "Winter coat",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Lost Sock",
+      "hint": "Laundry basket",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Contagious Yawn",
+      "hint": "Shared boredom",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sleep Talking",
+      "hint": "Pillow gossip",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sleepwalking",
+      "hint": "Hallway wander",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Ringing Ears",
+      "hint": "Concert aftermath",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Muscle Twitch",
+      "hint": "Too much caffeine",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Stubborn Jar Lid",
+      "hint": "Kitchen struggle",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wrong Turn",
+      "hint": "Autopilot",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Itchy Nose",
+      "hint": "Hay fever season",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Pareidolia",
+      "hint": "Cloud gazing",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Frisson",
+      "hint": "Shivery moment",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hypnic Jerk",
+      "hint": "Almost asleep",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Synesthesia",
+      "hint": "Crossed wires",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Schadenfreude",
+      "hint": "Friend's spill",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Serendipity",
+      "hint": "Wrong number",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Procrastination",
+      "hint": "Tomorrow's list",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hangry",
+      "hint": "Missed lunch",
+      "difficulty": "hard"
+    },
+    {
+      "word": "FOMO",
+      "hint": "Group chat",
+      "difficulty": "hard"
+    }
+  ]
+}

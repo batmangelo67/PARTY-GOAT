@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-theater-performing-arts",
+  "title": "Teatro, opera e balletto",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "entertainment",
+  "items": [
+    {
+      "word": "Romeo e Giulietta",
+      "hint": "Amore segreto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il fantasma dell'opera",
+      "hint": "Amore ossessivo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cats",
+      "hint": "Costumi aderenti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Les Misérables",
+      "hint": "Vita di stenti",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lo schiaccianoci",
+      "hint": "Sogno di bambina",
+      "difficulty": "easy"
+    },
+    {
+      "word": "La Traviata",
+      "hint": "Sogni spezzati",
+      "difficulty": "easy"
+    },
+    {
+      "word": "West Side Story",
+      "hint": "Tensione di quartiere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Grease",
+      "hint": "Ballo del liceo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sweeney Todd",
+      "hint": "Cena sospetta",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cenerentola",
+      "hint": "Ballo reale",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Il Gobbo di Notre-Dame",
+      "hint": "Diverso dagli altri",
+      "difficulty": "easy"
+    },
+    {
+      "word": "La Bella e la Bestia",
+      "hint": "Amore che trasforma",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hamilton",
+      "hint": "Sfida a duello",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Chicago",
+      "hint": "Fama improvvisa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Carmen",
+      "hint": "Gelosia pericolosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Madama Butterfly",
+      "hint": "Attesa interminabile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il barbiere di Siviglia",
+      "hint": "Serenata notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il flauto magico",
+      "hint": "Prova di coraggio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Macbeth",
+      "hint": "Notte di tempesta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Otello",
+      "hint": "Invidia sottile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Amleto",
+      "hint": "Corte velenosa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Rigoletto",
+      "hint": "Festa mascherata",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aida",
+      "hint": "Guerra e amore",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Wicked",
+      "hint": "Amicizia improbabile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cabaret",
+      "hint": "Ombre sul palco",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Il lago dei cigni",
+      "hint": "Doppio ruolo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Giselle",
+      "hint": "Amore eterno",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Re Lear",
+      "hint": "Rancori di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Bohème",
+      "hint": "Poveri e innamorati",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Turandot",
+      "hint": "Enigmi mortali",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hair",
+      "hint": "Fiori e proteste",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Peter Pan",
+      "hint": "Sogno di volare",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Don Giovanni",
+      "hint": "Cena con ospite",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Nabucco",
+      "hint": "Coro commovente",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tosca",
+      "hint": "Preghiera in chiesa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Pagliacci",
+      "hint": "Pianto e trucco",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sogno di una notte di mezza estate",
+      "hint": "Incantesimo di giugno",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Aspettando Godot",
+      "hint": "Attesa senza fine",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Il giardino dei ciliegi",
+      "hint": "Nostalgia di casa",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Il misantropo",
+      "hint": "Brontolone cronico",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lo zoo di vetro",
+      "hint": "Famiglia malinconica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Arlecchino servitore di due padroni",
+      "hint": "Pranzi di fretta",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Miseria e nobiltà",
+      "hint": "Pranzo arrangiato",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Sei personaggi in cerca d'autore",
+      "hint": "Prove interrotte",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Coppelia",
+      "hint": "Sorriso immobile",
+      "difficulty": "hard"
+    }
+  ]
+}

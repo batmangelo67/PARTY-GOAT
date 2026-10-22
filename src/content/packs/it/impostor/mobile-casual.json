@@ -1,0 +1,238 @@
+{
+  "id": "it-impostor-mobile-casual",
+  "title": "Giochi mobile e casual",
+  "language": "it",
+  "spice": 0,
+  "kind": "words",
+  "games": [
+    "impostor"
+  ],
+  "group": "gaming",
+  "items": [
+    {
+      "word": "Candy Crush",
+      "hint": "Pausa in coda",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Angry Birds",
+      "hint": "Dispetto tra fratelli",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Flappy Bird",
+      "hint": "Frustrazione a letto",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Snake",
+      "hint": "Lezione noiosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Solitario",
+      "hint": "Serata di calma",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sudoku",
+      "hint": "Matita e silenzio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Subway Surfers",
+      "hint": "Ritardo al treno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Temple Run",
+      "hint": "Mattina di corsa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "2048",
+      "hint": "Pomeriggio in ufficio",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Wordle",
+      "hint": "Caffè del mattino",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Fruit Ninja",
+      "hint": "Cena frettolosa",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Doodle Jump",
+      "hint": "Noia in aula",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cut the Rope",
+      "hint": "Bambino capriccioso",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Among Us",
+      "hint": "Gita di gruppo",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Plants vs Zombies",
+      "hint": "Sole di giugno",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Clash of Clans",
+      "hint": "Sogno di potere",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Brawl Stars",
+      "hint": "Serata con amici",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hay Day",
+      "hint": "Vita semplice",
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bubble Shooter",
+      "hint": "Attesa in banca",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Crossy Road",
+      "hint": "Semaforo rosso",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Hill Climb Racing",
+      "hint": "Gita fuori porta",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Agar.io",
+      "hint": "Pranzo abbondante",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Monument Valley",
+      "hint": "Pomeriggio di arte",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Threes",
+      "hint": "Conti della spesa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Piano Tiles",
+      "hint": "Recital scolastico",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Block Blast",
+      "hint": "Trasloco di casa",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tiny Wings",
+      "hint": "Giornata di vento",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jetpack Joyride",
+      "hint": "Gita a rischio",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Cookie Clicker",
+      "hint": "Pausa notturna",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Royal Match",
+      "hint": "Serata di gala",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Coin Master",
+      "hint": "Giorno di paga",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Clash Royale",
+      "hint": "Gara di famiglia",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Jigsaw Puzzle",
+      "hint": "Tavolo da pranzo",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Dots",
+      "hint": "Compiti di matematica",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Tower Defense",
+      "hint": "Battaglia di cortile",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Gardenscapes",
+      "hint": "Festa di primavera",
+      "difficulty": "medium"
+    },
+    {
+      "word": "Plague Inc",
+      "hint": "Notizie allarmanti",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Alto's Odyssey",
+      "hint": "Lungo viaggio",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Badland",
+      "hint": "Mondo strano",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Mini Metro",
+      "hint": "Coda alla fermata",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Lumines",
+      "hint": "Dopo mezzanotte",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Osu!",
+      "hint": "Cuffie nelle orecchie",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Florence",
+      "hint": "Cena romantica",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Hitman GO",
+      "hint": "Pausa sul bus",
+      "difficulty": "hard"
+    },
+    {
+      "word": "Vainglory",
+      "hint": "Pranzo di lavoro",
+      "difficulty": "hard"
+    }
+  ]
+}

@@ -1,0 +1,780 @@
+{
+  "id": "it-bomb-geography",
+  "title": "Geografia e luoghi",
+  "language": "it",
+  "spice": 0,
+  "kind": "prompts",
+  "games": [
+    "bomb"
+  ],
+  "group": "geography",
+  "items": [
+    {
+      "text": "Città della Spagna",
+      "examples": [
+        "Madrid",
+        "Barcellona",
+        "Siviglia",
+        "Valencia",
+        "Bilbao",
+        "Granada"
+      ]
+    },
+    {
+      "text": "Regioni italiane",
+      "examples": [
+        "Toscana",
+        "Umbria",
+        "Sardegna",
+        "Sicilia",
+        "Puglia",
+        "Calabria"
+      ]
+    },
+    {
+      "text": "Fiumi del mondo",
+      "examples": [
+        "Nilo",
+        "Mississippi",
+        "Yangtze",
+        "Gange",
+        "Danubio",
+        "Reno"
+      ]
+    },
+    {
+      "text": "Paesi africani",
+      "examples": [
+        "Egitto",
+        "Kenya",
+        "Nigeria",
+        "Marocco",
+        "Etiopia",
+        "Tanzania"
+      ]
+    },
+    {
+      "text": "Isole del Mediterraneo",
+      "examples": [
+        "Maiorca",
+        "Cipro",
+        "Corsica",
+        "Malta",
+        "Minorca",
+        "Ibiza"
+      ]
+    },
+    {
+      "text": "Isole italiane",
+      "examples": [
+        "Elba",
+        "Capri",
+        "Ischia",
+        "Lampedusa",
+        "Procida",
+        "Pantelleria"
+      ]
+    },
+    {
+      "text": "Capitali europee",
+      "examples": [
+        "Parigi",
+        "Berlino",
+        "Vienna",
+        "Praga",
+        "Lisbona",
+        "Dublino"
+      ]
+    },
+    {
+      "text": "Capitali asiatiche",
+      "examples": [
+        "Tokyo",
+        "Pechino",
+        "Seul",
+        "Kabul",
+        "Teheran",
+        "Riad"
+      ]
+    },
+    {
+      "text": "Montagne famose",
+      "examples": [
+        "Everest",
+        "K2",
+        "Cervino",
+        "Kilimangiaro",
+        "Aconcagua",
+        "Elbrus"
+      ]
+    },
+    {
+      "text": "Deserti del mondo",
+      "examples": [
+        "Sahara",
+        "Gobi",
+        "Atacama",
+        "Kalahari",
+        "Mojave",
+        "Namib"
+      ]
+    },
+    {
+      "text": "Laghi italiani",
+      "examples": [
+        "Garda",
+        "Como",
+        "Maggiore",
+        "Trasimeno",
+        "Bolsena",
+        "Iseo"
+      ]
+    },
+    {
+      "text": "Mari del mondo",
+      "examples": [
+        "Mar Nero",
+        "Mar Rosso",
+        "Mar Caspio",
+        "Mar Morto",
+        "Mar Baltico",
+        "Mar dei Caraibi"
+      ]
+    },
+    {
+      "text": "Città del Giappone",
+      "examples": [
+        "Osaka",
+        "Kyoto",
+        "Sapporo",
+        "Hiroshima",
+        "Nagoya",
+        "Kobe"
+      ]
+    },
+    {
+      "text": "Città degli Stati Uniti",
+      "examples": [
+        "New York",
+        "Chicago",
+        "Miami",
+        "Boston",
+        "Seattle",
+        "Houston"
+      ]
+    },
+    {
+      "text": "Città dell'Australia",
+      "examples": [
+        "Sydney",
+        "Melbourne",
+        "Perth",
+        "Brisbane",
+        "Adelaide",
+        "Canberra"
+      ]
+    },
+    {
+      "text": "Paesi sudamericani",
+      "examples": [
+        "Brasile",
+        "Argentina",
+        "Cile",
+        "Perù",
+        "Colombia",
+        "Uruguay"
+      ]
+    },
+    {
+      "text": "Paesi del Nord Europa",
+      "examples": [
+        "Norvegia",
+        "Svezia",
+        "Finlandia",
+        "Danimarca",
+        "Islanda",
+        "Groenlandia"
+      ]
+    },
+    {
+      "text": "Vulcani attivi",
+      "examples": [
+        "Etna",
+        "Vesuvio",
+        "Stromboli",
+        "Fuji",
+        "Vulcano",
+        "Krakatoa"
+      ]
+    },
+    {
+      "text": "Penisole del mondo",
+      "examples": [
+        "Iberica",
+        "Scandinava",
+        "Balcanica",
+        "Crimea",
+        "Sinai",
+        "Kamchatka"
+      ]
+    },
+    {
+      "text": "Isole greche",
+      "examples": [
+        "Santorini",
+        "Mykonos",
+        "Corfù",
+        "Creta",
+        "Rodi",
+        "Zante"
+      ]
+    },
+    {
+      "text": "Strade famose del mondo",
+      "examples": [
+        "Route 66",
+        "Champs-Élysées",
+        "Via Appia",
+        "Broadway",
+        "Abbey Road",
+        "Fifth Avenue"
+      ]
+    },
+    {
+      "text": "Stretti e canali famosi",
+      "examples": [
+        "Bosforo",
+        "Suez",
+        "Panama",
+        "Gibilterra",
+        "Manica",
+        "Stretto di Messina"
+      ]
+    },
+    {
+      "text": "Capitali africane",
+      "examples": [
+        "Il Cairo",
+        "Nairobi",
+        "Rabat",
+        "Accra",
+        "Tunisi",
+        "Abuja"
+      ]
+    },
+    {
+      "text": "Paesi che confinano con l'Italia",
+      "examples": [
+        "Francia",
+        "Svizzera",
+        "Austria",
+        "Slovenia",
+        "San Marino",
+        "Vaticano"
+      ]
+    },
+    {
+      "text": "Fiumi italiani",
+      "examples": [
+        "Po",
+        "Tevere",
+        "Arno",
+        "Adige",
+        "Piave",
+        "Ticino"
+      ]
+    },
+    {
+      "text": "Catene montuose",
+      "examples": [
+        "Alpi",
+        "Appennini",
+        "Ande",
+        "Himalaya",
+        "Pirenei",
+        "Urali"
+      ]
+    },
+    {
+      "text": "Cascate famose",
+      "examples": [
+        "Niagara",
+        "Iguazù",
+        "Vittoria",
+        "Angel",
+        "Yosemite",
+        "Krka"
+      ]
+    },
+    {
+      "text": "Capitali sudamericane",
+      "examples": [
+        "Lima",
+        "Santiago",
+        "Bogotà",
+        "Buenos Aires",
+        "Caracas",
+        "Quito"
+      ]
+    },
+    {
+      "text": "Città del Canada",
+      "examples": [
+        "Toronto",
+        "Montreal",
+        "Vancouver",
+        "Calgary",
+        "Ottawa",
+        "Quebec"
+      ]
+    },
+    {
+      "text": "Città dell'India",
+      "examples": [
+        "Mumbai",
+        "Calcutta",
+        "Bangalore",
+        "Chennai",
+        "Jaipur",
+        "Agra"
+      ]
+    },
+    {
+      "text": "Isole del Pacifico",
+      "examples": [
+        "Tahiti",
+        "Fiji",
+        "Samoa",
+        "Tonga",
+        "Vanuatu",
+        "Guam"
+      ]
+    },
+    {
+      "text": "Paesi dell'America Centrale",
+      "examples": [
+        "Messico",
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Costa Rica",
+        "El Salvador"
+      ]
+    },
+    {
+      "text": "Stati degli Stati Uniti",
+      "examples": [
+        "Texas",
+        "California",
+        "Florida",
+        "Nevada",
+        "Alaska",
+        "Hawaii"
+      ]
+    },
+    {
+      "text": "Monti italiani",
+      "examples": [
+        "Gran Paradiso",
+        "Gran Sasso",
+        "Monte Rosa",
+        "Presolana",
+        "Marmolada",
+        "Pizzo Bernina"
+      ]
+    },
+    {
+      "text": "Parchi nazionali italiani",
+      "examples": [
+        "Stelvio",
+        "Abruzzo",
+        "Cilento",
+        "Maiella",
+        "Circeo",
+        "Gargano"
+      ]
+    },
+    {
+      "text": "Città del Brasile",
+      "examples": [
+        "Rio de Janeiro",
+        "San Paolo",
+        "Salvador",
+        "Brasilia",
+        "Recife",
+        "Manaus"
+      ]
+    },
+    {
+      "text": "Arcipelaghi del mondo",
+      "examples": [
+        "Azzorre",
+        "Canarie",
+        "Filippine",
+        "Maldive",
+        "Galapagos",
+        "Baleari"
+      ]
+    },
+    {
+      "text": "Capitali del Sud-est asiatico",
+      "examples": [
+        "Bangkok",
+        "Hanoi",
+        "Giacarta",
+        "Manila",
+        "Kuala Lumpur",
+        "Phnom Penh"
+      ]
+    },
+    {
+      "text": "Città francesi",
+      "examples": [
+        "Lione",
+        "Marsiglia",
+        "Nizza",
+        "Bordeaux",
+        "Tolosa",
+        "Lilla"
+      ]
+    },
+    {
+      "text": "Città tedesche",
+      "examples": [
+        "Monaco di Baviera",
+        "Amburgo",
+        "Colonia",
+        "Francoforte",
+        "Dresda",
+        "Stoccarda"
+      ]
+    },
+    {
+      "text": "Città britanniche",
+      "examples": [
+        "Edimburgo",
+        "Manchester",
+        "Glasgow",
+        "Cardiff",
+        "Bristol",
+        "Oxford"
+      ]
+    },
+    {
+      "text": "Città del Sudafrica",
+      "examples": [
+        "Città del Capo",
+        "Johannesburg",
+        "Durban",
+        "Pretoria",
+        "Bloemfontein",
+        "Port Elizabeth"
+      ]
+    },
+    {
+      "text": "Città degli Emirati",
+      "examples": [
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah",
+        "Ajman",
+        "Fujairah",
+        "Ras al-Khaimah"
+      ]
+    },
+    {
+      "text": "Laghi del mondo",
+      "examples": [
+        "Baikal",
+        "Victoria",
+        "Titicaca",
+        "Ciad",
+        "Superiore",
+        "Ontario"
+      ]
+    },
+    {
+      "text": "Città dell'Europa dell'Est",
+      "examples": [
+        "Cracovia",
+        "Danzica",
+        "Leopoli",
+        "Odessa",
+        "Brno",
+        "Timisoara"
+      ]
+    },
+    {
+      "text": "Paesi dell'Asia centrale",
+      "examples": [
+        "Kazakistan",
+        "Uzbekistan",
+        "Kirghizistan",
+        "Turkmenistan",
+        "Tagikistan",
+        "Afghanistan"
+      ]
+    },
+    {
+      "text": "Regioni della Spagna",
+      "examples": [
+        "Andalusia",
+        "Catalogna",
+        "Galizia",
+        "Castiglia",
+        "Aragona",
+        "Navarra"
+      ]
+    },
+    {
+      "text": "Continenti del mondo",
+      "examples": [
+        "Africa",
+        "Asia",
+        "Europa",
+        "America",
+        "Oceania",
+        "Antartide"
+      ]
+    },
+    {
+      "text": "Mari che bagnano l'Italia",
+      "examples": [
+        "Adriatico",
+        "Ionio",
+        "Tirreno",
+        "Ligure"
+      ]
+    },
+    {
+      "text": "Isole del Nord Europa",
+      "examples": [
+        "Faroe",
+        "Shetland",
+        "Orcadi",
+        "Ebridi",
+        "Lofoten",
+        "Spitsbergen"
+      ]
+    },
+    {
+      "text": "Città del Sud degli Stati Uniti",
+      "examples": [
+        "Dallas",
+        "Atlanta",
+        "New Orleans",
+        "Memphis",
+        "Nashville",
+        "Austin"
+      ]
+    },
+    {
+      "text": "Città sul Danubio",
+      "examples": [
+        "Budapest",
+        "Bratislava",
+        "Ulma",
+        "Linz",
+        "Passavia",
+        "Ratisbona"
+      ]
+    },
+    {
+      "text": "Stati dell'Africa occidentale",
+      "examples": [
+        "Ghana",
+        "Senegal",
+        "Mali",
+        "Niger",
+        "Costa d'Avorio",
+        "Togo"
+      ]
+    },
+    {
+      "text": "Città cinesi",
+      "examples": [
+        "Hong Kong",
+        "Chongqing",
+        "Shenzhen",
+        "Canton",
+        "Macao",
+        "Wuhan"
+      ]
+    },
+    {
+      "text": "Capitali nordiche",
+      "examples": [
+        "Oslo",
+        "Stoccolma",
+        "Helsinki",
+        "Copenaghen",
+        "Reykjavik",
+        "Vilnius"
+      ]
+    },
+    {
+      "text": "Città del Messico",
+      "examples": [
+        "Guadalajara",
+        "Monterrey",
+        "Tijuana",
+        "Cancún",
+        "Puebla",
+        "Oaxaca"
+      ]
+    },
+    {
+      "text": "Città della Russia",
+      "examples": [
+        "Mosca",
+        "San Pietroburgo",
+        "Novosibirsk",
+        "Kazan",
+        "Ekaterinburg",
+        "Vladivostok"
+      ]
+    },
+    {
+      "text": "Fiumi del Sud America",
+      "examples": [
+        "Amazzoni",
+        "Orinoco",
+        "Paraná",
+        "Uruguay",
+        "Magdalena",
+        "Paraguay"
+      ]
+    },
+    {
+      "text": "Isole dei Caraibi",
+      "examples": [
+        "Cuba",
+        "Giamaica",
+        "Barbados",
+        "Porto Rico",
+        "Trinidad",
+        "Bahamas"
+      ]
+    },
+    {
+      "text": "Città greche",
+      "examples": [
+        "Salonicco",
+        "Patrasso",
+        "Heraklion",
+        "Larissa",
+        "Corinto",
+        "Volos"
+      ]
+    },
+    {
+      "text": "Città africane sul mare",
+      "examples": [
+        "Casablanca",
+        "Alessandria",
+        "Tangeri",
+        "Dakar",
+        "Mombasa",
+        "Tripoli"
+      ]
+    },
+    {
+      "text": "Capitali del Medio Oriente",
+      "examples": [
+        "Beirut",
+        "Damasco",
+        "Baghdad",
+        "Amman",
+        "Doha",
+        "Kuwait"
+      ]
+    },
+    {
+      "text": "Capitali balcaniche",
+      "examples": [
+        "Sarajevo",
+        "Zagabria",
+        "Lubiana",
+        "Sofia",
+        "Podgorica",
+        "Tirana"
+      ]
+    },
+    {
+      "text": "Monumenti del mondo",
+      "examples": [
+        "Taj Mahal",
+        "Machu Picchu",
+        "Muraglia Cinese",
+        "Petra",
+        "Stonehenge",
+        "Piramidi di Giza"
+      ]
+    },
+    {
+      "text": "Città della Svizzera",
+      "examples": [
+        "Zurigo",
+        "Ginevra",
+        "Basilea",
+        "Berna",
+        "Lugano",
+        "Losanna"
+      ]
+    },
+    {
+      "text": "Città irlandesi",
+      "examples": [
+        "Cork",
+        "Galway",
+        "Limerick",
+        "Waterford",
+        "Derry",
+        "Kilkenny"
+      ]
+    },
+    {
+      "text": "Oceani del mondo",
+      "examples": [
+        "Pacifico",
+        "Atlantico",
+        "Indiano",
+        "Artico",
+        "Antartico"
+      ]
+    },
+    {
+      "text": "Porti famosi del mondo",
+      "examples": [
+        "Rotterdam",
+        "Singapore",
+        "Anversa",
+        "Busan",
+        "Los Angeles",
+        "Shanghai"
+      ]
+    },
+    {
+      "text": "Vette europee",
+      "examples": [
+        "Monte Bianco",
+        "Olimpo",
+        "Mulhacén",
+        "Triglav",
+        "Grossglockner",
+        "Zugspitze"
+      ]
+    },
+    {
+      "text": "Isole del Giappone",
+      "examples": [
+        "Honshu",
+        "Hokkaido",
+        "Kyushu",
+        "Shikoku",
+        "Okinawa",
+        "Sado"
+      ]
+    }
+  ]
+}

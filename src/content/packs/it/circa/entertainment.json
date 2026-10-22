@@ -1,0 +1,293 @@
+{
+  "id": "it-circa-entertainment",
+  "title": "Cinema, TV e musica",
+  "language": "it",
+  "spice": 0,
+  "kind": "numeric",
+  "games": [
+    "circa"
+  ],
+  "group": "general",
+  "items": [
+    {
+      "question": "In che anno uscì il primo film di Star Wars?",
+      "answer": 1977,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Il Padrino?",
+      "decoyAnswer": 1972
+    },
+    {
+      "question": "In che anno uscì il film Lo squalo?",
+      "answer": 1975,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Titanic?",
+      "decoyAnswer": 1997
+    },
+    {
+      "question": "In che anno uscì il film Matrix?",
+      "answer": 1999,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Avatar di James Cameron?",
+      "decoyAnswer": 2009
+    },
+    {
+      "question": "In che anno uscì il film d'animazione Il re leone?",
+      "answer": 1994,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Toy Story, il primo film Pixar?",
+      "decoyAnswer": 1995
+    },
+    {
+      "question": "In che anno uscì il film d'animazione Shrek?",
+      "answer": 2001,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Frozen?",
+      "decoyAnswer": 2013
+    },
+    {
+      "question": "In che anno uscì in Italia il film La vita è bella?",
+      "answer": 1997,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Nuovo Cinema Paradiso?",
+      "decoyAnswer": 1988
+    },
+    {
+      "question": "In che anno uscì il film Ladri di biciclette?",
+      "answer": 1948,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì La dolce vita di Fellini?",
+      "decoyAnswer": 1960
+    },
+    {
+      "question": "In che anno uscì il film Ghostbusters?",
+      "answer": 1984,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Ritorno al futuro?",
+      "decoyAnswer": 1985
+    },
+    {
+      "question": "In che anno uscì il film Pulp Fiction?",
+      "answer": 1994,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Il silenzio degli innocenti?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno uscì Il Signore degli Anelli: Il ritorno del re?",
+      "answer": 2003,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì Lo Hobbit: Un viaggio inaspettato?",
+      "decoyAnswer": 2012
+    },
+    {
+      "question": "In che anno andò in onda la prima puntata di Friends?",
+      "answer": 1994,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno andò in onda la prima puntata di Game of Thrones?",
+      "decoyAnswer": 2011
+    },
+    {
+      "question": "In che anno andò in onda la prima puntata di Breaking Bad?",
+      "answer": 2008,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno andò in onda la prima puntata di Lost?",
+      "decoyAnswer": 2004
+    },
+    {
+      "question": "In che anno uscì la prima stagione di Stranger Things?",
+      "answer": 2016,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno andò in onda la prima stagione di The Office inglese?",
+      "decoyAnswer": 2001
+    },
+    {
+      "question": "In che anno andò in onda la prima puntata dei Simpson?",
+      "answer": 1989,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì la prima serie anime di Pokémon in Giappone?",
+      "decoyAnswer": 1997
+    },
+    {
+      "question": "In che anno andò in onda la prima edizione di Carosello?",
+      "answer": 1957,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno si tenne la prima edizione del Festival di Sanremo?",
+      "decoyAnswer": 1951
+    },
+    {
+      "question": "In che anno uscì l'album Thriller di Michael Jackson?",
+      "answer": 1982,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì l'album Abbey Road dei Beatles?",
+      "decoyAnswer": 1969
+    },
+    {
+      "question": "In che anno uscì l'album Sgt. Pepper's dei Beatles?",
+      "answer": 1967,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì l'album Nevermind dei Nirvana?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno uscì la canzone Caruso di Lucio Dalla?",
+      "answer": 1986,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì la canzone Azzurro di Adriano Celentano?",
+      "decoyAnswer": 1968
+    },
+    {
+      "question": "In che anno uscì la canzone Il mio canto libero di Lucio Battisti?",
+      "answer": 1972,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì la canzone Hey Jude dei Beatles?",
+      "decoyAnswer": 1968
+    },
+    {
+      "question": "In che anno uscì la canzone Bohemian Rhapsody dei Queen?",
+      "answer": 1975,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì l'album Dark Side of the Moon dei Pink Floyd?",
+      "decoyAnswer": 1973
+    },
+    {
+      "question": "In che anno uscì l'album Led Zeppelin IV?",
+      "answer": 1971,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì la canzone Creep dei Radiohead?",
+      "decoyAnswer": 1992
+    },
+    {
+      "question": "In che anno uscì l'album OK Computer dei Radiohead?",
+      "answer": 1997,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il videogioco Tetris?",
+      "decoyAnswer": 1984
+    },
+    {
+      "question": "In che anno uscì il videogioco Super Mario Bros?",
+      "answer": 1985,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il videogioco Pac-Man?",
+      "decoyAnswer": 1980
+    },
+    {
+      "question": "In che anno andò in onda la prima serie di Mr Bean?",
+      "answer": 1990,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film d'animazione Biancaneve?",
+      "decoyAnswer": 1937
+    },
+    {
+      "question": "In che anno uscì il film Il postino?",
+      "answer": 1994,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Mediterraneo?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno uscì il film Il gladiatore?",
+      "answer": 2000,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Braveheart?",
+      "decoyAnswer": 1995
+    },
+    {
+      "question": "In che anno uscì il film Inception?",
+      "answer": 2010,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Interstellar?",
+      "decoyAnswer": 2014
+    },
+    {
+      "question": "In che anno uscì Il Signore degli Anelli: La compagnia dell'anello?",
+      "answer": 2001,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Jurassic Park?",
+      "decoyAnswer": 1993
+    },
+    {
+      "question": "In che anno uscì il film Mary Poppins?",
+      "answer": 1964,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Il mago di Oz?",
+      "decoyAnswer": 1939
+    },
+    {
+      "question": "In che anno andò in onda la prima stagione di Sherlock sulla BBC?",
+      "answer": 2010,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno tornò in onda Doctor Who con la nuova serie?",
+      "decoyAnswer": 2005
+    },
+    {
+      "question": "In che anno uscì la canzone Imagine di John Lennon?",
+      "answer": 1971,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì l'album Let It Be dei Beatles?",
+      "decoyAnswer": 1970
+    },
+    {
+      "question": "In che anno uscì l'album Rumours dei Fleetwood Mac?",
+      "answer": 1977,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì l'album Back in Black degli AC/DC?",
+      "decoyAnswer": 1980
+    },
+    {
+      "question": "In che anno si tenne la prima edizione dello Zecchino d'Oro?",
+      "answer": 1959,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno andò in onda la prima puntata di Rischiatutto?",
+      "decoyAnswer": 1970
+    },
+    {
+      "question": "In che anno andò in onda la prima edizione del Grande Fratello in Italia?",
+      "answer": 2000,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno andò in onda la prima puntata di Non è la RAI?",
+      "decoyAnswer": 1991
+    },
+    {
+      "question": "In che anno uscì il film Blade Runner?",
+      "answer": 1982,
+      "unit": "anno",
+      "format": "year",
+      "decoyQuestion": "In che anno uscì il film Shining di Kubrick?",
+      "decoyAnswer": 1980
+    }
+  ]
+}
