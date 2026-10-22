@@ -2,58 +2,171 @@
   "id": "en-most-likely-to-spicy",
   "title": "Spicy",
   "language": "en",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["most-likely-to"],
+  "games": [
+    "most-likely-to"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Who's most likely to flirt with a stranger on a dating app they swore they'd deleted" },
-    { "text": "Who's most likely to have the most matches on a dating app" },
-    { "text": "Who's most likely to have a secret crush on a famous actor" },
-    { "text": "Who's most likely to get a message from an ex at 2am" },
-    { "text": "Who's most likely to have been on three first dates this week" },
-    { "text": "Who's most likely to fall for a friend's sibling" },
-    { "text": "Who's most likely to have a massive crush on their gym instructor" },
-    { "text": "Who's most likely to send a flirty voice note they'll regret" },
-    { "text": "Who's most likely to have a crush that started as a joke" },
-    { "text": "Who's most likely to have a situationship that lasts years" },
-    { "text": "Who's most likely to get caught staring across the room" },
-    { "text": "Who's most likely to swipe right on someone from the group chat" },
-    { "text": "Who's most likely to have the best date story of the year" },
-    { "text": "Who's most likely to send a good morning text to the wrong person" },
-    { "text": "Who's most likely to be secretly hooked on a dating reality show" },
-    { "text": "Who's most likely to get a love letter from someone in this room" },
-    { "text": "Who's most likely to get a second date after a disastrous first date" },
-    { "text": "Who's most likely to say \"just one kiss\" and mean it as a promise" },
-    { "text": "Who's most likely to bring a fake partner to a wedding" },
-    { "text": "Who's most likely to date someone older for the free dinners" },
-    { "text": "Who's most likely to fall for a fictional character" },
-    { "text": "Who's most likely to have a phone full of unsent texts to an ex" },
-    { "text": "Who's most likely to get caught in a cheeky photo at a wedding" },
-    { "text": "Who's most likely to have a holiday fling in another country" },
-    { "text": "Who's most likely to get caught sneaking out of a house party" },
-    { "text": "Who's most likely to talk their way out of a speeding ticket with a wink" },
-    { "text": "Who's most likely to get a free drink from every bartender in town" },
-    { "text": "Who's most likely to start a flirty game of truth or dare" },
-    { "text": "Who's most likely to say \"I love you\" first" },
-    { "text": "Who's most likely to forget a partner's birthday and then panic" },
-    { "text": "Who's most likely to get an apology text from a crush" },
-    { "text": "Who's most likely to ask for a second date at the first date" },
-    { "text": "Who's most likely to secretly stalk an ex on social media" },
-    { "text": "Who's most likely to get a cheeky wink from someone's grandmother" },
-    { "text": "Who's most likely to have a celebrity crush they've never met" },
-    { "text": "Who's most likely to get spotted kissing at the cinema" },
-    { "text": "Who's most likely to send a risky selfie to the group chat by accident" },
-    { "text": "Who's most likely to lie about their age on a dating app" },
-    { "text": "Who's most likely to turn up an hour late to a date with excuses" },
-    { "text": "Who's most likely to fall in love on holiday" },
-    { "text": "Who's most likely to get dumped by text and laugh about it" },
-    { "text": "Who's most likely to steal a kiss in a taxi" },
-    { "text": "Who's most likely to ask for a phone number at the gym" },
-    { "text": "Who's most likely to have a crush on their roommate's best friend" },
-    { "text": "Who's most likely to be the centre of a wedding dance floor flirt" },
-    { "text": "Who's most likely to wink at the wrong person across the table" },
-    { "text": "Who's most likely to get a phone number from a stranger on a bus" },
-    { "text": "Who's most likely to write a love song for someone at the party" }
+    {
+      "text": "Who's most likely to be caught having sex somewhere public"
+    },
+    {
+      "text": "Who's most likely to have slept with the most people"
+    },
+    {
+      "text": "Who's most likely to have a secret OnlyFans"
+    },
+    {
+      "text": "Who's most likely to hook up with someone in this room"
+    },
+    {
+      "text": "Who's most likely to send a nude to the wrong person"
+    },
+    {
+      "text": "Who's most likely to fake an orgasm"
+    },
+    {
+      "text": "Who's most likely to own the most sex toys"
+    },
+    {
+      "text": "Who's most likely to end up in a threesome"
+    },
+    {
+      "text": "Who's most likely to sleep with their boss"
+    },
+    {
+      "text": "Who's most likely to hook up with an ex's friend"
+    },
+    {
+      "text": "Who's most likely to have a one-night stand on holiday"
+    },
+    {
+      "text": "Who's most likely to take an edible and get completely lost"
+    },
+    {
+      "text": "Who's most likely to be the one who always brings the weed"
+    },
+    {
+      "text": "Who's most likely to try every drug at a festival"
+    },
+    {
+      "text": "Who's most likely to wake up with no memory of the night"
+    },
+    {
+      "text": "Who's most likely to get arrested on a night out"
+    },
+    {
+      "text": "Who's most likely to be the first to take their top off at a party"
+    },
+    {
+      "text": "Who's most likely to have a secret fantasy nobody knows about"
+    },
+    {
+      "text": "Who's most likely to be an incredible kisser"
+    },
+    {
+      "text": "Who's most likely to sleep with a bartender"
+    },
+    {
+      "text": "Who's most likely to go to a nudist beach"
+    },
+    {
+      "text": "Who's most likely to get a tattoo somewhere very intimate"
+    },
+    {
+      "text": "Who's most likely to be walked in on"
+    },
+    {
+      "text": "Who's most likely to date two people at once"
+    },
+    {
+      "text": "Who's most likely to send a 'u up?' at 3am"
+    },
+    {
+      "text": "Who's most likely to become a sugar baby"
+    },
+    {
+      "text": "Who's most likely to visit a sex club"
+    },
+    {
+      "text": "Who's most likely to cheat on a partner"
+    },
+    {
+      "text": "Who's most likely to stay friends with benefits for years"
+    },
+    {
+      "text": "Who's most likely to show up to work with a hickey"
+    },
+    {
+      "text": "Who's most likely to try magic mushrooms"
+    },
+    {
+      "text": "Who's most likely to hide a stash in a really bad spot"
+    },
+    {
+      "text": "Who's most likely to hook up with a stranger in a club bathroom"
+    },
+    {
+      "text": "Who's most likely to be the wildest in bed"
+    },
+    {
+      "text": "Who's most likely to be the most vanilla in bed"
+    },
+    {
+      "text": "Who's most likely to do a striptease after a bottle of wine"
+    },
+    {
+      "text": "Who's most likely to spend a whole weekend in bed"
+    },
+    {
+      "text": "Who's most likely to get caught watching porn"
+    },
+    {
+      "text": "Who's most likely to leave before morning after a hookup"
+    },
+    {
+      "text": "Who's most likely to flirt their way out of a fine"
+    },
+    {
+      "text": "Who's most likely to turn into a mess after three shots"
+    },
+    {
+      "text": "Who's most likely to start a relationship from a one-night stand"
+    },
+    {
+      "text": "Who's most likely to have a secret crush on someone here"
+    },
+    {
+      "text": "Who's most likely to own handcuffs"
+    },
+    {
+      "text": "Who's most likely to be the dominant one in bed"
+    },
+    {
+      "text": "Who's most likely to say the wrong name in bed"
+    },
+    {
+      "text": "Who's most likely to do a naked photo shoot"
+    },
+    {
+      "text": "Who's most likely to hook up with their best friend's ex"
+    },
+    {
+      "text": "Who's most likely to have an active paid OnlyFans subscription"
+    },
+    {
+      "text": "Who's most likely to own five or more different sex toys"
+    },
+    {
+      "text": "Who's most likely to join a throuple or a group hookup on holiday"
+    },
+    {
+      "text": "Who's most likely to accidentally cast an adult video over Bluetooth or AirPlay"
+    },
+    {
+      "text": "Who's most likely to have tried roleplay with handcuffs, blindfolds or costumes"
+    }
   ]
 }

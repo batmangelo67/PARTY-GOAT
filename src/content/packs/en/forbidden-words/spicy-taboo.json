@@ -10,12 +10,42 @@
   "group": "adults",
   "items": [
     {
-      "word": "Kiss",
+      "word": "Condom",
       "banned": [
-        "Lips",
-        "Smooch",
-        "Peck",
-        "Snog"
+        "Protection",
+        "Latex",
+        "Safe",
+        "Wrapper"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Orgasm",
+      "banned": [
+        "Climax",
+        "Peak",
+        "Pleasure",
+        "Moan"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Threesome",
+      "banned": [
+        "Three",
+        "Triangle",
+        "Menage",
+        "Bed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Striptease",
+      "banned": [
+        "Clothes",
+        "Pole",
+        "Dancer",
+        "Undress"
       ],
       "difficulty": "easy"
     },
@@ -30,392 +60,426 @@
       "difficulty": "easy"
     },
     {
-      "word": "Crush",
+      "word": "One-night stand",
       "banned": [
-        "Secret",
-        "Fancy",
-        "Heart",
-        "Teenager"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Wingman",
-      "banned": [
-        "Buddy",
-        "Pick-up",
-        "Bar",
-        "Sidekick"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Flirt",
-      "banned": [
-        "Wink",
-        "Smile",
-        "Chat up",
-        "Tease"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Ex",
-      "banned": [
-        "Former",
-        "Past",
-        "Old flame",
-        "Dumped"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Blind date",
-      "banned": [
-        "Setup",
         "Stranger",
-        "Dinner",
-        "Hopeful"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Cuddles",
-      "banned": [
-        "Hug",
-        "Blanket",
-        "Couch",
-        "Spooning"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Secret",
-      "banned": [
-        "Confidential",
-        "Hidden",
-        "Whisper",
-        "Keep quiet"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Lie",
-      "banned": [
-        "Fib",
-        "Untrue",
-        "Pinocchio",
-        "Fake"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Party",
-      "banned": [
-        "Celebration",
-        "Music",
-        "Balloons",
-        "Guests"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Night out",
-      "banned": [
-        "Club",
+        "Morning",
         "Bar",
-        "Late",
-        "Pub crawl"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Naughty",
-      "banned": [
-        "Bad",
-        "Cheeky",
-        "Mischief",
-        "Behave"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Tipsy",
-      "banned": [
-        "Wine",
-        "Giggly",
-        "Buzzed",
-        "Glass"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Wink",
-      "banned": [
-        "Eye",
-        "Eyelid",
-        "Signal",
-        "Joke"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Heartbreak",
-      "banned": [
-        "Tears",
-        "Broken",
-        "Ice cream",
-        "Sad song"
-      ],
-      "difficulty": "easy"
-    },
-    {
-      "word": "Pillow talk",
-      "banned": [
-        "Bed",
-        "Whisper",
-        "Late night",
-        "Duvet"
+        "Hookup"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Love bite",
+      "word": "Lingerie",
       "banned": [
-        "Hickey",
+        "Underwear",
+        "Lace",
+        "Bra",
+        "Silk"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Hickey",
+      "banned": [
         "Neck",
-        "Vampire",
-        "Bruise"
+        "Bite",
+        "Mark",
+        "Love"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Speed dating",
+      "word": "Handcuffs",
       "banned": [
-        "Quick",
-        "Timer",
-        "Mingle",
-        "Strangers"
+        "Police",
+        "Lock",
+        "Wrist",
+        "Kinky"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Foreplay",
+      "banned": [
+        "Before",
+        "Warm-up",
+        "Tease",
+        "Kiss"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Honeymoon",
+      "word": "Vibrator",
       "banned": [
-        "Newlyweds",
-        "Wedding",
-        "Hotel",
-        "Beach"
+        "Toy",
+        "Battery",
+        "Buzz",
+        "Pleasure"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Skinny dipping",
+      "word": "Joint",
       "banned": [
-        "Naked",
-        "Swim",
-        "Pool",
-        "Midnight"
+        "Weed",
+        "Rolling paper",
+        "Smoke",
+        "Cannabis"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Magic mushrooms",
+      "banned": [
+        "Trip",
+        "Fungi",
+        "Psychedelic",
+        "Hallucination"
       ],
       "difficulty": "medium"
+    },
+    {
+      "word": "Edible",
+      "banned": [
+        "Brownie",
+        "Cannabis",
+        "Gummy",
+        "Munchies"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Blackout",
+      "banned": [
+        "Memory",
+        "Drunk",
+        "Forget",
+        "Night"
+      ],
+      "difficulty": "easy"
     },
     {
       "word": "Walk of shame",
       "banned": [
         "Morning",
-        "Yesterday's clothes",
-        "Taxi",
-        "Sunglasses"
+        "Heels",
+        "Clothes",
+        "Home"
       ],
       "difficulty": "medium"
     },
     {
       "word": "Booty call",
       "banned": [
-        "Late text",
+        "Late",
+        "Text",
+        "Hookup",
+        "Call"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Sexting",
+      "banned": [
         "Phone",
-        "Midnight",
-        "Late-night ping"
+        "Message",
+        "Dirty",
+        "Photo"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Lap dance",
+      "banned": [
+        "Club",
+        "Chair",
+        "Tip",
+        "Stripper"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Strip club",
+      "banned": [
+        "Pole",
+        "Dancer",
+        "Tips",
+        "Neon"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Seduce",
+      "banned": [
+        "Charm",
+        "Tempt",
+        "Bedroom",
+        "Flirt"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Kinky",
+      "banned": [
+        "Fetish",
+        "Whip",
+        "Leather",
+        "Weird"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Role play",
+      "banned": [
+        "Costume",
+        "Pretend",
+        "Nurse",
+        "Fantasy"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Aphrodisiac",
+      "banned": [
+        "Oysters",
+        "Mood",
+        "Desire",
+        "Food"
+      ],
+      "difficulty": "hard"
+    },
+    {
+      "word": "Viagra",
+      "banned": [
+        "Pill",
+        "Blue",
+        "Erection",
+        "Medicine"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "word": "Porn",
+      "banned": [
+        "Adult",
+        "Video",
+        "Site",
+        "Explicit"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Friends with benefits",
+      "banned": [
+        "Casual",
+        "Friend",
+        "Fling",
+        "No strings"
       ],
       "difficulty": "medium"
     },
     {
       "word": "Ghosting",
       "banned": [
-        "Vanish",
-        "Ignoring",
-        "Silent",
-        "Disappear"
+        "Disappear",
+        "Ignore",
+        "Silence",
+        "Reply"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cheating",
+      "banned": [
+        "Unfaithful",
+        "Affair",
+        "Partner",
+        "Betray"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Tequila",
+      "banned": [
+        "Shot",
+        "Salt",
+        "Lime",
+        "Mexico"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Festival",
+      "banned": [
+        "Tent",
+        "Music",
+        "Mud",
+        "Wristband"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Bong",
+      "banned": [
+        "Smoke",
+        "Water",
+        "Pipe",
+        "Weed"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Plus one",
+      "word": "Naked",
       "banned": [
-        "Guest",
-        "Extra",
-        "Wedding",
-        "Invite"
+        "Nude",
+        "Clothes",
+        "Bare",
+        "Skinny dip"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Massage",
+      "banned": [
+        "Oil",
+        "Hands",
+        "Spa",
+        "Back"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Sugar daddy",
+      "banned": [
+        "Rich",
+        "Gifts",
+        "Older",
+        "Money"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Last call",
+      "word": "Cocaine",
       "banned": [
-        "Bartender",
-        "Final drink",
-        "Closing time",
-        "Bell"
+        "White",
+        "Powder",
+        "Nose",
+        "Line"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Nightcap",
+      "word": "Ecstasy",
       "banned": [
-        "Whisky",
-        "Bedtime",
-        "Cocoa",
-        "Brandy"
+        "MDMA",
+        "Pill",
+        "Rave",
+        "Molly"
       ],
       "difficulty": "medium"
     },
     {
-      "word": "Confession",
+      "word": "Dominatrix",
       "banned": [
-        "Priest",
-        "Admit",
-        "Guilty",
-        "Booth"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Dirty laundry",
-      "banned": [
-        "Hamper",
-        "Washing",
-        "Scandal",
-        "Smelly socks"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Prank",
-      "banned": [
-        "Joke",
-        "Trick",
-        "April Fools",
-        "Practical joke"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Bachelorette",
-      "banned": [
-        "Bride",
-        "Veil",
-        "Tiara",
-        "Dress"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Third wheel",
-      "banned": [
-        "Odd one out",
-        "Date",
-        "Extra",
-        "Awkward"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Love triangle",
-      "banned": [
-        "Three",
-        "Rivals",
-        "Shape",
-        "Romance"
-      ],
-      "difficulty": "medium"
-    },
-    {
-      "word": "Situationship",
-      "banned": [
-        "Undefined",
-        "Relationship",
-        "Almost dating",
-        "Maybe"
+        "Whip",
+        "Leather",
+        "Boss",
+        "Heels"
       ],
       "difficulty": "hard"
     },
     {
-      "word": "Catfish",
+      "word": "Hookup",
       "banned": [
-        "Fake profile",
-        "Online",
-        "Mask",
-        "Deception"
+        "Casual",
+        "Night",
+        "Stranger",
+        "Fling"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Cuddle",
+      "banned": [
+        "Hug",
+        "Snuggle",
+        "Blanket",
+        "Bed"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "word": "Safe word",
+      "banned": [
+        "Stop",
+        "Kinky",
+        "Signal",
+        "Rule"
       ],
       "difficulty": "hard"
     },
     {
-      "word": "Bromance",
+      "word": "Pole dancing",
       "banned": [
-        "Brothers",
-        "Buddies",
-        "Heart",
-        "Man hug"
+        "Stripper",
+        "Club",
+        "Spin",
+        "Fitness"
       ],
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
-      "word": "Wardrobe malfunction",
+      "word": "Nightstand",
       "banned": [
-        "Slip",
-        "Oops",
-        "Costume",
-        "Live TV"
+        "Bedside",
+        "Drawer",
+        "Lamp",
+        "Table"
       ],
-      "difficulty": "hard"
+      "difficulty": "easy"
     },
     {
-      "word": "Kiss and tell",
+      "word": "Sex toy",
       "banned": [
-        "Gossip",
-        "Confess",
-        "Tabloid",
-        "Ex"
+        "Vibrator",
+        "Dildo",
+        "Bed",
+        "Battery",
+        "Pleasure"
       ],
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
-      "word": "Lovesick",
+      "word": "OnlyFans",
       "banned": [
-        "Heartsick",
-        "Pining",
-        "Moon-eyed",
-        "Smitten"
+        "Subscription",
+        "Nude",
+        "Cam",
+        "Money",
+        "Site"
       ],
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
-      "word": "Pick-up line",
+      "word": "Doggy style",
       "banned": [
-        "Chat up",
-        "Cheesy",
-        "Bar",
-        "Smooth"
+        "Position",
+        "Behind",
+        "Sex",
+        "Back",
+        "Dog"
       ],
-      "difficulty": "hard"
+      "difficulty": "medium"
     },
     {
-      "word": "Double date",
+      "word": "Deepthroat",
       "banned": [
-        "Two couples",
-        "Friends",
-        "Dinner",
-        "Chaperone"
+        "Oral",
+        "Mouth",
+        "Throat",
+        "Sex",
+        "Gag"
       ],
       "difficulty": "hard"
     }

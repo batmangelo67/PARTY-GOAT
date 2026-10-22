@@ -2,45 +2,117 @@
   "id": "it-ten-out-of-ten-spicy",
   "title": "Piccante",
   "language": "it",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["ten-out-of-ten"],
+  "games": [
+    "ten-out-of-ten"
+  ],
   "group": "adults",
   "items": [
-    { "text": "flirta con il cameriere e lascia sempre la mancia doppia" },
-    { "text": "ha il numero di tre ex ancora salvato in rubrica" },
-    { "text": "ha baciato qualcuno durante un karaoke" },
-    { "text": "ha scritto all'ex alle tre di notte fingendo di aver sbagliato numero" },
-    { "text": "ha fatto il primo appuntamento con un amico di un amico" },
-    { "text": "ha una playlist segreta per le serate romantiche" },
-    { "text": "ha un nome in codice per il proprio crush" },
-    { "text": "si è innamorato di un personaggio di una serie tv" },
-    { "text": "ha scritto una lettera d'amore e non l'ha mai spedita" },
-    { "text": "ha cantato una serenata sotto il balcone sbagliato" },
-    { "text": "ha un'app di incontri che usa solo per ridere" },
-    { "text": "ha fatto il primo appuntamento in ascensore" },
-    { "text": "ha mandato un vocale per sbaglio alla chat del lavoro" },
-    { "text": "ha una foto segreta del proprio crush nel telefono" },
-    { "text": "ha avuto una cotta per la vicina di casa per due anni" },
-    { "text": "ha ballato un lento con la persona sbagliata alla festa" },
-    { "text": "ha chiesto il numero a uno sconosciuto scendendo alla fermata sbagliata" },
-    { "text": "ha tenuto la mano del compagno di banco durante il film" },
-    { "text": "ha confessato una cotta al migliore amico durante una partita" },
-    { "text": "ha un ex che gli scrive ancora ogni 14 febbraio" },
-    { "text": "ha dato appuntamento al crush in un posto troppo romantico" },
-    { "text": "ha una cartella di messaggi con il crush che rilegge di continuo" },
-    { "text": "ha lasciato il numero di telefono scritto sullo scontrino della cena" },
-    { "text": "ha una lista segreta delle persone che gli sono piaciute" },
-    { "text": "ha ballato il tango con una persona appena conosciuta" },
-    { "text": "ha un crush sul proprio personal trainer" },
-    { "text": "ha mandato un cuore al crush per sbaglio nella chat di gruppo" },
-    { "text": "ha passato una notte intera a parlare con uno sconosciuto online" },
-    { "text": "ha fatto il tifo per una coppia della serie tv come fosse la propria" },
-    { "text": "ha preparato una torta a forma di cuore per dichiararsi" },
-    { "text": "ha un'ex che ora è la migliore amica della sua ragazza" },
-    { "text": "ha fatto una serenata con la chitarra stonata" },
-    { "text": "ha riconosciuto una cotta dal modo in cui ride" },
-    { "text": "ha fatto il filo al barista ogni mattina con il caffè" },
-    { "text": "ha scritto il nome del crush sul quaderno di storia" }
+    {
+      "text": "è incredibile a letto ma sparisce subito dopo"
+    },
+    {
+      "text": "ha un fisico perfetto ma fa sexting solo coi meme"
+    },
+    {
+      "text": "dorme con la luce accesa e commenta tutto in diretta"
+    },
+    {
+      "text": "ha lo specchio sul soffitto e lo chiama feng shui"
+    },
+    {
+      "text": "ha sempre gli edible ma li mangia tutti prima di arrivare"
+    },
+    {
+      "text": "fa dirty talk come un conduttore di programmi di cucina"
+    },
+    {
+      "text": "resta per la pasta della mattina dopo ma non scrive più"
+    },
+    {
+      "text": "tiene un foglio Excel con il numero di partner"
+    },
+    {
+      "text": "fa sesso solo con i calzini"
+    },
+    {
+      "text": "porta l'erba al primo appuntamento"
+    },
+    {
+      "text": "bacia benissimo ma risponde ai messaggi malissimo"
+    },
+    {
+      "text": "beve uno shottino ogni volta che dice ciao"
+    },
+    {
+      "text": "vuole una safe word anche per il Monopoly"
+    },
+    {
+      "text": "ama il sesso in pubblico ma ha paura degli scoiattoli"
+    },
+    {
+      "text": "classifica le playlist da camera da letto in un foglio"
+    },
+    {
+      "text": "segue ancora tutti gli amici dell'ex"
+    },
+    {
+      "text": "arriva fatto alla cena dai suoceri"
+    },
+    {
+      "text": "tira fuori il threesome a ogni cena"
+    },
+    {
+      "text": "manda il sexting del buongiorno nel gruppo di famiglia per errore"
+    },
+    {
+      "text": "fa il dominante ma piange per le pubblicità"
+    },
+    {
+      "text": "ha il collo pieno di succhiotti e lavora in banca"
+    },
+    {
+      "text": "manda nudi con la faccia ritagliata"
+    },
+    {
+      "text": "chiama tutti amore, compresa la mamma dell'ex"
+    },
+    {
+      "text": "ha una collezione di sex toy e una pianta che non annaffia mai"
+    },
+    {
+      "text": "va a letto con un barista diverso ogni settimana"
+    },
+    {
+      "text": "prova ogni pasticca al festival e ricorda il tuo nome"
+    },
+    {
+      "text": "dice ti amo solo dopo il terzo shot"
+    },
+    {
+      "text": "è bravissimo a letto ma arriva con tre ore di ritardo"
+    },
+    {
+      "text": "ha un'opinione dettagliata su ogni posizione"
+    },
+    {
+      "text": "trasforma una notte in tre settimane di situazionship"
+    },
+    {
+      "text": "descrive tutto in un vocale e lo manda nella chat sbagliata"
+    },
+    {
+      "text": "sa di erba e di profumo costoso"
+    },
+    {
+      "text": "va a letto con gli ex di tutti e lo chiama riciclo"
+    },
+    {
+      "text": "si fa e decide che tutti sono anime gemelle"
+    },
+    {
+      "text": "lascia il numero a uno sconosciuto e poi ci pensa per un mese"
+    }
   ]
 }

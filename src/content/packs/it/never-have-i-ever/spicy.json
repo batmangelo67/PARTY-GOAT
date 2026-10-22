@@ -2,55 +2,147 @@
   "id": "it-never-have-i-ever-spicy",
   "title": "Piccante",
   "language": "it",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["never-have-i-ever"],
+  "games": [
+    "never-have-i-ever"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Non ho mai flirtato con il migliore amico di un mio amico." },
-    { "text": "Non ho mai baciato qualcuno al primo appuntamento." },
-    { "text": "Non ho mai mandato un messaggio audio troppo intimo per sbaglio." },
-    { "text": "Non ho mai avuto una cotta per un collega di lavoro." },
-    { "text": "Non ho mai mandato un «buonanotte» a una persona sbagliata per ore." },
-    { "text": "Non ho mai avuto una cotta per il cameriere del locale." },
-    { "text": "Non ho mai baciato qualcuno in un ascensore." },
-    { "text": "Non ho mai scritto un messaggio di corteggiamento e l'ho cancellato subito dopo." },
-    { "text": "Non ho mai avuto un flirt con un amico di un mio ex." },
-    { "text": "Non ho mai messo like a una foto di un ex alle due di notte." },
-    { "text": "Non ho mai mandato un «mi manchi» a qualcuno dopo un solo appuntamento." },
-    { "text": "Non ho mai scritto a un ex dopo aver bevuto." },
-    { "text": "Non ho mai avuto due persone che mi piacevano nello stesso periodo." },
-    { "text": "Non ho mai fatto la figura dello sciocco davanti a un crush." },
-    { "text": "Non ho mai mentito sull'età del mio primo bacio." },
-    { "text": "Non ho mai chiamato qualcuno con il nome dell'ex per sbaglio." },
-    { "text": "Non ho mai dato il numero a uno sconosciuto in discoteca e poi mi sono pentito." },
-    { "text": "Non ho mai fatto un complimento che è diventato imbarazzante." },
-    { "text": "Non ho mai inviato una foto che non dovevo inviare." },
-    { "text": "Non ho mai chiesto a qualcuno «stai con qualcuno?» dopo tre birre." },
-    { "text": "Non ho mai usato un'app di incontri." },
-    { "text": "Non ho mai avuto un appuntamento con un amico di un collega." },
-    { "text": "Non ho mai passato una notte a parlare con un crush su una panchina." },
-    { "text": "Non ho mai ricevuto un messaggio di un ex alle tre del mattino." },
-    { "text": "Non ho mai dato un bacio a un amico per scommessa." },
-    { "text": "Non ho mai inventato un'emergenza per andarmene da un appuntamento." },
-    { "text": "Non ho mai avuto un flirt via messaggi con uno sconosciuto." },
-    { "text": "Non ho mai fatto un regalo romantico all'ultimo minuto." },
-    { "text": "Non ho mai accettato un appuntamento al buio." },
-    { "text": "Non ho mai fatto la prima mossa e mi sono pentito subito." },
-    { "text": "Non ho mai detto «ti amo» per la prima volta al telefono." },
-    { "text": "Non ho mai passato la notte a casa di qualcuno conosciuto da due ore." },
-    { "text": "Non ho mai guardato la chat del partner senza che lui lo sapesse." },
-    { "text": "Non ho mai mandato un vocale cantato a una persona che mi piaceva." },
-    { "text": "Non ho mai avuto una cotta per un attore di una serie tv." },
-    { "text": "Non ho mai scritto una poesia d'amore." },
-    { "text": "Non ho mai dato un appuntamento in un supermercato." },
-    { "text": "Non ho mai baciato qualcuno con ancora il sapore di pizza in bocca." },
-    { "text": "Non ho mai seguito di nascosto il profilo di una persona che mi piaceva." },
-    { "text": "Non ho mai avuto una storia durata meno di una settimana." },
-    { "text": "Non ho mai fatto un tatuaggio con il nome di qualcuno." },
-    { "text": "Non ho mai rotto con qualcuno via messaggio." },
-    { "text": "Non ho mai detto «sei bellissimo» a qualcuno sbagliando il nome." },
-    { "text": "Non ho mai avuto una cotta per il commesso della libreria." },
-    { "text": "Non ho mai cambiato il mio stato sentimentale di nascosto." }
+    {
+      "text": "Non ho mai fatto sesso in un posto dove potevano beccarmi."
+    },
+    {
+      "text": "Non ho mai mandato un nudo e me ne sono pentito un secondo dopo."
+    },
+    {
+      "text": "Non ho mai mandato un messaggio hot alla persona sbagliata."
+    },
+    {
+      "text": "Non ho mai finto un orgasmo."
+    },
+    {
+      "text": "Non ho mai fatto un threesome."
+    },
+    {
+      "text": "Non ho mai aperto gli occhi accanto a qualcuno senza ricordare il suo nome."
+    },
+    {
+      "text": "Non ho mai fatto sesso con un ex dopo esserci lasciati."
+    },
+    {
+      "text": "Non ho mai fatto sesso con un collega."
+    },
+    {
+      "text": "Non ho mai fatto sesso con l'ex di un amico."
+    },
+    {
+      "text": "Non ho mai fatto sesso in macchina."
+    },
+    {
+      "text": "Non ho mai fatto sesso in spiaggia."
+    },
+    {
+      "text": "Non ho mai fatto sesso nel bagno di un locale."
+    },
+    {
+      "text": "Non ho mai fatto il bagno nudo con gente che conoscevo appena."
+    },
+    {
+      "text": "Non ho mai usato un sex toy."
+    },
+    {
+      "text": "Non ho mai comprato qualcosa in un sexy shop."
+    },
+    {
+      "text": "Non ho mai provato manette, benda o roba simile."
+    },
+    {
+      "text": "Non ho mai guardato un porno insieme a qualcuno."
+    },
+    {
+      "text": "Non sono mai stato beccato mentre guardavo un porno."
+    },
+    {
+      "text": "Non ho mai fatto sexting durante una cena in famiglia."
+    },
+    {
+      "text": "Non ho mai avuto una storia solo di letto con un amico."
+    },
+    {
+      "text": "Non ho mai fatto la camminata della vergogna coi vestiti della sera prima."
+    },
+    {
+      "text": "Non ho mai fatto sesso con un turista e non l'ho mai più rivisto."
+    },
+    {
+      "text": "Non ho mai avuto un succhiotto da nascondere."
+    },
+    {
+      "text": "Non ho mai avuto un'avventura di una notte a cui ripenso ancora."
+    },
+    {
+      "text": "Non ho mai dato un nome falso a uno con cui sono andato a letto."
+    },
+    {
+      "text": "Non sono mai stato nudo davanti a uno conosciuto la sera stessa."
+    },
+    {
+      "text": "Non ho mai fatto sesso con qualcuno solo per vendetta."
+    },
+    {
+      "text": "Non ho mai fatto un sogno erotico su qualcuno in questa stanza."
+    },
+    {
+      "text": "Non ho mai fumato erba."
+    },
+    {
+      "text": "Non ho mai mangiato un edible e me ne sono pentito."
+    },
+    {
+      "text": "Non ho mai provato i funghi allucinogeni."
+    },
+    {
+      "text": "Non ho mai preso pasticche a una festa."
+    },
+    {
+      "text": "Non ho mai provato la cocaina."
+    },
+    {
+      "text": "Non ho mai comprato droga da uno sconosciuto."
+    },
+    {
+      "text": "Non ho mai fumato erba prima di lavorare o di un esame."
+    },
+    {
+      "text": "Non ho mai mischiato droghe e alcol."
+    },
+    {
+      "text": "Non ho mai nascosto droga ai miei genitori."
+    },
+    {
+      "text": "Non ho mai fatto sesso mentre ero fatto."
+    },
+    {
+      "text": "Non ho mai avuto un blackout senza ricordare la serata."
+    },
+    {
+      "text": "Non ho mai vomitato nel bagno di uno sconosciuto dopo troppi shottini."
+    },
+    {
+      "text": "Non ho mai finito la serata in un after iniziato all'alba."
+    },
+    {
+      "text": "Non ho mai baciato due persone diverse nella stessa sera."
+    },
+    {
+      "text": "Non ho mai finto di dormire per evitare il discorso della mattina dopo."
+    },
+    {
+      "text": "Non ho mai fatto sesso a un festival."
+    },
+    {
+      "text": "Non ho mai avuto una relazione fatta quasi solo di sesso."
+    }
   ]
 }

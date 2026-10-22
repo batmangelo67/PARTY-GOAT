@@ -4,68 +4,246 @@
   "language": "en",
   "spice": 2,
   "kind": "prompts",
-  "games": ["truth-or-dare"],
+  "games": [
+    "truth-or-dare"
+  ],
   "group": "adults",
   "items": [
-    { "text": "What is the cheesiest pick-up line that has actually worked on you?", "type": "truth" },
-    { "text": "Give the player on your left a compliment that makes them blush, in your best movie-hero voice.", "type": "dare" },
-    { "text": "What is the most romantic thing someone has ever done for you?", "type": "truth" },
-    { "text": "Whisper a pick-up line to the player on your right, then let them rate it out of ten.", "type": "dare" },
-    { "text": "What is your biggest turn-off on a first date?", "type": "truth" },
-    { "text": "Do a slow wink at each player, one by one, around the table.", "type": "dare" },
-    { "text": "Have you ever had a crush on someone you were not supposed to?", "type": "truth" },
-    { "text": "Re-enact a romantic movie scene using a cushion as your partner.", "type": "dare" },
-    { "text": "What is your best flirting move?", "type": "truth" },
-    { "text": "Describe your dream date in exactly ten words.", "type": "dare" },
-    { "text": "What is the most awkward moment you have had on a date?", "type": "truth" },
-    { "text": "Give a dramatic love confession to the nearest lamp.", "type": "dare" },
-    { "text": "Who was your first crush?", "type": "truth" },
-    { "text": "Write a fake dating-app bio out loud for the group, cheeky but PG-13.", "type": "dare" },
-    { "text": "What is the most attractive quality a person can have, in your opinion?", "type": "truth" },
-    { "text": "Let the group pick a love song, then sing one line of it to the player you find most charming, if they agree.", "type": "dare" },
-    { "text": "What was the best kiss you have ever had, described in one word?", "type": "truth" },
-    { "text": "Hand the player on your right a pretend rose and quote a cheesy romance line.", "type": "dare" },
-    { "text": "Have you ever sent a text you regret?", "type": "truth" },
-    { "text": "Do your best suave walk to the fridge and back.", "type": "dare" },
-    { "text": "What is the most flirty song on your playlist?", "type": "truth" },
-    { "text": "Share your best dating-app opener, then ask it to someone in the room.", "type": "dare" },
-    { "text": "What is the longest you have waited for a reply from someone you liked?", "type": "truth" },
-    { "text": "Read a cheesy poem about the person on your left, out loud.", "type": "dare" },
-    { "text": "What is one thing you would never do on a first date?", "type": "truth" },
-    { "text": "Give the player across from you three compliments, each more flattering than the last.", "type": "dare" },
-    { "text": "What is the most romantic place you have ever been?", "type": "truth" },
-    { "text": "Make your entrance into the room like a mysterious stranger.", "type": "dare" },
-    { "text": "What compliment always makes you blush?", "type": "truth" },
-    { "text": "Tell the nearest plant that it looks radiant today, with full sincerity.", "type": "dare" },
-    { "text": "Have you ever been caught doing something silly in front of a crush?", "type": "truth" },
-    { "text": "Let the player on your left choose your next pose, then hold it for ten seconds.", "type": "dare" },
-    { "text": "What is the most expensive date you have ever been on?", "type": "truth" },
-    { "text": "Give a twenty-second speech on why the group should go on a double date.", "type": "dare" },
-    { "text": "Which celebrity would you go on a dream date with?", "type": "truth" },
-    { "text": "Sing a fake love duet with the player on your right, if they say yes.", "type": "dare" },
-    { "text": "What is your love language?", "type": "truth" },
-    { "text": "Deliver a rom-com style goodbye line to the player across from you.", "type": "dare" },
-    { "text": "Have you ever had a secret admirer? What happened?", "type": "truth" },
-    { "text": "Describe your ideal partner in one sentence with a cheesy metaphor.", "type": "dare" },
-    { "text": "What is the cheekiest text you have ever received?", "type": "truth" },
-    { "text": "Demonstrate three flirting moves to the group, then rate yourself.", "type": "dare" },
-    { "text": "Would you rather date someone who makes you laugh or someone who makes you feel safe?", "type": "truth" },
-    { "text": "Hold hands with the person on your left for thirty seconds, only if you both agree.", "type": "dare" },
-    { "text": "Which song always puts you in a romantic mood?", "type": "truth" },
-    { "text": "Teach the group a slow-dance step and dance it with someone who says yes.", "type": "dare" },
-    { "text": "What is your favourite romantic movie scene?", "type": "truth" },
-    { "text": "Introduce yourself as a secret agent with a flirty codename.", "type": "dare" },
-    { "text": "Have you ever danced with a stranger?", "type": "truth" },
-    { "text": "Describe the most attractive thing about this room's decor, like an estate agent.", "type": "dare" },
-    { "text": "What is the biggest red flag you have ignored?", "type": "truth" },
-    { "text": "Say a sweet nickname to the player on your right in a whisper, and let them guess the word.", "type": "dare" },
-    { "text": "What is a flirting mistake you have made?", "type": "truth" },
-    { "text": "Re-enact the first meeting of two famous movie characters, with the group playing the roles.", "type": "dare" },
-    { "text": "What does your ideal lazy Sunday with a partner look like?", "type": "truth" },
-    { "text": "Say your best I'll call you line and see who in the room believes you.", "type": "dare" },
-    { "text": "Who did you have a crush on in school?", "type": "truth" },
-    { "text": "Walk to the window like a film hero, pause for drama, then return.", "type": "dare" },
-    { "text": "What is the boldest thing you have done for love?", "type": "truth" },
-    { "text": "Describe the room as a romantic film set, in one dramatic sentence.", "type": "dare" }
+    {
+      "text": "What is the sexiest thing someone has ever whispered to you?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the most unusual place you have hooked up?",
+      "type": "truth"
+    },
+    {
+      "text": "Roughly how many people have you slept with? Round it, we will not judge.",
+      "type": "truth"
+    },
+    {
+      "text": "Who in this room would you most like to kiss?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever sent a nude? Who was it for?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the dirtiest text you have ever sent?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the turn-on you never mention on a first date?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever faked it? When?",
+      "type": "truth"
+    },
+    {
+      "text": "Describe the worst sex you have ever had in one sentence.",
+      "type": "truth"
+    },
+    {
+      "text": "What is the kinkiest thing you have tried, or want to try?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever hooked up with someone you worked with?",
+      "type": "truth"
+    },
+    {
+      "text": "Which song would you pick to set the mood in the bedroom?",
+      "type": "truth"
+    },
+    {
+      "text": "Which celebrity would you hook up with, no questions asked?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the longest you have gone without sex, and how did it feel?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever been walked in on? By whom?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the most embarrassing thing that has happened mid-hookup?",
+      "type": "truth"
+    },
+    {
+      "text": "What do you sleep in, honestly?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the best kiss you have ever had, and where was it?",
+      "type": "truth"
+    },
+    {
+      "text": "What is in your search history that you would hate to explain?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever had a friends-with-benefits arrangement? How did it end?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever hooked up with an ex after the breakup? Whose idea was it?",
+      "type": "truth"
+    },
+    {
+      "text": "What is your most regrettable drunk confession?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever used a sex toy? Alone or with someone?",
+      "type": "truth"
+    },
+    {
+      "text": "Which player here is probably the best kisser?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever tried a drug at a party? Which one, and how was it?",
+      "type": "truth"
+    },
+    {
+      "text": "Who is the last person you had a sexy dream about?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the dirtiest thing you have done at work or uni?",
+      "type": "truth"
+    },
+    {
+      "text": "Have you ever had a crush on someone who was taken? Did you act on it?",
+      "type": "truth"
+    },
+    {
+      "text": "What is the most daring place you have ever kissed someone?",
+      "type": "truth"
+    },
+    {
+      "text": "What is one thing you would try in bed if nobody judged you?",
+      "type": "truth"
+    },
+    {
+      "text": "Give the player on your left a 20-second shoulder massage.",
+      "type": "dare"
+    },
+    {
+      "text": "Whisper the dirtiest line you can think of into the ear of the player on your right.",
+      "type": "dare"
+    },
+    {
+      "text": "Show the group the last five emojis you used in your chats.",
+      "type": "dare"
+    },
+    {
+      "text": "Do your sexiest walk across the room, then strike a pose.",
+      "type": "dare"
+    },
+    {
+      "text": "Hold eye contact with the player the group picks for 30 seconds without laughing.",
+      "type": "dare"
+    },
+    {
+      "text": "Read the back of a food packet out loud in the sexiest voice you have.",
+      "type": "dare"
+    },
+    {
+      "text": "Do a slow, 20-second sexy dance to a song the group picks.",
+      "type": "dare"
+    },
+    {
+      "text": "Kiss the hand of every player, slowly, like a movie star.",
+      "type": "dare"
+    },
+    {
+      "text": "Do your best fake orgasm for five seconds. Commit to it.",
+      "type": "dare"
+    },
+    {
+      "text": "Take off one item of clothing. Socks do not count.",
+      "type": "dare"
+    },
+    {
+      "text": "Describe your ideal night in bed in 30 seconds, no blushing.",
+      "type": "dare"
+    },
+    {
+      "text": "Let the group write a flirty text for you. Read it out, you decide whether to send it.",
+      "type": "dare"
+    },
+    {
+      "text": "Hold an ice cube on the neck of a player of your choice until it melts.",
+      "type": "dare"
+    },
+    {
+      "text": "Sit on the lap of the player the group picks for the next two turns.",
+      "type": "dare"
+    },
+    {
+      "text": "Show the group your dating app bio, or write the one you would use.",
+      "type": "dare"
+    },
+    {
+      "text": "Give the player on your left your most intense bedroom eyes for ten seconds.",
+      "type": "dare"
+    },
+    {
+      "text": "Say something seductive in a language you do not speak.",
+      "type": "dare"
+    },
+    {
+      "text": "Sing the chorus of a love song to the person you find most attractive here.",
+      "type": "dare"
+    },
+    {
+      "text": "Take a sip of your drink while a player of your choice feeds you a compliment.",
+      "type": "dare"
+    },
+    {
+      "text": "Let the player on your right draw a heart on your arm with a pen, then tell everyone why.",
+      "type": "dare"
+    },
+    {
+      "text": "Moan the name of a famous person, and let the group guess who.",
+      "type": "dare"
+    },
+    {
+      "text": "Give the player of your choice a sensual neck massage for 15 seconds.",
+      "type": "dare"
+    },
+    {
+      "text": "Give a one-minute pitch of why you would be the best hookup in this room.",
+      "type": "dare"
+    },
+    {
+      "text": "Act out your best first kiss, using your hand as the other person.",
+      "type": "dare"
+    },
+    {
+      "text": "Whisper a secret fantasy to the player on your left. Or drink twice.",
+      "type": "dare"
+    },
+    {
+      "text": "Take a shot, or a big sip, and tell us your most wild night out story.",
+      "type": "dare"
+    },
+    {
+      "text": "Do your best sultry phone-operator voice and recite the weather.",
+      "type": "dare"
+    },
+    {
+      "text": "Swap one piece of clothing with the player across from you.",
+      "type": "dare"
+    },
+    {
+      "text": "Spin around, point at a player, and tell them what you would do on a date with them.",
+      "type": "dare"
+    }
   ]
 }

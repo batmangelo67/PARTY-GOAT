@@ -4,68 +4,290 @@
   "language": "it",
   "spice": 3,
   "kind": "prompts",
-  "games": ["truth-or-dare"],
+  "games": [
+    "truth-or-dare"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Qual è la cosa più audace che hai fatto per qualcuno che ti piaceva?", "type": "truth" },
-    { "text": "Scegli una persona che accetta e fai un complimento audace con sguardo intenso per dieci secondi.", "type": "dare" },
-    { "text": "Qual è il tuo scenario ideale per una serata romantica?", "type": "truth" },
-    { "text": "Fai un'imitazione di una sirena da film, con movimenti ammiccanti, per venti secondi.", "type": "dare" },
-    { "text": "Qual è la cosa più sfacciata che hai detto a un appuntamento?", "type": "truth" },
-    { "text": "Sussurra un complimento piccante a chi accetta, come se fosse un segreto.", "type": "dare" },
-    { "text": "Hai mai dato il tuo primo bacio a qualcuno al primo appuntamento? Racconta.", "type": "truth" },
-    { "text": "Fai il tuo miglior sguardo da film per cinque secondi, poi scoppia a ridere.", "type": "dare" },
-    { "text": "Qual è la persona più affascinante che hai incontrato in un film o in una serie TV?", "type": "truth" },
-    { "text": "Fai una pausa di tre secondi e poi dichiara la tua 'scelta della serata' con tono da presentatore.", "type": "dare" },
-    { "text": "Qual è la confessione più piccante che ti senti di fare stasera?", "type": "truth" },
-    { "text": "Esegui una mossa di danza seducente per dieci secondi, senza toccare nessuno.", "type": "dare" },
-    { "text": "Qual è la cosa che in amore ti fa impazzire più di tutto?", "type": "truth" },
-    { "text": "Scrivi una frase di seduzione con il dito sul tavolo e fai indovinare al gruppo il messaggio.", "type": "dare" },
-    { "text": "Qual è l'appuntamento più disastroso che hai avuto?", "type": "truth" },
-    { "text": "Presenta la persona più affascinante del gruppo come una stella da copertina, senza dirne il nome.", "type": "dare" },
-    { "text": "Qual è il complimento che ti hanno fatto più volte e che ti piace ancora ricevere?", "type": "truth" },
-    { "text": "Fai un complimento alla persona alla tua destra con voce da radio notturna.", "type": "dare" },
-    { "text": "Qual è la bugia più grande che hai detto per conquistare qualcuno?", "type": "truth" },
-    { "text": "Mima un'entrata in scena da protagonista di un film di spionaggio per dieci secondi.", "type": "dare" },
-    { "text": "Qual è il ricordo più folle di una serata con gli amici?", "type": "truth" },
-    { "text": "Presenta il bicchiere più vicino come un ospite d'onore con un discorso di venti secondi.", "type": "dare" },
-    { "text": "Qual è il tuo gesto d'amore più strano?", "type": "truth" },
-    { "text": "Recita una frase provocante con voce da attore di teatro, poi fai ridere il gruppo.", "type": "dare" },
-    { "text": "Qual è il segreto che non confesseresti nemmeno sotto una pioggia di domande?", "type": "truth" },
-    { "text": "Fai un ritratto ammiccante di te stesso da film noir, con voce roca e mano sul mento.", "type": "dare" },
-    { "text": "Quale personaggio famoso ti fa pensare all'amore più romantico?", "type": "truth" },
-    { "text": "Fai una dichiarazione di stima sincera e un po' sfacciata a chi accetta, in venti secondi.", "type": "dare" },
-    { "text": "Qual è la cosa più audace che hai fatto per divertirti?", "type": "truth" },
-    { "text": "Cammina per la stanza come una diva al photocall, con un sorriso da copertina.", "type": "dare" },
-    { "text": "Qual è la domanda più imbarazzante che ti piacerebbe fare a qualcuno del gruppo?", "type": "truth" },
-    { "text": "Improvvisa un romanzo rosa in tre frasi, con sospiri e una pausa drammatica.", "type": "dare" },
-    { "text": "Qual è l'ultima cosa che ti ha fatto arrossire?", "type": "truth" },
-    { "text": "Fai il gesto del cuore con le mani e tienilo per cinque secondi, poi chiedi scusa con ironia.", "type": "dare" },
-    { "text": "Qual è la tua idea di serata perfetta, in una frase che non diresti in pubblico?", "type": "truth" },
-    { "text": "Fai il tuo miglior ammiccamento al pubblico e presentati come il nuovo fascino del gruppo.", "type": "dare" },
-    { "text": "Qual è il messaggio più sfacciato che hai scritto e poi cancellato?", "type": "truth" },
-    { "text": "Scegli la persona più elegante del gruppo e fai una presentazione da cerimonia di gala.", "type": "dare" },
-    { "text": "Qual è il gesto di flirt che ti ha sempre fatto ridere?", "type": "truth" },
-    { "text": "Tieni un discorso di quaranta secondi come se stessi aprendo un'asta di gioielli.", "type": "dare" },
-    { "text": "Quale attore o attrice ti piacerebbe incontrare per una serata?", "type": "truth" },
-    { "text": "Scegli chi ti sta di fronte e recita una battuta da film romantico con sguardo fisso per tre secondi.", "type": "dare" },
-    { "text": "Hai mai finto disinteresse per far ingelosire qualcuno?", "type": "truth" },
-    { "text": "Fai una mossa da ballo sensuale in stile anni Settanta, con una colonna sonora immaginaria.", "type": "dare" },
-    { "text": "Qual è la cosa più coraggiosa che hai detto per fare colpo su qualcuno?", "type": "truth" },
-    { "text": "Presentati con un nome da spia romantica e spiega la tua prossima missione in una frase.", "type": "dare" },
-    { "text": "Qual è il tuo sogno più audace in amore?", "type": "truth" },
-    { "text": "Fai il gesto di offrire un mazzo di fiori immaginari alla persona più simpatica del gruppo, con inchino.", "type": "dare" },
-    { "text": "Quale frase di seduzione useresti se non avessi nessuna paura di sembrare ridicolo?", "type": "truth" },
-    { "text": "Canta una canzone d'amore a squarciagola, come un tenore, per venti secondi senza ridere.", "type": "dare" },
-    { "text": "Qual è il ricordo più romantico che hai della tua città?", "type": "truth" },
-    { "text": "Scegli una persona del gruppo e fai un complimento lungo e poetico, con tono da sceneggiatura.", "type": "dare" },
-    { "text": "Qual è la parola più ironica che useresti per descrivere la serata di oggi?", "type": "truth" },
-    { "text": "Fai un'entrata da cantante di night club anni Cinquanta, con una sciarpa immaginaria.", "type": "dare" },
-    { "text": "Qual è la cosa più folle che faresti per una dichiarazione d'amore?", "type": "truth" },
-    { "text": "Fai il gesto del bacio soffiato in aria con occhio ammiccante, poi scoppia a ridere.", "type": "dare" },
-    { "text": "Qual è la domanda più sincera che ti hanno fatto in amore?", "type": "truth" },
-    { "text": "Fai un ritratto sentimentale di tre frasi di un oggetto della stanza, come fosse una persona affascinante.", "type": "dare" },
-    { "text": "Cosa ti eri ripromesso di fare in amore da giovane e non hai ancora fatto?", "type": "truth" },
-    { "text": "Presentati al gruppo come il fascino più misterioso della serata, con voce roca.", "type": "dare" }
+    {
+      "text": "Descrivi il miglior sesso della tua vita in tre frasi.",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più kinky che tu abbia mai fatto?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai fatto un threesome o ci hai pensato? Chi inviteresti da qui?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi qui sarebbe il più scatenato a letto, e perché?",
+      "type": "truth"
+    },
+    {
+      "text": "Sei mai stato a letto con qualcuno in questa stanza, o ci hai pensato?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più strana nel tuo comodino?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la fantasia che non hai mai detto a nessuno?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il tuo numero? Sii onesto.",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai fatto sesso in un luogo pubblico? Dove, e ti hanno visto?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai scambiato nudi con un collega?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa che ti eccita di più e quale il tuo massimo schifo?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più folle provata a letto che rifaresti volentieri?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai fatto sesso mentre eri fatto? Com'è stato?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la droga più forte che hai mai provato?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai comprato o venduto droga?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa peggiore che hai fatto in blackout o sotto effetto?",
+      "type": "truth"
+    },
+    {
+      "text": "Sei mai andato a letto con qualcuno solo perché eravate entrambi ubriachi o fatti?",
+      "type": "truth"
+    },
+    {
+      "text": "Quale droga ti incuriosisce di più?",
+      "type": "truth"
+    },
+    {
+      "text": "Sei mai stato con qualcuno che aveva già il partner?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il posto più assurdo dove ti sei svegliato?",
+      "type": "truth"
+    },
+    {
+      "text": "Saresti mai andato a un club per scambisti, o ci andresti?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai pagato per contenuti per adulti o un abbonamento?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai usato un toy con il partner? Com'è andata?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il posto più strano dove l'hai fatto?",
+      "type": "truth"
+    },
+    {
+      "text": "Fai una classifica di tutti i presenti da chi è il più bravo a letto. Niente scuse.",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più imbarazzante successa a letto?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la serata più costosa della tua vita e cosa è successo?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai fatto qualcosa in viaggio, droga o no, che non puoi dire ai tuoi?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai tradito o sei stato tradito? Com'è andata?",
+      "type": "truth"
+    },
+    {
+      "text": "Quale regola infrangeresti stasera per la persona giusta?",
+      "type": "truth"
+    },
+    {
+      "text": "Bacia la persona scelta dal gruppo: guancia, collo o labbra, scegli tu.",
+      "type": "dare"
+    },
+    {
+      "text": "Togliti un capo di abbigliamento e tienilo fuori per il prossimo giro.",
+      "type": "dare"
+    },
+    {
+      "text": "Descrivi in modo vivido la tua avventura ideale per trenta secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Balla in modo sexy per venti secondi sulla canzone scelta dal gruppo.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra la tua fantasia più sfrenata all'orecchio di qualcuno. Oppure bevi due volte.",
+      "type": "dare"
+    },
+    {
+      "text": "Siediti sulle gambe di una persona per i prossimi tre turni.",
+      "type": "dare"
+    },
+    {
+      "text": "Finisci il tuo drink mentre il gruppo conta ad alta voce.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un body shot su una persona consenziente, oppure due shot.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un massaggio di trenta secondi alla schiena della persona scelta dal gruppo.",
+      "type": "dare"
+    },
+    {
+      "text": "Scrivi un messaggio molto sporco al tuo ex e leggilo ad alta voce. Non inviarlo.",
+      "type": "dare"
+    },
+    {
+      "text": "Bacia appassionatamente il dorso della tua mano per dieci secondi, a occhi chiusi.",
+      "type": "dare"
+    },
+    {
+      "text": "Leggi l'etichetta nutrizionale come se fosse un romanzo erotico.",
+      "type": "dare"
+    },
+    {
+      "text": "Di' alla persona con cui passeresti più volentieri una notte perché, guardandola in faccia.",
+      "type": "dare"
+    },
+    {
+      "text": "Mostra al gruppo gli ultimi tre suggerimenti di ricerca, senza modifiche.",
+      "type": "dare"
+    },
+    {
+      "text": "Lecca un cucchiaino di salsa o panna dal dito nel modo più sensuale possibile.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai alla persona alla tua destra un complimento intenso e lento sul suo corpo.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai una lap dance di due minuti su una sedia, senza toccare, con tutta la scena.",
+      "type": "dare"
+    },
+    {
+      "text": "Scegli una persona e inventa una storia bollente di cinque frasi su voi due.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai scegliere al gruppo una coppia famosa e gemi i loro nomi uno dopo l'altro.",
+      "type": "dare"
+    },
+    {
+      "text": "Mordi il labbro e di' una frase da rimorchio sporca. Fai arrossire qualcuno o bevi.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra la cosa più vergognosa fatta da ubriaco o fatto alla persona alla tua sinistra.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai uno shot e racconta la tua prima volta. Dettagli facoltativi, drammaticità obbligatoria.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai uno spogliarello fino ai calzini, oppure due shot.",
+      "type": "dare"
+    },
+    {
+      "text": "Racconta in due minuti perché una canna sia la miglior serata di sempre, o perché non lo sia.",
+      "type": "dare"
+    },
+    {
+      "text": "Scegli due persone che si scambiano di posto e mettono in scena una scena d'amore da film.",
+      "type": "dare"
+    },
+    {
+      "text": "Racconta la tua avventura più folle. Nome facoltativo, dettagli obbligatori.",
+      "type": "dare"
+    },
+    {
+      "text": "Tieni la mano della persona alla tua destra e descrivi cosa le faresti se foste soli.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai dirty talk per dieci secondi a un partner immaginario.",
+      "type": "dare"
+    },
+    {
+      "text": "Fatti dare un'altra sfida dal gruppo. Non puoi rifiutarla.",
+      "type": "dare"
+    },
+    {
+      "text": "Apri la galleria e mostra la foto più divertente dell'ultima serata fuori.",
+      "type": "dare"
+    },
+    {
+      "text": "Scegli una persona e fatti dire cosa trova più sexy di te.",
+      "type": "dare"
+    },
+    {
+      "text": "Qual è la categoria più specifica o insolita nella cronologia delle tue ricerche sui siti per adulti?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai usato sex toy o manette con qualcuno? Com'è stato?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è una fantasia sessuale o un kink che non hai mai rivelato a nessuno in questa stanza?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai girato un video intimo o scattato foto esplicite? Esistono ancora?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il posto più folle in cui hai fatto sesso completo?",
+      "type": "truth"
+    },
+    {
+      "text": "Dimostra la tua posizione preferita usando due cuscini sul pavimento.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra una frase sporca e dettagliata di dirty talk all'orecchio della persona alla tua sinistra.",
+      "type": "dare"
+    },
+    {
+      "text": "Di' ad alta voce la categoria più insolita delle tue ultime ricerche sui siti per adulti, o bevi due volte.",
+      "type": "dare"
+    },
+    {
+      "text": "Dai un bacio sensuale sul collo di trenta secondi alla persona che trovi più attraente qui, se è d'accordo.",
+      "type": "dare"
+    }
   ]
 }

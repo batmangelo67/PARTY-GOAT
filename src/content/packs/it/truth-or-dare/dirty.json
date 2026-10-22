@@ -4,68 +4,246 @@
   "language": "it",
   "spice": 2,
   "kind": "prompts",
-  "games": ["truth-or-dare"],
+  "games": [
+    "truth-or-dare"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Qual è il primo flirt che ti ricordi davvero?", "type": "truth" },
-    { "text": "Fai un complimento a voce bassa e seducente a una persona che accetta, senza ridere.", "type": "dare" },
-    { "text": "Qual è la frase di rimorchio più sfacciata che ti ha mai funzionato?", "type": "truth" },
-    { "text": "Fai un corteggiamento teatrale di venti secondi a una persona scelta dal gruppo, con voce da attore.", "type": "dare" },
-    { "text": "Hai mai avuto un'attrazione per qualcuno che non avresti dovuto avere? Racconta senza nomi.", "type": "truth" },
-    { "text": "Sussurra una frase romantica all'orecchio di chi ti sta accanto, se accetta.", "type": "dare" },
-    { "text": "Qual è il posto più improbabile dove ti è successo qualcosa di romantico?", "type": "truth" },
-    { "text": "Fai un balletto lento immaginario da solo, con sguardo intenso per dieci secondi.", "type": "dare" },
-    { "text": "Qual è la cosa che ti attrae di più in una persona?", "type": "truth" },
-    { "text": "Imita la scena del primo appuntamento più imbarazzante che ti viene in mente.", "type": "dare" },
-    { "text": "Hai mai provato un'app di incontri? Com'è andata?", "type": "truth" },
-    { "text": "Fai il gesto più sicuro di te che sai fare e spiegalo come se fosse una tecnica di seduzione.", "type": "dare" },
-    { "text": "Qual è la bugia più romantica che hai detto?", "type": "truth" },
-    { "text": "Recita una battuta da film romantico italiano con la voce più drammatica possibile.", "type": "dare" },
-    { "text": "Qual è la cosa più imbarazzante che è successa durante un tuo primo appuntamento?", "type": "truth" },
-    { "text": "Scegli una persona del gruppo e presentala come se fosse un attore famoso.", "type": "dare" },
-    { "text": "Qual è il tuo modo preferito di dire 'ti voglio bene' senza dirlo?", "type": "truth" },
-    { "text": "Dai una pacca amichevole sulla spalla alla persona che sceglie il gruppo, con sguardo complice.", "type": "dare" },
-    { "text": "Quale film romantico ti fa venire voglia di scrivere un messaggio a qualcuno?", "type": "truth" },
-    { "text": "Improvvisa un monologo da film drammatico sul tema 'la pizza del venerdì sera'.", "type": "dare" },
-    { "text": "Cosa noti per primo in una persona che ti piace?", "type": "truth" },
-    { "text": "Fai la mossa da ballo più seducente che sai, per cinque secondi.", "type": "dare" },
-    { "text": "Qual è la cosa più dolce che qualcuno ti abbia mai scritto?", "type": "truth" },
-    { "text": "Disegna con il dito un cuoricino immaginario sul tavolo e fai indovinare al gruppo che forma è.", "type": "dare" },
-    { "text": "Hai mai finto di essere single per un'occasione? Racconta.", "type": "truth" },
-    { "text": "Fai una dichiarazione d'amore esagerata al bicchiere più vicino, con sguardo serio.", "type": "dare" },
-    { "text": "Qual è la prima cosa che hai pensato la prima volta che hai visto qualcuno che ti piaceva davvero?", "type": "truth" },
-    { "text": "Fai il gesto di chi ammicca in una scena di un film anni Cinquanta, senza ridere.", "type": "dare" },
-    { "text": "Qual è il tuo sogno romantico più improbabile?", "type": "truth" },
-    { "text": "Imita il galante di una commedia italiana per un minuto, con un cappello immaginario.", "type": "dare" },
-    { "text": "Preferiresti un primo bacio sotto la pioggia o al tramonto?", "type": "truth" },
-    { "text": "Fai un complimento a sorpresa a chi ti sta alla destra, con tono da cavaliere.", "type": "dare" },
-    { "text": "Qual è la cosa che ti fa perdere la testa più in fretta?", "type": "truth" },
-    { "text": "Racconta un appuntamento immaginario in tre frasi, con tono da cronaca rosa.", "type": "dare" },
-    { "text": "Quanto tempo di chat ti serve per capire se qualcuno ti piace?", "type": "truth" },
-    { "text": "Fai la mossa di un agente segreto che manda un messaggio in codice al gruppo, a gesti.", "type": "dare" },
-    { "text": "Qual è la cosa più stupida che hai fatto per fare colpo su qualcuno?", "type": "truth" },
-    { "text": "Canta una canzone d'amore a una persona del gruppo, come un cantante anni Sessanta.", "type": "dare" },
-    { "text": "Qual è il tuo gesto romantico preferito, anche se goffo?", "type": "truth" },
-    { "text": "Fai un monologo di rimorso d'amore finto, con pathos, in venti secondi.", "type": "dare" },
-    { "text": "Hai mai avuto una cotta per un personaggio di film o serie TV? Chi?", "type": "truth" },
-    { "text": "Fai lo sguardo da 'ci vediamo domani' alla persona che ti sta di fronte, per tre secondi.", "type": "dare" },
-    { "text": "Qual è la cosa che in una cena ti fa capire che c'è intesa?", "type": "truth" },
-    { "text": "Presenta con voce suadente il piatto più buono che sai cucinare.", "type": "dare" },
-    { "text": "Quale battuta di rimorchio non riusciresti mai a dire senza ridere?", "type": "truth" },
-    { "text": "Improvvisa una serenata rap di dieci secondi a chi accetta, con un ritornello inventato.", "type": "dare" },
-    { "text": "Qual è la cosa più piccante che hai detto per scherzo?", "type": "truth" },
-    { "text": "Fai un baciamano immaginario alla persona più elegante del gruppo, se accetta.", "type": "dare" },
-    { "text": "Dove ti piacerebbe andare per la prima vacanza romantica?", "type": "truth" },
-    { "text": "Racconta una frase di seduzione in dialetto italiano, a tua scelta, con accento.", "type": "dare" },
-    { "text": "Qual è la domanda che non ti va mai di sentire durante un primo appuntamento?", "type": "truth" },
-    { "text": "Mima chi aspetta un messaggio importante, con lo sguardo fisso su un telefono immaginario.", "type": "dare" },
-    { "text": "Qual è il tuo gusto segreto in fatto di persone?", "type": "truth" },
-    { "text": "Scegli chi del gruppo è il più affascinante e spiegalo in una frase elegante.", "type": "dare" },
-    { "text": "Qual è la cosa più romantica che hai fatto senza che nessuno lo sapesse?", "type": "truth" },
-    { "text": "Fai un sorriso enigmatico per cinque secondi, poi confida il tuo segreto più innocente.", "type": "dare" },
-    { "text": "Qual è il ricordo più tenero che hai con qualcuno?", "type": "truth" },
-    { "text": "Fai una dichiarazione d'amore in tono da poeta a una persona scelta dal gruppo, se accetta.", "type": "dare" },
-    { "text": "Qual è il piano più rischioso che hai avuto per una serata?", "type": "truth" },
-    { "text": "Balla con un cuscino a ritmo di una canzone lenta, per venti secondi, senza ridere.", "type": "dare" }
+    {
+      "text": "Qual è la cosa più sexy che qualcuno ti ha mai sussurrato?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il posto più strano dove l'hai fatto?",
+      "type": "truth"
+    },
+    {
+      "text": "Con quante persone sei andato a letto, più o meno? Arrotonda, non giudichiamo.",
+      "type": "truth"
+    },
+    {
+      "text": "Chi in questa stanza vorresti baciare di più?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai mandato un nudo? A chi?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il messaggio più sporco che hai mai mandato?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa che ti eccita e che non dici mai al primo appuntamento?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai finto? Quando?",
+      "type": "truth"
+    },
+    {
+      "text": "Descrivi il peggior sesso della tua vita in una frase.",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più kinky che hai provato o che vorresti provare?",
+      "type": "truth"
+    },
+    {
+      "text": "Sei mai andato a letto con un collega?",
+      "type": "truth"
+    },
+    {
+      "text": "Quale canzone metteresti per creare l'atmosfera in camera?",
+      "type": "truth"
+    },
+    {
+      "text": "Con quale vip andresti a letto senza fare domande?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il periodo più lungo senza sesso e come l'hai vissuto?",
+      "type": "truth"
+    },
+    {
+      "text": "Ti hanno mai beccato sul fatto? Chi?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più imbarazzante successa in pieno amore?",
+      "type": "truth"
+    },
+    {
+      "text": "Come dormi, sinceramente?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è stato il bacio più bello della tua vita, e dov'era?",
+      "type": "truth"
+    },
+    {
+      "text": "Cosa c'è nella tua cronologia che non vorresti spiegare?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai avuto una storia solo di letto con un amico? Com'è finita?",
+      "type": "truth"
+    },
+    {
+      "text": "Sei mai tornato a letto con un ex? Di chi è stata l'idea?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la confessione da ubriaco di cui ti penti di più?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai usato un sex toy? Da solo o in due?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi qui bacia meglio secondo te?",
+      "type": "truth"
+    },
+    {
+      "text": "Hai mai provato una droga a una festa? Quale, e com'è andata?",
+      "type": "truth"
+    },
+    {
+      "text": "Chi è l'ultima persona che hai sognato in chiave hot?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è la cosa più sporca che hai fatto al lavoro o all'università?",
+      "type": "truth"
+    },
+    {
+      "text": "Ti è mai piaciuto qualcuno che stava con un altro? Hai fatto qualcosa?",
+      "type": "truth"
+    },
+    {
+      "text": "Qual è il posto più audace dove hai baciato qualcuno?",
+      "type": "truth"
+    },
+    {
+      "text": "Cosa proveresti a letto se nessuno ti giudicasse?",
+      "type": "truth"
+    },
+    {
+      "text": "Fai un massaggio alle spalle di venti secondi alla persona alla tua sinistra.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra la frase più sporca che ti viene in mente all'orecchio della persona alla tua destra.",
+      "type": "dare"
+    },
+    {
+      "text": "Mostra al gruppo le ultime cinque emoji che hai usato nelle chat.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai la camminata più sexy della tua vita attraverso la stanza, poi metti in posa.",
+      "type": "dare"
+    },
+    {
+      "text": "Guarda negli occhi la persona scelta dal gruppo per trenta secondi senza ridere.",
+      "type": "dare"
+    },
+    {
+      "text": "Leggi il retro di una confezione di cibo con la voce più sexy che hai.",
+      "type": "dare"
+    },
+    {
+      "text": "Balla per venti secondi in modo sensuale su una canzone scelta dal gruppo.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai il baciamano a tutti, lentamente, come una star del cinema.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai finta di avere un orgasmo per cinque secondi. Impegnati davvero.",
+      "type": "dare"
+    },
+    {
+      "text": "Togliti un capo di abbigliamento. I calzini non contano.",
+      "type": "dare"
+    },
+    {
+      "text": "Descrivi la tua notte ideale a letto in trenta secondi, senza arrossire.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai scrivere al gruppo un messaggio sexy per te. Leggilo ad alta voce, poi decidi se mandarlo.",
+      "type": "dare"
+    },
+    {
+      "text": "Tieni un cubetto di ghiaccio sul collo di una persona a scelta finché non si scioglie.",
+      "type": "dare"
+    },
+    {
+      "text": "Siediti sulle gambe della persona scelta dal gruppo per due turni.",
+      "type": "dare"
+    },
+    {
+      "text": "Mostra la tua bio di un'app di incontri, oppure inventa quella che useresti.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai gli occhi più intensi che hai alla persona alla tua sinistra per dieci secondi.",
+      "type": "dare"
+    },
+    {
+      "text": "Di' qualcosa di sensuale in una lingua che non parli.",
+      "type": "dare"
+    },
+    {
+      "text": "Canta il ritornello di una canzone d'amore a chi trovi più attraente qui.",
+      "type": "dare"
+    },
+    {
+      "text": "Bevi un sorso mentre una persona a tua scelta ti fa un complimento che ti fa arrossire.",
+      "type": "dare"
+    },
+    {
+      "text": "Fatti disegnare un cuore sul braccio dalla persona alla tua destra e spiega a tutti perché.",
+      "type": "dare"
+    },
+    {
+      "text": "Gemi il nome di una persona famosa e fai indovinare al gruppo chi è.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un massaggio sensuale sul collo, quindici secondi, a una persona a tua scelta.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai un minuto di pitch: perché saresti la migliore avventura di tutta la stanza.",
+      "type": "dare"
+    },
+    {
+      "text": "Metti in scena il tuo miglior primo bacio, usando la mano come l'altra persona.",
+      "type": "dare"
+    },
+    {
+      "text": "Sussurra una fantasia segreta alla persona alla tua sinistra. Oppure bevi due volte.",
+      "type": "dare"
+    },
+    {
+      "text": "Fai uno shot, o un sorso bello grosso, e racconta la tua serata più folle.",
+      "type": "dare"
+    },
+    {
+      "text": "Usa la voce da centralinista sexy e recita le previsioni del tempo.",
+      "type": "dare"
+    },
+    {
+      "text": "Scambia un capo di abbigliamento con la persona di fronte a te.",
+      "type": "dare"
+    },
+    {
+      "text": "Gira su te stesso, indica qualcuno e di' cosa faresti a un appuntamento con lui o lei.",
+      "type": "dare"
+    }
   ]
 }
