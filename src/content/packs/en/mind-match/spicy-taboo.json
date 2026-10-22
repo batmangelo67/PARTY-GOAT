@@ -2,45 +2,117 @@
   "id": "en-mind-match-spicy-taboo",
   "title": "Spicy & Taboo",
   "language": "en",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["mind-match"],
+  "games": [
+    "mind-match"
+  ],
   "group": "adults",
   "items": [
-    { "text": "A reason to blush" },
-    { "text": "A cheesy pickup line theme" },
-    { "text": "A first-date red flag" },
-    { "text": "Something you'd never do on a first date" },
-    { "text": "A romantic movie setting" },
-    { "text": "A place for a secret kiss" },
-    { "text": "Something people do when they're jealous" },
-    { "text": "A guilty pleasure you'd only admit after two drinks" },
-    { "text": "A confession people make after two drinks" },
-    { "text": "A reason to ghost someone" },
-    { "text": "An excuse to leave a date early" },
-    { "text": "A trait people find attractive in a stranger" },
-    { "text": "A dating profile cliché" },
-    { "text": "A lie people tell on a date" },
-    { "text": "A nickname for a crush" },
-    { "text": "Something you'd whisper to a crush" },
-    { "text": "Something you'd be embarrassed to be caught doing" },
-    { "text": "An unpopular opinion about love" },
-    { "text": "A cocktail for a date night" },
-    { "text": "A secret crush you'd never admit" },
-    { "text": "A breakup cliché" },
-    { "text": "A gift you'd never give a crush" },
-    { "text": "A dramatic exit line" },
-    { "text": "A scandalous rumour" },
-    { "text": "Something you'd whisper in a crowded club" },
-    { "text": "Something that makes a date awkward" },
-    { "text": "A place to avoid on a first date" },
-    { "text": "A forfeit at a party" },
-    { "text": "A flirty emoji" },
-    { "text": "A secret you'd keep from your mum" },
-    { "text": "A way to flirt badly" },
-    { "text": "A dish that says \"romantic\"" },
-    { "text": "A thing people Google at 2 a.m." },
-    { "text": "Something you're secretly jealous of" },
-    { "text": "A reason a date went wrong" }
+    {
+      "text": "Something sexy in the bedroom"
+    },
+    {
+      "text": "A drug people try at festivals"
+    },
+    {
+      "text": "A word for the morning after"
+    },
+    {
+      "text": "Something you hide in your nightstand"
+    },
+    {
+      "text": "A word in a sexy movie title"
+    },
+    {
+      "text": "A place for a quickie"
+    },
+    {
+      "text": "A nickname used in bed"
+    },
+    {
+      "text": "A cocktail that gets you in trouble"
+    },
+    {
+      "text": "The first body part you notice"
+    },
+    {
+      "text": "Something you find in a sex shop"
+    },
+    {
+      "text": "A sexy song"
+    },
+    {
+      "text": "A pet name for a lover"
+    },
+    {
+      "text": "Something that kills the mood"
+    },
+    {
+      "text": "Something you do when high"
+    },
+    {
+      "text": "Something you say when drunk"
+    },
+    {
+      "text": "A kink"
+    },
+    {
+      "text": "An item of lingerie"
+    },
+    {
+      "text": "A way to get a hickey"
+    },
+    {
+      "text": "A reason to blush"
+    },
+    {
+      "text": "A hookup app"
+    },
+    {
+      "text": "A fruit that sounds dirty"
+    },
+    {
+      "text": "A sexy job for a costume"
+    },
+    {
+      "text": "A colour for lingerie"
+    },
+    {
+      "text": "A word for the walk of shame"
+    },
+    {
+      "text": "A way to flirt without words"
+    },
+    {
+      "text": "A snack you eat when high"
+    },
+    {
+      "text": "A bad idea after three shots"
+    },
+    {
+      "text": "A drink to start the night"
+    },
+    {
+      "text": "A place for a first kiss"
+    },
+    {
+      "text": "A word for a one-night stand"
+    },
+    {
+      "text": "A body part to kiss"
+    },
+    {
+      "text": "A prop for a roleplay"
+    },
+    {
+      "text": "A word that sounds naughty"
+    },
+    {
+      "text": "A smell that turns you on"
+    },
+    {
+      "text": "A sound people make in bed"
+    }
   ]
 }

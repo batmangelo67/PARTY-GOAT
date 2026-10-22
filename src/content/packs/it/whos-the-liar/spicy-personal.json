@@ -2,40 +2,144 @@
   "id": "it-whos-the-liar-spicy-personal",
   "title": "Piccanti e personali",
   "language": "it",
-  "spice": 2,
+  "spice": 3,
   "kind": "question-pairs",
-  "games": ["whos-the-liar"],
+  "games": [
+    "whos-the-liar"
+  ],
   "group": "adults",
   "items": [
-    { "question": "Quante persone hai baciato prima dei diciotto anni?", "liarQuestion": "Quante persone hai conosciuto online?" },
-    { "question": "Qual è il posto più strano dove ti sei mai baciato?", "liarQuestion": "Qual è il posto più strano dove hai flirtato?" },
-    { "question": "Qual è il primo appuntamento che ti sembra ideale?", "liarQuestion": "Qual è la prima frase che useresti per attaccare bottone?" },
-    { "question": "Quanti secondi ci metti a capire se qualcuno ti piace?", "liarQuestion": "Quanti secondi ci metti a capire se qualcuno ti mente?" },
-    { "question": "Qual è il messaggio più romantico che hai mai mandato?", "liarQuestion": "Qual è il messaggio più sbagliato che hai mai mandato?" },
-    { "question": "Chi nel tuo gruppo di amici ha la cotta più evidente?", "liarQuestion": "Chi nel tuo gruppo di amici ha il segreto più grosso?" },
-    { "question": "Quanti anni di differenza ti sembrano accettabili in una coppia?", "liarQuestion": "Quanti anni di differenza ti sembrano troppi in un'amicizia?" },
-    { "question": "Qual è la prima cosa che noti in una persona che ti piace?", "liarQuestion": "Qual è la prima cosa che noti in una persona che non ti piace?" },
-    { "question": "Qual è la tua abitudine più imbarazzante quando sei da solo?", "liarQuestion": "Qual è la tua abitudine più imbarazzante quando sei con gli amici?" },
-    { "question": "Quante volte hai finto di stare bene per non uscire con qualcuno?", "liarQuestion": "Quante volte hai finto di stare bene per non andare al lavoro?" },
-    { "question": "Per quanti anni hai avuto una cotta segreta?", "liarQuestion": "Per quanti anni hai conservato un vecchio messaggio?" },
-    { "question": "Quale celebrità ti piacerebbe incontrare per un caffè?", "liarQuestion": "Quale personaggio dei cartoni ti piacerebbe incontrare per un caffè?" },
-    { "question": "Qual è il tuo difetto più grande in amore?", "liarQuestion": "Qual è il tuo pregio più grande in amore?" },
-    { "question": "Quanti messaggi al giorno mandi quando sei innamorato?", "liarQuestion": "Quante foto al giorno pubblichi quando sei felice?" },
-    { "question": "Qual è la bugia più grande che hai detto per un appuntamento?", "liarQuestion": "Qual è la bugia più piccola che hai detto a tua madre?" },
-    { "question": "Quante volte ti sei preso una cotta per un amico?", "liarQuestion": "Quante volte ti sei preso una cotta per un personaggio di una serie TV?" },
-    { "question": "Qual è il tuo gesto d'amore preferito?", "liarQuestion": "Qual è il tuo gesto d'amicizia preferito?" },
-    { "question": "Quanto ti piace stare al centro dell'attenzione, da 1 a 10?", "liarQuestion": "Quanto ti piace fare il pagliaccio, da 1 a 10?" },
-    { "question": "Qual è la cosa più strana che hai mai regalato?", "liarQuestion": "Qual è la cosa più strana che hai mai ricevuto in regalo?" },
-    { "question": "Qual è l'aggettivo che useresti per descrivere il tuo stile in amore?", "liarQuestion": "Qual è l'aggettivo che useresti per descrivere il tuo stile in cucina?" },
-    { "question": "Quante volte hai rimandato una conversazione importante?", "liarQuestion": "Quante volte hai ignorato un messaggio di una persona che ti piace?" },
-    { "question": "Qual è il tuo social preferito per flirtare?", "liarQuestion": "Qual è il tuo social preferito per litigare?" },
-    { "question": "Qual è il tipo di persona che devi assolutamente evitare?", "liarQuestion": "Qual è il tipo di persona che sposeresti subito?" },
-    { "question": "Quanti minuti di ritardo perdoni a un appuntamento?", "liarQuestion": "Quanti minuti di silenzio tolleri in una chat?" },
-    { "question": "Qual è il primo complimento che ti ha fatto arrossire?", "liarQuestion": "Qual è il primo insulto che ti ha fatto arrabbiare?" },
-    { "question": "Qual è il piatto più romantico da cucinare per due?", "liarQuestion": "Qual è il piatto più economico da cucinare per due?" },
-    { "question": "Quante cene a lume di candela hai organizzato?", "liarQuestion": "Quante cene con gli amici hai organizzato quest'anno?" },
-    { "question": "Quale film romantico ti fa piangere ogni volta?", "liarQuestion": "Quale film horror ti fa saltare sulla sedia ogni volta?" },
-    { "question": "Qual è la tua scusa preferita per non rispondere a un messaggio?", "liarQuestion": "Qual è la tua scusa preferita per cambiare argomento?" },
-    { "question": "Quante volte hai controllato il profilo di una persona che ti piace oggi?", "liarQuestion": "Quante volte hai controllato il meteo oggi?" }
+    {
+      "question": "Con quante persone sei andato a letto?",
+      "liarQuestion": "Quante persone hai baciato?"
+    },
+    {
+      "question": "Qual è il posto più strano dove l'hai fatto?",
+      "liarQuestion": "Qual è il posto più strano dove ti sei addormentato?"
+    },
+    {
+      "question": "Qual è la prima droga che hai provato?",
+      "liarQuestion": "Qual è il primo alcolico che hai provato?"
+    },
+    {
+      "question": "Quanti anni avevi la prima volta?",
+      "liarQuestion": "Quanti anni avevi al primo bacio?"
+    },
+    {
+      "question": "Qual è la cosa che ti eccita di più?",
+      "liarQuestion": "Qual è la cosa che ti fa passare la voglia?"
+    },
+    {
+      "question": "Quanti nudi hai mandato in vita tua?",
+      "liarQuestion": "Quanti selfie hai fatto questa settimana?"
+    },
+    {
+      "question": "Quante avventure di una notte hai avuto?",
+      "liarQuestion": "Quanti primi appuntamenti hai avuto?"
+    },
+    {
+      "question": "Quanti mesi è durato il tuo periodo più lungo senza sesso?",
+      "liarQuestion": "Quanti mesi è durato il tuo periodo più lungo senza tagliarti i capelli?"
+    },
+    {
+      "question": "Quanti shottini ti servono per iniziare a flirtare?",
+      "liarQuestion": "Quanti shottini ti servono per iniziare a cantare?"
+    },
+    {
+      "question": "Qual è la tua posizione preferita?",
+      "liarQuestion": "Qual è la tua posizione preferita per dormire?"
+    },
+    {
+      "question": "Quale canzone metti per creare l'atmosfera?",
+      "liarQuestion": "Quale canzone metti per prepararti a uscire?"
+    },
+    {
+      "question": "Quante persone nella tua rubrica ti hanno visto nudo?",
+      "liarQuestion": "Quante persone nella tua rubrica sanno dove abiti?"
+    },
+    {
+      "question": "Qual è la cosa più assurda che hai fatto da fatto?",
+      "liarQuestion": "Qual è la cosa più assurda che hai fatto da ubriaco?"
+    },
+    {
+      "question": "Quante ore dura la tua notte più lunga con qualcuno?",
+      "liarQuestion": "Quante ore dura la tua telefonata più lunga?"
+    },
+    {
+      "question": "Dov'è stata la tua avventura più memorabile?",
+      "liarQuestion": "Dov'è stata la tua vacanza più memorabile?"
+    },
+    {
+      "question": "Qual è la parola più sporca che dici a letto?",
+      "liarQuestion": "Qual è la parola più sporca che dici quando sbatti il mignolo?"
+    },
+    {
+      "question": "Con quante persone sei andato a letto in una settimana?",
+      "liarQuestion": "Con quante persone hai cenato in una settimana?"
+    },
+    {
+      "question": "Qual è il tuo messaggio da ubriaco all'ex?",
+      "liarQuestion": "Qual è il tuo messaggio da ubriaco nel gruppo?"
+    },
+    {
+      "question": "Qual è la scusa peggiore per andartene dopo una notte?",
+      "liarQuestion": "Qual è la scusa peggiore per andartene da una festa?"
+    },
+    {
+      "question": "Qual è la serata più costosa in assoluto, con quello che è successo?",
+      "liarQuestion": "Qual è il pasto più costoso in assoluto?"
+    },
+    {
+      "question": "Qual è la cosa più strana nel tuo comodino?",
+      "liarQuestion": "Qual è la cosa più strana nel tuo frigo?"
+    },
+    {
+      "question": "Qual è la cosa più imbarazzante che hai detto a letto?",
+      "liarQuestion": "Qual è la cosa più imbarazzante che hai detto a un appuntamento?"
+    },
+    {
+      "question": "Quante droghe hai provato in tutto?",
+      "liarQuestion": "Quanti paesi hai visitato in tutto?"
+    },
+    {
+      "question": "Qual è stata la peggior sbornia della tua vita?",
+      "liarQuestion": "Qual è stato il peggior raffreddore della tua vita?"
+    },
+    {
+      "question": "A che ora è finita la tua serata più folle?",
+      "liarQuestion": "A che ora è finito il tuo turno di notte più lungo?"
+    },
+    {
+      "question": "Quanti anni aveva il tuo partner più grande?",
+      "liarQuestion": "Quanti anni aveva il tuo amico più grande quando l'hai conosciuto?"
+    },
+    {
+      "question": "Qual è il tuo più grande rimpianto di una notte?",
+      "liarQuestion": "Qual è il tuo più grande rimpianto di un acquisto?"
+    },
+    {
+      "question": "Quante volte ti hanno beccato sul fatto?",
+      "liarQuestion": "Quante volte ti hanno beccato a mentire?"
+    },
+    {
+      "question": "Cosa hai sognato di più sconcio?",
+      "liarQuestion": "Cosa hai sognato di più strano?"
+    },
+    {
+      "question": "Quante persone hai lasciato in sospeso dopo averci fatto sesso?",
+      "liarQuestion": "Quante persone hai lasciato in sospeso in tutto?"
+    },
+    {
+      "question": "Qual è la cosa più sporca che hai mai cercato su un sito per adulti?",
+      "liarQuestion": "Qual è la cosa più strana che hai mai cercato su YouTube?"
+    },
+    {
+      "question": "Qual è stato il rumore o l'imprevisto più imbarazzante successo durante il sesso?",
+      "liarQuestion": "Qual è stato il rumore o l'imprevisto più imbarazzante successo a una cena?"
+    },
+    {
+      "question": "Qual è un fetish che trovi segretamente attraente?",
+      "liarQuestion": "Qual è un abbinamento di cibo che ami in segreto?"
+    }
   ]
 }

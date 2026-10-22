@@ -2,45 +2,117 @@
   "id": "it-mind-match-spicy-taboo",
   "title": "Piccante e proibito",
   "language": "it",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["mind-match"],
+  "games": [
+    "mind-match"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Una scusa per dire di no a un appuntamento" },
-    { "text": "Una frase da rimorchio" },
-    { "text": "Un doppio senso innocuo" },
-    { "text": "Una cosa da non fare al primo appuntamento" },
-    { "text": "Un gesto che fa battere il cuore" },
-    { "text": "Una cosa da non dire ai suoceri" },
-    { "text": "Un segreto che non confesseresti" },
-    { "text": "Un ex che vorresti dimenticare" },
-    { "text": "Una bugia per saltare una cena" },
-    { "text": "Un regalo romantico" },
-    { "text": "Un luogo romantico" },
-    { "text": "Un motivo per litigare in coppia" },
-    { "text": "Qualcosa che ti fa arrossire" },
-    { "text": "Un vizio segreto" },
-    { "text": "Un'occasione per sentirsi in colpa" },
-    { "text": "Una cosa che fai di nascosto" },
-    { "text": "Un gossip d'ufficio" },
-    { "text": "Una cosa che non sopporti in un partner" },
-    { "text": "Una piccola gelosia" },
-    { "text": "Qualcosa che dici allo specchio" },
-    { "text": "Un nomignolo affettuoso" },
-    { "text": "Un sussurro da non fare in biblioteca" },
-    { "text": "Un party che finisce in disastro" },
-    { "text": "Un alibi" },
-    { "text": "Un'espressione da non usare con il capo" },
-    { "text": "Qualcosa che si nasconde sotto il letto" },
-    { "text": "Una mossa da ballo provocante" },
-    { "text": "Un bacio famoso del cinema" },
-    { "text": "Qualcosa che si regala a San Valentino" },
-    { "text": "Un vizio che ti fa perdere la testa" },
-    { "text": "Una scusa per sparire dalla festa" },
-    { "text": "Una cosa che fai quando sei geloso" },
-    { "text": "Un tatuaggio che rimpiangeresti" },
-    { "text": "Un messaggio che non dovresti mandare alle 3 di notte" },
-    { "text": "Un'app per incontrarsi" }
+    {
+      "text": "Una cosa sexy in camera"
+    },
+    {
+      "text": "Una droga che si prova ai festival"
+    },
+    {
+      "text": "Una parola per la mattina dopo"
+    },
+    {
+      "text": "Una cosa che nascondi nel comodino"
+    },
+    {
+      "text": "Una parola nel titolo di un film sexy"
+    },
+    {
+      "text": "Un posto per una sveltina"
+    },
+    {
+      "text": "Un soprannome che si usa a letto"
+    },
+    {
+      "text": "Un cocktail che ti mette nei guai"
+    },
+    {
+      "text": "La prima parte del corpo che noti"
+    },
+    {
+      "text": "Una cosa che trovi in un sexy shop"
+    },
+    {
+      "text": "Una canzone sexy"
+    },
+    {
+      "text": "Un nomignolo per un amante"
+    },
+    {
+      "text": "Una cosa che ammazza l'atmosfera"
+    },
+    {
+      "text": "Una cosa che fai da fatto"
+    },
+    {
+      "text": "Una cosa che dici da ubriaco"
+    },
+    {
+      "text": "Una perversione"
+    },
+    {
+      "text": "Un capo di lingerie"
+    },
+    {
+      "text": "Un modo per farsi un succhiotto"
+    },
+    {
+      "text": "Un motivo per arrossire"
+    },
+    {
+      "text": "Un'app per rimorchiare"
+    },
+    {
+      "text": "Un frutto che suona sporco"
+    },
+    {
+      "text": "Un mestiere sexy per un costume"
+    },
+    {
+      "text": "Un colore per la lingerie"
+    },
+    {
+      "text": "Una parola per la camminata della vergogna"
+    },
+    {
+      "text": "Un modo di flirtare senza parole"
+    },
+    {
+      "text": "Uno snack che mangi quando sei fatto"
+    },
+    {
+      "text": "Una pessima idea dopo tre shot"
+    },
+    {
+      "text": "Un drink per iniziare la serata"
+    },
+    {
+      "text": "Un posto per un primo bacio"
+    },
+    {
+      "text": "Una parola per una notte e via"
+    },
+    {
+      "text": "Una parte del corpo da baciare"
+    },
+    {
+      "text": "Un oggetto per un gioco di ruolo"
+    },
+    {
+      "text": "Una parola che suona birichina"
+    },
+    {
+      "text": "Un profumo che ti eccita"
+    },
+    {
+      "text": "Un suono che si fa a letto"
+    }
   ]
 }

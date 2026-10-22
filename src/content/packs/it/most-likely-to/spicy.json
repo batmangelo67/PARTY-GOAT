@@ -2,55 +2,171 @@
   "id": "it-most-likely-to-spicy",
   "title": "Piccanti",
   "language": "it",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["most-likely-to"],
+  "games": [
+    "most-likely-to"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Chi è più probabile che abbia già flirtato durante una cena di famiglia" },
-    { "text": "Chi è più probabile che mandi il messaggio più audace dopo un bicchiere di troppo" },
-    { "text": "Chi è più probabile che faccia il primo passo con il più timido del gruppo" },
-    { "text": "Chi è più probabile che abbia la collezione più imbarazzante di vecchie chat" },
-    { "text": "Chi è più probabile che si lasci tentare da un ex durante l'estate" },
-    { "text": "Chi è più probabile che invii per sbaglio un vocale ammiccante al gruppo" },
-    { "text": "Chi è più probabile che abbia un profilo di incontri più furbo che onesto" },
-    { "text": "Chi è più probabile che provi a sedurre il barista per un caffè gratis" },
-    { "text": "Chi è più probabile che sia il più romantico sotto la pioggia" },
-    { "text": "Chi è più probabile che faccia il complimento più sfacciato al primo appuntamento" },
-    { "text": "Chi è più probabile che abbia già baciato qualcuno a una festa a cui non doveva andare" },
-    { "text": "Chi è più probabile che flirti con il cameriere che parla piano" },
-    { "text": "Chi è più probabile che resti in pigiama tutto il weekend con qualcuno" },
-    { "text": "Chi è più probabile che invii per errore un messaggio destinato al crush" },
-    { "text": "Chi è più probabile che faccia una dichiarazione d'amore in mezzo alla piazza" },
-    { "text": "Chi è più probabile che abbia avuto una cotta per il vicino di casa per tre anni" },
-    { "text": "Chi è più probabile che si presenti al primo appuntamento con un mazzo di fiori enorme" },
-    { "text": "Chi è più probabile che confessi un crush al gruppo dopo tre bicchieri di vino" },
-    { "text": "Chi è più probabile che abbia la battuta più piccante della cena" },
-    { "text": "Chi è più probabile che finisca a fare la corte alla sorella di un amico" },
-    { "text": "Chi è più probabile che chieda il numero alla persona più bella della serata" },
-    { "text": "Chi è più probabile che abbia una lista di storie d'amore finite con un ci sentiamo" },
-    { "text": "Chi è più probabile che metta like a un vecchio profilo alle due di notte" },
-    { "text": "Chi è più probabile che riesca a sedurre con una sola frase" },
-    { "text": "Chi è più probabile che dica ti chiamo domani e non lo faccia mai" },
-    { "text": "Chi è più probabile che si metta in mostra in piscina per attirare attenzione" },
-    { "text": "Chi è più probabile che abbia un tatuaggio fatto per un amore finito" },
-    { "text": "Chi è più probabile che faccia il corteggiamento più teatrale del gruppo" },
-    { "text": "Chi è più probabile che torni con l'ex per la quinta volta" },
-    { "text": "Chi è più probabile che scriva lettere d'amore a un'attrice famosa" },
-    { "text": "Chi è più probabile che abbia la teoria più folle sulle relazioni" },
-    { "text": "Chi è più probabile che dica ti amo dopo appena un mese" },
-    { "text": "Chi è più probabile che abbia lo sguardo più ammaliante quando entra in una stanza" },
-    { "text": "Chi è più probabile che finga di sapere ballare il tango per fare colpo" },
-    { "text": "Chi è più probabile che si ritrovi a ballare un lento con l'ex del migliore amico" },
-    { "text": "Chi è più probabile che riceva più messaggi del tipo ti va di vederci" },
-    { "text": "Chi è più probabile che faccia una scenata di gelosia davanti a tutti" },
-    { "text": "Chi è più probabile che porti il partner a conoscere i genitori dopo un mese" },
-    { "text": "Chi è più probabile che chiami la persona sbagliata dopo mezzanotte" },
-    { "text": "Chi è più probabile che abbia la camicia più aperta della serata" },
-    { "text": "Chi è più probabile che racconti storie d'amore inventate con naturalezza" },
-    { "text": "Chi è più probabile che faccia finta di non vedere il crush in corridoio" },
-    { "text": "Chi è più probabile che proponga a tutti di cambiare partner per un gioco" },
-    { "text": "Chi è più probabile che mandi una foto in costume all'ex per sbaglio" },
-    { "text": "Chi è più probabile che si innamori di uno sconosciuto in treno" }
+    {
+      "text": "Chi è più probabile che venga beccato a fare sesso in un luogo pubblico"
+    },
+    {
+      "text": "Chi è più probabile che sia andato a letto con più persone"
+    },
+    {
+      "text": "Chi è più probabile che abbia un OnlyFans segreto"
+    },
+    {
+      "text": "Chi è più probabile che vada a letto con qualcuno di questo gruppo"
+    },
+    {
+      "text": "Chi è più probabile che mandi un nudo alla persona sbagliata"
+    },
+    {
+      "text": "Chi è più probabile che finga un orgasmo"
+    },
+    {
+      "text": "Chi è più probabile che abbia più sex toy di tutti"
+    },
+    {
+      "text": "Chi è più probabile che finisca in un threesome"
+    },
+    {
+      "text": "Chi è più probabile che vada a letto con il capo"
+    },
+    {
+      "text": "Chi è più probabile che vada a letto con un amico di un ex"
+    },
+    {
+      "text": "Chi è più probabile che abbia un'avventura di una notte in vacanza"
+    },
+    {
+      "text": "Chi è più probabile che mangi un edible e si perda completamente"
+    },
+    {
+      "text": "Chi è più probabile che sia quello che porta sempre l'erba"
+    },
+    {
+      "text": "Chi è più probabile che provi ogni droga a un festival"
+    },
+    {
+      "text": "Chi è più probabile che si svegli senza ricordare la serata"
+    },
+    {
+      "text": "Chi è più probabile che venga fermato dalla polizia in una serata fuori"
+    },
+    {
+      "text": "Chi è più probabile che sia il primo a togliersi la maglietta a una festa"
+    },
+    {
+      "text": "Chi è più probabile che abbia una fantasia segreta che nessuno conosce"
+    },
+    {
+      "text": "Chi è più probabile che baci in modo incredibile"
+    },
+    {
+      "text": "Chi è più probabile che vada a letto con un barista"
+    },
+    {
+      "text": "Chi è più probabile che vada in una spiaggia nudista"
+    },
+    {
+      "text": "Chi è più probabile che si faccia un tatuaggio in un punto molto intimo"
+    },
+    {
+      "text": "Chi è più probabile che venga beccato mentre fa sesso"
+    },
+    {
+      "text": "Chi è più probabile che esca con due persone contemporaneamente"
+    },
+    {
+      "text": "Chi è più probabile che mandi un 'sei sveglio?' alle tre di notte"
+    },
+    {
+      "text": "Chi è più probabile che diventi un sugar baby"
+    },
+    {
+      "text": "Chi è più probabile che vada in un locale per scambisti"
+    },
+    {
+      "text": "Chi è più probabile che tradisca il partner"
+    },
+    {
+      "text": "Chi è più probabile che resti amico di letto per anni"
+    },
+    {
+      "text": "Chi è più probabile che arrivi al lavoro con un succhiotto"
+    },
+    {
+      "text": "Chi è più probabile che provi i funghi allucinogeni"
+    },
+    {
+      "text": "Chi è più probabile che nasconda la roba in un posto pessimo"
+    },
+    {
+      "text": "Chi è più probabile che faccia sesso con uno sconosciuto nel bagno di una discoteca"
+    },
+    {
+      "text": "Chi è più probabile che sia il più scatenato a letto"
+    },
+    {
+      "text": "Chi è più probabile che sia il più tranquillo a letto"
+    },
+    {
+      "text": "Chi è più probabile che faccia uno spogliarello dopo una bottiglia di vino"
+    },
+    {
+      "text": "Chi è più probabile che passi un intero weekend a letto"
+    },
+    {
+      "text": "Chi è più probabile che venga beccato mentre guarda un porno"
+    },
+    {
+      "text": "Chi è più probabile che se ne vada prima dell'alba dopo una notte insieme"
+    },
+    {
+      "text": "Chi è più probabile che usi il fascino per evitare una multa"
+    },
+    {
+      "text": "Chi è più probabile che diventi un disastro dopo tre shottini"
+    },
+    {
+      "text": "Chi è più probabile che trasformi una notte in una relazione"
+    },
+    {
+      "text": "Chi è più probabile che abbia una cotta segreta per qualcuno qui"
+    },
+    {
+      "text": "Chi è più probabile che abbia le manette in casa"
+    },
+    {
+      "text": "Chi è più probabile che sia il dominante a letto"
+    },
+    {
+      "text": "Chi è più probabile che sbagli nome a letto"
+    },
+    {
+      "text": "Chi è più probabile che faccia un servizio fotografico nudo"
+    },
+    {
+      "text": "Chi è più probabile che vada a letto con l'ex del suo migliore amico"
+    },
+    {
+      "text": "Chi è più probabile che abbia un abbonamento attivo su OnlyFans"
+    },
+    {
+      "text": "Chi è più probabile che possieda cinque o più sex toy diversi"
+    },
+    {
+      "text": "Chi è più probabile che faccia un trio o un rapporto di gruppo in vacanza"
+    },
+    {
+      "text": "Chi è più probabile che trasmetta per sbaglio un video per adulti via Bluetooth o AirPlay"
+    },
+    {
+      "text": "Chi è più probabile che abbia provato giochi di ruolo con manette, bende o costumi"
+    }
   ]
 }

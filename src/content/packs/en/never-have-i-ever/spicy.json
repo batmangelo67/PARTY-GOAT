@@ -2,55 +2,147 @@
   "id": "en-never-have-i-ever-spicy",
   "title": "Spicy",
   "language": "en",
-  "spice": 2,
+  "spice": 3,
   "kind": "prompts",
-  "games": ["never-have-i-ever"],
+  "games": [
+    "never-have-i-ever"
+  ],
   "group": "adults",
   "items": [
-    { "text": "Never have I ever flirted with a stranger over text" },
-    { "text": "Never have I ever had a crush on a teacher" },
-    { "text": "Never have I ever been on a date that ended before the first course" },
-    { "text": "Never have I ever kissed someone on a first date" },
-    { "text": "Never have I ever been caught checking someone out in public" },
-    { "text": "Never have I ever had a one-night stand" },
-    { "text": "Never have I ever swiped right on someone I know" },
-    { "text": "Never have I ever had a crush on a friend's sibling" },
-    { "text": "Never have I ever sent a text I wanted back straight away" },
-    { "text": "Never have I ever used a dating app for more than a year" },
-    { "text": "Never have I ever flirted with a waiter to get a better table" },
-    { "text": "Never have I ever been ghosted after a great first date" },
-    { "text": "Never have I ever lied about my age on a dating profile" },
-    { "text": "Never have I ever had a fling with someone from work" },
-    { "text": "Never have I ever kissed someone in a car" },
-    { "text": "Never have I ever stayed on a call with a crush until 3am" },
-    { "text": "Never have I ever sent a heart emoji to a crush by accident" },
-    { "text": "Never have I ever kissed someone at a party and regretted it in the morning" },
-    { "text": "Never have I ever had two dates on the same night" },
-    { "text": "Never have I ever pretended to be single" },
-    { "text": "Never have I ever had a secret celebrity crush I still think about" },
-    { "text": "Never have I ever been told I am a great kisser" },
-    { "text": "Never have I ever worn something on a date I deeply regretted" },
-    { "text": "Never have I ever been on a date with someone whose name I forgot" },
-    { "text": "Never have I ever ghosted someone after a second date" },
-    { "text": "Never have I ever left a party with someone I had just met" },
-    { "text": "Never have I ever had a crush on someone in my own friend group" },
-    { "text": "Never have I ever kissed a stranger on a dance floor" },
-    { "text": "Never have I ever had a situationship that lasted a year" },
-    { "text": "Never have I ever been jealous of an ex's new partner" },
-    { "text": "Never have I ever texted an ex after a few drinks" },
-    { "text": "Never have I ever gone on a date with a friend's ex" },
-    { "text": "Never have I ever received a flirty voice note from someone I barely know" },
-    { "text": "Never have I ever kissed someone under the mistletoe just for a laugh" },
-    { "text": "Never have I ever spent a whole date talking about my ex" },
-    { "text": "Never have I ever been on a dating show" },
-    { "text": "Never have I ever dressed up for a date and then cancelled it" },
-    { "text": "Never have I ever been caught making out in public" },
-    { "text": "Never have I ever had a crush on a fictional character" },
-    { "text": "Never have I ever lied about being busy to avoid a date" },
-    { "text": "Never have I ever been on a double date that went very wrong" },
-    { "text": "Never have I ever forgotten the name of someone I kissed" },
-    { "text": "Never have I ever bought a gift for a crush and never given it" },
-    { "text": "Never have I ever been the one who said let's just be friends" },
-    { "text": "Never have I ever had a secret admirer" }
+    {
+      "text": "Never have I ever had sex somewhere I could easily have been caught"
+    },
+    {
+      "text": "Never have I ever sent a nude and regretted it a second later"
+    },
+    {
+      "text": "Never have I ever sent a spicy message to the wrong person"
+    },
+    {
+      "text": "Never have I ever faked an orgasm"
+    },
+    {
+      "text": "Never have I ever had a threesome"
+    },
+    {
+      "text": "Never have I ever woken up next to someone and not remembered their name"
+    },
+    {
+      "text": "Never have I ever hooked up with an ex after we broke up"
+    },
+    {
+      "text": "Never have I ever hooked up with someone from work"
+    },
+    {
+      "text": "Never have I ever hooked up with a friend's ex"
+    },
+    {
+      "text": "Never have I ever had sex in a car"
+    },
+    {
+      "text": "Never have I ever had sex on a beach"
+    },
+    {
+      "text": "Never have I ever had sex in a public bathroom"
+    },
+    {
+      "text": "Never have I ever skinny-dipped with people I barely knew"
+    },
+    {
+      "text": "Never have I ever used a sex toy"
+    },
+    {
+      "text": "Never have I ever bought something from a sex shop"
+    },
+    {
+      "text": "Never have I ever tried handcuffs, a blindfold or something similar"
+    },
+    {
+      "text": "Never have I ever watched porn with someone else"
+    },
+    {
+      "text": "Never have I ever been caught watching porn"
+    },
+    {
+      "text": "Never have I ever sexted during a family dinner"
+    },
+    {
+      "text": "Never have I ever had a friends-with-benefits situation"
+    },
+    {
+      "text": "Never have I ever done the walk of shame in last night's clothes"
+    },
+    {
+      "text": "Never have I ever hooked up with a tourist and never seen them again"
+    },
+    {
+      "text": "Never have I ever had a hickey I had to hide"
+    },
+    {
+      "text": "Never have I ever had a one-night stand I still think about"
+    },
+    {
+      "text": "Never have I ever used a fake name with someone I hooked up with"
+    },
+    {
+      "text": "Never have I ever been naked in front of someone I met that same night"
+    },
+    {
+      "text": "Never have I ever slept with someone just for revenge"
+    },
+    {
+      "text": "Never have I ever had a sex dream about someone in this room"
+    },
+    {
+      "text": "Never have I ever tried weed"
+    },
+    {
+      "text": "Never have I ever eaten an edible and regretted it"
+    },
+    {
+      "text": "Never have I ever tried magic mushrooms"
+    },
+    {
+      "text": "Never have I ever taken pills at a party"
+    },
+    {
+      "text": "Never have I ever tried cocaine"
+    },
+    {
+      "text": "Never have I ever bought drugs from someone I didn't know"
+    },
+    {
+      "text": "Never have I ever smoked weed before work or an exam"
+    },
+    {
+      "text": "Never have I ever mixed drugs and alcohol"
+    },
+    {
+      "text": "Never have I ever hidden drugs from my parents"
+    },
+    {
+      "text": "Never have I ever hooked up with someone while high"
+    },
+    {
+      "text": "Never have I ever blacked out and woken up with no memory of the night"
+    },
+    {
+      "text": "Never have I ever thrown up in a stranger's bathroom after too many shots"
+    },
+    {
+      "text": "Never have I ever ended a night at an after-party that started at sunrise"
+    },
+    {
+      "text": "Never have I ever kissed two different people in the same night"
+    },
+    {
+      "text": "Never have I ever pretended to be asleep to avoid the morning-after chat"
+    },
+    {
+      "text": "Never have I ever hooked up with someone at a festival"
+    },
+    {
+      "text": "Never have I ever been in a relationship that was mostly just sex"
+    }
   ]
 }
